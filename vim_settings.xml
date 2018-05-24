@@ -370,7 +370,7 @@
       <file name="$USER_HOME$/dev/integ/pbkr/data-miner2/debug.conf" timestamp="1512531949251">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" timestamp="1527124951707">
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" timestamp="1527125179700">
         <mark key="'" line="479" column="0" />
         <mark key="[" line="295" column="0" />
         <mark key="]" line="295" column="0" />
@@ -498,9 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="17" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/AncillaryServiceApi.java" />
-      <jump line="598" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
       <jump line="67" column="43" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
       <jump line="76" column="13" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
       <jump line="158" column="26" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
@@ -589,13 +586,16 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/ImportExternalData.java" />
       <jump line="294" column="26" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="398" column="8" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="245" column="23" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="247" column="23" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="249" column="23" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="256" column="22" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="289" column="31" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="288" column="31" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
+      <jump line="62" column="16" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
+      <jump line="89" column="43" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="479" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
     </jumps>
