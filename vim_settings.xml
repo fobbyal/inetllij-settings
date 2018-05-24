@@ -75,6 +75,13 @@
       <file name="$USER_HOME$/dev/integ/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/RestfulScheduleJobRunner.java" timestamp="1513191294611">
         <mark key="'" line="189" column="12" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4475c258-0ac4-4deb-96a8-9242e06d3812/console.sql" timestamp="1515982672821">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="14" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/pjm/mktgateway/QueryScheduleOfferUpdate.java" timestamp="1522174523794">
         <mark key="[" line="83" column="4" />
         <mark key="]" line="83" column="10" />
@@ -147,13 +154,6 @@
         <mark key="." line="45" column="27" />
         <mark key="^" line="45" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4475c258-0ac4-4deb-96a8-9242e06d3812/console.sql" timestamp="1515982672821">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="18" />
-        <mark key="." line="30" column="18" />
-        <mark key="^" line="30" column="18" />
-      </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/broker/immutables/PriceNodes.java" timestamp="1515612863997">
         <mark key="'" line="22" column="52" />
       </file>
@@ -214,13 +214,6 @@
         <mark key="^" line="289" column="31" />
         <mark key="." line="289" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb1189d3-408f-4586-8e2d-34f29f2539ea/console.sql" timestamp="1518324476177">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="38" />
-        <mark key="^" line="4" column="38" />
-        <mark key="." line="4" column="38" />
-      </file>
       <file name="$USER_HOME$/dev/integ/pbkr/db-util/src/main/java/com/integ/db/IntegAuditSupport.java" timestamp="1518324136453">
         <mark key="'" line="102" column="20" />
       </file>
@@ -253,6 +246,12 @@
         <mark key="]" line="44" column="41" />
         <mark key="^" line="44" column="41" />
         <mark key="." line="44" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/LoadDataSourceConfigDef.java" timestamp="1527124760609">
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+        <mark key="^" line="42" column="12" />
       </file>
       <file name="$USER_HOME$/dev/integ/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/immutables/ScheduleJobInfoDef.java" timestamp="1512620949207">
         <mark key="'" line="39" column="17" />
@@ -292,6 +291,13 @@
         <mark key="]" line="62" column="106" />
         <mark key="." line="62" column="106" />
         <mark key="^" line="62" column="106" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/cb1189d3-408f-4586-8e2d-34f29f2539ea/console.sql" timestamp="1518324476177">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="38" />
+        <mark key="^" line="4" column="38" />
+        <mark key="." line="4" column="38" />
       </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/pjm/mktgateway/QueryAllScheduleOfferUpdate.java" timestamp="1522174504515">
         <mark key="'" line="18" column="72" />
@@ -364,8 +370,8 @@
       <file name="$USER_HOME$/dev/integ/pbkr/data-miner2/debug.conf" timestamp="1512531949251">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" timestamp="1525878433863">
-        <mark key="'" line="289" column="31" />
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" timestamp="1527124951707">
+        <mark key="'" line="479" column="0" />
         <mark key="[" line="295" column="0" />
         <mark key="]" line="295" column="0" />
         <mark key="." line="295" column="0" />
@@ -492,9 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="47" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/AncillaryServiceApi.java" />
-      <jump line="143" column="28" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/async/AsyncTaskUtil.java" />
-      <jump line="159" column="23" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/async/AsyncTaskUtil.java" />
       <jump line="85" column="17" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/AncillaryServiceApi.java" />
       <jump line="598" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
@@ -592,10 +595,13 @@
       <jump line="249" column="23" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="256" column="22" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="289" column="31" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
+      <jump line="288" column="31" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
+      <jump line="479" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgZ2V0VG90YWxzU1FMKCkgewogICAgICAgIHJldHVybiAiU2VsZWN0ICd+UE1bTk9ORV1+QVJbWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiQ0FfUEVSQ0VOVCBhcyBcIkNBICVcIiwnfkNOW0NBX1BFUkNFTlRdfk5NW1ldJyxBQ1RVQUxfUkVWRU5VRSBhcyBcIkFjdHVhbCBSZXZlbnVlXCIsJ35DTltBQ1RVQUxfUkVWRU5VRV1+Tk1bWV0nLFRPVEFMX0NPU1QgYXMgXCJUb3RhbCBDb3N0XCIsJ35DTltUT1RBTF9DT1NUXX5OTVtZXX5WSVtOXScsXG4iICsKICAgICAgICAgICAgICAgICJBQ1RVQUxfTUFSR0lOIGFzIFwiRW5lcmd5IE1hcmdpblwiLCd+Q05bQUNUVUFMX01BUkdJTl1+Tk1bWV0nLCBudW12YWw0IGFzIFwiQWN0dWFsIE1hcmdpblwiLCd+Q05bbnVtdmFsNF1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiVEFSR0VUX1JFVkVOVUUgYXMgXCJQb3RlbnRpYWwgUmV2ZW51ZVwiLCd+Q05bVEFSR0VUX1JFVkVOVUVdfk5NW1ldJyxMT1NUX01XSCBhcyBcIkxvc3QgTVdIXCIsJ35DTltMT1NUX01XSF1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiTE9TVF9SRVZFTlVFIGFzIFwiTG9zdCBSZXZlbnVlXCIsJ35DTltMT1NUX1JFVkVOVUVdfk5NW1ldJyxVTkFWQUlMX01XX0NPU1QgYXMgXCJDb3N0IG9mIExvc3QgTVdIXCIsJ35DTltVTkFWQUlMX01XX0NPU1Rdfk5NW1ldJyxMT1NUX01BUkdJTiBhcyBcIkxvc3QgTWFyZ2luXCIsJ35DTltMT1NUX01BUkdJTl1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAibnVtdmFsMSBhcyBcIlBsYW5uZWQgTG9zdCBNYXJnaW4gXCIsJ35DTltudW12YWwxXX5OTVtZXScsICIgKwogICAgICAgICAgICAgICAgIm51bXZhbDIgYXMgXCJNYXJrZXQgTG9zdCBNYXJnaW4gXCIsJ35DTltudW12YWwyXX5OTVtZXScsXG4iICsKICAgICAgICAgICAgICAgICJMT1NUX0VIUlMgYXMgXCJMb3N0IEVxdiBIcnNcIiwnfkNOW0xPU1RfRUhSU11+Tk1bWV0nLEVVT0YgYXMgXCJFVU9GXCIsJ35DTltFVU9GXX5OTVtZXScsRVVPUiBhcyBcIkVVT1JcIiwnfkNOW0VVT1Jdfk5NW1ldJyxcbiIgKwogICAgICAgICAgICAgICAgIkVGT1IgYXMgXCJFRk9SXCIsJ35DTltFRk9SXX5OTVtZXScsRUZPUkQgYXMgXCJFRk9SZFwiLCd+Q05bRUZPUkRdfk5NW1ldJyxGT1JDRURPUiBhcyBcIkZPUlwiLCd+Q05bRk9SQ0VET1Jdfk5NW1ldJyxFUE9SIGFzIFwiRVBPUlwiLCd+Q05bRVBPUl1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiRU1PUiBhcyBcIkVNT1JcIiwnfkNOW0VNT1Jdfk5NW1ldJyxTRiBhcyBcIlNGXCIsJ35DTltTRl1+Tk1bWV0nLEFGIGFzIFwiQUZcIiwnfkNOW0FGXX5OTVtZXScsVUYgYXMgXCJVRlwiLCd+Q05bVUZdfk5NW1ldJyxFQUYgYXMgXCJFQUZcIiwnfkNOW0VBRl1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiRVVGIGFzIFwiRVVGXCIsJ35DTltFVUZdfk5NW1ldJyxVREYgYXMgXCJVREZcIiwnfkNOW1VERl1+Tk1bWV0nLFNFREYgYXMgXCJTRURGXCIsJ35DTltTRURGXX5OTVtZXScsUE9GIGFzIFwiUE9GXCIsJ35DTltQT0Zdfk5NW1ldJyxcbiIgKwogICAgICAgICAgICAgICAgIlVPRiBhcyBcIlVPRlwiLCd+Q05bVU9GXX5OTVtZXScsRk9GIGFzIFwiRk9GXCIsJ35DTltGT0Zdfk5NW1ldJyxNT0YgYXMgXCJNT0ZcIiwnfkNOW01PRl1+Tk1bWV0nLFNPRiBhcyBcIlNPRlwiLCd+Q05bU09GXX5OTVtZXScsRVBPRiBhcyBcIkVQT0ZcIiwnfkNOW0VQT0Zdfk5NW1ldJyxcbiIgKwogICAgICAgICAgICAgICAgIkVGT0YgYXMgXCJFRk9GXCIsJ35DTltFRk9GXX5OTVtZXScsRU1PRiBhcyBcIkVNT0ZcIiwnfkNOW0VNT0Zdfk5NW1ldJyxFU09GIGFzIFwiRVNPRlwiLCd+Q05bRVNPRl1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiQVJUIGFzIFwiQVJUXCIsJ35DTltBUlRdfk5NW1ldJyxDWUNMSU5HUkFURSBhcyBcIkN5Y2xpbmcgUmF0ZVwiLCd+Q05bQ1lDTElOR1JBVEVdfk5NW1ldJyxTUiBhcyBcIlNSXCIsJ35DTltTUl1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiTVNUUE8gYXMgXCJNU1RQT1wiLCd+Q05bTVNUUE9dfk5NW1ldJyxNU1RVTyBhcyBcIk1TVFVPXCIsJ35DTltNU1RVT11+Tk1bWV0nLE1TVEZPIGFzIFwiTVNURk9cIiwnfkNOW01TVEZPXX5OTVtZXScsXG4iICsKICAgICAgICAgICAgICAgICJNU1RNTyBhcyBcIk1TVE1PXCIsJ35DTltNU1RNT11+Tk1bWV0nLE1QT0QgYXMgXCJNUE9EXCIsJ35DTltNUE9EXX5OTVtZXScsTVVPRCBhcyBcIk1VT0RcIiwnfkNOW01VT0Rdfk5NW1ldJyxcbiIgKwogICAgICAgICAgICAgICAgIk1GT0QgYXMgXCJNRk9EXCIsJ35DTltNRk9EXX5OTVtZXScsTU1PRCBhcyBcIk1NT0RcIiwnfkNOW01NT0Rdfk5NW1ldJyxGT0ggYXMgXCJGT0hcIiwnfkNOW0ZPSF1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiRUZESCBhcyBcIkVGREhcIiwnfkNOW0VGREhdfk5NW1ldJyxOVU1GTyBhcyBcIk51bS4gRk9cIiwnfkNOW05VTUZPXX5OTVtZXScsQVRUU1RBUlQgYXMgXCJBdHQuIFN0YXJ0XCIsJ35DTltBVFRTVEFSVF1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiQUNUVUFMU1RBUlQgYXMgXCJBY3R1YWwgU3RhcnRcIiwnfkNOW0FDVFVBTFNUQVJUXX5OTVtZXScsQVZBSUxIUlMgYXMgXCJBdmFpbC4gSHJzXCIsJ35DTltBVkFJTEhSU11+Tk1bWV0nLFJFU0hPVVIgYXMgXCJSZXMuIEhyc1wiLCd+Q05bUkVTSE9VUl1+Tk1bWV0nXG4iICsKICAgICAgICAgICAgICAgICJGUk9NIE9BX1RNUF9NQV9UT1RBTFMiOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGxvZzRqICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -607,40 +613,40 @@
         <text encoding="base64">ICAgIHByb3RlY3RlZCBTdHJpbmcgZ2V0VG90YWxzU1FMKCkgewogICAgICAgIHJldHVybiAiU2VsZWN0ICd+UE1bTk9ORV1+QVJbWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiQ0FfUEVSQ0VOVCBhcyBcIkNBICVcIiwnfkNOW0NBX1BFUkNFTlRdfk5NW1ldJyxBQ1RVQUxfUkVWRU5VRSBhcyBcIkFjdHVhbCBSZXZlbnVlXCIsJ35DTltBQ1RVQUxfUkVWRU5VRV1+Tk1bWV0nLFRPVEFMX0NPU1QgYXMgXCJUb3RhbCBDb3N0XCIsJ35DTltUT1RBTF9DT1NUXX5OTVtZXX5WSVtOXScsXG4iICsKICAgICAgICAgICAgICAgICJBQ1RVQUxfTUFSR0lOIGFzIFwiRW5lcmd5IE1hcmdpblwiLCd+Q05bQUNUVUFMX01BUkdJTl1+Tk1bWV0nLCBudW12YWw0IGFzIFwiQWN0dWFsIE1hcmdpblwiLCd+Q05bbnVtdmFsNF1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiVEFSR0VUX1JFVkVOVUUgYXMgXCJQb3RlbnRpYWwgUmV2ZW51ZVwiLCd+Q05bVEFSR0VUX1JFVkVOVUVdfk5NW1ldJyxMT1NUX01XSCBhcyBcIkxvc3QgTVdIXCIsJ35DTltMT1NUX01XSF1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiTE9TVF9SRVZFTlVFIGFzIFwiTG9zdCBSZXZlbnVlXCIsJ35DTltMT1NUX1JFVkVOVUVdfk5NW1ldJyxVTkFWQUlMX01XX0NPU1QgYXMgXCJDb3N0IG9mIExvc3QgTVdIXCIsJ35DTltVTkFWQUlMX01XX0NPU1Rdfk5NW1ldJyxMT1NUX01BUkdJTiBhcyBcIkxvc3QgTWFyZ2luXCIsJ35DTltMT1NUX01BUkdJTl1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAibnVtdmFsMSBhcyBcIlBsYW5uZWQgTG9zdCBNYXJnaW4gXCIsJ35DTltudW12YWwxXX5OTVtZXScsICIgKwogICAgICAgICAgICAgICAgIm51bXZhbDIgYXMgXCJNYXJrZXQgTG9zdCBNYXJnaW4gXCIsJ35DTltudW12YWwyXX5OTVtZXScsXG4iICsKICAgICAgICAgICAgICAgICJMT1NUX0VIUlMgYXMgXCJMb3N0IEVxdiBIcnNcIiwnfkNOW0xPU1RfRUhSU11+Tk1bWV0nLEVVT0YgYXMgXCJFVU9GXCIsJ35DTltFVU9GXX5OTVtZXScsRVVPUiBhcyBcIkVVT1JcIiwnfkNOW0VVT1Jdfk5NW1ldJyxcbiIgKwogICAgICAgICAgICAgICAgIkVGT1IgYXMgXCJFRk9SXCIsJ35DTltFRk9SXX5OTVtZXScsRUZPUkQgYXMgXCJFRk9SZFwiLCd+Q05bRUZPUkRdfk5NW1ldJyxGT1JDRURPUiBhcyBcIkZPUlwiLCd+Q05bRk9SQ0VET1Jdfk5NW1ldJyxFUE9SIGFzIFwiRVBPUlwiLCd+Q05bRVBPUl1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiRU1PUiBhcyBcIkVNT1JcIiwnfkNOW0VNT1Jdfk5NW1ldJyxTRiBhcyBcIlNGXCIsJ35DTltTRl1+Tk1bWV0nLEFGIGFzIFwiQUZcIiwnfkNOW0FGXX5OTVtZXScsVUYgYXMgXCJVRlwiLCd+Q05bVUZdfk5NW1ldJyxFQUYgYXMgXCJFQUZcIiwnfkNOW0VBRl1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiRVVGIGFzIFwiRVVGXCIsJ35DTltFVUZdfk5NW1ldJyxVREYgYXMgXCJVREZcIiwnfkNOW1VERl1+Tk1bWV0nLFNFREYgYXMgXCJTRURGXCIsJ35DTltTRURGXX5OTVtZXScsUE9GIGFzIFwiUE9GXCIsJ35DTltQT0Zdfk5NW1ldJyxcbiIgKwogICAgICAgICAgICAgICAgIlVPRiBhcyBcIlVPRlwiLCd+Q05bVU9GXX5OTVtZXScsRk9GIGFzIFwiRk9GXCIsJ35DTltGT0Zdfk5NW1ldJyxNT0YgYXMgXCJNT0ZcIiwnfkNOW01PRl1+Tk1bWV0nLFNPRiBhcyBcIlNPRlwiLCd+Q05bU09GXX5OTVtZXScsRVBPRiBhcyBcIkVQT0ZcIiwnfkNOW0VQT0Zdfk5NW1ldJyxcbiIgKwogICAgICAgICAgICAgICAgIkVGT0YgYXMgXCJFRk9GXCIsJ35DTltFRk9GXX5OTVtZXScsRU1PRiBhcyBcIkVNT0ZcIiwnfkNOW0VNT0Zdfk5NW1ldJyxFU09GIGFzIFwiRVNPRlwiLCd+Q05bRVNPRl1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiQVJUIGFzIFwiQVJUXCIsJ35DTltBUlRdfk5NW1ldJyxDWUNMSU5HUkFURSBhcyBcIkN5Y2xpbmcgUmF0ZVwiLCd+Q05bQ1lDTElOR1JBVEVdfk5NW1ldJyxTUiBhcyBcIlNSXCIsJ35DTltTUl1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiTVNUUE8gYXMgXCJNU1RQT1wiLCd+Q05bTVNUUE9dfk5NW1ldJyxNU1RVTyBhcyBcIk1TVFVPXCIsJ35DTltNU1RVT11+Tk1bWV0nLE1TVEZPIGFzIFwiTVNURk9cIiwnfkNOW01TVEZPXX5OTVtZXScsXG4iICsKICAgICAgICAgICAgICAgICJNU1RNTyBhcyBcIk1TVE1PXCIsJ35DTltNU1RNT11+Tk1bWV0nLE1QT0QgYXMgXCJNUE9EXCIsJ35DTltNUE9EXX5OTVtZXScsTVVPRCBhcyBcIk1VT0RcIiwnfkNOW01VT0Rdfk5NW1ldJyxcbiIgKwogICAgICAgICAgICAgICAgIk1GT0QgYXMgXCJNRk9EXCIsJ35DTltNRk9EXX5OTVtZXScsTU1PRCBhcyBcIk1NT0RcIiwnfkNOW01NT0Rdfk5NW1ldJyxGT0ggYXMgXCJGT0hcIiwnfkNOW0ZPSF1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiRUZESCBhcyBcIkVGREhcIiwnfkNOW0VGREhdfk5NW1ldJyxOVU1GTyBhcyBcIk51bS4gRk9cIiwnfkNOW05VTUZPXX5OTVtZXScsQVRUU1RBUlQgYXMgXCJBdHQuIFN0YXJ0XCIsJ35DTltBVFRTVEFSVF1+Tk1bWV0nLFxuIiArCiAgICAgICAgICAgICAgICAiQUNUVUFMU1RBUlQgYXMgXCJBY3R1YWwgU3RhcnRcIiwnfkNOW0FDVFVBTFNUQVJUXX5OTVtZXScsQVZBSUxIUlMgYXMgXCJBdmFpbC4gSHJzXCIsJ35DTltBVkFJTEhSU11+Tk1bWV0nLFJFU0hPVVIgYXMgXCJSZXMuIEhyc1wiLCd+Q05bUkVTSE9VUl1+Tk1bWV0nXG4iICsKICAgICAgICAgICAgICAgICJGUk9NIE9BX1RNUF9NQV9UT1RBTFMiOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc3RhcnRFbGVtZW50KFN0cmluZyB1cmksIFN0cmluZyBsb2NhbE5hbWUsIFN0cmluZyBxTmFtZSwgQXR0cmlidXRlcyBhdHRyaWJ1dGVzKSB0aHJvd3MgU0FYRXhjZXB0aW9uIHsKICAgICAgICBzdXBlci5zdGFydEVsZW1lbnQodXJpLCBsb2NhbE5hbWUsIHFOYW1lLCBhdHRyaWJ1dGVzKTsKICAgICAgICBpZiAoaXNBdExvY2F0aW9uKGZlZWRSb3cpKSB7CiAgICAgICAgICAgIHJvd0RhdGEgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGxvZzRqICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWRkZWQgaW4gY29tbWVudHMK</text>
+        <text encoding="base64">ICAgIGxvZ2cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBUQUcgPSAia2pkZCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgc3RhcnRFbGVtZW50KFN0cmluZyB1cmksIFN0cmluZyBsb2NhbE5hbWUsIFN0cmluZyBxTmFtZSwgQXR0cmlidXRlcyBhdHRyaWJ1dGVzKSB0aHJvd3MgU0FYRXhjZXB0aW9uIHsKICAgICAgICBzdXBlci5zdGFydEVsZW1lbnQodXJpLCBsb2NhbE5hbWUsIHFOYW1lLCBhdHRyaWJ1dGVzKTsKICAgICAgICBpZiAoaXNBdExvY2F0aW9uKGZlZWRSb3cpKSB7CiAgICAgICAgICAgIHJvd0RhdGEgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIFN0cmluZz4oKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgREFPcGVyYXRpb248aW50W10+IHNhdmVBck9mZmVyKExpc3Q8QVJPZmZlckRBTz4gb2ZmZXIsIFN0cmluZyB1c2VyKSB7CiAgICAgICAgU3RyaW5nW10ga2V5cyA9IG5ldyBTdHJpbmdbXXsidW5pdGlkIiwgInRyYW5zZGF0ZSIsICJyZWd0eXBlIn07CiAgICAgICAgSW50ZWdEYXRhU3VwcG9ydC51cHNlcnRXaXRoQXVkaXQoImFrcl9vZmZlciIsU1FMQnVpbGRlcmosa2V5cyx1c2VyLG9mZmVyICkKCiAgICB9Cg==</text>
+        <text encoding="base64">YWRkZWQgaW4gY29tbWVudHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ0F1ZGl0U3VwcG9ydC5iYWNrdXBUb0F1ZGl0KCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YWRkZWQgaW4gY29kZWsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qU2V0PEVudHJ5PFVuaXRTdWJtaXNzaW9uPEFyT2ZmZXI+LExpc3Q8QXJPZmZlcj4+PiovCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgREFPcGVyYXRpb248aW50W10+IHNhdmVBck9mZmVyKExpc3Q8QVJPZmZlckRBTz4gb2ZmZXIsIFN0cmluZyB1c2VyKSB7CiAgICAgICAgU3RyaW5nW10ga2V5cyA9IG5ldyBTdHJpbmdbXXsidW5pdGlkIiwgInRyYW5zZGF0ZSIsICJyZWd0eXBlIn07CiAgICAgICAgSW50ZWdEYXRhU3VwcG9ydC51cHNlcnRXaXRoQXVkaXQoImFrcl9vZmZlciIsU1FMQnVpbGRlcmosa2V5cyx1c2VyLG9mZmVyICkKCiAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>&quot;GO_SCHEDULE_DEFINITION&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ0F1ZGl0U3VwcG9ydC5iYWNrdXBUb0F1ZGl0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>as</text>
       </register>
     </registers>
     <search>
@@ -687,6 +693,7 @@
         <entry>action Rerun</entry>
         <entry>action CheckinProject</entry>
         <entry>action ReformatCode</entry>
+        <entry>as</entry>
       </history-cmd>
       <history-expr />
       <history-input />
