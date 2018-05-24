@@ -3900,12 +3900,6 @@
         <mark key="^" line="35" column="40" />
         <mark key="." line="35" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" timestamp="1527122874065">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="1" />
-        <mark key="." line="11" column="25" />
-      </file>
       <file name="$USER_HOME$/dev/j-math-solver/src/main/java/org/fobbyal/msolver/arith/dbl/DNegate.java" timestamp="1470452422395">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="11" />
@@ -4395,7 +4389,7 @@
         <mark key="^" line="19" column="63" />
         <mark key="." line="19" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526962615140">
+      <file name="/Dummy.txt" timestamp="1527158710282">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
@@ -6539,6 +6533,9 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" timestamp="1527159300901">
+        <mark key="'" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/AuthApiTest.java" timestamp="1520212708765">
         <mark key="[" line="82" column="5" />
         <mark key="]" line="82" column="3" />
@@ -6805,9 +6802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/role-assignment.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/role-assignment.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/core/legacy/USER-COMPANY-GROUP.sql" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/core/legacy/daohandlermapping.sql" />
       <jump line="4" column="13" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/core/run.sql" />
       <jump line="1672" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/aep/data/daohandlermapping-data.sql" />
@@ -6905,6 +6899,9 @@
       <jump line="263" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" />
       <jump line="29" column="33" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" />
+      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" />
+      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -8405,7 +8402,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZ1tdIGxvYWRBbmFseXNpc0lucHV0S2V5cyA9IHsKICAgICAgICAgICAgIkxTRV9JRCIsICJQTk9ERV9JRCIsICJUUkFOU0RBVEUiLCAiQ09NUE9ORU5UX05BTUUiCiAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>marks</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgICAgICA8amFja3NvbjIudmVyc2lvbj4yLjcuMTwvamFja3NvbjIudmVyc2lvbj4K</text>
@@ -8444,7 +8441,6 @@
         <entry encoding="base64">XDxBdWRpdFN1cHBvcnRPcHRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>qa</entry>
         <entry>reg</entry>
         <entry>action InsertLiveTemplate</entry>
         <entry encoding="base64">YWN0aW9uIEdpdC5CcmFuY2hlcyA=</entry>
@@ -8464,6 +8460,7 @@
         <entry>action Rerun</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>wa</entry>
+        <entry>marks</entry>
       </history-cmd>
       <history-expr />
       <history-input />
