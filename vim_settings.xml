@@ -26,9 +26,7 @@
         <mark key="." line="122" column="94" />
         <mark key="^" line="122" column="94" />
       </file>
-      <file name="$USER_HOME$/dev/integ/spark-2.0/pspk-api/debug.conf" timestamp="1527191943604">
-        <mark key="'" line="87" column="5" />
-      </file>
+      <file name="$USER_HOME$/dev/integ/spark-2.0/pspk-api/debug.conf" timestamp="1527193434916" />
       <file name="$USER_HOME$/dev/integ/pbkr/ws-xslt/src/main/java/com/integ/core/wsxslt/request/RequestProducerFactory.java" timestamp="1523507123579">
         <mark key="'" line="27" column="31" />
       </file>
@@ -502,8 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="47" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/AncillaryServiceApi.java" />
-      <jump line="148" column="23" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/async/AsyncTaskUtil.java" />
       <jump line="88" column="24" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/AncillaryServiceApi.java" />
       <jump line="29" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/AncillaryServiceApiTest.java" />
       <jump line="210" column="36" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/AncillaryServiceApi.java" />
@@ -601,7 +597,9 @@
       <jump line="92" column="30" filename="$USER_HOME$/dev/integ/spark-2.0/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/integ/spark-2.0/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
       <jump line="141" column="0" filename="$USER_HOME$/dev/integ/spark-2.0/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
-      <jump line="87" column="5" filename="$USER_HOME$/dev/integ/spark-2.0/pspk-api/debug.conf" />
+      <jump line="106" column="19" filename="$USER_HOME$/dev/integ/spark-2.0/pspk-api/debug.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/integ/spark-2.0/pspk-api/debug.conf" />
+      <jump line="87" column="0" filename="$USER_HOME$/dev/integ/spark-2.0/pspk-api/debug.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -650,7 +648,7 @@
         <text encoding="base64">ICAgICAgICBJbnRlZ0F1ZGl0U3VwcG9ydC5iYWNrdXBUb0F1ZGl0KCkK</text>
       </register>
       <register name=":" type="4">
-        <text>as</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -693,11 +691,11 @@
         <entry>vs</entry>
         <entry>a</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry>action Rerun</entry>
         <entry>action CheckinProject</entry>
         <entry>action ReformatCode</entry>
         <entry>as</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
