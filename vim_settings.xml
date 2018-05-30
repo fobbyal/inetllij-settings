@@ -713,10 +713,11 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/integ/pbkr/common/pom.xml" timestamp="1520193583625">
+        <mark key="'" line="106" column="13" />
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/immutables/ScheduleDef.java" timestamp="1499917581140">
         <mark key="[" line="43" column="22" />
@@ -3957,6 +3958,11 @@
         <mark key="^" line="42" column="107" />
         <mark key="." line="16" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/db-util/pom.xml" timestamp="1527334627244">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DemandLoadDef.java" timestamp="1525669205869">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="16" column="17" />
@@ -4681,6 +4687,11 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/jc-legacy-connector/pom.xml" timestamp="1527334561818">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="59" />
+        <mark key="." line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/j-math-solver/src/test/java/com/integ/pspk/DataCollectionTest.java" timestamp="1473619214059">
         <mark key="[" line="56" column="79" />
         <mark key="]" line="56" column="87" />
@@ -5144,6 +5155,9 @@
         <mark key="^" line="58" column="27" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="vim_settings.xml" timestamp="1527655948026">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/docker-pbkr-api.conf" timestamp="1506831903477">
         <mark key="[" line="7" column="10" />
         <mark key="]" line="7" column="15" />
@@ -5169,6 +5183,9 @@
         <mark key="]" line="39" column="45" />
         <mark key="." line="39" column="45" />
         <mark key="^" line="39" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/integ-jdk8/jcomplete/src/main/java/com/integ/jcomplete/framework/util/ApplicationProperties.java" timestamp="1527656270016">
+        <mark key="'" line="293" column="0" />
       </file>
       <file name="$USER_HOME$/dev/integ-legacy/pbroker/java/src/com/integ/broker/genoffer/client/ScheduleDefinitionIdent.java" timestamp="1469592179719">
         <mark key="[" line="13" column="19" />
@@ -6536,6 +6553,9 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" timestamp="1527159300901">
+        <mark key="'" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/AuthApiTest.java" timestamp="1520212708765">
         <mark key="[" line="82" column="5" />
         <mark key="]" line="82" column="3" />
@@ -6802,10 +6822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/role-assignment.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/role-assignment.sql" />
-      <jump line="49" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/role-assignment.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/role-assignment.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/core/legacy/USER-COMPANY-GROUP.sql" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/core/legacy/daohandlermapping.sql" />
       <jump line="4" column="13" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/core/run.sql" />
@@ -6902,6 +6918,10 @@
       <jump line="588" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="155" column="19" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" />
       <jump line="263" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" />
+      <jump line="216" column="4" filename="$USER_HOME$/dev/integ-jdk8/jcomplete/src/main/java/com/integ/jcomplete/framework/util/ApplicationProperties.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/integ-jdk8/jcomplete/src/main/java/com/integ/jcomplete/framework/util/ApplicationProperties.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/integ-jdk8/jcomplete/src/main/java/com/integ/jcomplete/framework/util/ApplicationProperties.java" />
+      <jump line="293" column="0" filename="$USER_HOME$/dev/integ-jdk8/jcomplete/src/main/java/com/integ/jcomplete/framework/util/ApplicationProperties.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -8402,7 +8422,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZ1tdIGxvYWRBbmFseXNpc0lucHV0S2V5cyA9IHsKICAgICAgICAgICAgIkxTRV9JRCIsICJQTk9ERV9JRCIsICJUUkFOU0RBVEUiLCAiQ09NUE9ORU5UX05BTUUiCiAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>w</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgICAgICA8amFja3NvbjIudmVyc2lvbj4yLjcuMTwvamFja3NvbjIudmVyc2lvbj4K</text>
@@ -8419,9 +8439,6 @@
     </search>
     <history>
       <history-search>
-        <entry>SteamUnit</entry>
-        <entry encoding="base64">XDxUeXBlVW5pdERlZlw+</entry>
-        <entry encoding="base64">XDxEYXRlZFVuaXREYXRhXD4=</entry>
         <entry>Comparator</entry>
         <entry>saveForm</entry>
         <entry>formulaSq</entry>
@@ -8439,10 +8456,11 @@
         <entry encoding="base64">XDxpbnB1dERhdGFFeHRyYWN0b3JcPg==</entry>
         <entry encoding="base64">XDxiYWNrdXBUb0F1ZGl0XD4=</entry>
         <entry encoding="base64">XDxBdWRpdFN1cHBvcnRPcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxwbHVnaW5zXD4=</entry>
+        <entry encoding="base64">XDxncm91cElkXD4=</entry>
+        <entry encoding="base64">XDxwbHVnaW5cPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>271</entry>
-        <entry>qa</entry>
         <entry>reg</entry>
         <entry>action InsertLiveTemplate</entry>
         <entry encoding="base64">YWN0aW9uIEdpdC5CcmFuY2hlcyA=</entry>
@@ -8452,15 +8470,17 @@
         <entry>%s/&quot;PBKR&quot;\.//g</entry>
         <entry>%s/PSPK\./g/</entry>
         <entry>%s/PSPK\.//g</entry>
-        <entry>w</entry>
         <entry>%s/SteamUnit/SteamUnitDetail/g</entry>
         <entry>;wa</entry>
         <entry>s/&quot;//g</entry>
-        <entry>action ReformatCode</entry>
         <entry>a</entry>
         <entry>action CheckinProject</entry>
-        <entry>wa</entry>
         <entry>action Rerun</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>marks</entry>
+        <entry>action ReformatCode</entry>
+        <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
