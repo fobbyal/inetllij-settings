@@ -712,12 +712,11 @@
         <mark key="^" line="33" column="14" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/common/pom.xml" timestamp="1527334549103">
-        <mark key="'" line="106" column="13" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
+      <file name="$USER_HOME$/dev/integ/pbkr/common/pom.xml" timestamp="1520193583625">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="15" />
-        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/immutables/ScheduleDef.java" timestamp="1499917581140">
         <mark key="[" line="43" column="22" />
@@ -3901,6 +3900,9 @@
         <mark key="^" line="35" column="40" />
         <mark key="." line="35" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" timestamp="1527122332472">
+        <mark key="'" line="263" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/j-math-solver/src/main/java/org/fobbyal/msolver/arith/dbl/DNegate.java" timestamp="1470452422395">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="11" />
@@ -3954,11 +3956,6 @@
         <mark key="]" line="16" column="13" />
         <mark key="^" line="42" column="107" />
         <mark key="." line="16" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/db-util/pom.xml" timestamp="1527334627244">
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="0" />
-        <mark key="." line="227" column="0" />
       </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DemandLoadDef.java" timestamp="1525669205869">
         <mark key="'" line="14" column="4" />
@@ -4395,7 +4392,7 @@
         <mark key="^" line="19" column="63" />
         <mark key="." line="19" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527158710282">
+      <file name="/Dummy.txt" timestamp="1526962615140">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="31" />
         <mark key="^" line="0" column="31" />
@@ -4683,11 +4680,6 @@
         <mark key="]" line="18" column="19" />
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/jc-legacy-connector/pom.xml" timestamp="1527334561818">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="59" />
-        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/dev/j-math-solver/src/test/java/com/integ/pspk/DataCollectionTest.java" timestamp="1473619214059">
         <mark key="[" line="56" column="79" />
@@ -6544,9 +6536,6 @@
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" timestamp="1527159300901">
-        <mark key="'" line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/AuthApiTest.java" timestamp="1520212708765">
         <mark key="[" line="82" column="5" />
         <mark key="]" line="82" column="3" />
@@ -6813,6 +6802,15 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="50" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/role-assignment.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/role-assignment.sql" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/role-assignment.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/role-assignment.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/core/legacy/USER-COMPANY-GROUP.sql" />
+      <jump line="26" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/core/legacy/daohandlermapping.sql" />
+      <jump line="4" column="13" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/core/run.sql" />
+      <jump line="1672" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/aep/data/daohandlermapping-data.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/aep/data/daohandlermapping-data.sql" />
       <jump line="1232" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/aep/data/daohandlermapping-data.sql" />
       <jump line="1231" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/aep/data/daohandlermapping-data.sql" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/db/aep/data/daohandlermapping-data.sql" />
@@ -6904,22 +6902,13 @@
       <jump line="588" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="155" column="19" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" />
       <jump line="263" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" />
-      <jump line="29" column="33" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/pom.xml" />
-      <jump line="23" column="0" filename="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" />
-      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" />
-      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" />
-      <jump line="125" column="10" filename="$USER_HOME$/dev/integ/pbkr/common/pom.xml" />
-      <jump line="96" column="9" filename="$USER_HOME$/dev/integ/pbkr/common/pom.xml" />
-      <jump line="98" column="51" filename="$USER_HOME$/dev/integ/pbkr/common/pom.xml" />
-      <jump line="106" column="13" filename="$USER_HOME$/dev/integ/pbkr/common/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLkZ1bmN0aW9uPFJlc3VsPiApIHsK</text>
       </register>
       <register name="b" type="4">
         <text>&quot;)</text>
@@ -8300,10 +8289,10 @@
         <text>Func</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwbHVnaW5cPg==</text>
+        <text encoding="base64">XDxBdWRpdFN1cHBvcnRPcHRpb25zXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tc3VwcHJlc3MgTWF2ZW5Nb2RlbEluc3BlY3Rpb24gLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoIHJ1bkRhKGRzLERlbWFuZERhdGFBY2Nlc3MucmV0cmlldmVGb3JtdWxhKGRhdGUsbHNlSWQscG5vZGVJZCkpKQo=</text>
       </register>
       <register name="p" type="4">
         <keys>
@@ -8312,13 +8301,13 @@
         </keys>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLkZ1bmN0aW9uPFJlc3VsPiApIHsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamFyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgIDxhcmNoaXZlPgogICAgICAgICAgICAgICAgICA8aW5kZXg+dHJ1ZTwvaW5kZXg+CiAgICAgICAgICAgICAgICAgIDxtYW5pZmVzdEVudHJpZXM+CiAgICAgICAgICAgICAgICAgICAgPCEtLXN1cHByZXNzIE1hdmVuTW9kZWxJbnNwZWN0aW9uIC0tPgogICAgICAgICAgICAgICAgICAgICAgPGdpdC1oYXNoPiR7Z2l0LmNvbW1pdC5pZH08L2dpdC1oYXNoPgogICAgICAgICAgICAgICAgICA8L21hbmlmZXN0RW50cmllcz4KICAgICAgICAgICAgICAgIDwvYXJjaGl2ZT4KICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgo=</text>
+        <text encoding="base64">ICAgICAgICBuCg==</text>
       </register>
       <register name="r" type="4">
         <keys>
@@ -8345,22 +8334,22 @@
         </keys>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamFyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgIDxhcmNoaXZlPgogICAgICAgICAgICAgICAgICA8aW5kZXg+dHJ1ZTwvaW5kZXg+CiAgICAgICAgICAgICAgICAgIDxtYW5pZmVzdEVudHJpZXM+CiAgICAgICAgICAgICAgICAgICAgPCEtLXN1cHByZXNzIE1hdmVuTW9kZWxJbnNwZWN0aW9uIC0tPgogICAgICAgICAgICAgICAgICAgICAgPGdpdC1oYXNoPiR7Z2l0LmNvbW1pdC5pZH08L2dpdC1oYXNoPgogICAgICAgICAgICAgICAgICA8L21hbmlmZXN0RW50cmllcz4KICAgICAgICAgICAgICAgIDwvYXJjaGl2ZT4KICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBGdW5jdGlvbjxTdHJpbmcsIE9wdGlvbmFsPEhvdXJFbmRpbmdWYWx1ZTxCaWdEZWNpbWFsPj4+IGhvdXJFbmRpbmdFeHRhY3RvcihSZXN1bHRTZXQgcnMsamF2YS51dGlsLmZ1bmN0aW9uLiApIHsKICAgICAgICBuCg==</text>
       </register>
       <register name="s" type="4">
         <text>date.toString(&quot;MM/dd/YYYY&quot;)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGVjdXRpb25zPgogICAgICAgICAgICAgICAgICAgIDxleGVjdXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnRlc3QtamFyPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKS5leGVjT3BlcmF0aW9uKGZzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLkZ1bmN0aW9uPFJlc3VsPiApIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgKS5leGVjT3BlcmF0aW9uKGZzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuCg==</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBGdW5jdGlvbjxTdHJpbmcsIE9wdGlvbmFsPEhvdXJFbmRpbmdWYWx1ZTxCaWdEZWNpbWFsPj4+IGhvdXJFbmRpbmdFeHRhY3RvcihSZXN1bHRTZXQgcnMsamF2YS51dGlsLmZ1bmN0aW9uLiApIHsKICAgICAgICBuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -8404,25 +8393,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKS5leGVjT3BlcmF0aW9uKGZzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text encoding="base64">c3RhdHVzIC0+ICFzdGF0dXMuZXF1YWxzKCJVTkEiKSAmJiA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKS5leGVjT3BlcmF0aW9uKGZzKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZ1tdIGxvYWRBbmFseXNpc0lucHV0S2V5cyA9IHsKICAgICAgICAgICAgIkxTRV9JRCIsICJQTk9ERV9JRCIsICJUUkFOU0RBVEUiLCAiQ09NUE9ORU5UX05BTUUiCiAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action Rerun</text>
       </register>
       <register name="z" type="2">
         <text encoding="base64">ICAgICAgICA8amFja3NvbjIudmVyc2lvbj4yLjcuMTwvamFja3NvbjIudmVyc2lvbj4K</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwbHVnaW5cPg==</last-search>
+      <last-search encoding="base64">XDxBdWRpdFN1cHBvcnRPcHRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwbHVnaW5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBdWRpdFN1cHBvcnRPcHRpb25zXD4=</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -8430,6 +8419,9 @@
     </search>
     <history>
       <history-search>
+        <entry>SteamUnit</entry>
+        <entry encoding="base64">XDxUeXBlVW5pdERlZlw+</entry>
+        <entry encoding="base64">XDxEYXRlZFVuaXREYXRhXD4=</entry>
         <entry>Comparator</entry>
         <entry>saveForm</entry>
         <entry>formulaSq</entry>
@@ -8447,11 +8439,10 @@
         <entry encoding="base64">XDxpbnB1dERhdGFFeHRyYWN0b3JcPg==</entry>
         <entry encoding="base64">XDxiYWNrdXBUb0F1ZGl0XD4=</entry>
         <entry encoding="base64">XDxBdWRpdFN1cHBvcnRPcHRpb25zXD4=</entry>
-        <entry encoding="base64">XDxwbHVnaW5zXD4=</entry>
-        <entry encoding="base64">XDxncm91cElkXD4=</entry>
-        <entry encoding="base64">XDxwbHVnaW5cPg==</entry>
       </history-search>
       <history-cmd>
+        <entry>271</entry>
+        <entry>qa</entry>
         <entry>reg</entry>
         <entry>action InsertLiveTemplate</entry>
         <entry encoding="base64">YWN0aW9uIEdpdC5CcmFuY2hlcyA=</entry>
@@ -8461,17 +8452,15 @@
         <entry>%s/&quot;PBKR&quot;\.//g</entry>
         <entry>%s/PSPK\./g/</entry>
         <entry>%s/PSPK\.//g</entry>
+        <entry>w</entry>
         <entry>%s/SteamUnit/SteamUnitDetail/g</entry>
         <entry>;wa</entry>
         <entry>s/&quot;//g</entry>
+        <entry>action ReformatCode</entry>
         <entry>a</entry>
         <entry>action CheckinProject</entry>
-        <entry>action Rerun</entry>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>marks</entry>
-        <entry>action ReformatCode</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
       <history-input />
