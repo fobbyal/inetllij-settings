@@ -312,6 +312,9 @@
         <mark key="^" line="34" column="81" />
         <mark key="." line="34" column="81" />
       </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/DemandInitializeRequest.java" timestamp="1527962017060">
+        <mark key="'" line="29" column="79" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/utils/TimeUtils.java" timestamp="1527014193825">
         <mark key="'" line="49" column="29" />
       </file>
@@ -377,8 +380,8 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1527908155079">
-        <mark key="'" line="83" column="18" />
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1527962013659">
+        <mark key="'" line="94" column="18" />
         <mark key="[" line="61" column="11" />
         <mark key="]" line="61" column="21" />
         <mark key="." line="61" column="21" />
@@ -774,8 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="18" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="287" column="41" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="745" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="165" column="97" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="676" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
@@ -874,6 +875,8 @@
       <jump line="63" column="21" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="83" column="18" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="33" column="65" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/DemandVirtualBid.java" />
+      <jump line="94" column="18" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
+      <jump line="29" column="79" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/DemandInitializeRequest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
