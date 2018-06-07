@@ -298,6 +298,9 @@
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/mock-json/lse-company-name-map.json" timestamp="1528057418950">
         <mark key="'" line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/target/generated-sources/annotations/com/integ/pbkr/restful/immutables/DemandLoadInputUpdate.java" timestamp="1528361089577">
+        <mark key="'" line="27" column="75" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/data/PasswordDataAccess.java" timestamp="1523991224067">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="13" />
@@ -412,12 +415,12 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1528360059606">
-        <mark key="'" line="58" column="58" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="59" column="43" />
-        <mark key="." line="62" column="17" />
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1528361393538">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="80" column="27" />
+        <mark key="]" line="80" column="27" />
+        <mark key="^" line="80" column="27" />
+        <mark key="." line="80" column="27" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/AdminApiTest.java" timestamp="1525204951500">
         <mark key="'" line="73" column="88" />
@@ -788,8 +791,8 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" timestamp="1528359832697">
-        <mark key="'" line="194" column="37" />
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" timestamp="1528361351513">
+        <mark key="'" line="598" column="39" />
         <mark key="[" line="542" column="70" />
         <mark key="]" line="542" column="70" />
         <mark key="." line="542" column="70" />
@@ -822,10 +825,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="47" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
-      <jump line="63" column="8" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
-      <jump line="54" column="39" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" />
       <jump line="576" column="17" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="76" column="17" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" />
       <jump line="106" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" />
@@ -859,7 +858,6 @@
       <jump line="242" column="29" filename="$USER_HOME$/dev/integ/pbkr/db-util/src/main/java/com/integ/db/IntegAuditSupport.java" />
       <jump line="243" column="9" filename="$USER_HOME$/dev/integ/pbkr/db-util/src/main/java/com/integ/db/IntegAuditSupport.java" />
       <jump line="2" column="22" filename="$USER_HOME$/dev/integ/pbkr/db-util/src/main/java/com/integ/db/IntegAuditSupport.java" />
-      <jump line="598" column="18" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="743" column="38" filename="$USER_HOME$/dev/integ/pbkr/db-util/target/generated-sources/annotations/com/integ/db/immutables/AuditSupportOptions.java" />
       <jump line="603" column="18" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="241" column="23" filename="$USER_HOME$/dev/integ/pbkr/db-util/src/main/java/com/integ/db/IntegAuditSupport.java" />
@@ -922,10 +920,15 @@
       <jump line="150" column="37" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="194" column="37" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="58" column="58" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
+      <jump line="27" column="75" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/target/generated-sources/annotations/com/integ/pbkr/restful/immutables/DemandLoadInputUpdate.java" />
+      <jump line="87" column="11" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
+      <jump line="88" column="27" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
+      <jump line="598" column="39" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>update</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -962,28 +965,28 @@
         <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>update</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlTG9hZEFuYWx5c2lzQ29tcG9uZW50c1w+</text>
+        <text encoding="base64">XDx1cGRhdGVBY3RpdmVMb2FkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lWm9uZS5zZXREZWZhdWx0KFRpbWVab25lLmdldFRpbWVab25lKCJVUy9FYXN0ZXJuIikpOwo=</text>
+        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJkZW1hbmQtd3JpdGUifSkKICAgIEBQT1NUCiAgICBAUGF0aCgiY29uZmlndXJlLWxvYWQiKQogICAgcHVibGljIFJlc3RmdWxSZXNwb25zZSBpbml0aWFsaXplKAogICAgICAgICAgICBMaXN0PERlbWFuZEluaXRpYWxpemVSZXF1ZXN0PiBiaWQsCiAgICAgICAgICAgIEBDb250ZXh0IFNlY3VyaXR5Q29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgLy90b2RvOiB2YWxpZGF0aW9ucwogICAgICAgIHJ1bkRhKGRzLCBEZW1hbmRTZXR1cERhdGFBY2Nlc3MuaW5pdGlhbGl6ZUJpZChiaWQsIGNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKSkpOwogICAgICAgIHJldHVybiBSZXN0ZnVsUmVzcG9uc2UuU1VDQ0VTUzsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJkZW1hbmQtd3JpdGUifSkKICAgIEBQT1NUCiAgICBAUGF0aCgidXBkYXRlLWNvbmZpZ3VyZS1sb2FkIikKICAgIHB1YmxpYyBSZXN0ZnVsUmVzcG9uc2UgdXBkYXRlQ29uZmlndXJlZExvYWQoCiAgICAgICAgICAgICBiaWQsCiAgICAgICAgICAgIEBDb250ZXh0IFNlY3VyaXR5Q29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgLy90b2RvOiB2YWxpZGF0aW9ucwogICAgICAgIHJ1bkRhKGRzLCBEZW1hbmRTZXR1cERhdGFBY2Nlc3MuaW5pdGlhbGl6ZUJpZChiaWQsIGNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKSkpOwogICAgICAgIHJldHVybiBSZXN0ZnVsUmVzcG9uc2UuU1VDQ0VTUzsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJkZW1hbmQtd3JpdGUifSkKICAgIEBQT1NUCiAgICBAUGF0aCgibG9hZC1pbnB1dHMiKQogICAgcHVibGljIFJlc3RmdWxSZXNwb25zZSB1cGRhdGVMb2FkSW5wdXRzKERlbWFuZExvYWRJbnB1dFVwZGF0ZSB1cGRhdGVJbmZvLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBDb250ZXh0IFNlY3VyaXR5Q29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgU3RyaW5nIHVzZXIgPSBjb250ZXh0LmdldFVzZXJQcmluY2lwYWwoKS5nZXROYW1lKCk7CiAgICAgICAgRGF0ZSBtb2REYXRlID0gbmV3IERhdGUoKTsKICAgICAgICBydW5EYShkcywgZGEgLT4gewogICAgICAgICAgICB1cGRhdGVJbmZvLmFjdGl2ZUxvYWQoKQogICAgICAgICAgICAgICAgICAgIC5pZlByZXNlbnQobG9hZCAtPiB1cGRhdGVBY3RpdmVMb2FkKGxvYWQsIHVzZXIsIG1vZERhdGUpLmV4ZWNPcGVyYXRpb24oZGEpKTsKICAgICAgICAgICAgcmV0dXJuIERlbWFuZERhdGFBY2Nlc3Muc2F2ZUlucHV0cyh1cGRhdGVJbmZvLmlucHV0cygpLCB1c2VyLCBtb2REYXRlKQogICAgICAgICAgICAgICAgICAgIC5leGVjT3BlcmF0aW9uKGRhKTsKCiAgICAgICAgfSk7CiAgICAgICAgLy9UT0RPOiBydW4gbGVnYWN5IHByb2Nlc3MgZGVtYW5kIGJpZHMKCiAgICAgICAgcmV0dXJuIFJlc3RmdWxSZXNwb25zZURlZi5TVUNDRVNTOwoKICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1lWm9uZS5zZXREZWZhdWx0KFRpbWVab25lLmdldFRpbWVab25lKCJVUy9FYXN0ZXJuIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
@@ -992,31 +995,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgQFJvbGVzQWxsb3dlZCh7ImFkbWluIiwgImRlbWFuZC1yZWFkIiwgImRlbWFuZC13cml0ZSJ9KQovLyAgICBAR0VUCi8vICAgIEBQYXRoKCJsb2FkLWZvcmVjYXN0IikKLy8gICAgcHVibGljIExpc3Q8RGFpbHlMb2FkPiBsb2FkRm9yZWNhc3QoCi8vICAgICAgICAgICAgQFF1ZXJ5UGFyYW0oImRhdGUiKSBMb2NhbERhdGUgZGF0ZSwKLy8gICAgICAgICAgICBAUXVlcnlQYXJhbSgibHNlIikgU3RyaW5nIGxzZSwKLy8gICAgICAgICAgICBAUXVlcnlQYXJhbSgicG5vZGUiKSBTdHJpbmcgcG5vZGUsCi8vICAgICAgICAgICAgQFF1ZXJ5UGFyYW0oImxvYWRzcmMiKSBTdHJpbmcgbG9hZFNyYykgewovLyAgICAgICAgcmV0dXJuIHJ1bkRhKGRzLCByZXRyaWV2ZURhaWx5TG9hZChkYXRlLCBmYWxzZSwgbHNlLCBwbm9kZSwgbG9hZFNyYykpOwovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1lWm9uZS5zZXREZWZhdWx0KFRpbWVab25lLmdldFRpbWVab25lKCJVUy9FYXN0ZXJuIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgQFJvbGVzQWxsb3dlZCh7ImFkbWluIiwgImRlbWFuZC1yZWFkIiwgImRlbWFuZC13cml0ZSJ9KQovLyAgICBAR0VUCi8vICAgIEBQYXRoKCJsb2FkLWZvcmVjYXN0IikKLy8gICAgcHVibGljIExpc3Q8RGFpbHlMb2FkPiBsb2FkRm9yZWNhc3QoCi8vICAgICAgICAgICAgQFF1ZXJ5UGFyYW0oImRhdGUiKSBMb2NhbERhdGUgZGF0ZSwKLy8gICAgICAgICAgICBAUXVlcnlQYXJhbSgibHNlIikgU3RyaW5nIGxzZSwKLy8gICAgICAgICAgICBAUXVlcnlQYXJhbSgicG5vZGUiKSBTdHJpbmcgcG5vZGUsCi8vICAgICAgICAgICAgQFF1ZXJ5UGFyYW0oImxvYWRzcmMiKSBTdHJpbmcgbG9hZFNyYykgewovLyAgICAgICAgcmV0dXJuIHJ1bkRhKGRzLCByZXRyaWV2ZURhaWx5TG9hZChkYXRlLCBmYWxzZSwgbHNlLCBwbm9kZSwgbG9hZFNyYykpOwovLyAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJkZW1hbmQtcmVhZCIsICJkZW1hbmQtd3JpdGUifSkKICAgIEBHRVQKICAgIEBQYXRoKCJsb2FkLXNvdXJjZXMiKQogICAgcHVibGljIExpc3Q8TG9hZERhdGFTb3VyY2U+IGxvYWREYXRhU291cmNlKCkgewogICAgICAgIHJldHVybiBydW5EYShkcywgcmV0cmlldmVMb2FkU291cmNlcygpKTsKICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlTG9hZEFuYWx5c2lzQ29tcG9uZW50c1w+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVBY3RpdmVMb2FkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlTG9hZEFuYWx5c2lzQ29tcG9uZW50c1w+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVBY3RpdmVMb2FkXD4=</last-pattern>
       <last-replace>and</last-replace>
       <last-substitute>bind</last-substitute>
       <last-dir>1</last-dir>
@@ -1024,8 +1027,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNb2RpZmlhYmxlRGF0YVw+</entry>
-        <entry>condition</entry>
         <entry encoding="base64">XDxjb25kaXRpb25DbGF1c2VcPg==</entry>
         <entry encoding="base64">XDxDb25kaXRpb25DbGF1c2VcPg==</entry>
         <entry>saveInputs</entry>
@@ -1044,6 +1045,8 @@
         <entry>lse</entry>
         <entry>saveLoad</entry>
         <entry encoding="base64">XDxzYXZlTG9hZEFuYWx5c2lzQ29tcG9uZW50c1w+</entry>
+        <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVBY3RpdmVMb2FkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>784</entry>
