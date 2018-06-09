@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/integ/pbkr/jc-legacy-connector/src/main/java/com/integ/pbroker/model/dmb/BidInfo.java" timestamp="1528585060328">
-        <mark key="'" line="121" column="1" />
+      <file name="$USER_HOME$/dev/integ/pbkr/jc-legacy-connector/src/main/java/com/integ/pbroker/model/dmb/BidInfo.java" timestamp="1528585878541">
+        <mark key="'" line="78" column="8" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -433,12 +433,12 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1528506656794">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="166" column="55" />
-        <mark key="]" line="166" column="55" />
-        <mark key="." line="166" column="55" />
-        <mark key="^" line="166" column="55" />
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1528586785692">
+        <mark key="'" line="182" column="40" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
+        <mark key="^" line="181" column="18" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/AdminApiTest.java" timestamp="1525204951500">
         <mark key="'" line="73" column="88" />
@@ -533,7 +533,7 @@
         <mark key="." line="28" column="13" />
         <mark key="^" line="97" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/integ/legacy/pbroker/java/src/com/integ/pbroker/view/dmb/submission/SubmissionScreen.java" timestamp="1528584953012">
+      <file name="$USER_HOME$/dev/integ/legacy/pbroker/java/src/com/integ/pbroker/view/dmb/submission/SubmissionScreen.java" timestamp="1528586713108">
         <mark key="'" line="279" column="43" />
       </file>
       <file name="$USER_HOME$/dev/quartz-scheduler-utils/src/main/java/com/integ/scheduler/IntegQuartzDriver.java" timestamp="1511969869178">
@@ -643,6 +643,9 @@
         <mark key="]" line="23" column="56" />
         <mark key="^" line="43" column="39" />
         <mark key="." line="23" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/immutables/SubmissionInfo.java" timestamp="1528586219637">
+        <mark key="'" line="67" column="20" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" timestamp="1527010788202">
         <mark key="'" line="132" column="19" />
@@ -765,6 +768,9 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandType.java" timestamp="1528586042859">
+        <mark key="^" line="19" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/LoadAnalysisInputDef.java" timestamp="1526927824379">
         <mark key="[" line="32" column="32" />
         <mark key="]" line="32" column="34" />
@@ -802,8 +808,8 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/DemandVirtualBid.java" timestamp="1528251074647">
-        <mark key="'" line="37" column="19" />
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/DemandVirtualBid.java" timestamp="1528586017000">
+        <mark key="'" line="112" column="18" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1525189644193">
         <mark key="'" line="17" column="18" />
@@ -860,15 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="11" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="67" column="33" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="71" column="43" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="72" column="5" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="94" column="5" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="108" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="69" column="5" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="118" column="9" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/Utils.java" />
       <jump line="355" column="46" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/Utils.java" />
       <jump line="345" column="51" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/Utils.java" />
       <jump line="357" column="51" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/Utils.java" />
@@ -960,10 +957,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/integ/legacy/pbroker/java/src/com/integ/pbroker/model/dmb/BidInfo.java" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/integ/pbkr/jc-legacy-connector/src/main/java/com/integ/pbroker/model/dmb/BidInfo.java" />
       <jump line="121" column="1" filename="$USER_HOME$/dev/integ/pbkr/jc-legacy-connector/src/main/java/com/integ/pbroker/model/dmb/BidInfo.java" />
+      <jump line="22" column="28" filename="$USER_HOME$/dev/integ/pbkr/jc-legacy-connector/src/main/java/com/integ/pbroker/model/dmb/BidInfo.java" />
+      <jump line="90" column="12" filename="$USER_HOME$/dev/integ/pbkr/jc-legacy-connector/src/main/java/com/integ/pbroker/model/dmb/BidInfo.java" />
+      <jump line="113" column="22" filename="$USER_HOME$/dev/integ/pbkr/jc-legacy-connector/src/main/java/com/integ/pbroker/model/dmb/BidInfo.java" />
+      <jump line="78" column="8" filename="$USER_HOME$/dev/integ/pbkr/jc-legacy-connector/src/main/java/com/integ/pbroker/model/dmb/BidInfo.java" />
+      <jump line="167" column="44" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
+      <jump line="112" column="18" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/DemandVirtualBid.java" />
+      <jump line="164" column="99" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
+      <jump line="67" column="20" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/immutables/SubmissionInfo.java" />
+      <jump line="181" column="40" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAvL3Rocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ0byBiZSBpbXBsZW1lbnRlZCIpOwovLyAgICAgICAgU3RyaW5nIGFjdGlvbk5hbWU9ICJwcm9jZXNzX2RtYl9sb2FkX2ltcG9ydF9zdW1tYXJ5IjsKLy8gICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gY3JpdGVyaWFNYXAgPSBjcmVhdGVEYXRlTWFwKGRhdGUudG9EYXRlKCkpOwo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyBTaW1wbGVEYXRlRm9ybWF0IGZvcm1hdCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJNTS9ERC95eXl5Iik7CgogICAgc3RhdGljIE1hcDxTdHJpbmcsT2JqZWN0PiBjcmVhdGVEYXRlTWFwKERhdGUgZGF0ZSkgewogICAgICAgIFN0cmluZyBzdHJEdGUgPSBmb3JtYXQuZm9ybWF0KGRhdGUpOwogICAgICAgIEdyZWdvcmlhbkNhbGVuZGFyIGNhbGVuZGFyID0gbmV3IEdyZWdvcmlhbkNhbGVuZGFyKCk7CiAgICAgICAgY2FsZW5kYXIuc2V0VGltZShkYXRlKTsKICAgICAgICBjYWxlbmRhci5zZXQoQ2FsZW5kYXIuSE9VUiwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1JTlVURSwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLlNFQ09ORCwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1JTExJU0VDT05ELCAwKTsKCiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIG1hcC5wdXQoIlRSQU5TREFURSIsIHN0ckR0ZSk7CiAgICAgICAgbWFwLnB1dCgiQ1JFQVRFREFURSIsc3RyRHRlKTsKICAgICAgICBtYXAucHV0KCJFRkZFQ1RJVkVEQVRFIiwgc3RyRHRlKTsKICAgICAgICBtYXAucHV0KCJEQVRFIiwgc3RyRHRlKTsKICAgICAgICBtYXAucHV0KCJJTVBPUlRfVFlQRSIsICJGIik7CiAgICAgICAgbWFwLnB1dCgiREFURV9PQkoiLCBkYXRlKTsKICAgICAgICBtYXAucHV0KCJVTklUUkVUSVJFRERBVEUiLCBzdHJEdGUpOwogICAgICAgIG1hcC5wdXQoIkNSRUFURURBVEVfT0JKIiwgZGF0ZSk7CiAgICAgICAgbWFwLnB1dCgiVFJBTlNEQVRFX09CSiIsIGRhdGUpOwogICAgICAgIG1hcC5wdXQoIkVGRkVDVElWRURBVEVfT0JKIixkYXRlKTsKICAgICAgICBtYXAucHV0KCJDQUxFTkRBUiIsY2FsZW5kYXIpOwogICAgICAgIHJldHVybiBtYXA7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyB2b2lkIGltcG9ydEFsbExvYWRzKERhdGUgZGF0ZSkgewoKICAgICAgICBNYXA8U3RyaW5nLE9iamVjdD4gY3JpdGVyaWFNYXAgPSBjcmVhdGVEYXRlTWFwKGRhdGUpOwogICAgICAgIGNyaXRlcmlhTWFwLnB1dCgiYWN0aW9uTmFtZSIgLCJwcm9jZXNzX2RtYl9sb2FkX2ltcG9ydF9zdW1tYXJ5Iik7CiAgICB9Cg==</text>
@@ -998,22 +1004,22 @@
         <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmFpbGFibGVCaWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJkZW1hbmQtd3JpdGUifSkKICAgIEBQT1NUCiAgICBAUGF0aCgicHJvY2Vzcy1hbGwtbG9hZHMiKQogICAgcHVibGljIFJlc3RmdWxSZXNwb25zZSBpbXBvcnRBbGxMb2FkcygKICAgICAgICAgICAgQFF1ZXJ5UGFyYW0oImRhdGUiKSBMb2NhbERhdGUgZGF0ZSwKICAgICAgICAgICAgQENvbnRleHQgVXJpSW5mbyB1cmlJbmZvLAogICAgICAgICAgICBAQ29udGV4dCBTZWN1cml0eUNvbnRleHQgY29udGV4dCApIHsKICAgICAgICBTdHJpbmcgYWN0aW9uTmFtZT0gInByb2Nlc3NfZG1iX2xvYWRfaW1wb3J0X3N1bW1hcnkiOwogICAgICAgIFN0cmluZyB1c2VyTmFtZSA9IGNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKTsKICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGNyaXRlcmlhTWFwID0gY3JlYXRlRGF0ZU1hcChkYXRlLnRvRGF0ZSgpKTsKICAgICAgICBVUkwgc2VydmxldFVybCA9IExlZ2FjeVV0aWxzLmdldENoYW5uZWxTZXJ2bGV0VXJsKHVyaUluZm8pOwogICAgICAgIEV2ZW50UmVzcG9uc2UgcmVzID0gcmVxdWVzdCh1c2VyTmFtZSwgYWN0aW9uTmFtZSwgY3JpdGVyaWFNYXAsIHNlcnZsZXRVcmwpOwoKICAgICAgICBpZiAoIXJlcy5pc1N1Y2Nlc3MoKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgQXBwRXhjZXB0aW9uKCJFcnJvciBmcm9tIGxlZ2FjeSBhcGlAIiArIHNlcnZsZXRVcmwudG9FeHRlcm5hbEZvcm0oKSwgcmVzLmdldEpjb21wbGV0ZUV4Y2VwdGlvbigpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIFJlc3RmdWxSZXNwb25zZURlZi5TVUNDRVNTOwogICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBhY3Rpb25OYW1lPSAicHJvY2Vzc19kbWJfbG9hZF9pbXBvcnRfc3VtbWFyeSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAvL3Rocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ0byBiZSBpbXBsZW1lbnRlZCIpOwovLyAgICAgICAgU3RyaW5nIGFjdGlvbk5hbWU9ICJwcm9jZXNzX2RtYl9sb2FkX2ltcG9ydF9zdW1tYXJ5IjsKLy8gICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gY3JpdGVyaWFNYXAgPSBjcmVhdGVEYXRlTWFwKGRhdGUudG9EYXRlKCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEJpZEluZm8gewo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyB1c2VyTmFtZSA9IGNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKTsK</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
@@ -1025,25 +1031,25 @@
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uaW50ZWcucGJyb2tlci5tb2RlbC5kbWI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVEYXRlTWFwKCkucHV0KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkZWQgaW4gY29tbWVudHMK</text>
+        <text encoding="base64">ICAgICAgICBkYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpbXBseSB2YWx1ZSBzaG91bGQgbm90IGNyZWF0ZSBkZW1hbmQgc3VtbWFyeSBlbnRyeQogICAgICAgICAgICAgICAgICAgIGxvYWRzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAubWFwKHZhbHVlIC0+IERtYlN1bW1hcnkub2YodmFsdWUubHNlSWQoKSwgdmFsdWUucG5vZGVJZCgpLCBkYXRlLCBERU1BTkQpKSkqLwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGEubHNlSWQoKS5lcXVhbHNJZ25vcmVDYXNlKGIubHNlSWQoKSkgJiYKICAgICAgICAgICAgICAgIGEucG5vZGVJZCgpLmVxdWFsc0lnbm9yZUNhc2UoYi5wbm9kZUlkKCkp</text>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uaW50ZWcuamNvbXBsZXRlLmZyYW1ld29yay5kYXRhaW1wb3J0Owo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEJpZEluZm8gewo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEltcG9ydEV4Y2VwdGlvbiB7Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -1097,10 +1103,10 @@
         <entry>action Rerun</entry>
         <entry encoding="base64">YWN0aW9uIEdpdC5CcmFuY2hlcyA=</entry>
         <entry>a</entry>
-        <entry>action ReformatCode</entry>
         <entry>noh</entry>
         <entry>w</entry>
         <entry>action CheckinProject</entry>
+        <entry>action ReformatCode</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
