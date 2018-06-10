@@ -1055,7 +1055,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>388</text>
       </register>
     </registers>
     <search>
@@ -1091,7 +1091,6 @@
         <entry encoding="base64">XDxhdmFpbGFibGVCaWRzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/to_date('09-MAY-18','DD-MON-RR')/#transdate#/g</entry>
         <entry encoding="base64">JzwsJz5zL2J1aWxkZXIvc2NyaXB0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLyN0cmFuc2RhdGUjL3ZfdHJhbnNkYXRlL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyNwb3N0X2RhdGUjL3ZfcG9zdF9kYXRlL2c=</entry>
@@ -1111,6 +1110,7 @@
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
         <entry>w</entry>
+        <entry>388</entry>
       </history-cmd>
       <history-expr />
       <history-input />
