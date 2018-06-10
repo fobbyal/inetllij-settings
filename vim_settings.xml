@@ -79,7 +79,6 @@
         <mark key="^" line="41" column="79" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/integ/legacy/pbroker/java/src/com/integ/pbroker/dao/dmb/submission/DefaultSingleThreadEJBHandler.java" timestamp="1528584724733" />
       <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/password/PbKdf2Hash.java" timestamp="1526335732903">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -247,7 +246,6 @@
         <mark key="." line="27" column="28" />
         <mark key="^" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/common/src/main/java/com/integ/core/api/Utils.java" timestamp="1528584217871" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/auth/BrokerUserStore.java" timestamp="1520544779399">
         <mark key="[" line="37" column="57" />
         <mark key="]" line="37" column="57" />
@@ -433,12 +431,12 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1528594556317">
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1528635699282">
         <mark key="'" line="178" column="28" />
-        <mark key="[" line="166" column="114" />
-        <mark key="]" line="166" column="117" />
-        <mark key="." line="166" column="117" />
-        <mark key="^" line="166" column="117" />
+        <mark key="[" line="183" column="25" />
+        <mark key="]" line="183" column="37" />
+        <mark key="." line="183" column="37" />
+        <mark key="^" line="183" column="37" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/AdminApiTest.java" timestamp="1525204951500">
         <mark key="'" line="73" column="88" />
@@ -629,7 +627,6 @@
         <mark key="." line="55" column="23" />
         <mark key="^" line="55" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/integ/legacy/pbroker/java/src/com/integ/pbroker/dao/demandbid/DemandBidSubmissionDAO.java" timestamp="1528584192372" />
       <file name="$USER_HOME$/dev/integ/legacy/pbroker/java/src/com/integ/pbroker/model/dmb/BidInfo.java" timestamp="1528585049035">
         <mark key="'" line="0" column="0" />
       </file>
@@ -972,7 +969,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>MARKET_DATE</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyBTaW1wbGVEYXRlRm9ybWF0IGZvcm1hdCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJNTS9ERC95eXl5Iik7CgogICAgc3RhdGljIE1hcDxTdHJpbmcsT2JqZWN0PiBjcmVhdGVEYXRlTWFwKERhdGUgZGF0ZSkgewogICAgICAgIFN0cmluZyBzdHJEdGUgPSBmb3JtYXQuZm9ybWF0KGRhdGUpOwogICAgICAgIEdyZWdvcmlhbkNhbGVuZGFyIGNhbGVuZGFyID0gbmV3IEdyZWdvcmlhbkNhbGVuZGFyKCk7CiAgICAgICAgY2FsZW5kYXIuc2V0VGltZShkYXRlKTsKICAgICAgICBjYWxlbmRhci5zZXQoQ2FsZW5kYXIuSE9VUiwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1JTlVURSwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLlNFQ09ORCwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1JTExJU0VDT05ELCAwKTsKCiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIG1hcC5wdXQoIlRSQU5TREFURSIsIHN0ckR0ZSk7CiAgICAgICAgbWFwLnB1dCgiQ1JFQVRFREFURSIsc3RyRHRlKTsKICAgICAgICBtYXAucHV0KCJFRkZFQ1RJVkVEQVRFIiwgc3RyRHRlKTsKICAgICAgICBtYXAucHV0KCJEQVRFIiwgc3RyRHRlKTsKICAgICAgICBtYXAucHV0KCJJTVBPUlRfVFlQRSIsICJGIik7CiAgICAgICAgbWFwLnB1dCgiREFURV9PQkoiLCBkYXRlKTsKICAgICAgICBtYXAucHV0KCJVTklUUkVUSVJFRERBVEUiLCBzdHJEdGUpOwogICAgICAgIG1hcC5wdXQoIkNSRUFURURBVEVfT0JKIiwgZGF0ZSk7CiAgICAgICAgbWFwLnB1dCgiVFJBTlNEQVRFX09CSiIsIGRhdGUpOwogICAgICAgIG1hcC5wdXQoIkVGRkVDVElWRURBVEVfT0JKIixkYXRlKTsKICAgICAgICBtYXAucHV0KCJDQUxFTkRBUiIsY2FsZW5kYXIpOwogICAgICAgIHJldHVybiBtYXA7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyB2b2lkIGltcG9ydEFsbExvYWRzKERhdGUgZGF0ZSkgewoKICAgICAgICBNYXA8U3RyaW5nLE9iamVjdD4gY3JpdGVyaWFNYXAgPSBjcmVhdGVEYXRlTWFwKGRhdGUpOwogICAgICAgIGNyaXRlcmlhTWFwLnB1dCgiYWN0aW9uTmFtZSIgLCJwcm9jZXNzX2RtYl9sb2FkX2ltcG9ydF9zdW1tYXJ5Iik7CiAgICB9Cg==</text>
@@ -1007,13 +1004,13 @@
         <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>MARKET_DATE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdmFpbGFibGVCaWRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBhY3Rpb25OYW1lPSAicHJvY2Vzc19kbWJfbG9hZF9pbXBvcnRfc3VtbWFyeSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcml0ZXJpYU1hcC5wdXQoIk1BUktFVF9EQVRFIiwgZGF0ZS50b1N0cmluZygiTU0vZGQveXl5eSIpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvL3Rocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ0byBiZSBpbXBsZW1lbnRlZCIpOwovLyAgICAgICAgU3RyaW5nIGFjdGlvbk5hbWU9ICJwcm9jZXNzX2RtYl9sb2FkX2ltcG9ydF9zdW1tYXJ5IjsKLy8gICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gY3JpdGVyaWFNYXAgPSBjcmVhdGVEYXRlTWFwKGRhdGUudG9EYXRlKCkpOwo=</text>
@@ -1055,7 +1052,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>388</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1108,9 +1105,9 @@
         <entry>noh</entry>
         <entry>action CheckinProject</entry>
         <entry>action ReformatCode</entry>
-        <entry>wa</entry>
         <entry>w</entry>
         <entry>388</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
