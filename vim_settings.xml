@@ -431,7 +431,7 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1528637239357">
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1528639309729">
         <mark key="'" line="178" column="28" />
         <mark key="[" line="186" column="33" />
         <mark key="]" line="186" column="33" />
@@ -829,12 +829,12 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" timestamp="1528501923656">
-        <mark key="'" line="565" column="31" />
-        <mark key="[" line="564" column="32" />
-        <mark key="]" line="564" column="32" />
-        <mark key="." line="564" column="32" />
-        <mark key="^" line="565" column="100" />
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" timestamp="1528639338554">
+        <mark key="'" line="114" column="42" />
+        <mark key="[" line="488" column="9" />
+        <mark key="]" line="488" column="9" />
+        <mark key="." line="488" column="9" />
+        <mark key="^" line="488" column="9" />
       </file>
       <file name="$USER_HOME$/dev/pgadsanalytics/src/main/java/com/integ/pgads/auth/GADSPasswordStore.java" timestamp="1526334352146">
         <mark key="'" line="21" column="3" />
@@ -866,11 +866,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="48" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/AdminDataAccess.java" />
-      <jump line="117" column="4" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/UtilsTest.java" />
-      <jump line="140" column="1227" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/UtilsTest.java" />
-      <jump line="14" column="19" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/mock-json/lse-company-name-map.json" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/mock-json/lse-company-name-map.json" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/mock-json/lse-company-name-map.json" />
       <jump line="55" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/mock-json/lse-company-name-map.json" />
       <jump line="33" column="13" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DemandSummaryDef.java" />
@@ -892,7 +887,6 @@
       <jump line="568" column="37" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="27" column="74" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/target/generated-sources/annotations/com/integ/pbkr/restful/immutables/DemandLoadInputUpdate.java" />
       <jump line="87" column="41" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="168" column="32" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="551" column="79" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="85" column="50" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
@@ -932,10 +926,8 @@
       <jump line="570" column="56" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="554" column="49" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="439" column="33" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="114" column="19" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="115" column="57" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="121" column="40" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="125" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="538" column="35" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="571" column="40" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="573" column="54" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
@@ -966,10 +958,18 @@
       <jump line="178" column="28" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="155" column="41" filename="$USER_HOME$/dev/integ/legacy/pbroker/java/src/com/integ/pbroker/dao/dmb/submission/SubmitEJBHandler.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/integ/legacy/pbroker/java/src/com/integ/pbroker/dao/dmb/submission/SubmitEJBHandler.java" />
+      <jump line="432" column="24" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="629" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="444" column="37" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="124" column="49" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="125" column="38" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="112" column="42" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="114" column="42" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toD</text>
+        <text>;</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyBTaW1wbGVEYXRlRm9ybWF0IGZvcm1hdCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJNTS9ERC95eXl5Iik7CgogICAgc3RhdGljIE1hcDxTdHJpbmcsT2JqZWN0PiBjcmVhdGVEYXRlTWFwKERhdGUgZGF0ZSkgewogICAgICAgIFN0cmluZyBzdHJEdGUgPSBmb3JtYXQuZm9ybWF0KGRhdGUpOwogICAgICAgIEdyZWdvcmlhbkNhbGVuZGFyIGNhbGVuZGFyID0gbmV3IEdyZWdvcmlhbkNhbGVuZGFyKCk7CiAgICAgICAgY2FsZW5kYXIuc2V0VGltZShkYXRlKTsKICAgICAgICBjYWxlbmRhci5zZXQoQ2FsZW5kYXIuSE9VUiwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1JTlVURSwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLlNFQ09ORCwgMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1JTExJU0VDT05ELCAwKTsKCiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIG1hcC5wdXQoIlRSQU5TREFURSIsIHN0ckR0ZSk7CiAgICAgICAgbWFwLnB1dCgiQ1JFQVRFREFURSIsc3RyRHRlKTsKICAgICAgICBtYXAucHV0KCJFRkZFQ1RJVkVEQVRFIiwgc3RyRHRlKTsKICAgICAgICBtYXAucHV0KCJEQVRFIiwgc3RyRHRlKTsKICAgICAgICBtYXAucHV0KCJJTVBPUlRfVFlQRSIsICJGIik7CiAgICAgICAgbWFwLnB1dCgiREFURV9PQkoiLCBkYXRlKTsKICAgICAgICBtYXAucHV0KCJVTklUUkVUSVJFRERBVEUiLCBzdHJEdGUpOwogICAgICAgIG1hcC5wdXQoIkNSRUFURURBVEVfT0JKIiwgZGF0ZSk7CiAgICAgICAgbWFwLnB1dCgiVFJBTlNEQVRFX09CSiIsIGRhdGUpOwogICAgICAgIG1hcC5wdXQoIkVGRkVDVElWRURBVEVfT0JKIixkYXRlKTsKICAgICAgICBtYXAucHV0KCJDQUxFTkRBUiIsY2FsZW5kYXIpOwogICAgICAgIHJldHVybiBtYXA7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyB2b2lkIGltcG9ydEFsbExvYWRzKERhdGUgZGF0ZSkgewoKICAgICAgICBNYXA8U3RyaW5nLE9iamVjdD4gY3JpdGVyaWFNYXAgPSBjcmVhdGVEYXRlTWFwKGRhdGUpOwogICAgICAgIGNyaXRlcmlhTWFwLnB1dCgiYWN0aW9uTmFtZSIgLCJwcm9jZXNzX2RtYl9sb2FkX2ltcG9ydF9zdW1tYXJ5Iik7CiAgICB9Cg==</text>
@@ -1004,61 +1004,69 @@
         <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>toD</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdmFpbGFibGVCaWRzXD4=</text>
+        <text encoding="base64">XDxkZW1hbmRCaWRTdGF0dXNFeHRyYWN0b3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjcml0ZXJpYU1hcC5wdXQoIkVGRkVDVElWRURBVEUiLCBkYXRlLnRvU3RyaW5nKCJNTS9kZC95eXl5IikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBub2RlSWQgPSBycy5nZXRTdHJpbmcoInBub2RlX2lkIik7CiAgICAgICAgICAgIFN0cmluZyBsc2VJZCA9IHJzLmdldFN0cmluZygibHNlX2lkIik7CiAgICAgICAgICAgIFN0cmluZyBiaWRUeXBlID0gcnMuZ2V0U3RyaW5nKCJCSURfVFlQRSIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3Rocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ0byBiZSBpbXBsZW1lbnRlZCIpOwovLyAgICAgICAgU3RyaW5nIGFjdGlvbk5hbWU9ICJwcm9jZXNzX2RtYl9sb2FkX2ltcG9ydF9zdW1tYXJ5IjsKLy8gICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gY3JpdGVyaWFNYXAgPSBjcmVhdGVEYXRlTWFwKGRhdGUudG9EYXRlKCkpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">a2V5IC0+IGtleS5iaWRUeXBlKCk9PWIuYmlkVHlwZSgpICYmIAogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5LmxzZUlkKCkuZXF1YWxzSWdub3JlQ2FzZSgp</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyB1c2VyTmFtZSA9IGNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpLmdldE5hbWUoKTsK</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjcmVhdGVEYXRlTWFwKCkucHV0KCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkYQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBGdW5jCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEJpZEluZm8gewo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IG5lZWQgdG8gZ2V0IHN1Ym1pc3Npb24gbG9ncyBmcm9tIHNvbWUgZG1iX3N1Ym1pdF9sb2dzCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgU3RyaW5nIHBub2RlSWQgPSBycy5nZXRTdHJpbmcoInBub2RlaWQiKTsKICAgICAgICBTdHJpbmcgbHNlSWQgPSBycy5nZXRTdHJpbmcoImxzZV9pZCIpOwogICAgICAgIFN0cmluZyBiaWRUeXBlID0gcnMuZ2V0U3RyaW5nKCJCSURfVFlQRSIpOwogICAgICAgIERhdGUgdHJhbnNEYXRlID0gcnMuZ2V0RGF0ZSgidHJhbnNkYXRlIik7CgogICAgICAgIE9wdGlvbmFsPFN0cmluZz4gdHJhbnNJZCA9IG9mTnVsbGFibGUocnMuZ2V0U3RyaW5nKCJzdWNjZXNzdHJhbnNpZCIpKTsKICAgICAgICByZXR1cm4gRGVtYW5kVmlydHVhbEJpZC5idWlsZGVyKCkKICAgICAgICAgICAgICAgIC5wbm9kZUlkKHBub2RlSWQpCiAgICAgICAgICAgICAgICAubHNlSWQobHNlSWQpCiAgICAgICAgICAgICAgICAuYmlkVHlwZShEZW1hbmRUeXBlLmZyb21TdHJpbmcoYmlkVHlwZSkpCiAgICAgICAgICAgICAgICAudHJhbnNEYXRlKExvY2FsRGF0ZS5mcm9tRGF0ZUZpZWxkcyh0cmFuc0RhdGUpKQogICAgICAgICAgICAgICAgLnN1Ym1pdEluZm8oU3VibWlzc2lvbkluZm8uYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJtaXRTdGF0dXMoU3VibWl0U3RhdHVzLm9mKHJzLmdldFN0cmluZygic3RhdHVzIikpKQogICAgICAgICAgICAgICAgICAgICAgICAuc3VibWlzc2lvblRpbWUocnMuZ2V0VGltZXN0YW1wKCJzdWJtaXRkYXRlIikpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdWJtaXNzaW9uTXNnKHRyYW5zSWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAub3JFbHNlKHJzLmdldFN0cmluZygiZXJyb3J0ZXh0IikpKQogICAgICAgICAgICAgICAgICAgICAgICAuc3VibWl0VHJhbnNJZChvZk51bGxhYmxlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>successtransid = ofNullable(rs.getString(&quot;successtransid&quot;));
+        return DemandVirtualBid.builder()
+                .pnodeId(pnodeId)
+                .lseId(lseId)
+                .bidType(DemandType.fromString(bidType))
+                .transDate(LocalDate.fromDateFields(transDate))
+                .submitInfo(SubmissionInfo.builder()
+                        .submitStatus(SubmitStatus.of(rs.getString(&quot;status&quot;)))
+                        .</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL3Rocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ0byBiZSBpbXBsZW1lbnRlZCIpOwovLyAgICAgICAgU3RyaW5nIGFjdGlvbk5hbWU9ICJwcm9jZXNzX2RtYl9sb2FkX2ltcG9ydF9zdW1tYXJ5IjsKLy8gICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gY3JpdGVyaWFNYXAgPSBjcmVhdGVEYXRlTWFwKGRhdGUudG9EYXRlKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdmFpbGFibGVCaWRzXD4=</last-search>
+      <last-search encoding="base64">XDxkZW1hbmRCaWRTdGF0dXNFeHRyYWN0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdmFpbGFibGVCaWRzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZW1hbmRCaWRTdGF0dXNFeHRyYWN0b3JcPg==</last-pattern>
       <last-replace>and</last-replace>
       <last-substitute>bind</last-substitute>
       <last-dir>1</last-dir>
@@ -1066,7 +1074,6 @@
     </search>
     <history>
       <history-search>
-        <entry>saveLoad</entry>
         <entry encoding="base64">XDxzYXZlTG9hZEFuYWx5c2lzQ29tcG9uZW50c1w+</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVBY3RpdmVMb2FkXD4=</entry>
@@ -1086,9 +1093,9 @@
         <entry>pjnode</entry>
         <entry>pnode</entry>
         <entry encoding="base64">XDxhdmFpbGFibGVCaWRzXD4=</entry>
+        <entry encoding="base64">XDxkZW1hbmRCaWRTdGF0dXNFeHRyYWN0b3JcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2J1aWxkZXIvc2NyaXB0L2c=</entry>
         <entry encoding="base64">JzwsJz5zLyN0cmFuc2RhdGUjL3ZfdHJhbnNkYXRlL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyNwb3N0X2RhdGUjL3ZfcG9zdF9kYXRlL2c=</entry>
         <entry>%s/\\\\/\//g</entry>
@@ -1104,10 +1111,11 @@
         <entry>a</entry>
         <entry>noh</entry>
         <entry>action CheckinProject</entry>
-        <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>388</entry>
+        <entry>ea</entry>
         <entry>wa</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
