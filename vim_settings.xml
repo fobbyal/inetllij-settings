@@ -12,6 +12,9 @@
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/LoadDataSource.java" timestamp="1528054487587">
         <mark key="'" line="29" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" timestamp="1528730871591">
+        <mark key="'" line="528" column="30" />
+      </file>
       <file name="/a.dummy" timestamp="1523464330714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -866,8 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="13" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DemandSummaryDef.java" />
-      <jump line="37" column="19" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/DemandVirtualBid.java" />
       <jump line="96" column="4" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="42" column="48" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="79" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
@@ -966,6 +967,8 @@
       <jump line="606" column="39" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="611" column="51" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="627" column="50" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="63" column="13" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
+      <jump line="528" column="30" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1007,7 +1010,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkQ29uZmlnXD4=</text>
+        <text>canSub</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBub2RlSWQgPSBycy5nZXRTdHJpbmcoInBub2RlX2lkIik7CiAgICAgICAgICAgIFN0cmluZyBsc2VJZCA9IHJzLmdldFN0cmluZygibHNlX2lkIik7CiAgICAgICAgICAgIFN0cmluZyBiaWRUeXBlID0gcnMuZ2V0U3RyaW5nKCJCSURfVFlQRSIpOwo=</text>
@@ -1064,9 +1067,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkQ29uZmlnXD4=</last-search>
+      <last-search>canSub</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkQ29uZmlnXD4=</last-pattern>
+      <last-pattern>canSub</last-pattern>
       <last-replace>and</last-replace>
       <last-substitute>bind</last-substitute>
       <last-dir>1</last-dir>
@@ -1074,7 +1077,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dmb_load</entry>
         <entry encoding="base64">XDxETUJfTERfSU1QT1JUX0NGR1w+</entry>
         <entry encoding="base64">XDx1cGRhdGVkTG9hZHNcPg==</entry>
         <entry encoding="base64">XDwxXD4=</entry>
@@ -1094,6 +1096,7 @@
         <entry>summary</entry>
         <entry encoding="base64">XDxEbWJTdW1tYXJ5XD4=</entry>
         <entry encoding="base64">XDxsb2FkQ29uZmlnXD4=</entry>
+        <entry>canSub</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyN0cmFuc2RhdGUjL3ZfdHJhbnNkYXRlL2c=</entry>
