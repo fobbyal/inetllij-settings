@@ -373,7 +373,7 @@
       <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/api/Utils.java" timestamp="1527014188761">
         <mark key="'" line="22" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528809155739">
+      <file name="/Dummy.txt" timestamp="1529358152685">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
@@ -648,7 +648,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoIGRhdGUpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -702,8 +702,8 @@
         <entry>action Rerun</entry>
         <entry>w</entry>
         <entry>action ReformatCode</entry>
-        <entry>action CheckinProject</entry>
         <entry>wa</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
