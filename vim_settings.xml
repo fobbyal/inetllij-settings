@@ -449,8 +449,8 @@
       <file name="$USER_HOME$/dev/integ/pbkr/db-util/target/generated-sources/annotations/com/integ/db/immutables/AuditSupportOptions.java" timestamp="1527802003178">
         <mark key="'" line="743" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" timestamp="1529481538359">
-        <mark key="'" line="73" column="26" />
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" timestamp="1529482531195">
+        <mark key="'" line="242" column="32" />
         <mark key="[" line="620" column="96" />
         <mark key="]" line="620" column="96" />
         <mark key="." line="620" column="96" />
@@ -484,12 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="38" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="27" column="58" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/DatedLsePNode.java" />
-      <jump line="8" column="57" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DateLsePNodeDef.java" />
-      <jump line="165" column="42" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="202" column="42" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="73" column="69" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="86" column="69" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="204" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="72" column="0" filename="$USER_HOME$/dev/integ/legacy/pbroker/java/test/com/integ/pbroker/controller/ejb/handler/dmb/loadimport/LoadImportEJBHandlerTest.java" />
@@ -581,9 +575,15 @@
       <jump line="496" column="43" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="494" column="43" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="475" column="11" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="80" column="26" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="73" column="26" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="551" column="36" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="67" column="34" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="68" column="70" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="100" column="45" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="13" column="39" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="242" column="32" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -613,7 +613,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>intial</text>
+        <text>dmb_la_component</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5tb2RpZmljYXRpb25JbmZvKE1vZGlmaWNhdGlvbkluZm8uYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC51c2VyKHJzLmdldFN0cmluZygic3VibWl0dGVkYnkiKSkKICAgICAgICAgICAgICAgICAgICAgICAgLm1vZERhdGUocnMuZ2V0VGltZXN0YW1wKCJtb2RpZmllZGRhdGUiKSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkpCg==</text>
@@ -662,9 +662,9 @@
       </register>
     </registers>
     <search>
-      <last-search>intial</last-search>
+      <last-search>dmb_la_component</last-search>
       <last-offset />
-      <last-pattern>intial</last-pattern>
+      <last-pattern>dmb_la_component</last-pattern>
       <last-replace>loadinfo</last-replace>
       <last-substitute>request</last-substitute>
       <last-dir>1</last-dir>
@@ -672,11 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>removeBids</entry>
-        <entry>deleteBids</entry>
-        <entry encoding="base64">XDx1cGRhdGVkTG9hZHNcPg==</entry>
-        <entry>importAllLoads</entry>
-        <entry>remove</entry>
         <entry>delete</entry>
         <entry>force</entry>
         <entry encoding="base64">XDxwYXJzZVw+</entry>
@@ -692,6 +687,11 @@
         <entry encoding="base64">XDxtYXRjaEtleVw+</entry>
         <entry>initial</entry>
         <entry>intial</entry>
+        <entry>retrieveFor</entry>
+        <entry>formula</entry>
+        <entry encoding="base64">XDxmb3JtdWxhRGF0YUV4dHJhY3Rvclw+</entry>
+        <entry>dmb_la</entry>
+        <entry>dmb_la_component</entry>
       </history-search>
       <history-cmd>
         <entry>%s/D:\/apps\/dompspk\//g</entry>
