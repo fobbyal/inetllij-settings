@@ -327,7 +327,7 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/nrg/NrgFormulaTest.java" timestamp="1529591319928">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/nrg/NrgFormulaTest.java" timestamp="1529599480964">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="66" column="88" />
       </file>
@@ -464,11 +464,19 @@
         <mark key="^" line="39" column="39" />
         <mark key="." line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" timestamp="1529591477940">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="8" />
-        <mark key="^" line="23" column="8" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct-start.solver" timestamp="1529600086711">
+        <mark key="'" line="3" column="3" />
+        <mark key="[" line="7" column="87" />
+        <mark key="]" line="7" column="104" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" timestamp="1529599928329">
+        <mark key="'" line="31" column="21" />
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="45" />
+        <mark key="^" line="36" column="45" />
+        <mark key="." line="36" column="45" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/db/pending-update/legacy-migration-1/run.sql" timestamp="1526412596938">
         <mark key="[" line="80" column="72" />
@@ -618,6 +626,13 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-mock/cdtf-ct-start.json" timestamp="1529600100712">
+        <mark key="'" line="9" column="31" />
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="2" />
+        <mark key="." line="10" column="2" />
+        <mark key="^" line="10" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/JsonProvider.java" timestamp="1520265813896">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="44" />
@@ -734,12 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/dev/jc-jdk8/pspk/props/aep-dev.xml" />
-      <jump line="20" column="41" filename="$USER_HOME$/dev/pgadsanalytics/src/main/resources/reference.conf" />
-      <jump line="23" column="3" filename="$USER_HOME$/dev/pgadsanalytics/src/main/java/com/integ/pgads/auth/GADSPasswordStore.java" />
-      <jump line="62" column="40" filename="$USER_HOME$/dev/pgadsanalytics/src/main/java/com/integ/pgads/PGADSApp.java" />
-      <jump line="24" column="70" filename="$MAVEN_REPOSITORY$/com/integ/core/auth/2.0.0-SNAPSHOT/auth-2.0.0-SNAPSHOT.jar!/com/integ/core/auth/rest/AuthDefaultBinder.class" />
-      <jump line="23" column="25" filename="$MAVEN_REPOSITORY$/com/integ/core/auth/2.0.0-SNAPSHOT/auth-2.0.0-SNAPSHOT.jar!/com/integ/core/auth/AuthConfigUtil.class" />
       <jump line="60" column="12" filename="$USER_HOME$/dev/pgadsanalytics/src/main/java/com/integ/pgads/PGADSApp.java" />
       <jump line="64" column="21" filename="$USER_HOME$/dev/pgadsanalytics/src/main/java/com/integ/pgads/PGADSApp.java" />
       <jump line="70" column="23" filename="$USER_HOME$/dev/pgadsanalytics/src/main/java/com/integ/pgads/PGADSApp.java" />
@@ -834,10 +843,16 @@
       <jump line="39" column="39" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="458" column="42" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="451" column="56" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
+      <jump line="6" column="15" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct-start.solver" />
+      <jump line="3" column="3" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct-start.solver" />
+      <jump line="32" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" />
+      <jump line="3" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-mock/cdtf-ct-start.json" />
+      <jump line="4" column="32" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-mock/cdtf-ct-start.json" />
+      <jump line="9" column="31" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-mock/cdtf-ct-start.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zby5sb2coInNvdmxlciIpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -849,61 +864,61 @@
         <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>console</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwXD4=</text>
+        <text encoding="base64">XDxXRkhTQ29zdFN0YXJ0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNU29sdmVyPEJpZ0RlY2ltYWw+IHNvbHZlciA9CiAgICAgICAgICAgICAgICB1dGlsLmNyZWF0ZVNvbHZlcigic3RlYW0tc29sdmVyIiwgZ2V0Q2xhc3MoKS5nZXRSZXNvdXJjZUFzU3RyZWFtKFNUX09QKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>StartIncrLaborCost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zby5sb2coInNvdmxlciIpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNU29sdmVyPEJpZ0RlY2ltYWw+IHNvbHZlciA9IHV0aWwuCg==</text>
+        <text encoding="base64">ICAiYWJjIjoiMS4zNTMzNCIK</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdHJhbnNpZW50IHN0YXRpYyBMb2dnZXIgTE9HID0gZ2V0TG9nZ2VyKE1ldGFTUUxDb250ZW50LmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInNvbHZlciBpcyAiLCBzb2x2ZXIpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdHJhbnNpZW50IHN0YXRpYyBMb2dnZXIgTE9HID0gb3JnLmFwYWNoZS5sb2c0amouTG9nZ2VyLmdldExvZ2dlcihqLmNsYXNzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aHR0cHM6Ly9wbHVnaW5zLmpldGJyYWlucy5jb20vcGx1Z2lucy9lYXAvaWRlYXZpbQo=</text>
+        <text encoding="base64">ICAgIE9iamVjdEQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVtb3ZlZCB1bndhdG5lZCBjb2x1bW5zCg==</text>
+        <text encoding="base64">ICAgICAgICBUcmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IHNhdmUgbWFudWFsIGJpZAo=</text>
+        <text encoding="base64">ICAiIjogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0KGRlcGVuZHNPbk1ldGhvZHMgPSAidGVzdERlbWFuZFN1bW1hcnkiKQogICAgcHVibGljIHZvaWQgdGVzdExvYWRBbmFseXNpcygpIHRocm93cyBFeGNlcHRpb24gewoKICAgICAgICBSZXNwb25zZSByZXNwOwogICAgICAgIHJlc3AgPSB0YXJnZXQoImRtYi9sb2FkLWFuYWx5c2lzIikKICAgICAgICAgICAgICAgIC5xdWVyeVBhcmFtKCJkYXRlIiwgdGVzdERhdGUpCiAgICAgICAgICAgICAgICAucXVlcnlQYXJhbSgibHNlIiwgbHNlSWQpCiAgICAgICAgICAgICAgICAucXVlcnlQYXJhbSgicG5vZGUiLCBwbm9kZUlkKQogICAgICAgICAgICAgICAgLnJlcXVlc3QoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT05fVFlQRSkKICAgICAgICAgICAgICAgIC5nZXQoKTsKICAgICAgICBhc3NlcnRUaGF0KHJlc3AuZ2V0U3RhdHVzKCksIE1hdGNoZXJzLmlzKDIwMCkpOwogICAgICAgIExvYWRBbmFseXNpcyBsb2FkQW5hbHlzaXMgPSByZXNwLnJlYWRFbnRpdHkoTG9hZEFuYWx5c2lzLmNsYXNzKTsKCiAgICAgICAgc2F2ZUpzb25GaWxlKGxvYWRBbmFseXNpcywgImxvYWQtYW5hbHlzaXMiKTsKICAgIH0K</text>
+        <text encoding="base64">ZnUK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubG9hZAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zby5sb2coInNvdmxlciIpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwXD4=</last-search>
+      <last-search encoding="base64">XDxXRkhTQ29zdFN0YXJ0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxXRkhTQ29zdFN0YXJ0XD4=</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d:\/apps\/dompspk\/</last-substitute>
       <last-dir>1</last-dir>
@@ -911,7 +926,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toParams</entry>
         <entry>saveHour</entry>
         <entry encoding="base64">XDxzYXZlSG91cmx5VmFsdWVzXD4=</entry>
         <entry>saveBids</entry>
@@ -931,6 +945,7 @@
         <entry>retrieveFormula</entry>
         <entry>init</entry>
         <entry encoding="base64">XDxyZXNwXD4=</entry>
+        <entry encoding="base64">XDxXRkhTQ29zdFN0YXJ0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Bub2RlLW5hbWUtbWFwL2xzZS1jb21wYW55LW5hbWUtbWFwL2c=</entry>
@@ -949,10 +964,10 @@
         <entry>action Rerun</entry>
         <entry>action CheckinProject</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>w</entry>
+        <entry>a</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
-        <entry>a</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
