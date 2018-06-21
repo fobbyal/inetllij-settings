@@ -327,9 +327,9 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/nrg/NrgFormulaTest.java" timestamp="1529599480964">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="66" column="88" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/nrg/NrgFormulaTest.java" timestamp="1529600868253">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="212" column="9" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/UserService.java" timestamp="1520892311475">
         <mark key="'" line="1" column="0" />
@@ -471,12 +471,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" timestamp="1529599928329">
-        <mark key="'" line="31" column="21" />
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="45" />
-        <mark key="^" line="36" column="45" />
-        <mark key="." line="36" column="45" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" timestamp="1529601114513">
+        <mark key="'" line="32" column="21" />
+        <mark key="[" line="36" column="52" />
+        <mark key="]" line="36" column="52" />
+        <mark key="^" line="36" column="52" />
+        <mark key="." line="36" column="52" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/db/pending-update/legacy-migration-1/run.sql" timestamp="1526412596938">
         <mark key="[" line="80" column="72" />
@@ -625,13 +625,6 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-mock/cdtf-ct-start.json" timestamp="1529600100712">
-        <mark key="'" line="9" column="31" />
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="10" column="2" />
-        <mark key="^" line="10" column="31" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/JsonProvider.java" timestamp="1520265813896">
         <mark key="[" line="7" column="44" />
@@ -851,8 +844,8 @@
       <jump line="9" column="31" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-mock/cdtf-ct-start.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzb2x2ZWQuZW50cnlTZXQoKS5mb3JFYWNoKAogICAgICAgICAgICAgICAgZSAtPiBsb2cuZGVidWcoInt9Ont9IiwgZS5nZXRLZXkoKSwgZS5nZXRWYWx1ZSgpKQogICAgICAgICk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -864,55 +857,55 @@
         <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXRkhTQ29zdFN0YXJ0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>StartIncrLaborCost</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzb2x2ZWQuZW50cnlTZXQoKS5mb3JFYWNoKAogICAgICAgICAgICAgICAgZSAtPiBsb2cuZGVidWcoInt9Ont9IiwgZS5nZXRLZXkoKSwgZS5nZXRWYWx1ZSgpKQogICAgICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiYWJjIjoiMS4zNTMzNCIK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInNvbHZlciBpcyAiLCBzb2x2ZXIpOwo=</text>
+        <text encoding="base64">ICAiYWJjIjoiMS4zNTMzNCIK</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInNvbHZlciBpcyAiLCBzb2x2ZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE9iamVjdEQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUcmUK</text>
+        <text encoding="base64">ICAgIE9iamVjdEQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiIjogCg==</text>
+        <text encoding="base64">ICAgICAgICBUcmUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnUK</text>
+        <text encoding="base64">ICAiIjogCg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zby5sb2coInNvdmxlciIpCg==</text>
+        <text encoding="base64">ZnUK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -966,8 +959,8 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>a</entry>
         <entry>action ReformatCode</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
