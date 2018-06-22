@@ -1,13 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="import-tables" type="PLAIN_TEXT" />
-      <mapping pattern="actionDAOSql" type="PLAIN_TEXT" />
-      <mapping pattern="pbkr-ido-tables" type="PLAIN_TEXT" />
       <mapping ext="solver" type="PLAIN_TEXT" />
-      <mapping ext="msolve" type="PLAIN_TEXT" />
-      <mapping ext="fsolve" type="PLAIN_TEXT" />
-      <mapping ext="example" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
