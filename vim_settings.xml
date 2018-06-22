@@ -10,6 +10,12 @@
         <mark key="^" line="93" column="94" />
         <mark key="." line="93" column="94" />
       </file>
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-mock/cdtf-ct.json" timestamp="1529677173580">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-calc-original.solver" timestamp="1529675033879">
         <mark key="[" line="0" column="83" />
       </file>
@@ -31,6 +37,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="75" column="131" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" timestamp="1529677192604">
+        <mark key="'" line="9" column="50" />
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-mock/cdtf-steam.json" timestamp="1529659998325">
         <mark key="'" line="1" column="0" />
@@ -76,10 +89,15 @@
       <jump line="0" column="1" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-mock/cdtf-steam-start.json" />
       <jump line="93" column="79" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" />
       <jump line="25" column="32" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" />
+      <jump line="4" column="18" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" />
+      <jump line="11" column="21" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" />
+      <jump line="9" column="69" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" />
+      <jump line="10" column="50" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -101,53 +119,53 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDRFRGX1NURUFNX1NUQVJUXD4=</text>
+        <text encoding="base64">XDxTT3hBZGp1c3RtZW50RmFjdG9yTm9Mb2FkXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U094QWRkZXJDb3N0U3RhcnQgPSBTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQpOT3hBZGRlckNvc3RTdGFydCA9IE5PeEFsbG93YW5jZUNvc3RfQ0RURiAqIE5PeEVtaXNzaW9uUmF0ZVN0YXJ0ICogMC4wMDA1ClRGUkNTdGFydCA9IFdGSFNDb3N0U3RhcnQgKyBTdGFydEluY3JMYWJvckNvc3QgKyBTT3hBZGRlckNvc3RTdGFydCArIE5PeEFkZGVyQ29zdFN0YXJ0ICsgT2FuZE1Db3N0X0NEVEYKU3RhcnRDb3N0ID0gKFN0YXJ0SGVhdCAqIFRGUkNTdGFydCAqIFN0YXJ0UGVyZkZhY3QgKiBTZWFzRmFjdCkgKyAoU3RhcnRTUyAqIFN0YXJ0U1NSYXRlKSArIFN0YXJ0QWRqdXN0ICsgMApTdGFydENhcCA9IHN0YXJ0IGNvc3QgKiAxLjEK</text>
+      <register name="0" type="4">
+        <text encoding="base64">U094QWRqdXN0bWVudEZhY3Rvck5vTG9hZAovL1NPeEFsbG93YW5jZUNvc3RfQ0RURiAqIFNPeEVtaXNzaW9uUmF0ZU5vTG9hZCAqIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gV0ZDb3N0R2VuID0gKChGdWVsQ29zdDEgKiBNaXhlZFBjdDEpICsgKEZ1ZWxDb3N0MiAqIE1peGVkUGN0MikgKyAoRnVlbENvc3QzICogTWl4ZWRQY3QzKSkgKiAwLjAxCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiTk94QWRkZXJDb3N0U3RhcnQiOiAiIiwK</text>
+        <text encoding="base64">Ly8gV0ZDb3N0R2VuID0gKChGdWVsQ29zdDEgKiBNaXhlZFBjdDEpICsgKEZ1ZWxDb3N0MiAqIE1peGVkUGN0MikgKyAoRnVlbENvc3QzICogTWl4ZWRQY3QzKSkgKiAwLjAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiU094QWRkZXJDb3N0U3RhcnQiOiAiIiwK</text>
+        <text encoding="base64">Ly8gV0ZDb3N0R2VuID0gKChGdWVsQ29zdDEgKiBNaXhlZFBjdDEpICsgKEZ1ZWxDb3N0MiAqIE1peGVkUGN0MikgKyAoRnVlbENvc3QzICogTWl4ZWRQY3QzKSkgKiAwLjAxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U3RhcnRDYXAgPSBzdGFydCBjb3N0ICogMS4xCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U3RhcnRDb3N0IAo=</text>
+        <text encoding="base64">ICAiTk94QWRkZXJDb3N0U3RhcnQiOiAiIiwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgMC4wMDA1Cg==</text>
+        <text encoding="base64">ICAiU094QWRkZXJDb3N0U3RhcnQiOiAiIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Tk94QWRkZXJDb3N0U3RhcnQgPSBOT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBOT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQo=</text>
+        <text encoding="base64">U3RhcnRDYXAgPSBzdGFydCBjb3N0ICogMS4xCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U094QWRkZXJDb3N0U3RhcnQgPSBTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQo=</text>
+        <text encoding="base64">U3RhcnRDb3N0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V0ZIU0Nvc3RTdGFydCA9ICgoKEZ1ZWxDb3N0MSArIEhTSGVhdENvc3QxKSAqIE1peGVkUGN0MSkgKyAoKEZ1ZWxDb3N0MiArIEhTSGVhdENvc3QyKSAqIE1peGVkUGN0MikgKyAoKEZ1ZWxDb3N0MyArIEhTSGVhdENvc3QzKSAqIE1peGVkUGN0MykpICogMC4wMQo=</text>
+        <text encoding="base64">ICAgMC4wMDA1Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action Rerun</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDRFRGX1NURUFNX1NUQVJUXD4=</last-search>
+      <last-search encoding="base64">XDxTT3hBZGp1c3RtZW50RmFjdG9yTm9Mb2FkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDRFRGX1NURUFNX1NUQVJUXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxTT3hBZGp1c3RtZW50RmFjdG9yTm9Mb2FkXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -162,6 +180,8 @@
         <entry encoding="base64">XDx0ZXN0Q0RURlN0ZWFtXD4=</entry>
         <entry encoding="base64">XDxURlJDU3RhcnRcPg==</entry>
         <entry encoding="base64">XDxDRFRGX1NURUFNX1NUQVJUXD4=</entry>
+        <entry>SOxAdderCostNoLoad</entry>
+        <entry encoding="base64">XDxTT3hBZGp1c3RtZW50RmFjdG9yTm9Mb2FkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action InsertLiveTemplate</entry>
@@ -169,10 +189,10 @@
         <entry>25</entry>
         <entry>31</entry>
         <entry>w</entry>
-        <entry>action Rerun</entry>
         <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VVcCA=</entry>
-        <entry>wa</entry>
         <entry>a</entry>
+        <entry>wa</entry>
+        <entry>action Rerun</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
