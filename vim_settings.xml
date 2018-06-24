@@ -17,12 +17,11 @@
         <mark key="." line="3" column="123" />
         <mark key="^" line="3" column="105" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-steam.solver" timestamp="1529741698593">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="34" />
-        <mark key="^" line="13" column="2" />
-        <mark key="." line="16" column="27" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-steam.solver" timestamp="1529873838028">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-mock/cdtf-steam-start.json" timestamp="1529661975986">
         <mark key="'" line="0" column="1" />
@@ -57,10 +56,10 @@
         <mark key="." line="54" column="30" />
         <mark key="^" line="54" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" timestamp="1529742027042">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="27" column="135" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" timestamp="1529873936984">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="20" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct-start.solver" timestamp="1529873610361">
@@ -70,12 +69,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/ct-start.solver" timestamp="1529873615444">
-        <mark key="'" line="7" column="12" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="23" column="37" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="18" column="0" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/ct-start.solver" timestamp="1529873686289">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct-start.solver" timestamp="1529873563737">
         <mark key="'" line="0" column="0" />
@@ -84,23 +81,17 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" timestamp="1529742237726">
-        <mark key="'" line="28" column="0" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" timestamp="1529873796227">
+        <mark key="'" line="12" column="30" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-mock/cdtf-ct.json" timestamp="1529677173580">
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="14" column="32" />
-        <mark key="^" line="14" column="32" />
-        <mark key="." line="14" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1529744748136">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="20" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/ct-start.json" timestamp="1529874600346">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
       </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct-start.solver" timestamp="1529873514123">
         <mark key="'" line="0" column="0" />
@@ -109,12 +100,12 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" timestamp="1529741665558">
-        <mark key="'" line="17" column="2" />
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="40" />
-        <mark key="^" line="17" column="1" />
-        <mark key="." line="20" column="40" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" timestamp="1529873825729">
+        <mark key="'" line="19" column="30" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam-start.solver" timestamp="1529873388713">
         <mark key="'" line="0" column="0" />
@@ -130,28 +121,27 @@
         <mark key="^" line="55" column="17" />
         <mark key="." line="29" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" timestamp="1529873058165">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="93" column="89" />
-        <mark key="]" line="93" column="94" />
-        <mark key="^" line="93" column="94" />
-        <mark key="." line="93" column="94" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" timestamp="1529874776888">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" timestamp="1529743488339">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" timestamp="1529874012907">
+        <mark key="'" line="13" column="27" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" timestamp="1529744440910">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="29" column="63" />
-        <mark key="]" line="29" column="63" />
-        <mark key="^" line="29" column="63" />
-        <mark key="." line="29" column="63" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" timestamp="1529874162251">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="26" column="63" />
+        <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" timestamp="1529744577050">
-        <mark key="'" line="23" column="56" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" timestamp="1529873850919">
+        <mark key="'" line="11" column="30" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -162,13 +152,13 @@
         <mark key="]" line="4" column="26" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" timestamp="1529742003714">
-        <mark key="'" line="31" column="0" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" timestamp="1529873875222">
+        <mark key="'" line="19" column="30" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="35" column="139" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-steam-start.solver" timestamp="1529873378840">
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-steam-start.solver" timestamp="1529874086608">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="25" />
@@ -177,42 +167,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="8" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="12" column="39" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="21" column="30" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="23" column="27" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="19" column="10" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="3" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
-      <jump line="18" column="10" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" />
-      <jump line="11" column="28" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" />
-      <jump line="28" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" />
-      <jump line="19" column="15" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
-      <jump line="41" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct-start.solver" />
-      <jump line="30" column="147" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct-start.solver" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-calc-original.solver" />
-      <jump line="6" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct-start.solver" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-calc-original.solver" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-calc-original.solver" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
       <jump line="38" column="50" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
-      <jump line="7" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
       <jump line="16" column="19" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
@@ -234,7 +189,6 @@
       <jump line="66" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
       <jump line="11" column="33" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
       <jump line="54" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
       <jump line="13" column="20" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
@@ -243,7 +197,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
-      <jump line="9" column="45" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
       <jump line="23" column="56" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
       <jump line="25" column="14" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-calc-original.solver" />
       <jump line="57" column="31" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-calc-original.solver" />
@@ -277,10 +230,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct-start.solver" />
       <jump line="6" column="12" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/ct-start.solver" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct-start.solver" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/ct-start.solver" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" />
+      <jump line="11" column="59" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" />
+      <jump line="12" column="30" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
+      <jump line="10" column="27" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
+      <jump line="11" column="53" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
+      <jump line="13" column="15" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
+      <jump line="14" column="27" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" />
+      <jump line="14" column="32" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" />
+      <jump line="18" column="59" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" />
+      <jump line="19" column="30" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-steam.solver" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-steam.solver" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
+      <jump line="10" column="59" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
+      <jump line="11" column="30" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
+      <jump line="10" column="27" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
+      <jump line="10" column="39" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
+      <jump line="18" column="59" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
+      <jump line="19" column="30" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-ct.solver" />
+      <jump line="11" column="27" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
+      <jump line="12" column="53" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
+      <jump line="14" column="15" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
+      <jump line="15" column="27" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
+      <jump line="7" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
+      <jump line="6" column="13" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" />
+      <jump line="48" column="10" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U094QWRkZXJDb3N0U3RhcnQgPQlTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQpOT3hBZGRlckNvc3RTdGFydCA9CU5PeEFsbG93YW5jZUNvc3RfQ0RURiAqIE5PeEVtaXNzaW9uUmF0ZVN0YXJ0ICogMC4wMDA1ClRGUkNTdGFydF9DVCA9IFdGSFNDb3N0U3RhcnQgKyBOT3hBZGRlckNvc3RTdGFydApTdGFydENvc3RfQ1QgPSAoU3RhcnRIZWF0X0NUICogVEZSQ1N0YXJ0X0NUICogU3RhcnRQZXJmRmFjdCAqIFNlYXNGYWN0KSArIFN0YXJ0QWRqdXN0ICsgU3RhcnRJbmNyTGFib3JDb3N0ClN0YXJ0Q29zdF9DVF9DQVAgPSBTdGFydENvc3RfQ1QgKiAxLjEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -292,52 +282,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1.1</text>
+        <text>allValuesShouldBeValid</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXRkhTQ29zdFN0YXJ0XD4=</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U094QWRkZXJDb3N0U3RhcnQgPQlTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQpOT3hBZGRlckNvc3RTdGFydCA9CU5PeEFsbG93YW5jZUNvc3RfQ0RURiAqIE5PeEVtaXNzaW9uUmF0ZVN0YXJ0ICogMC4wMDA1ClRGUkNTdGFydF9DVCA9IFdGSFNDb3N0U3RhcnQgKyBOT3hBZGRlckNvc3RTdGFydApTdGFydENvc3RfQ1QgPSAoU3RhcnRIZWF0X0NUICogVEZSQ1N0YXJ0X0NUICogU3RhcnRQZXJmRmFjdCAqIFNlYXNGYWN0KSArIFN0YXJ0QWRqdXN0ICsgU3RhcnRJbmNyTGFib3JDb3N0ClN0YXJ0Q29zdF9DVF9DQVAgPSBTdGFydENvc3RfQ1QgKiAxLjEK</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IHRlc3QgZm9yIHZhbHVlcyBiYXNlZCBvbiBzcHJlYWRzaGVldAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U094QWRkZXJDb3N0U3RhcnQgPSBTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQpOT3hBZGRlckNvc3RTdGFydCA9IE5PeEFsbG93YW5jZUNvc3RfQ0RURiAqIE5PeEVtaXNzaW9uUmF0ZVN0YXJ0ICogMC4wMDA1ClRGUkNTdGFydCA9IFdGSFNDb3N0U3RhcnQgKyBTdGFydEluY3JMYWJvckNvc3QgKyBTT3hBZGRlckNvc3RTdGFydCArIE5PeEFkZGVyQ29zdFN0YXJ0ICsgT2FuZE1Db3N0X0NEVEYKU3RhcnRDb3N0ID0gKFN0YXJ0SGVhdCAqIFRGUkNTdGFydCAqIFN0YXJ0UGVyZkZhY3QgKiBTZWFzRmFjdCkgKyAoU3RhcnRTUyAqIFN0YXJ0U1NSYXRlKSArIFN0YXJ0QWRqdXN0ICsgMApTdGFydENhcCA9IFN0YXJ0Q29zdCAqIDEuMQoKU094QWRkZXJDb3N0U3RhcnQgPQlTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQpOT3hBZGRlckNvc3RTdGFydCA9CU5PeEFsbG93YW5jZUNvc3RfQ0RURiAqIE5PeEVtaXNzaW9uUmF0ZVN0YXJ0ICogMC4wMDA1ClRGUkNTdGFydCA9CVdGSFNDb3N0U3RhcnQgKyBTdGFydEluY3JMYWJvckNvc3QgKyBTT3hBZGRlckNvc3RTdGFydCArIE5PeEFkZGVyQ29zdFN0YXJ0ClN0YXJ0SGVhdCA9CXNwX1N0YXJ0SGVhdApTdGFydENvc3QgPQkoU3RhcnRIZWF0ICogVEZSQ1N0YXJ0ICogU3RhcnRQZXJmRmFjdCAqIFNlYXNGYWN0KSArIChTdGFydFNTICogU3RhcnRTU1JhdGUpICsgU3RhcnRBZGp1c3QgKyAwClN0YXJ0Q2FwID0gU3RhcnRDb3N0ICogMS4xCgpTT3hBZGRlckNvc3RTdGFydCA9CVNPeEFsbG93YW5jZUNvc3RfQ0RURiAqIFNPeEVtaXNzaW9uUmF0ZVN0YXJ0ICogMC4wMDA1Ck5PeEFkZGVyQ29zdFN0YXJ0ID0JTk94QWxsb3dhbmNlQ29zdF9DRFRGICogTk94RW1pc3Npb25SYXRlU3RhcnQgKiAwLjAwMDUKVEZSQ1N0YXJ0ID0JV0ZIU0Nvc3RTdGFydCArIFN0YXJ0SW5jckxhYm9yQ29zdCArIFNPeEFkZGVyQ29zdFN0YXJ0ICsgTk94QWRkZXJDb3N0U3RhcnQKU3RhcnRDb3N0ID0JKFN0YXJ0SGVhdCAqIFRGUkNTdGFydCAqIFN0YXJ0UGVyZkZhY3QgKiBTZWFzRmFjdCkgKyAoU3RhcnRTUyAqIFN0YXJ0U1NSYXRlKSArIFN0YXJ0QWRqdXN0ICsgMApTdGFydENhcCA9IHN0YXJ0IGNvc3QgKiAxLjEKU094QWRkZXJDb3N0U3RhcnQgPQlTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQpOT3hBZGRlckNvc3RTdGFydCA9CU5PeEFsbG93YW5jZUNvc3RfQ0RURiAqIE5PeEVtaXNzaW9uUmF0ZVN0YXJ0ICogMC4wMDA1ClRGUkNTdGFydCA9CVdGSFNDb3N0U3RhcnQgKyBTdGFydEluY3JMYWJvckNvc3QgKyBTT3hBZGRlckNvc3RTdGFydCArIE5PeEFkZGVyQ29zdFN0YXJ0ClN0YXJ0Q29zdCA9CShTdGFydEhlYXQgKiBURlJDU3RhcnQgKiBTdGFydFBlcmZGYWN0ICogU2Vhc0ZhY3QpICsgKFN0YXJ0U1MgKiBTdGFydFNTUmF0ZSkgKyBTdGFydEFkanVzdCArIFN0YXJ0SW5jckxhYm9yQ29zdApTdGFydENhcCA9CXN0YXJ0IGNvc3QgKiAxLjEK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">U3RhcnRIZWF0ID0Jc3BfU3RhcnRIZWF0Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsb2coc29sdmVkKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInNvdXJjZSBkYXRhIGlzIiwgc291cmNlRGF0YSk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Zml4ZWQgaXNzdWUgd2l0aCBjYWxjCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBNU29sdmVyUmVzdWx0PEJpZ0RlY2ltYWw+PiBzb2x2ZWQgPSBzb2x2ZXIuc29sdmUoc291cmNlRGF0YSk7CiAgICAgICAgYWxsVmFsdWVzU2hvdWxkQmVWYWxpZChzb2x2ZWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U3RhcnRIZWF0X0NUID0gc3BfU3RhcnRIZWF0Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInNvdXJjZSBkYXRhIGlzIiwgc291cmNlRGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V0ZIU0Nvc3RTdGFydCA9CSgoKEZ1ZWxDb3N0MSArIEhTSGVhdENvc3QxKSAqIE1peGVkUGN0MSkgKyAoKEZ1ZWxDb3N0MiArIEhTSGVhdENvc3QyKSAqIE1peGVkUGN0MikgKyAoKEZ1ZWxDb3N0MyArIEhTSGVhdENvc3QzKSAqIE1peGVkUGN0MykpICogMC4wMQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBDRFRGX1NURUFNX1NUQVJUPSAiL2FlcC1jYWxjcy9jZHRmLXN0ZWFtLXN0YXJ0LnNvbHZlciI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U3RhcnRDb3N0X0NUID0gKFN0YXJ0SGVhdF9DVCAqIFRGUkNTdGFydF9DVCAqIFN0YXJ0UGVyZkZhY3QgKiBTZWFzRmFjdCkgKyBTdGFydEFkanVzdCArIFN0YXJ0SW5jckxhYm9yQ29zdAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTVEVBTV9TVEFSVCA9ICIvYWVwLWNhbGNzL25vbi1jZHRmLXN0ZWFtLXN0YXJ0LnNvbHZlciI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">VEZSQ1N0YXJ0X0NUID0gV0ZIU0Nvc3RTdGFydCArIE5PeEFkZGVyQ29zdFN0YXJ0Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1RPRE86IHRlc3QgZm9yIHZhbHVlcyBiYXNlZCBvbiBzcHJlYWRzaGVldAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXRkhTQ29zdFN0YXJ0XD4=</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXRkhTQ29zdFN0YXJ0XD4=</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace encoding="base64">XCA=</last-replace>
       <last-substitute encoding="base64">XDxUb3RhbEhlYXRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -345,14 +335,8 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOb0xvYWRDb3N0XD4=</entry>
-        <entry encoding="base64">XDxJbmNySGVhdFJhdGVcPg==</entry>
-        <entry encoding="base64">XDxOb0xvYWRIZWF0XD4=</entry>
-        <entry encoding="base64">XDxURlJDTm9Mb2FkX0NUXD4=</entry>
         <entry encoding="base64">XDxOT3hTaGFkb3dQcmljZVw+</entry>
         <entry encoding="base64">XDxOT3hFbWlzc2lvblJhdGVHZW5fRUNPTUFYXD4=</entry>
-        <entry encoding="base64">XDxTT3hFbWlzc2lvblJhdGVHZW5fRUNPTUFYXD4=</entry>
-        <entry encoding="base64">XDxJbmNySGVhdFJhdGVfRUNPTUFYXD4=</entry>
         <entry encoding="base64">XDxXRkhTQ29zdE5vTG9hZFw+</entry>
         <entry>noloas</entry>
         <entry encoding="base64">XDxOb0xvYWRDYXBcPg==</entry>
@@ -365,6 +349,12 @@
         <entry encoding="base64">XDxUb3RhbENoZW1pY2FsQ29zdEdlblw+</entry>
         <entry encoding="base64">XDxOT3hBZGRlckNvc3RTdGFydFw+</entry>
         <entry encoding="base64">XDxXRkhTQ29zdFN0YXJ0XD4=</entry>
+        <entry encoding="base64">XDxJbmNySGVhdFJhdGVfRUNPTUFYXD4=</entry>
+        <entry encoding="base64">XDxTT3hFbWlzc2lvblJhdGVHZW5fRUNPTUFYXD4=</entry>
+        <entry encoding="base64">XDxOb0xvYWRIZWF0XD4=</entry>
+        <entry encoding="base64">XDxURlJDR2VuX0NUXD4=</entry>
+        <entry encoding="base64">XDxURlJDR2VuXD4=</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry>action InsertLiveTemplate</entry>
@@ -372,12 +362,13 @@
         <entry>25</entry>
         <entry>31</entry>
         <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VVcCA=</entry>
-        <entry>action Rerun</entry>
         <entry>%s/\ \ /\ /g</entry>
-        <entry>w</entry>
         <entry>a</entry>
-        <entry>wa</entry>
         <entry>action CheckinProject</entry>
+        <entry>w</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Rerun</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
