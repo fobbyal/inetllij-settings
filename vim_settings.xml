@@ -104,11 +104,23 @@
         <mark key="." line="4" column="10" />
         <mark key="^" line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-mock/cdtf-ct.json" timestamp="1529677173580">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/ct-start.json" timestamp="1529876671351">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="10" column="25" />
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1529744748136">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct-start.solver" timestamp="1529873514123">
         <mark key="'" line="0" column="0" />
@@ -117,12 +129,12 @@
         <mark key="^" line="11" column="10" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/steam.json" timestamp="1529882403901">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="52" column="11" />
-        <mark key="]" line="52" column="15" />
-        <mark key="." line="52" column="15" />
-        <mark key="^" line="52" column="15" />
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/steam.json" timestamp="1529885446120">
+        <mark key="'" line="62" column="20" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="63" column="24" />
       </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct.solver" timestamp="1529883184745">
         <mark key="'" line="16" column="0" />
@@ -145,9 +157,9 @@
         <mark key="^" line="55" column="17" />
         <mark key="." line="29" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" timestamp="1529884243700">
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" timestamp="1529885537457">
         <mark key="'" line="34" column="33" />
-        <mark key="[" line="34" column="33" />
+        <mark key="[" line="207" column="80" />
         <mark key="]" line="34" column="34" />
         <mark key="." line="34" column="33" />
         <mark key="^" line="204" column="80" />
@@ -164,12 +176,18 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" timestamp="1529884531735">
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-steam.solver" timestamp="1529885171929">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
         <mark key="^" line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/steam-est-6m.json" timestamp="1529885833138">
+        <mark key="[" line="61" column="32" />
+        <mark key="]" line="61" column="32" />
+        <mark key="." line="61" column="32" />
+        <mark key="^" line="61" column="32" />
       </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-original/cdtf-calc-original.solver" timestamp="1529882968161">
         <mark key="[" line="43" column="0" />
@@ -206,12 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/steam-start.solver" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/steam-start.solver" />
-      <jump line="5" column="27" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct-start.solver" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct-start.solver" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct-start.solver" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/cdtf-ct-start.solver" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/ct-start.solver" />
       <jump line="4" column="35" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct-start.solver" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct-start.solver" />
@@ -306,61 +318,61 @@
       <jump line="170" column="0" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" />
       <jump line="204" column="80" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" />
       <jump line="34" column="33" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" />
+      <jump line="60" column="26" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/steam.json" />
+      <jump line="32" column="2" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/steam.json" />
+      <jump line="61" column="29" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/steam.json" />
+      <jump line="62" column="26" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/steam.json" />
+      <jump line="63" column="25" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/steam.json" />
+      <jump line="64" column="20" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/steam.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2.34355</text>
       </register>
       <register name="e" type="4">
-        <keys>
-          <key char="100" code="0" mods="0" />
-          <key char="119" code="0" mods="0" />
-          <key char="105" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
+        <text>g@i`[wj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2.34355</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUb3RhbEhlYXRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0UmVwbFN0ZWFtKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKCiAgICAgICAgTVNvbHZlcjxCaWdEZWNpbWFsPiBzb2x2ZXIgPQogICAgICAgICAgICAgICAgdXRpbC5jcmVhdGVTb2x2ZXIoInRlc3QiLCBnZXRDbGFzcygpLmdldFJlc291cmNlQXNTdHJlYW0oUkVQTF9TVEVBTSkpOwoKICAgICAgICBNYXA8U3RyaW5nLCBCaWdEZWNpbWFsPiBzb3VyY2VEYXRhID0gbWFwcGVyLnJlYWRWYWx1ZSgKICAgICAgICAgICAgICAgIEFlcEZvcm11bGFUZXN0LmNsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oIi9hZXAtY2FsYy1pbnB1dHMvc3RlYW0uanNvbiIpLAogICAgICAgICAgICAgICAgbmV3IFR5cGVSZWZlcmVuY2U8VHJlZU1hcDxTdHJpbmcsIEJpZ0RlY2ltYWw+PigpIHsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgIE1hcDxTdHJpbmcsIE1Tb2x2ZXJSZXN1bHQ8QmlnRGVjaW1hbD4+IHNvbHZlZCA9IHNvbHZlci5zb2x2ZShzb3VyY2VEYXRhKTsKICAgICAgICBhbGxWYWx1ZXNTaG91bGRCZVZhbGlkKHNvbHZlZCk7CiAgICAgICAgLy9UT0RPOiB0ZXN0IGZvciB2YWx1ZXMgYmFzZWQgb24gc3ByZWFkc2hlZXQKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>OverrideNoLoadCost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SW5jckNvc3QgPSAoSW5jckhlYXRSYXRlICogVEZSQ0dlbiAqIExvc3NGYWN0KSArIFN1cmNoYXJnZXMK</text>
+        <text encoding="base64">ICAiV0ZIU0Nvc3RTdGFydCI6ICIyLjM0MzU1IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">T3ZlcnJpZGVOb0xvYWRDb3N0Q2FwID0JT3ZlcnJpZGVOb0xvYWRDb3N0ICogMS4xCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">T3ZlcnJpZGVOb0xvYWRDb3N0ID0gaWYgKFRvdGFsQ29zdCAtIChNVyAqIEluY3JDb3N0KSA8IDAuMDAsIDAuMDAgLCBUb3RhbENvc3QgLSAoTVcgKiBJbmNyQ29zdCkpCg==</text>
+        <text encoding="base64">SW5jckNvc3QgPSAoSW5jckhlYXRSYXRlICogVEZSQ0dlbiAqIExvc3NGYWN0KSArIFN1cmNoYXJnZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Tk94QWRkZXJDb3N0U3RhcnQgPQlOT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBOT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQo=</text>
+        <text encoding="base64">T3ZlcnJpZGVOb0xvYWRDb3N0Q2FwID0JT3ZlcnJpZGVOb0xvYWRDb3N0ICogMS4xCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U094QWRkZXJDb3N0U3RhcnQgPQlTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQo=</text>
+        <text encoding="base64">T3ZlcnJpZGVOb0xvYWRDb3N0ID0gaWYgKFRvdGFsQ29zdCAtIChNVyAqIEluY3JDb3N0KSA8IDAuMDAsIDAuMDAgLCBUb3RhbENvc3QgLSAoTVcgKiBJbmNyQ29zdCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">VG90YWxDb3N0ID0JTm9Mb2FkQ29zdCArICgoVG90YWxIZWF0IC0gTm9Mb2FkSGVhdCkgKiBURlJDR2VuICogTG9zc0ZhY3QpICsgSW5jckFkanVzdCArIEluY3JTY2hlZEFkZGVyICsgKFN1cmNoYXJnZXMgKiBNVykK</text>
+        <text encoding="base64">Tk94QWRkZXJDb3N0U3RhcnQgPQlOT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBOT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">V0ZIU0Nvc3ROb0xvYWQgPSAoKChGdWVsQ29zdDEgKyBIU0hlYXRDb3N0MSkgKiBNaXhlZFBjdDEpICsgKChGdWVsQ29zdDIgKyBIU0hlYXRDb3N0MikgKiBNaXhlZFBjdDIpICsgKChGdWVsQ29zdDMgKyBIU0hlYXRDb3N0MykgKiBNaXhlZFBjdDMpKSAqIDAuMDEK</text>
+        <text encoding="base64">U094QWRkZXJDb3N0U3RhcnQgPQlTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VG90YWxDb3N0ID0JTm9Mb2FkQ29zdCArICgoVG90YWxIZWF0IC0gTm9Mb2FkSGVhdCkgKiBURlJDR2VuICogTG9zc0ZhY3QpICsgSW5jckFkanVzdCArIEluY3JTY2hlZEFkZGVyICsgKFN1cmNoYXJnZXMgKiBNVykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V0ZIU0Nvc3ROb0xvYWQgPSAoKChGdWVsQ29zdDEgKyBIU0hlYXRDb3N0MSkgKiBNaXhlZFBjdDEpICsgKChGdWVsQ29zdDIgKyBIU0hlYXRDb3N0MikgKiBNaXhlZFBjdDIpICsgKChGdWVsQ29zdDMgKyBIU0hlYXRDb3N0MykgKiBNaXhlZFBjdDMpKSAqIDAuMDEK</text>
       </register>
       <register name=":" type="4">
-        <text>19</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -396,13 +408,9 @@
         <entry encoding="base64">XDxUb3RhbEhlYXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VVcCA=</entry>
-        <entry>%s/\ \ /\ /g</entry>
         <entry>a</entry>
-        <entry>action CheckinProject</entry>
         <entry>w</entry>
         <entry>%s/_CT//g</entry>
-        <entry>action ReformatCode</entry>
         <entry>16</entry>
         <entry>22</entry>
         <entry>23</entry>
@@ -411,11 +419,15 @@
         <entry>;21</entry>
         <entry>21</entry>
         <entry>26</entry>
-        <entry>action Rerun</entry>
         <entry>14</entry>
-        <entry>wa</entry>
         <entry>;19</entry>
         <entry>19</entry>
+        <entry>24</entry>
+        <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VVcCA=</entry>
+        <entry>wa</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Rerun</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
