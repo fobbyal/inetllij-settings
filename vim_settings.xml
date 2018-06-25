@@ -116,10 +116,10 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529744748136">
+      <file name="/Dummy.txt" timestamp="1529885868345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="20" />
+        <mark key="^" line="0" column="19" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/spark/spark-gen-calc/src/main/resources/aep-calcs/aep-ct-start.solver" timestamp="1529873514123">
@@ -326,8 +326,8 @@
       <jump line="64" column="20" filename="$USER_HOME$/dev/spark/spark-gen-calc/src/test/resources/aep-calc-inputs/steam.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2.34355</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWxsIGZvcm11bGEgaW1wb3J0ZWQK</text>
       </register>
       <register name="e" type="4">
         <text>g@i`[wj</text>
@@ -342,34 +342,34 @@
         <text>OverrideNoLoadCost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiV0ZIU0Nvc3RTdGFydCI6ICIyLjM0MzU1IiwK</text>
+        <text encoding="base64">YWxsIGZvcm11bGEgaW1wb3J0ZWQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiV0ZIU0Nvc3RTdGFydCI6ICIyLjM0MzU1IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">SW5jckNvc3QgPSAoSW5jckhlYXRSYXRlICogVEZSQ0dlbiAqIExvc3NGYWN0KSArIFN1cmNoYXJnZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">T3ZlcnJpZGVOb0xvYWRDb3N0Q2FwID0JT3ZlcnJpZGVOb0xvYWRDb3N0ICogMS4xCg==</text>
+        <text encoding="base64">SW5jckNvc3QgPSAoSW5jckhlYXRSYXRlICogVEZSQ0dlbiAqIExvc3NGYWN0KSArIFN1cmNoYXJnZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">T3ZlcnJpZGVOb0xvYWRDb3N0ID0gaWYgKFRvdGFsQ29zdCAtIChNVyAqIEluY3JDb3N0KSA8IDAuMDAsIDAuMDAgLCBUb3RhbENvc3QgLSAoTVcgKiBJbmNyQ29zdCkpCg==</text>
+        <text encoding="base64">T3ZlcnJpZGVOb0xvYWRDb3N0Q2FwID0JT3ZlcnJpZGVOb0xvYWRDb3N0ICogMS4xCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Tk94QWRkZXJDb3N0U3RhcnQgPQlOT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBOT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQo=</text>
+        <text encoding="base64">T3ZlcnJpZGVOb0xvYWRDb3N0ID0gaWYgKFRvdGFsQ29zdCAtIChNVyAqIEluY3JDb3N0KSA8IDAuMDAsIDAuMDAgLCBUb3RhbENvc3QgLSAoTVcgKiBJbmNyQ29zdCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U094QWRkZXJDb3N0U3RhcnQgPQlTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQo=</text>
+        <text encoding="base64">Tk94QWRkZXJDb3N0U3RhcnQgPQlOT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBOT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VG90YWxDb3N0ID0JTm9Mb2FkQ29zdCArICgoVG90YWxIZWF0IC0gTm9Mb2FkSGVhdCkgKiBURlJDR2VuICogTG9zc0ZhY3QpICsgSW5jckFkanVzdCArIEluY3JTY2hlZEFkZGVyICsgKFN1cmNoYXJnZXMgKiBNVykK</text>
+        <text encoding="base64">U094QWRkZXJDb3N0U3RhcnQgPQlTT3hBbGxvd2FuY2VDb3N0X0NEVEYgKiBTT3hFbWlzc2lvblJhdGVTdGFydCAqIDAuMDAwNQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">V0ZIU0Nvc3ROb0xvYWQgPSAoKChGdWVsQ29zdDEgKyBIU0hlYXRDb3N0MSkgKiBNaXhlZFBjdDEpICsgKChGdWVsQ29zdDIgKyBIU0hlYXRDb3N0MikgKiBNaXhlZFBjdDIpICsgKChGdWVsQ29zdDMgKyBIU0hlYXRDb3N0MykgKiBNaXhlZFBjdDMpKSAqIDAuMDEK</text>
+        <text encoding="base64">VG90YWxDb3N0ID0JTm9Mb2FkQ29zdCArICgoVG90YWxIZWF0IC0gTm9Mb2FkSGVhdCkgKiBURlJDR2VuICogTG9zc0ZhY3QpICsgSW5jckFkanVzdCArIEluY3JTY2hlZEFkZGVyICsgKFN1cmNoYXJnZXMgKiBNVykK</text>
       </register>
       <register name=":" type="4">
         <text>action CheckinProject</text>
