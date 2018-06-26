@@ -283,7 +283,7 @@
         <mark key="^" line="34" column="81" />
         <mark key="." line="34" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1529989421200">
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1530017585894">
         <mark key="'" line="276" column="0" />
         <mark key="[" line="308" column="57" />
         <mark key="]" line="308" column="57" />
@@ -482,6 +482,9 @@
         <mark key="." line="41" column="163" />
         <mark key="^" line="41" column="192" />
       </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/immutables/LSECompanyDef.java" timestamp="1530017376015">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/jc-jdk8/pspk/props/dom-dev.xml" timestamp="1525713257471">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="33" column="73" />
@@ -529,6 +532,7 @@
         <mark key="." line="12" column="23" />
         <mark key="^" line="12" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/integ-jdk8/pbroker/java/src/com/integ/pbroker/client/LSECriteriaScreenHandler.java" timestamp="1530017674780" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DemandVirtualBidDef.java" timestamp="1525205475676">
         <mark key="[" line="21" column="43" />
         <mark key="]" line="21" column="50" />
@@ -963,8 +967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="26" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="537" column="83" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="738" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="311" column="18" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="287" column="41" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
@@ -1063,6 +1065,8 @@
       <jump line="35" column="34" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="276" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/immutables/LSECompanyDef.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/immutables/LSECompanyDef.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
