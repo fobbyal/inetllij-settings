@@ -484,12 +484,12 @@
         <mark key="." line="41" column="163" />
         <mark key="^" line="41" column="192" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/immutables/LSECompanyDef.java" timestamp="1530019083902">
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/immutables/LSECompanyDef.java" timestamp="1530020180677">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="29" column="20" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="31" />
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
       </file>
       <file name="$USER_HOME$/dev/integ/pbkr/db-util/src/main/java/com/integ/db/extractor/DefaultBlobStreamConsumer.java" timestamp="1530018857723">
         <mark key="'" line="59" column="25" />
