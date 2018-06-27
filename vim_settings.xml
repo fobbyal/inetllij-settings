@@ -128,11 +128,12 @@
         <mark key="^" line="14" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/CertInfoDef.java" timestamp="1530098535997">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="14" column="40" />
-        <mark key="." line="14" column="40" />
-        <mark key="^" line="14" column="40" />
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/CertInfoDef.java" timestamp="1530101482762">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/pom.xml" timestamp="1526927234705">
         <mark key="'" line="31" column="24" />
@@ -217,12 +218,12 @@
         <mark key="." line="61" column="32" />
         <mark key="^" line="61" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" timestamp="1530098689930">
-        <mark key="'" line="793" column="25" />
-        <mark key="[" line="835" column="9" />
-        <mark key="]" line="836" column="19" />
-        <mark key="." line="836" column="19" />
-        <mark key="^" line="836" column="19" />
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" timestamp="1530101415185">
+        <mark key="'" line="724" column="33" />
+        <mark key="[" line="765" column="0" />
+        <mark key="]" line="765" column="0" />
+        <mark key="." line="765" column="0" />
+        <mark key="^" line="784" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/40e8e490-e483-4a52-9cdf-94d27d22e29c/console.sql" timestamp="1519157255063">
         <mark key="[" line="25" column="0" />
@@ -382,6 +383,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="35" column="77" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/common/src/main/java/com/integ/security/imutable/CertInfoDef.java" timestamp="1530101535344">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="35" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/RoleAssignment.java" timestamp="1520538015432">
         <mark key="[" line="9" column="31" />
@@ -621,6 +628,13 @@
         <mark key="]" line="33" column="71" />
         <mark key="." line="33" column="71" />
         <mark key="^" line="33" column="71" />
+      </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" timestamp="1530100370754">
+        <mark key="'" line="265" column="47" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="265" column="48" />
+        <mark key="^" line="265" column="48" />
+        <mark key="." line="265" column="48" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/main/resources/reference.conf" timestamp="1526337076034">
         <mark key="[" line="10" column="4" />
@@ -871,6 +885,12 @@
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/integ/pbkr/common/src/main/java/com/integ/security/CertUtil.java" timestamp="1530101433995">
+        <mark key="[" line="0" column="27" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/DataAccess.java" timestamp="1525704245933">
         <mark key="'" line="510" column="12" />
         <mark key="[" line="545" column="13" />
@@ -1011,26 +1031,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="571" column="32" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="574" column="35" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="588" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="121" column="12" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="233" column="7" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
-      <jump line="235" column="44" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
-      <jump line="238" column="47" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
-      <jump line="63" column="8" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
-      <jump line="54" column="39" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" />
-      <jump line="576" column="17" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="76" column="17" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" />
-      <jump line="106" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" />
-      <jump line="126" column="8" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" />
-      <jump line="131" column="19" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" />
-      <jump line="255" column="24" filename="$USER_HOME$/dev/pbkr/pbkr-api/mock-json/load-analysis.json" />
-      <jump line="22" column="27" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/api/Utils.java" />
-      <jump line="49" column="29" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/utils/TimeUtils.java" />
       <jump line="39" column="39" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="458" column="42" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
       <jump line="451" column="56" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenHour.java" />
@@ -1072,7 +1072,6 @@
       <jump line="21" column="24" filename="$USER_HOME$/dev/jc-jdk8/jcomplete/src/main/java/com/integ/jcomplete/framework/dao/statement/DBStatement.java" />
       <jump line="35" column="34" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="276" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/immutables/LSECompanyDef.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/immutables/LSECompanyDef.java" />
       <jump line="24" column="13" filename="$USER_HOME$/dev/integ/pbkr/db-util/src/main/java/com/integ/db/DataAccess.java" />
@@ -1106,15 +1105,36 @@
       <jump line="75" column="23" filename="$USER_HOME$/dev/integ-jdk8/jcomplete/src/main/java/com/integ/jcomplete2/ssl/KeyUtils.java" />
       <jump line="56" column="0" filename="$USER_HOME$/dev/integ-jdk8/jcomplete/src/main/java/com/integ/jcomplete2/ssl/KeyUtils.java" />
       <jump line="753" column="26" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="783" column="15" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="805" column="24" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="801" column="23" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="802" column="23" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="793" column="25" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="783" column="48" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="116" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
+      <jump line="110" column="6" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
+      <jump line="207" column="30" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="265" column="47" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
+      <jump line="99" column="37" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="818" column="12" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="791" column="36" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="865" column="25" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="867" column="38" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="789" column="23" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="765" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="724" column="33" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
+      <jump line="12" column="8" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/CertInfoDef.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/CertInfoDef.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/CertInfoDef.java" />
+      <jump line="7" column="13" filename="$USER_HOME$/dev/integ/pbkr/common/src/main/java/com/integ/security/imutable/CertInfoDef.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/integ/pbkr/common/src/main/java/com/integ/security/imutable/CertInfoDef.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/integ/pbkr/common/src/main/java/com/integ/security/imutable/CertInfoDef.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>void</text>
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1126,61 +1146,61 @@
         <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>alias</text>
+        <text encoding="base64">XDx0bXAxXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29tbW9uTmFtZTsKICAgICAgICBTdHJpbmcgb3JnYW5pemF0aW9uYWxVbml0OwogICAgICAgIFN0cmluZyBjb21wYW55OwogICAgICAgIFN0cmluZyBsb2NhdGlvbjsKICAgICAgICBTdHJpbmcgc3RhdGU7CiAgICAgICAgU3RyaW5nIGNvdW50cnk7CiAgICAgICAgU3RyaW5nIGVtYWlsOwo=</text>
+      <register name="0" type="4">
+        <text>x509cert</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20uaW50ZWcuc2VjdXJpdHkuaW11dGFibGU7CgovKioKICogQ3JlYXRlZCBieSBmb2JieWFsCiAqIENyZWF0aW9uIFRpbWUgNi8yNy8xOCA4OjExIEFNCiAqIFByb2plY3QgZm9yIHBia3IuCiAqLwpwdWJsaWMgY2xhc3MgQ2VydEluZm9EZWYgewp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cubG9nKCI8PT09PT09PT09PT09PT09S0VZSU5GTz09PT09PT09PT09PT09PT09PT4iKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgS2V5U3RvcmUgbG9hZEtleXN0b3JlKElucHV0U3RyZWFtIGlucHV0LCBTdHJpbmcgcGFzc3dvcmQpCiAgICAgICAgICAgIHRocm93cyBOb1N1Y2hQcm92aWRlckV4Y2VwdGlvbiwKICAgICAgICAgICAgS2V5U3RvcmVFeGNlcHRpb24sCiAgICAgICAgICAgIE5vU3VjaEFsZ29yaXRobUV4Y2VwdGlvbiwKICAgICAgICAgICAgSU9FeGNlcHRpb24sCiAgICAgICAgICAgIENlcnRpZmljYXRlRXhjZXB0aW9uLCBVbnJlY292ZXJhYmxlS2V5RXhjZXB0aW9uIHsKCiAgICAgICAgS2V5U3RvcmUga3MgPSBLZXlTdG9yZS5nZXRJbnN0YW5jZSgicGtjczEyIiwgIlN1bkpTU0UiKTsKICAgICAgICBTZWN1cml0eS5nZXRQcm92aWRlcigiU3VuSlNTRSIpOwogICAgICAgIEtleU1hbmFnZXJGYWN0b3J5IGttZiA9IEtleU1hbmFnZXJGYWN0b3J5LmdldEluc3RhbmNlKCJTVU5YNTA5Iik7CiAgICAgICAgY2hhciBwYXNzUGhyYXNlW10gPSBwYXNzd29yZC50b0NoYXJBcnJheSgpOwogICAgICAgIGtzLmxvYWQoaW5wdXQsIHBhc3NQaHJhc2UpOwogICAgICAgIGttZi5pbml0KGtzLCBwYXNzUGhyYXNlKTsKCiAgICAgICAgcmV0dXJuIGtzOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgQ2VydEluZm8gZXh0cmFjdENlcnRJbmZvKFg1MDlDZXJ0aWZpY2F0ZSB4NTA5Y2VydCwgU3RyaW5nIGFsaWFzKSB7CgogICAgICAgIENlcnRJbmZvLmJ1aWxkZXIoKQoKICAgICAgICBTdHJpbmcgZG4gPSB4NTA5Y2VydC5nZXRTdWJqZWN0RE4oKS50b1N0cmluZygpOwoKICAgICAgICBTdHJpbmcgcGF0dGVybiA9ICJbLF1bIF0iOwogICAgICAgIFN0cmluZyB0bXAxW10gPSBkbi5zcGxpdChwYXR0ZXJuKTsKCiAgICAgICAgZm9yIChTdHJpbmcgYVRtcDEgOiB0bXAxKSB7CiAgICAgICAgICAgIGlmIChhVG1wMS5zdGFydHNXaXRoKCJDTj0iKSkgewogICAgICAgICAgICAgICAgY29tbW9uTmFtZSA9IGFUbXAxOwogICAgICAgICAgICAgICAgbG9nLmxvZyhjb21tb25OYW1lKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChhVG1wMS5zdGFydHNXaXRoKCJPVT0iKSkgewogICAgICAgICAgICAgICAgb3JnYW5pemF0aW9uYWxVbml0ID0gYVRtcDE7CiAgICAgICAgICAgICAgICBsb2cubG9nKG9yZ2FuaXphdGlvbmFsVW5pdCk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoYVRtcDEuc3RhcnRzV2l0aCgiTz0iKSkgewogICAgICAgICAgICAgICAgY29tcGFueSA9IGFUbXAxOwogICAgICAgICAgICAgICAgbG9nLmxvZyhjb21wYW55KTsKICAgICAgICAgICAgfSBlbHNlIGlmIChhVG1wMS5zdGFydHNXaXRoKCJMPSIpKSB7CiAgICAgICAgICAgICAgICBsb2NhdGlvbiA9IGFUbXAxOwogICAgICAgICAgICAgICAgbG9nLmxvZyhsb2NhdGlvbik7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoYVRtcDEuc3RhcnRzV2l0aCgiU1Q9IikpIHsKICAgICAgICAgICAgICAgIHN0YXRlID0gYVRtcDE7CiAgICAgICAgICAgICAgICBsb2cubG9nKHN0YXRlKTsKICAgICAgICAgICAgfSBlbHNlIGlmIChhVG1wMS5zdGFydHNXaXRoKCJDPSIpKSB7CiAgICAgICAgICAgICAgICBjb3VudHJ5ID0gYVRtcDE7CiAgICAgICAgICAgICAgICBsb2cubG9nKGNvdW50cnkpOwogICAgICAgICAgICB9IGVsc2UgaWYgKGFUbXAxLnN0YXJ0c1dpdGgoIkVNQUlMQUREUkVTUz0iKSkgewogICAgICAgICAgICAgICAgZW1haWwgPSBhVG1wMTsKICAgICAgICAgICAgICAgIGxvZy5sb2coZW1haWwpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIGxvZy5sb2coIktleSBpcyBub3QgdmFsaWQgYmVmb3JlICIgKyB4NTA5Y2VydC5nZXROb3RCZWZvcmUoKSk7CiAgICAgICAgbG9nLmxvZygiS2V5IGlzIG5vdCB2YWxpZCBiZWZvcmUgIiArIHg1MDljZXJ0LmdldE5vdEFmdGVyKCkpOwoKCiAgICB9CgoKICAgIHB1YmxpYyBzdGF0aWMgQ2VydEluZm8gZXh0cmFjdENlcnRJbmZvKEtleVN0b3JlIGtzKSB0aHJvd3MgS2V5U3RvcmVFeGNlcHRpb24gewoKLy8gICAgICAgIENvbGxlY3Rpb25zLmxpc3Qoa3MuYWxpYXNlcygpKQovLyAgICAgICAgICAgICAgICAuc3RyZWFtKCkKLy8gICAgICAgICAgICAgICAgLm1hcChhbGlhcyAtPiB7Ci8vICAgICAgICAgICAgICAgICAgICB0cnkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBrcy5nZXRDZXJ0aWZpY2F0ZShhbGlhcyk7Ci8vICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChLZXlTdG9yZUV4Y2VwdGlvbiBlKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgbG9nLndhcm4oInVuYWJsZSB0byByZWFkIGNlcnQge30gZnJvbSBrZXlzdG9yZSIsYWxpYXMpOwovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwovLyAgICAgICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICB9KQovLyAgICAgICAgICAgICAgICAuZmlsdGVyKE9iamVjdHM6Om5vbk51bGwpCi8vICAgICAgICAgICAgICAgIC5tYXAoY2VydCAtPgovLwovLyAgICAgICAgICAgICAgICApCgoKICAgICAgICByZXR1cm4gbnVsbDsKCgogICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cubG9nKCI8PT09PT09PT09PT09PT09S0VZSU5GTz09PT09PT09PT09PT09PT09PT4iKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEVudW1lcmF0aW9uIGVudW0xID0ga3MuYWxpYXNlcygpOyBlbnVtMS5oYXNNb3JlRWxlbWVudHMoKTspIHsKLy8gICAgICAgICAgICB0bXAgPSBlbnVtMS5uZXh0RWxlbWVudCgpLnRvU3RyaW5nKCk7Ci8vICAgICAgICAgICAgbG9nLmRlYnVnKCJhbGlhcyBpcyB7fSIsdG1wKTsKCi8vICAgICAgICAgICAgamF2YS5zZWN1cml0eS5jZXJ0LkNlcnRpZmljYXRlIGphdmE1MDlDZXJ0ID0ga3MuZ2V0Q2VydGlmaWNhdGUodG1wKTsKLy8gICAgICAgICAgICBpZiAoamF2YTUwOUNlcnQgaW5zdGFuY2VvZiBYNTA5Q2VydGlmaWNhdGUpIHsKLy8gICAgICAgICAgICAgICAgWDUwOUNlcnRpZmljYXRlIHg1MDljZXJ0ID0gKFg1MDlDZXJ0aWZpY2F0ZSkgamF2YTUwOUNlcnQ7Ci8vCi8vICAgICAgICAgICAgICAgIFN0cmluZyBkbiA9IHg1MDljZXJ0LmdldFN1YmplY3RETigpLnRvU3RyaW5nKCk7Ci8vCi8vICAgICAgICAgICAgICAgIGxvZy5sb2coZG4pOwovLyAgICAgICAgICAgICAgICBTdHJpbmcgcGF0dGVybiA9ICJbLF1bIF0iOwovLyAgICAgICAgICAgICAgICBTdHJpbmcgdG1wMVtdID0gZG4uc3BsaXQocGF0dGVybik7Ci8vCi8vICAgICAgICAgICAgICAgIGZvciAoU3RyaW5nIGFUbXAxIDogdG1wMSkgewovLyAgICAgICAgICAgICAgICAgICAgaWYgKGFUbXAxLnN0YXJ0c1dpdGgoIkNOPSIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgY29tbW9uTmFtZSA9IGFUbXAxOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5sb2coY29tbW9uTmFtZSk7Ci8vICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGFUbXAxLnN0YXJ0c1dpdGgoIk9VPSIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgb3JnYW5pemF0aW9uYWxVbml0ID0gYVRtcDE7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmxvZyhvcmdhbml6YXRpb25hbFVuaXQpOwovLyAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChhVG1wMS5zdGFydHNXaXRoKCJPPSIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgY29tcGFueSA9IGFUbXAxOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5sb2coY29tcGFueSk7Ci8vICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGFUbXAxLnN0YXJ0c1dpdGgoIkw9IikpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBsb2NhdGlvbiA9IGFUbXAxOwovLyAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5sb2cobG9jYXRpb24pOwovLyAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChhVG1wMS5zdGFydHNXaXRoKCJTVD0iKSkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHN0YXRlID0gYVRtcDE7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmxvZyhzdGF0ZSk7Ci8vICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGFUbXAxLnN0YXJ0c1dpdGgoIkM9IikpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBjb3VudHJ5ID0gYVRtcDE7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmxvZyhjb3VudHJ5KTsKLy8gICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoYVRtcDEuc3RhcnRzV2l0aCgiRU1BSUxBRERSRVNTPSIpKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgZW1haWwgPSBhVG1wMTsKLy8gICAgICAgICAgICAgICAgICAgICAgICBsb2cubG9nKGVtYWlsKTsKLy8gICAgICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgICAgICBsb2cubG9nKCJLZXkgaXMgbm90IHZhbGlkIGJlZm9yZSAiICsgeDUwOWNlcnQuZ2V0Tm90QmVmb3JlKCkpOwovLyAgICAgICAgICAgICAgICBsb2cubG9nKCJLZXkgaXMgbm90IHZhbGlkIGJlZm9yZSAiICsgeDUwOWNlcnQuZ2V0Tm90QWZ0ZXIoKSk7Ci8vCi8vICAgICAgICAgICAgfQoKICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBEQU9wZXJhdGlvbjxMaXN0PExTRUNvbXBhbnk+PiBsc2VDb21wYW55R2V0KCkgewovLyAgICAgICAgcmV0dXJuIGRhIC0+Ci8vICAgICAgICAgICAgICAgIGRhLmdldEJ5Um93KCJzZWxlY3QgKiBmcm9tIChcbiIgKwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInNlbGVjdCBhLiosbWF4KGVmZmVjdGl2ZWRhdGUpIG92ZXIgKHBhcnRpdGlvbiBieSBsc2Vjb21wYW55X2lkKSBtZCBmcm9tIGxzZV9jb21wYW55IGFcbiIgKwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIikgd2hlcmUgZWZmZWN0aXZlZGF0ZT1tZCIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgSW1tdXRhYmxlRXh0cmFjdG9ycy5yb3dFeHRyYWN0b3JPZihMU0VDb21wYW55LmNsYXNzKSk7Ci8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAvL2tzLmFsaWFzZXMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29tbW9uTmFtZTsKICAgICAgICBTdHJpbmcgb3JnYW5pemF0aW9uYWxVbml0OwogICAgICAgIFN0cmluZyBjb21wYW55OwogICAgICAgIFN0cmluZyBsb2NhdGlvbjsKICAgICAgICBTdHJpbmcgc3RhdGU7CiAgICAgICAgU3RyaW5nIGNvdW50cnk7CiAgICAgICAgU3RyaW5nIGVtYWlsOwogICAgICAgIFN0cmluZyB0bXA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5sb2coZG4pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>alias</last-search>
+      <last-search encoding="base64">XDx0bXAxXD4=</last-search>
       <last-offset />
-      <last-pattern>alias</last-pattern>
+      <last-pattern encoding="base64">XDx0bXAxXD4=</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d:\/apps\/dompspk\/</last-substitute>
       <last-dir>1</last-dir>
@@ -1188,7 +1208,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Noload</entry>
         <entry encoding="base64">XDxOT3hBZGRlckNvc3ROb0xvYWRcPg==</entry>
         <entry encoding="base64">XDxXRkhTQ29zdE5vTG9hZFw+</entry>
         <entry encoding="base64">XDxOb0xvYWRDb3N0X0NUXD4=</entry>
@@ -1206,8 +1225,9 @@
         <entry encoding="base64">XDx0bXBcPg==</entry>
         <entry encoding="base64">XDxjb21tb25OYW1lXD4=</entry>
         <entry encoding="base64">XDxwYXR0ZXJuXD4=</entry>
-        <entry encoding="base64">XDx0bXAxXD4=</entry>
         <entry>alias</entry>
+        <entry>debug</entry>
+        <entry encoding="base64">XDx0bXAxXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
@@ -1227,9 +1247,9 @@
         <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VVcCA=</entry>
         <entry>action Rerun</entry>
         <entry>action CheckinProject</entry>
+        <entry>a</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
-        <entry>a</entry>
       </history-cmd>
       <history-expr />
       <history-input />
