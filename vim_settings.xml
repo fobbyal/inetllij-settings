@@ -1051,7 +1051,7 @@
         <text encoding="base64">bmV3IEdlbmVyaWNUeXBlPExpc3Q8RGFpbHlMb2FkPj4oKSB7CiAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>34</text>
       </register>
     </registers>
     <search>
@@ -1087,7 +1087,6 @@
         <entry>BidInfo</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/D:\/apps\/dompspk\//g</entry>
         <entry>%s/d:\/apps\/dompspk\//g</entry>
         <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VEb3duIA==</entry>
         <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VVcCA=</entry>
@@ -1107,6 +1106,7 @@
         <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>wa</entry>
+        <entry>34</entry>
       </history-cmd>
       <history-expr />
       <history-input />
