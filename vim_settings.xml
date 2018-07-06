@@ -493,12 +493,12 @@
         <mark key="." line="100" column="5" />
         <mark key="^" line="100" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" timestamp="1530901078220">
-        <mark key="'" line="22" column="81" />
-        <mark key="[" line="25" column="20" />
-        <mark key="]" line="25" column="42" />
-        <mark key="." line="25" column="42" />
-        <mark key="^" line="25" column="42" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" timestamp="1530901476311">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="38" column="19" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/dev/legacy/pspk/java/src/com/integ/pspk/costelement/client/PublishDialog.java" timestamp="1522081027891">
         <mark key="'" line="34" column="13" />
@@ -806,9 +806,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="834" column="35" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="835" column="36" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="836" column="35" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="837" column="31" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="838" column="36" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="839" column="35" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
@@ -906,10 +903,13 @@
       <jump line="26" column="32" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
       <jump line="22" column="81" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
       <jump line="221" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/UnitBasicInfo.java" />
+      <jump line="34" column="37" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
+      <jump line="41" column="19" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -972,55 +972,67 @@
         <text>&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1bml0SW5mb01hcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBkZWZhdWx0IE1hcDxTdHJpbmcsVW5pdEJhc2ljSW5mbz4gdW5pdEluZm9NYXAoKXsKICAgICAgICByZXR1cm4gdW5pdEluZm8oKS5zdHJlYW0oKS5jb2xsZWN0KHRvTWFwKFVuaXRCYXNpY0luZm86OnVuaXQsYSAtPiBhKSk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>CalcEntry calcEntry, CalcDataSource source</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCaWcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmKHVuaXRCYXNpY0luZm8uaXMpCi8vCi8vCi8vCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8QmlnRGVjaW1hbCwgSGVhdEN1cnZlQ29lZmZpY2llbnRzPiBjdXJ2ZXMgPSBzb3VyY2UuaGVhdEN1cnZlcygpCiAgICAgICAgICAgICAgICAuZ2V0KGNhbGNFbnRyeS5jYWxjS2V5KCkud2l0aEZ1ZWwoZW1wdHkoKSkpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLFVuaXRCYXNpY0luZm8+IHVuaXRCYXNpY0luZm8gPQogICAgICAgICAgICAgICAgc291cmNlLnVuaXRJbmZvKCkuc3RyZWFtKCkuY29sbGVjdCh0b01hcChVbml0QmFzaWNJbmZvOjp1bml0LGEgLT4gYSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvOiBudWxsIGNhc2UgbmVlZCB0byBjaGVjayBmb3IgbnVsbCBtYXliZSBpbiB0aGUgZm9ybSBvZiBtc2cK</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291cmNlLnVuaXRJbmZvKCkuc3RyZWFtKCkuY29sbGVjdCh0b01hcChVbml0QmFzaWNJbmZvOjp1bml0LGEgLT4gYSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8QmlnRGVjaW1hbCwgSGVhdEN1cnZlQ29lZmZpY2llbnRzPiBjdXJ2ZXMgPSBzb3VyY2UuaGVhdEN1cnZlcygpCiAgICAgICAgICAgICAgICAuZ2V0KGNhbGNFbnRyeS5jYWxjS2V5KCkud2l0aEZ1ZWwoZW1wdHkoKSkpOwoKCiAgICAgICAgZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+      <register name="7" type="4">
+        <text>BigDecimal cwtOveride = source.cwtOverride().get(calcEntry.unitId());
+        BigDecimal forecastTemp = source.foreCastTemperature().get(calcEntry.unitId());
+        DefaultTemperature defaultTemperature = source.defaultTempMap().get(calcEntry.unitId());
+        String unitType = source.unitInfoMap().get(calcEntry.unitId()).unitTypeCode();
+
+        if (unitType.equalsIgnoreCase(&quot;ct&quot;)) {
+            return forecastTemp == null ?
+                    defaultTemperature.ambientTemp() :
+                    forecastTemp;
+
+        }
+
+        r</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsVW5pdEJhc2ljSW5mbz4gdW5pdEJhc2ljSW5mbyA9Cg==</text>
+        <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsIGN3dE92ZXJpZGUgPSBzb3VyY2UuY3d0T3ZlcnJpZGUoKS5nZXQoY2FsY0VudHJ5LnVuaXRJZCgpKTsKICAgICAgICBCaWdEZWNpbWFsIGZvcmVjYXN0VGVtcCA9IHNvdXJjZS5mb3JlQ2FzdFRlbXBlcmF0dXJlKCkuZ2V0KGNhbGNFbnRyeS51bml0SWQoKSk7CiAgICAgICAgRGVmYXVsdFRlbXBlcmF0dXJlIGRlZmF1bHRUZW1wZXJhdHVyZSA9IHNvdXJjZS5kZWZhdWx0VGVtcE1hcCgpLmdldChjYWxjRW50cnkudW5pdElkKCkpOwogICAgICAgIFN0cmluZyB1bml0VHlwZSA9IHNvdXJjZS51bml0SW5mb01hcCgpLmdldChjYWxjRW50cnkudW5pdElkKCkpLnVuaXRUeXBlQ29kZSgpOwoKICAgICAgICBpZiAodW5pdFR5cGUuZXF1YWxzSWdub3JlQ2FzZSgiY3QiKSkgewogICAgICAgICAgICByZXR1cm4gZm9yZWNhc3RUZW1wID09IG51bGwgPyAKICAgICAgICAgICAgICAgICAgICBkZWZhdWx0VGVtcGVyYXR1cmUuYW1iaWVudFRlbXAoKSA6CiAgICAgICAgICAgICAgICAgICAgZm9yZWNhc3RUZW1wOwoKICAgICAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBra2pkZGsK</text>
       </register>
       <register name=":" type="4">
-        <text>on</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1072,10 +1084,10 @@
         <entry>action Rerun</entry>
         <entry>action AceAction</entry>
         <entry>action RenameElement</entry>
-        <entry>action ReformatCode</entry>
-        <entry>a</entry>
-        <entry>wa</entry>
         <entry>on</entry>
+        <entry>a</entry>
+        <entry>action ReformatCode</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
