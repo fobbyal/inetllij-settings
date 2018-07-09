@@ -622,12 +622,11 @@
         <mark key="^" line="35" column="77" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" timestamp="1531150263497">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" timestamp="1531154333860">
         <mark key="'" line="130" column="8" />
-        <mark key="[" line="420" column="0" />
-        <mark key="]" line="420" column="0" />
-        <mark key="." line="420" column="0" />
-        <mark key="^" line="329" column="47" />
+        <mark key="[" line="372" column="0" />
+        <mark key="]" line="372" column="0" />
+        <mark key="." line="372" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/AdminDataAccess.java" timestamp="1530115594296">
         <mark key="'" line="57" column="113" />
@@ -1047,7 +1046,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>FuelSpec</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LFwg</text>
@@ -1056,7 +1055,7 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoYXBwVGltZVN0YW1wTGVzc1RoYW4oZGF0ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBCdWlsdENsYXVzZSBiY2wgPSBPcHRpb25hbC5vZihDb25kaXRpb25DbGF1c2UuY2woKSkKICAgICAgICAgICAgICAgIC5tYXAoZWZmZWN0aXZlRGF0ZUxlc3NUaGFuKGRhdGUpKQogICAgICAgICAgICAgICAgLm1hcChDb25kaXRpb246OmJ1aWxkKQogICAgICAgICAgICAgICAgLmdldCgpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1065,40 +1064,40 @@
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEZ1bmN0aW9uPENvbmRpdGlvbkNsYXVzZSwgQ29uZGl0aW9uQ2xhdXNlPiBhcHBUaW1lc3RhbXBMZXNzVGhhbihMb2NhbERhdGUgZGF0ZSkgewogICAgICAgIHJldHVybiBjbCAtPiBjbC5hbmQoImVmZmVjdGl2ZWRhdGUiLCBsdGUsIGRhdGUudG9EYXRlKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBCdWlsdENsYXVzZSBiY2wgPSBPcHQK</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCdWlsdENsYXVzZSBiY2wgPSBPcHRpb25hbC5vZgo=</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QE1hcHBlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoYXBwVGltZVN0YW1wTGVzc1RoYW4oZGF0ZSkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBNYXBwZXIoY29sTmFtZSA9ICJGVUVMIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAobGltaXRVbml0c1RvKHVuaXRzKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEltbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpqa2sK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEZ1bmN0aW9uPENvbmRpdGlvbkNsYXVzZSwgQ29uZGl0aW9uQ2xhdXNlPiBhcHBUaW1lc3RhbXBMZXNzVGhhbihMb2NhbERhdGUgZGF0ZSkgewogICAgICAgIHJldHVybiBjbCAtPiBjbC5hbmQoImVmZmVjdGl2ZWRhdGUiLCBsdGUsIGRhdGUudG9EYXRlKCkpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1152,8 +1151,8 @@
         <entry>action CompileDirty</entry>
         <entry>action IntroduceParameter</entry>
         <entry>a</entry>
-        <entry>action ReformatCode</entry>
         <entry>wa</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
