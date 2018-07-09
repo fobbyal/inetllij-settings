@@ -86,12 +86,12 @@
         <mark key="^" line="30" column="26" />
         <mark key="." line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CriteriaScheduleDef.java" timestamp="1531161294658">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="15" column="56" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CriteriaScheduleDef.java" timestamp="1531162797553">
+        <mark key="'" line="17" column="52" />
+        <mark key="[" line="75" column="29" />
+        <mark key="]" line="76" column="29" />
+        <mark key="." line="76" column="29" />
+        <mark key="^" line="76" column="29" />
       </file>
       <file name="$USER_HOME$/dev/jc-jdk8/jcomplete/src/main/java/com/integ/jcomplete/framework/dao/statement/DBStatement.java" timestamp="1529955103499">
         <mark key="'" line="21" column="24" />
@@ -240,10 +240,6 @@
         <mark key="." line="47" column="13" />
         <mark key="^" line="47" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-calc-inputs/ct.json" timestamp="1530902164149">
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="31" column="14" />
-      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/mktgateway/RetrieveAncillaryOffer.java" timestamp="1523465918476">
         <mark key="'" line="95" column="42" />
         <mark key="[" line="28" column="13" />
@@ -289,11 +285,11 @@
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcDataSourceDef.java" timestamp="1531161285291">
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="^" line="163" column="48" />
-        <mark key="." line="167" column="0" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcDataSourceDef.java" timestamp="1531162950659">
+        <mark key="[" line="169" column="43" />
+        <mark key="]" line="169" column="61" />
+        <mark key="^" line="169" column="61" />
+        <mark key="." line="169" column="61" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/IntegScheduledJob.java" timestamp="1511902002362">
         <mark key="[" line="55" column="12" />
@@ -371,7 +367,7 @@
         <mark key="." line="992" column="47" />
         <mark key="^" line="992" column="45" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/HeatCurveCoefficientsDef.java" timestamp="1530899488973">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/HeatCurveCoefficientsDef.java" timestamp="1531162418748">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="54" column="4" />
       </file>
@@ -381,11 +377,11 @@
         <mark key="^" line="20" column="85" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcKeyDef.java" timestamp="1531161042382">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="16" column="3" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcKeyDef.java" timestamp="1531162385332">
+        <mark key="[" line="30" column="72" />
+        <mark key="]" line="30" column="72" />
+        <mark key="^" line="30" column="75" />
+        <mark key="." line="30" column="72" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcEntry.java" timestamp="1530899560668">
         <mark key="'" line="9" column="42" />
@@ -432,6 +428,13 @@
         <mark key="]" line="103" column="65" />
         <mark key="^" line="103" column="65" />
         <mark key="." line="103" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CollectedInputDef.java" timestamp="1531165240091">
+        <mark key="'" line="35" column="31" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="38" column="64" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/test/java/com/integ/scheduler/SchedulerDataAccessTest.java" timestamp="1511885897414">
         <mark key="[" line="132" column="46" />
@@ -502,18 +505,19 @@
         <mark key="." line="75" column="50" />
         <mark key="^" line="53" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-original/aep-calc-original.solver" timestamp="1531164685094" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/Alive.java" timestamp="1511899179088">
         <mark key="[" line="100" column="68" />
         <mark key="]" line="100" column="5" />
         <mark key="." line="100" column="5" />
         <mark key="^" line="100" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" timestamp="1531160789359">
-        <mark key="'" line="460" column="50" />
-        <mark key="[" line="418" column="100" />
-        <mark key="]" line="419" column="20" />
-        <mark key="^" line="419" column="20" />
-        <mark key="." line="419" column="20" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" timestamp="1531165388158">
+        <mark key="'" line="419" column="32" />
+        <mark key="[" line="440" column="49" />
+        <mark key="]" line="440" column="49" />
+        <mark key="." line="440" column="49" />
+        <mark key="^" line="440" column="49" />
       </file>
       <file name="$USER_HOME$/dev/legacy/pspk/java/src/com/integ/pspk/costelement/client/PublishDialog.java" timestamp="1522081027891">
         <mark key="'" line="34" column="13" />
@@ -589,12 +593,12 @@
         <mark key="^" line="78" column="19" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcEntryDef.java" timestamp="1531160762326">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcEntryDef.java" timestamp="1531162989720">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="13" column="22" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="19" />
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="18" column="3" />
+        <mark key="^" line="18" column="3" />
+        <mark key="." line="18" column="3" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/RestfulScheduleJobRunner.java" timestamp="1512667293604">
         <mark key="[" line="197" column="72" />
@@ -640,12 +644,12 @@
         <mark key="^" line="35" column="77" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" timestamp="1531157271133">
-        <mark key="'" line="397" column="57" />
-        <mark key="[" line="468" column="45" />
-        <mark key="]" line="469" column="59" />
-        <mark key="^" line="469" column="59" />
-        <mark key="." line="469" column="59" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" timestamp="1531162841628">
+        <mark key="'" line="449" column="59" />
+        <mark key="[" line="371" column="56" />
+        <mark key="]" line="371" column="56" />
+        <mark key="." line="371" column="56" />
+        <mark key="^" line="371" column="56" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/AdminDataAccess.java" timestamp="1530115594296">
         <mark key="'" line="57" column="113" />
@@ -716,11 +720,11 @@
         <mark key="^" line="7" column="44" />
         <mark key="." line="7" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530903178834">
+      <file name="/Dummy.txt" timestamp="1531162399562">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/QuartzDriver.java" timestamp="1511892677076">
         <mark key="[" line="30" column="13" />
@@ -760,6 +764,9 @@
         <mark key="]" line="2" column="56" />
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/CollectedInput.java" timestamp="1531165009939">
+        <mark key="'" line="30" column="61" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" timestamp="1530213255712">
         <mark key="'" line="49" column="36" />
@@ -838,15 +845,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="998" column="24" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="997" column="14" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="996" column="23" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="371" column="20" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/DataAccess.java" />
-      <jump line="439" column="16" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/DataAccess.java" />
-      <jump line="912" column="35" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="280" column="33" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
-      <jump line="272" column="37" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/dmb/DemandDataAccessTest.java" />
-      <jump line="28" column="53" filename="$USER_HOME$/dev/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/LSECompany.java" />
       <jump line="932" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="832" column="41" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="863" column="51" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
@@ -938,10 +936,19 @@
       <jump line="43" column="3" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcDataSourceDef.java" />
       <jump line="133" column="18" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcDataSourceDef.java" />
       <jump line="25" column="8" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CriteriaScheduleDef.java" />
+      <jump line="17" column="52" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CriteriaScheduleDef.java" />
+      <jump line="449" column="59" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
+      <jump line="420" column="58" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
+      <jump line="439" column="28" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
+      <jump line="450" column="18" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
+      <jump line="424" column="50" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
+      <jump line="419" column="32" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
+      <jump line="30" column="61" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/CollectedInput.java" />
+      <jump line="43" column="31" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CollectedInputDef.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgKA==</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1065,25 +1072,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>costType</text>
+        <text encoding="base64">ICAgKA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlQW5kUGVha1w+</text>
+        <text>mis</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBASnNvbklnbm9yZQogICAgZGVmYXVsdCBNYXA8U3RyaW5nLCBDb3N0VHlwZT4gY29zdFR5cGVNYXAoKSB7CiAgICAgICAgcmV0dXJuIGNvc3RUeXBlKCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvTWFwKENvc3RUeXBlOjpjb3N0VHlwZSwgaWRlbnRpdHkoKSkpOwoKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>CollectedInput</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgTGlzdDxGdWVsU3BlYz4gZnVlbFNwZWMoKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8vICAgIHN0YXRpYyBDb2xsZWN0ZWRJbnB1dCBvZihTdHJpbmcgZWxlbWVudCwgQmlnRGVjaW1hbCBiZCkgewovLyAgICAgICAgcmV0dXJuIENvbGxlY3RlZElucHV0LmJ1aWxkZXIoKS5uYW1lKGVsZW1lbnQpLnZhbHVlKGJkKS5idWlsZCgpOwovLyAgICB9Ci8vCi8vICAgIHN0YXRpYyBDb2xsZWN0ZWRJbnB1dCBlcnJvcihTdHJpbmcgZXJyb3IpIHsKLy8gICAgICAgIHJldHVybiBDb2xsZWN0ZWRJbnB1dC5idWlsZGVyKCkuZXJyb3IoZXJyb3IpLmJ1aWxkKCk7Ci8vICAgIH0=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
@@ -1095,34 +1102,34 @@
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgTGlzdDxNYXJrZXRDb3N0VHlwZT4gbWFya2V0Q29zdFR5cGUoKTsKLy8KLy8gICAgTGlzdDxHZW5lcmljSW5wdXQ+IGZ1ZWxBbmRIYW5kbGluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPFN0cmluZz4gZnVlbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlucHV0T2YoLCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlQW5kUGVha1w+</last-search>
+      <last-search>mis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlQW5kUGVha1w+</last-pattern>
+      <last-pattern>mis</last-pattern>
       <last-replace>testDate</last-replace>
       <last-substitute>LocalDate.now()</last-substitute>
       <last-dir>1</last-dir>
@@ -1130,7 +1137,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxldGVEZW1hbmRCaWRcPg==</entry>
         <entry encoding="base64">XDxpbmZvXD4=</entry>
         <entry>delete</entry>
         <entry encoding="base64">XDxTZWN1cml0eUNvbnRleHRcPg==</entry>
@@ -1150,11 +1156,9 @@
         <entry>LocalDate.now()</entry>
         <entry encoding="base64">XDxkYXRlXD4=</entry>
         <entry encoding="base64">XDxiYXNlQW5kUGVha1w+</entry>
+        <entry>mis</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VEb3duIA==</entry>
-        <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VVcCA=</entry>
-        <entry>22</entry>
         <entry>actionlist</entry>
         <entry>action RenameElement</entry>
         <entry>on</entry>
@@ -1166,12 +1170,15 @@
         <entry>action IntroduceParameter</entry>
         <entry>%s/LocalDate.now()/testDate/g</entry>
         <entry>action AceAction</entry>
-        <entry>action Rerun</entry>
         <entry>w</entry>
         <entry>a</entry>
+        <entry>sp</entry>
+        <entry>action Rerun</entry>
         <entry>action CompileDirty</entry>
-        <entry>action ReformatCode</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry>aw</entry>
         <entry>wa</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
