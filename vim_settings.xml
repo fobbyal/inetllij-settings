@@ -705,6 +705,13 @@
         <mark key="^" line="786" column="65" />
         <mark key="." line="786" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/FuelSpecDef.java" timestamp="1531147847721">
+        <mark key="'" line="24" column="32" />
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/DataAccess.java" timestamp="1530557206517">
         <mark key="'" line="439" column="16" />
         <mark key="[" line="439" column="4" />
@@ -763,12 +770,11 @@
         <mark key="^" line="24" column="69" />
         <mark key="." line="24" column="69" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/MarketCostTypeDef.java" timestamp="1531146148780">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="15" />
-        <mark key="^" line="4" column="15" />
-        <mark key="." line="4" column="15" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/MarketCostTypeDef.java" timestamp="1531146980836">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="11" column="54" />
+        <mark key="^" line="11" column="54" />
+        <mark key="." line="11" column="54" />
       </file>
       <file name="$USER_HOME$/dev/pgadsanalytics/src/main/java/com/integ/pgads/StandaloneStarter.java" timestamp="1510073214778">
         <mark key="[" line="34" column="77" />
@@ -796,8 +802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="839" column="35" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="810" column="19" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="811" column="27" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="840" column="40" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="841" column="41" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
@@ -896,10 +900,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/MarketCostTypeDef.java" />
+      <jump line="5" column="4" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/FuelSpecDef.java" />
+      <jump line="17" column="32" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/FuelSpecDef.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>j</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -1012,52 +1018,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">LFwg</text>
       </register>
       <register name="0" type="4">
-        <text>MODIFIEDDATE</text>
+        <text>ALT_NON_W_COSTTYPE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyAK</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmYXVsdFRlbXBlcmF0dXJlKCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvTWFwKERlZmF1bHRUZW1wZXJhdHVyZTo6dW5pdElkLGEgLT4gYSkpOwogICAgfQogICAgc3RhdGljICBub3JtYWxpemVIZWF0Q3VydmVzKExpc3Q8SGVhdEN1cnZlQ29lZmZpY2llbnRzPiBkYXRhKSB7Cg==</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBNYXA8Q2FsY0tleSwgTWFwPEJpZ0RlY2ltYWwsIEhlYXRDdXJ2ZUNvZWZmaWNpZW50cz4+IG5vcm1hbGl6ZUhlYXRDdXJ2ZXMoTGlzdDxIZWF0Q3VydmVDb2VmZmljaWVudHM+IGRhdGEpIHsKICAgICAgICByZXR1cm4gZGF0YS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoZ3JvdXBpbmdCeShIZWF0Q3VydmVDb2VmZmljaWVudHM6OmNhbGNLZXksCiAgICAgICAgICAgICAgICAgICAgICAgIG1hcHBpbmcoYSAtPiBhLCB0b01hcChIZWF0Q3VydmVDb2VmZmljaWVudHM6OnRlbXBlcmF0dXJlLCBhIC0+IGEpKSkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBNYXBwZXIoY29sTmFtZSA9ICJtYXJrZXQiKQo=</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBNYXA8Q2FsY0tleSwgTWFwPEJpZ0RlY2ltYWwsIEhlYXRDdXJ2ZUNvZWZmaWNpZW50cz4+IG5vcm1hbGl6ZUhlYXRDdXJ2ZXMoTGlzdDxIZWF0Q3VydmVDb2VmZmljaWVudHM+IGRhdGEpIHsKICAgICAgICByZXR1cm4gZGF0YS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoZ3JvdXBpbmdCeShIZWF0Q3VydmVDb2VmZmljaWVudHM6OmNhbGNLZXksCiAgICAgICAgICAgICAgICAgICAgICAgIG1hcHBpbmcoYSAtPiBhLCB0b01hcChIZWF0Q3VydmVDb2VmZmljaWVudHM6OnRlbXBlcmF0dXJlLCBhIC0+IGEpKSkpOwogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIEBNYXBwZXIoY29sTmFtZSA9ICJNT0RJRklFUiIpCiAgICBTdHJpbmcgTU9ESUZJRVIoKTsKCiAgICBATWFwcGVyKGNvbE5hbWUgPSAiTU9ESUZJRUREQVRFIikKICAgIFN0cmluZyBNT0RJRklFRERBVEUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhaXIub2YoIkJDb2VmZmljaWVudCIsIGhjLmNvZWZCKCkpLAogICAgICAgICAgICAgICAgUGFpci5vZigiQ0NvZWZmaWNpZW50IiwgaGMuY29lZkMoKSksCiAgICAgICAgICAgICAgICBQYWlyLm9mKCJEQ29lZmZpY2llbnQiLCBoYy5jb2VmRCgpKQo=</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhaXIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGVmYXVsdFRlbXBlcmF0dXJlKCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvTWFwKERlZmF1bHRUZW1wZXJhdHVyZTo6dW5pdElkLGEgLT4gYSkpOwogICAgfQogICAgc3RhdGljICBub3JtYWxpemVIZWF0Q3VydmVzKExpc3Q8SGVhdEN1cnZlQ29lZmZpY2llbnRzPiBkYXRhKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBNYXA8Q2FsY0tleSwgTWFwPEJpZ0RlY2ltYWwsIEhlYXRDdXJ2ZUNvZWZmaWNpZW50cz4+IG5vcm1hbGl6ZUhlYXRDdXJ2ZXMoTGlzdDxIZWF0Q3VydmVDb2VmZmljaWVudHM+IGRhdGEpIHsKICAgICAgICByZXR1cm4gZGF0YS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoZ3JvdXBpbmdCeShIZWF0Q3VydmVDb2VmZmljaWVudHM6OmNhbGNLZXksCiAgICAgICAgICAgICAgICAgICAgICAgIG1hcHBpbmcoYSAtPiBhLCB0b01hcChIZWF0Q3VydmVDb2VmZmljaWVudHM6OnRlbXBlcmF0dXJlLCBhIC0+IGEpKSkpOwogICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBNYXA8Q2FsY0tleSwgTWFwPEJpZ0RlY2ltYWwsIEhlYXRDdXJ2ZUNvZWZmaWNpZW50cz4+IG5vcm1hbGl6ZUhlYXRDdXJ2ZXMoTGlzdDxIZWF0Q3VydmVDb2VmZmljaWVudHM+IGRhdGEpIHsKICAgICAgICByZXR1cm4gZGF0YS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoZ3JvdXBpbmdCeShIZWF0Q3VydmVDb2VmZmljaWVudHM6OmNhbGNLZXksCiAgICAgICAgICAgICAgICAgICAgICAgIG1hcHBpbmcoYSAtPiBhLCB0b01hcChIZWF0Q3VydmVDb2VmZmljaWVudHM6OnRlbXBlcmF0dXJlLCBhIC0+IGEpKSkpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
@@ -1096,13 +1102,11 @@
         <entry encoding="base64">LFwg</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\\\\/\//g</entry>
         <entry>%s/\\/\//g</entry>
         <entry>%s/D:\/apps\/dompspk\//g</entry>
         <entry>%s/d:\/apps\/dompspk\//g</entry>
         <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VEb3duIA==</entry>
         <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VVcCA=</entry>
-        <entry>w</entry>
         <entry>22</entry>
         <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -1113,7 +1117,9 @@
         <entry>a</entry>
         <entry>action CheckinProject</entry>
         <entry encoding="base64">JzwsJz5zLyxcIC9cXHIvZw==</entry>
+        <entry>action CompileDirty</entry>
         <entry encoding="base64">JzwsJz5zLyxcIC9cci9n</entry>
+        <entry>w</entry>
         <entry>wa</entry>
         <entry>action ReformatCode</entry>
       </history-cmd>
