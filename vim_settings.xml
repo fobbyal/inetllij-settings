@@ -136,13 +136,6 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" timestamp="1530899143066">
-        <mark key="'" line="77" column="0" />
-        <mark key="[" line="92" column="49" />
-        <mark key="]" line="92" column="76" />
-        <mark key="^" line="92" column="76" />
-        <mark key="." line="92" column="76" />
-      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/BidCostsTest.java" timestamp="1523463059556">
         <mark key="'" line="90" column="8" />
         <mark key="[" line="74" column="64" />
@@ -497,13 +490,6 @@
         <mark key="." line="100" column="5" />
         <mark key="^" line="100" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" timestamp="1530903114390">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="50" column="63" />
-        <mark key="]" line="50" column="76" />
-        <mark key="." line="50" column="76" />
-        <mark key="^" line="50" column="76" />
-      </file>
       <file name="$USER_HOME$/dev/legacy/pspk/java/src/com/integ/pspk/costelement/client/PublishDialog.java" timestamp="1522081027891">
         <mark key="'" line="34" column="13" />
         <mark key="[" line="329" column="80" />
@@ -630,13 +616,6 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="35" column="77" />
         <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" timestamp="1530902983923">
-        <mark key="'" line="125" column="27" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="^" line="88" column="75" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/AdminDataAccess.java" timestamp="1530115594296">
         <mark key="'" line="57" column="113" />
