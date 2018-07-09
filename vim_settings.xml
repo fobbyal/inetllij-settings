@@ -143,6 +143,13 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" timestamp="1531155648833">
+        <mark key="'" line="45" column="45" />
+        <mark key="[" line="162" column="62" />
+        <mark key="]" line="162" column="69" />
+        <mark key="." line="162" column="69" />
+        <mark key="^" line="162" column="69" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/BidCostsTest.java" timestamp="1523463059556">
         <mark key="'" line="90" column="8" />
         <mark key="[" line="74" column="64" />
@@ -622,11 +629,12 @@
         <mark key="^" line="35" column="77" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" timestamp="1531154333860">
-        <mark key="'" line="130" column="8" />
-        <mark key="[" line="372" column="0" />
-        <mark key="]" line="372" column="0" />
-        <mark key="." line="372" column="0" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" timestamp="1531155341584">
+        <mark key="'" line="360" column="54" />
+        <mark key="[" line="374" column="0" />
+        <mark key="]" line="374" column="0" />
+        <mark key="." line="374" column="0" />
+        <mark key="^" line="373" column="93" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/AdminDataAccess.java" timestamp="1530115594296">
         <mark key="'" line="57" column="113" />
@@ -819,13 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="848" column="35" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="849" column="31" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="850" column="36" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="851" column="35" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="852" column="39" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="854" column="28" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
-      <jump line="914" column="61" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="931" column="30" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="911" column="13" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
       <jump line="940" column="33" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/DemandDataAccess.java" />
@@ -919,10 +920,17 @@
       <jump line="90" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
       <jump line="328" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
       <jump line="130" column="8" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
+      <jump line="360" column="54" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" />
+      <jump line="167" column="3" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" />
+      <jump line="170" column="55" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" />
+      <jump line="178" column="73" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" />
+      <jump line="45" column="45" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>LocalDate.parse(&quot;2017-03-01&quot;), emptyList()</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1046,16 +1054,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FuelSpec</text>
+        <text>LocalDate.parse(&quot;2017-03-01&quot;), emptyList()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">LFwg</text>
+        <text>LocalDate.now()</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCdWlsdENsYXVzZSBiY2wgPSBPcHRpb25hbC5vZihDb25kaXRpb25DbGF1c2UuY2woKSkKICAgICAgICAgICAgICAgIC5tYXAoZWZmZWN0aXZlRGF0ZUxlc3NUaGFuKGRhdGUpKQogICAgICAgICAgICAgICAgLm1hcChDb25kaXRpb246OmJ1aWxkKQogICAgICAgICAgICAgICAgLmdldCgpOwo=</text>
+      <register name="0" type="4">
+        <text>LocalDate.now()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1064,13 +1072,13 @@
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCdWlsdENsYXVzZSBiY2wgPSBPcHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBCdWlsdENsYXVzZSBiY2wgPSBPcHRpb25hbC5vZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
@@ -1079,13 +1087,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoYXBwVGltZVN0YW1wTGVzc1RoYW4oZGF0ZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAobGltaXRVbml0c1RvKHVuaXRzKSkK</text>
+        <text encoding="base64">ICAgICAgICBCdWlsdENsYXVzZSBiY2wgPSBPcHQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBCdWlsdENsYXVzZSBiY2wgPSBPcHRpb25hbC5vZgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1094,25 +1102,23 @@
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIEZ1bmN0aW9uPENvbmRpdGlvbkNsYXVzZSwgQ29uZGl0aW9uQ2xhdXNlPiBhcHBUaW1lc3RhbXBMZXNzVGhhbihMb2NhbERhdGUgZGF0ZSkgewogICAgICAgIHJldHVybiBjbCAtPiBjbC5hbmQoImVmZmVjdGl2ZWRhdGUiLCBsdGUsIGRhdGUudG9EYXRlKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoYXBwVGltZVN0YW1wTGVzc1RoYW4oZGF0ZSkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>%s/LocalDate.now()/testDate/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">LFwg</last-search>
+      <last-search>LocalDate.now()</last-search>
       <last-offset />
-      <last-pattern encoding="base64">LFwg</last-pattern>
-      <last-replace>\r</last-replace>
-      <last-substitute encoding="base64">LFwg</last-substitute>
+      <last-pattern>LocalDate.now()</last-pattern>
+      <last-replace>testDate</last-replace>
+      <last-substitute>LocalDate.now()</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>save</entry>
-        <entry>initial</entry>
         <entry encoding="base64">XDxzYXZlRGVtYW5kTG9hZFNvdXJjZUNvbmZpZ1w+</entry>
         <entry>inactive</entry>
         <entry encoding="base64">XDxkZWxldGVEZW1hbmRCaWRcPg==</entry>
@@ -1131,9 +1137,10 @@
         <entry>Pair</entry>
         <entry encoding="base64">XDx1bml0SW5mb01hcFw+</entry>
         <entry encoding="base64">LFwg</entry>
+        <entry encoding="base64">XDxyZXRyaWV2ZUNyaXRlcmlhU2NoZWR1bGVzXD4=</entry>
+        <entry>LocalDate.now()</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/d:\/apps\/dompspk\//g</entry>
         <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VEb3duIA==</entry>
         <entry encoding="base64">YWN0aW9uIFZpbU1vdGlvblNjcm9sbFBhZ2VVcCA=</entry>
         <entry>22</entry>
@@ -1151,8 +1158,9 @@
         <entry>action CompileDirty</entry>
         <entry>action IntroduceParameter</entry>
         <entry>a</entry>
-        <entry>wa</entry>
         <entry>action ReformatCode</entry>
+        <entry>wa</entry>
+        <entry>%s/LocalDate.now()/testDate/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
