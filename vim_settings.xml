@@ -779,7 +779,7 @@
         <mark key="." line="134" column="24" />
         <mark key="^" line="134" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" timestamp="1531756529806">
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" timestamp="1531758986209">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -805,11 +805,11 @@
         <mark key="^" line="7" column="44" />
         <mark key="." line="7" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531170593803">
+      <file name="/Dummy.txt" timestamp="1531758991541">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="46" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="46" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/QuartzDriver.java" timestamp="1511892677076">
         <mark key="[" line="30" column="13" />
@@ -1197,7 +1197,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5pbnRlZy5wc3BrLmNvcmUuaW1tdXRhYmxlcy5DYWxjUmVjb3JkOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -1248,11 +1248,11 @@
         <entry encoding="base64">JzwsJz5zL1wgL3IvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wgL1xyL2c=</entry>
         <entry>a</entry>
-        <entry>action CheckinProject</entry>
         <entry>action Compile</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
         <entry>action Rerun</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
