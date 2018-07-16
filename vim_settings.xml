@@ -453,6 +453,14 @@
         <mark key="." line="33" column="23" />
         <mark key="^" line="33" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" timestamp="1531750584720">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+        <mark key="^" line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/StandaloneStarter.java" timestamp="1531750408204" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/40e8e490-e483-4a52-9cdf-94d27d22e29c/console.sql" timestamp="1519157255063">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="50" />
@@ -477,6 +485,9 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="^" line="43" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1531750566546">
+        <mark key="'" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/weighted-average-fuel-original.solver" timestamp="1531167451256">
         <mark key="'" line="4" column="53" />
@@ -593,6 +604,11 @@
         <mark key="]" line="81" column="12" />
         <mark key="^" line="67" column="55" />
         <mark key="." line="81" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/pom.xml" timestamp="1531750159794">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/core/SparkUtil.java" timestamp="1530893313743">
         <mark key="'" line="51" column="0" />
@@ -874,7 +890,7 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1530898233665">
+      <file name="/fragment.java" timestamp="1531750473974">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="54" />
         <mark key="^" line="0" column="54" />
@@ -894,11 +910,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="50" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
-      <jump line="43" column="3" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcDataSourceDef.java" />
-      <jump line="133" column="18" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcDataSourceDef.java" />
-      <jump line="25" column="8" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CriteriaScheduleDef.java" />
-      <jump line="17" column="52" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CriteriaScheduleDef.java" />
       <jump line="449" column="59" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
       <jump line="420" column="58" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
       <jump line="439" column="28" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataCollector.java" />
@@ -994,10 +1005,15 @@
       <jump line="38" column="1" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-calc-inputs/weighted-average-fuel.inputs" />
       <jump line="39" column="1" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-calc-inputs/weighted-average-fuel.inputs" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-calc-inputs/weighted-average-fuel.inputs" />
+      <jump line="67" column="54" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
+      <jump line="139" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
+      <jump line="32" column="5" filename="$USER_HOME$/dev/pspk/pspk-api/debug.conf" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/debug.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Zmlyc3Qgc3RlcCBvZiBnZXR0aW5nIGNvZWZmaWNpZW50IGRvbmUK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="d" type="4">
         <keys>
@@ -1119,46 +1135,46 @@
         <text encoding="base64">RXN0aW1hdGVkVU5JVENPU1QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zmlyc3Qgc3RlcCBvZiBnZXR0aW5nIGNvZWZmaWNpZW50IGRvbmUK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">J0VzdGltYXRlZFVOSVRDT1NUX1dUQTMnCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zmlyc3Qgc3RlcCBvZiBnZXR0aW5nIGNvZWZmaWNpZW50IGRvbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QWN0dWFsRGVsaXZlcmVkUXVhbnRpdHkgPSBBY3R1YWxJbnZlbnRvcnlRdWFudGl0eUluICsgQWN0dWFsSW52ZW50b3J5UXVhbnRpdHlBZGpJbiArIERlbGl2ZXJlZFFVQU5USVRZICsgRGVsaXZlcmVkUVVBTlRJVFlBZGoK</text>
+        <text encoding="base64">J0VzdGltYXRlZFVOSVRDT1NUX1dUQTMnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiQWN0dWFsSW52ZW50b3J5Q29zdEFkakluIjogIjAiLAogICJBY3R1YWxJbnZlbnRvcnlDb3N0SW4iOiAiNDU2MDk0MTQiLAogICJBY3R1YWxJbnZlbnRvcnlRdWFudGl0eUFkakluIjogIjAiLAogICJBY3R1YWxJbnZlbnRvcnlRdWFudGl0eUluIjogIjg5NDY4NCIsCiAgIkNvbnN1bWVkUVVBTlRJVFkiOiAiMjkzNjIzIiwKICAiQ29uc3VtZWRRVUFOVElUWUFkaiI6ICIwIiwKICAiRGVsaXZlcmVkUVVBTlRJVFkiOiAiMTgyMzQ3IiwKICAiRGVsaXZlcmVkUVVBTlRJVFlBZGoiOiAiMCIsCiAgIkVzdGltYXRlZFFVQUxJVFkiOiAiMTI1NzgiLAogICJFc3RpbWF0ZWRRVUFOVElUWUFkaiI6ICIwIiwKICAiRXN0aW1hdGVkUVVBTlRJVFkiOiAiMjA3ODY0IiwKICAiRXN0aW1hdGVkVU5JVENPU1RfV1RBMyI6IjUwLjUxIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J0VzdGltYXRlZENPU1RfV1RBMycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J0VzdGltYXRlZFFVQU5USVRZQWRqJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1211,9 +1227,9 @@
         <entry encoding="base64">JzwsJz5zL1wgL1xyL2c=</entry>
         <entry>action ReformatCode</entry>
         <entry>a</entry>
-        <entry>wa</entry>
         <entry>action Rerun</entry>
         <entry>action CheckinProject</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
