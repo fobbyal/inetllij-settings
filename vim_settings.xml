@@ -173,6 +173,7 @@
         <mark key="." line="198" column="24" />
         <mark key="^" line="198" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/resources/application.conf" timestamp="1531929048975" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/BidCostsTest.java" timestamp="1523463059556">
         <mark key="'" line="90" column="8" />
         <mark key="[" line="74" column="64" />
@@ -462,6 +463,12 @@
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/LoadDataSourceConfig.java" timestamp="1530196463822">
         <mark key="'" line="32" column="72" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/PJMAuthResponse.java" timestamp="1531928985759">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="8" column="42" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/UserService.java" timestamp="1520892311475">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="103" column="16" />
@@ -639,12 +646,6 @@
         <mark key="]" line="330" column="56" />
         <mark key="^" line="330" column="56" />
         <mark key="." line="330" column="56" />
-      </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-calc-inputs/weighted-average-fuel.inputs" timestamp="1531170578726">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev/jc-jdk8/jcomplete/src/main/java/com/integ/jcomplete2/authentication/server/DefaultLoginValidator.java" timestamp="1525892054641">
         <mark key="'" line="140" column="0" />
@@ -901,7 +902,7 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531287130169">
+      <file name="/Dummy.txt" timestamp="1531929018927">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
@@ -1022,7 +1023,7 @@
         <mark key="^" line="17" column="48" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1530889893618">
+      <file name="/fragment.java" timestamp="1531929018964">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -1144,8 +1145,8 @@
       <jump line="10" column="35" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>EFFECTIVEDATE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1187,34 +1188,34 @@
         <text encoding="base64">ICAgICAgICBjcml0ZXJpYU1hcC5wdXQoIkVGRkVDVElWRURBVEUiLCBkYXRlLnRvU3RyaW5nKCJNTS9kZC95eXl5IikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3RhcnRlZCBkYXRhIGNvbGxlY3Rpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QEpzb25JZ25vcmVQcm9wZXJ0aWVzKGlnbm9yZVVua25vd24gPSB0cnVlKQo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zml4ZWQgaXNzdWUgd2hlcmUgaWRvIHN1Ym1pdCBjYXVzZXMgYXVkaXQgdW5pcXVlIGlzc3VlLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c3RhcnRlZCBkYXRhIGNvbGxlY3Rpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2hvdWxkIGJlIHVzaW5nIHRpbWVzdGFtcCBpbnN0ZWFkIG9mIGxvY2FsZGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">Zml4ZWQgaXNzdWUgd2hlcmUgaWRvIHN1Ym1pdCBjYXVzZXMgYXVkaXQgdW5pcXVlIGlzc3VlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBub3JtYWxpemVIZWF0Q3VydmVzKGRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1227,16 +1228,16 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2hvdWxkIGJlIHVzaW5nIHRpbWVzdGFtcCBpbnN0ZWFkIG9mIGxvY2FsZGF0ZQo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1288,10 +1289,10 @@
         <entry encoding="base64">JzwsJz5zL1wgL1xyL2c=</entry>
         <entry>a</entry>
         <entry>action Compile</entry>
-        <entry>action ReformatCode</entry>
-        <entry>wa</entry>
         <entry>action CheckinProject</entry>
         <entry>action Rerun</entry>
+        <entry>wa</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
