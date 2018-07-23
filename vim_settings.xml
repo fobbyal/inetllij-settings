@@ -21,7 +21,7 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/data/SingleAppInfoStore.java" timestamp="1532361043750">
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/data/SingleAppInfoStore.java" timestamp="1532368063669">
         <mark key="[" line="18" column="43" />
         <mark key="]" line="18" column="49" />
         <mark key="^" line="18" column="49" />
@@ -66,7 +66,6 @@
         <mark key="^" line="28" column="19" />
         <mark key="." line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/resources/application.conf" timestamp="1531929048975" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/immutables/HourlyDataSaveRequestDef.java" timestamp="1513711040076">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="8" column="1" />
@@ -152,12 +151,12 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" timestamp="1532362957875">
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" timestamp="1532366991076">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="108" column="41" />
-        <mark key="]" line="108" column="41" />
-        <mark key="." line="107" column="28" />
-        <mark key="^" line="108" column="41" />
+        <mark key="[" line="108" column="42" />
+        <mark key="]" line="108" column="47" />
+        <mark key="." line="108" column="47" />
+        <mark key="^" line="108" column="47" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/LoadDataSourceConfig.java" timestamp="1530196463822">
         <mark key="'" line="32" column="72" />
@@ -254,6 +253,12 @@
         <mark key="]" line="7" column="44" />
         <mark key="^" line="7" column="44" />
         <mark key="." line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" timestamp="1532367868185">
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="42" column="53" />
+        <mark key="." line="42" column="53" />
+        <mark key="^" line="42" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1531929018927">
         <mark key="[" line="0" column="0" />
@@ -382,6 +387,11 @@
         <mark key="^" line="50" column="59" />
         <mark key="." line="50" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/PowerBroker.java" timestamp="1532368346588">
+        <mark key="'" line="78" column="23" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="78" />
+      </file>
       <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/ApiTest.java" timestamp="1531756300814">
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="9" />
@@ -492,11 +502,11 @@
         <mark key="^" line="107" column="26" />
         <mark key="." line="107" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/auth/BrokerUserStore.java" timestamp="1532361314427">
-        <mark key="[" line="23" column="40" />
-        <mark key="]" line="23" column="50" />
-        <mark key="." line="23" column="50" />
-        <mark key="^" line="23" column="50" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/auth/BrokerUserStore.java" timestamp="1532368273877">
+        <mark key="[" line="13" column="37" />
+        <mark key="]" line="13" column="54" />
+        <mark key="." line="13" column="54" />
+        <mark key="^" line="13" column="54" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/Alive.java" timestamp="1511899179088">
         <mark key="[" line="100" column="68" />
@@ -595,12 +605,12 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/security/AuthDataAccess.java" timestamp="1532362588239">
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/security/AuthDataAccess.java" timestamp="1532367124170">
         <mark key="'" line="438" column="36" />
-        <mark key="[" line="438" column="131" />
-        <mark key="]" line="438" column="131" />
-        <mark key="." line="438" column="131" />
-        <mark key="^" line="438" column="131" />
+        <mark key="[" line="441" column="0" />
+        <mark key="]" line="441" column="0" />
+        <mark key="." line="441" column="0" />
+        <mark key="^" line="440" column="56" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/api/Utils.java" timestamp="1527014188761">
         <mark key="'" line="22" column="27" />
@@ -631,8 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="1" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="276" column="25" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="279" column="18" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="175" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" />
@@ -731,10 +739,12 @@
       <jump line="111" column="19" filename="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" />
       <jump line="107" column="19" filename="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" />
+      <jump line="74" column="47" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/PowerBroker.java" />
+      <jump line="78" column="23" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/PowerBroker.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmQobmV3IEF1dGhEYXRhU291cmNlKGRhdGFTb3VyY2UpKS50byhBdXRoRGF0YVNvdXJjZS5jbGFzcyk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -764,48 +774,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getPassword</text>
+        <text>UserInfoStore</text>
       </register>
       <register name="/" type="4">
-        <text>pass</text>
+        <text>auth</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRDcmVkZW50aWFsc0V4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJpbmQobmV3IEF1dGhEYXRhU291cmNlKGRhdGFTb3VyY2UpKS50byhBdXRoRGF0YVNvdXJjZS5jbGFzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlckluZm9TdG9yZS5yZXBvcnRMb2dpbkZhaWxlZChjcmVkLmdldFVzZXJuYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgIGFic3RyYWN0IHByb3RlY3RlZCBTdHJpbmcgZ2V0QXBwTmFtZSgpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRDcmVkZW50aWFsc0V4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
-      <register name="4" type="4">
-        <text>else {
-            userInfoStore.reportLoginSuccess(cred.getUsername());
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN0ZnVsUmVzcG9uc2UgcmVzZXRQYXNzd29yZChDcmVkZW50aWFsIGNyZWQpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQXV0aENvbmZpZ1V0aWwuZ29kTW9kZSgpKQogICAgICAgICAgICByZXR1cm4gZ2V0VG9rZW5HZW5lcmF0b3IoKS5nZW5lcmF0ZVRva2VuKCJhZG1pbiIsIGdldFVzZXJJbmZvU3RvcmUoKSk7CiAgICAgICAgbG9nLmRlYnVnKCJBdXRoZW50aWNhdGluZyB1c2VyLi4uIik7CiAgICAgICAgSGFzaGVkUGFzc3dvcmQgaGFzaGVkUGFzcyA9IGdldFBhc3N3b3JkU3RvcmUoKS5yZXRyaWV2ZUhhc2hlZFBhc3N3b3JkKGNyZWQuZ2V0VXNlcm5hbWUoKSk7CgogICAgICAgIFVzZXJJbmZvU3RvcmUgdXNlckluZm9TdG9yZSA9IGdldFVzZXJJbmZvU3RvcmUoKTsKCiAgICAgICAgaWYgKHVzZXJJbmZvU3RvcmUuaXNSZXZva2VkKGNyZWQuZ2V0VXNlcm5hbWUoKSkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEFwcEV4Y2VwdGlvbig0MDMsIDMzMywgIlVzZXIgcmV2b2tlZCIsIG51bGwpOwogICAgICAgIH0KCiAgICAgICAgaWYgKHVzZXJJbmZvU3RvcmUuc2hvdWxkUGFzc3dvcmRSZXNldChjcmVkLmdldFVzZXJuYW1lKCkpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBBcHBFeGNlcHRpb24oNDAzLCAzMzQsICJQYXNzd29yZCBleHBpcmVkIiwgbnVsbCk7CiAgICAgICAgfQoKICAgICAgICBpZiAoIWdldEhhc2hNZXRob2QoKS52YWxpZGF0ZVBhc3N3b3JkKGNyZWQuZ2V0UGFzc3dvcmQoKSwgaGFzaGVkUGFzcykpIHsKICAgICAgICAgICAgdXNlckluZm9TdG9yZS5yZXBvcnRMb2dpbkZhaWxlZChjcmVkLmdldFVzZXJuYW1lKCkpOwogICAgICAgICAgICB0aHJvdyBuZXcgSW52YWxpZENyZWRlbnRpYWxzRXhjZXB0aW9uKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgdXNlckluZm9TdG9yZS5yZXBvcnRMb2dpblN1Y2Nlc3MoY3JlZC5nZXRVc2VybmFtZSgpKTsKICAgICAgICB9CgogICAgICAgIGxvZy5kZWJ1ZygidXNlciAiICsgY3JlZC5nZXRVc2VybmFtZSgpICsgIiBoYXMgYmVlbiBhdXRoZW50aWNhdGVkLi4uIik7CiAgICAgICAgbG9nLmRlYnVnKCJHYXRoZXJpbmcgYXV0aG9yaXphdGlvbiBpbmZvcm1hdGlvbiBhbmQgZ2VuZXJhdGluZyB0b2tlbiIpOwogICAgICAgIHJldHVybiBnZXRUb2tlbkdlbmVyYXRvcigpLmdlbmVyYXRlVG9rZW4oY3JlZC5nZXRVc2VybmFtZSgpLCBnZXRVc2VySW5mb1N0b3JlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiIiwgY29uc3VtZXMgPSAiYXBwbGljYXRpb24vanNvbiIsIHByb2R1Y2VzID0gInRleHQvcGxhaW4iLCBodHRwTWV0aG9kID0gInBvc3QiLCByZXNwb25zZSA9IFN0cmluZy5jbGFzcykKICAgIEBBcGlQYXJhbShyZXF1aXJlZCA9IHRydWUsIHZhbHVlID0gImNyZWQiKQogICAgQEFwaVJlc3BvbnNlKGNvZGUgPSAyMDAsIHJlc3BvbnNlID0gU3RyaW5nLmNsYXNzLCBtZXNzYWdlID0gIkF1dGhlbnRpY2F0ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlckluZm9TdG9yZS5yZXBvcnRMb2dpbkZhaWxlZChjcmVkLmdldFVzZXJuYW1lKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -818,28 +826,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAiIiwgY29uc3VtZXMgPSAiYXBwbGljYXRpb24vanNvbiIsIHByb2R1Y2VzID0gInRleHQvcGxhaW4iLCBodHRwTWV0aG9kID0gInBvc3QiLCByZXNwb25zZSA9IFN0cmluZy5jbGFzcykKICAgIEBBcGlQYXJhbShyZXF1aXJlZCA9IHRydWUsIHZhbHVlID0gImNyZWQiKQogICAgQEFwaVJlc3BvbnNlKGNvZGUgPSAyMDAsIHJlc3BvbnNlID0gU3RyaW5nLmNsYXNzLCBtZXNzYWdlID0gIkF1dGhlbnRpY2F0ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEludmFsaWRDcmVkZW50aWFsc0V4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="4">
-        <text>//    @GET
-//    @Produces(MediaType.TEXT_PLAIN)
-//    @ApiOperation(value = &quot;&quot;, produces = &quot;text/plain&quot;, httpMethod = &quot;get&quot;, response = String.class)
-//    @ApiResponse(code = 200, response = String.class, message = &quot;Hello&quot;)
-//    public String getHello() {
-//        return &quot;Hello!&quot;;
-//    }</text>
+        <text>else {
+            userInfoStore.reportLoginSuccess(cred.getUsername());
+        }</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action Rerun</text>
       </register>
     </registers>
     <search>
-      <last-search>pass</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>pass</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d:\/apps\/dompspk\/</last-substitute>
       <last-dir>1</last-dir>
@@ -847,7 +851,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZWxpdmVyZWRRVUFMSVRZXD4=</entry>
         <entry encoding="base64">XDxEZWxpdmVyZWRVTklUQ09TVFw+</entry>
         <entry encoding="base64">XDxFc3RpbWF0ZWRDT1NUXD4=</entry>
         <entry encoding="base64">XDxFc3RpbWF0ZWRRVUFOVElUWVw+</entry>
@@ -867,6 +870,7 @@
         <entry>savePassword</entry>
         <entry encoding="base64">XDxzZXRQYXNzd29yZEV4cGlyYXRpb25cPg==</entry>
         <entry>pass</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1dUQTMvL2c=</entry>
@@ -882,13 +886,13 @@
         <entry encoding="base64">JzwsJz5zL1wgL3IvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wgL1xyL2c=</entry>
         <entry>action CheckinProject</entry>
-        <entry>action Rerun</entry>
-        <entry>a</entry>
         <entry>action Compile</entry>
         <entry>action CompileDirty</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>action ReformatCode</entry>
+        <entry>a</entry>
         <entry>wa</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
       <history-input />
