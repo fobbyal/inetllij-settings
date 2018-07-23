@@ -103,11 +103,11 @@
       <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/InvalidCredentialsException.java" timestamp="1532360363366">
         <mark key="'" line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/model/PasswordResetRequestDef.java" timestamp="1532360797279">
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-        <mark key="^" line="8" column="27" />
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/model/PasswordResetRequestDef.java" timestamp="1532372165671">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/immutables/JobRunResponseDef.java" timestamp="1511898432544">
         <mark key="[" line="28" column="19" />
@@ -140,10 +140,10 @@
         <mark key="^" line="44" column="67" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/pom.xml" timestamp="1526927234705">
-        <mark key="'" line="31" column="24" />
-        <mark key="[" line="117" column="24" />
-        <mark key="]" line="117" column="25" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/pom.xml" timestamp="1532371974760">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="108" column="20" />
         <mark key="." line="117" column="25" />
         <mark key="^" line="117" column="25" />
       </file>
@@ -255,12 +255,12 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" timestamp="1532366991076">
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" timestamp="1532372813150">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="108" column="42" />
-        <mark key="]" line="108" column="47" />
-        <mark key="." line="108" column="47" />
-        <mark key="^" line="108" column="47" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="107" column="58" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/LoadDataSourceConfig.java" timestamp="1530196463822">
         <mark key="'" line="32" column="72" />
@@ -310,6 +310,12 @@
         <mark key="]" line="11" column="23" />
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/rest/immutables/RestfulResponseDef.java" timestamp="1532371715289">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="38" />
+        <mark key="^" line="38" column="38" />
+        <mark key="." line="38" column="38" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/AncillaryServiceApiTest.java" timestamp="1523463762257">
         <mark key="'" line="1" column="0" />
@@ -463,11 +469,12 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" timestamp="1532368683171">
-        <mark key="[" line="40" column="26" />
-        <mark key="]" line="40" column="26" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="39" column="24" />
+      <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" timestamp="1532374156359">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="178" column="66" />
+        <mark key="]" line="178" column="67" />
+        <mark key="." line="178" column="67" />
+        <mark key="^" line="178" column="67" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/MockPasswordStore.java" timestamp="1532368649577">
         <mark key="[" line="19" column="15" />
@@ -521,11 +528,12 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTestApp.java" timestamp="1532368963577">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="36" column="69" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTestApp.java" timestamp="1532373974354">
+        <mark key="'" line="53" column="27" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="66" column="35" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/DemandServiceTest.java" timestamp="1530213255712">
         <mark key="'" line="49" column="36" />
@@ -563,14 +571,14 @@
         <mark key="." line="74" column="41" />
         <mark key="^" line="75" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/pom.xml" timestamp="1532369409402">
-        <mark key="'" line="62" column="12" />
-        <mark key="[" line="163" column="19" />
-        <mark key="]" line="163" column="26" />
-        <mark key="." line="163" column="26" />
-        <mark key="^" line="163" column="26" />
+      <file name="$USER_HOME$/dev/pbkr/auth/pom.xml" timestamp="1532371996357">
+        <mark key="'" line="171" column="26" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="169" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1531929018964">
+      <file name="/fragment.java" timestamp="1532372487007">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
@@ -696,10 +704,10 @@
         <mark key="^" line="300" column="20" />
         <mark key="." line="299" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/PowerBroker.java" timestamp="1532368850145">
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/PowerBroker.java" timestamp="1532371037016">
         <mark key="'" line="129" column="16" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="78" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="135" column="4" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/security/SecurityDataAccess.java" timestamp="1520953923062">
         <mark key="'" line="249" column="31" />
@@ -721,6 +729,13 @@
         <mark key="." line="51" column="9" />
         <mark key="^" line="51" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppExceptionMapper.java" timestamp="1532372423526">
+        <mark key="'" line="22" column="46" />
+        <mark key="[" line="22" column="84" />
+        <mark key="]" line="22" column="124" />
+        <mark key="." line="22" column="124" />
+        <mark key="^" line="22" column="124" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/LSECompanyDef.java" timestamp="1530558564207">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="29" column="19" />
@@ -734,11 +749,11 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/MockBinder.java" timestamp="1532368632876">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="26" column="29" />
+      <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/MockBinder.java" timestamp="1532370455484">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+        <mark key="^" line="24" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/561a3011-7fdb-4913-8c5e-003cac4bc428/console.sql" timestamp="1511904510467">
         <mark key="[" line="3" column="44" />
@@ -746,8 +761,8 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppException.java" timestamp="1532360405806">
-        <mark key="'" line="26" column="10" />
+      <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppException.java" timestamp="1532371685183">
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/legacy/pspk/java/src/com/integ/pspk/costelement/client/CostElementCriteria.java" timestamp="1522081064698">
         <mark key="'" line="839" column="0" />
@@ -788,6 +803,9 @@
         <mark key="]" line="47" column="16" />
         <mark key="^" line="47" column="16" />
         <mark key="." line="47" column="16" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1532370124033">
+        <mark key="'" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DemandVirtualBidDef.java" timestamp="1525205475676">
         <mark key="[" line="21" column="43" />
@@ -851,6 +869,12 @@
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/mock-json/load-analysis.json" timestamp="1527014166265">
         <mark key="'" line="255" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/SimpleAuthFilter.java" timestamp="1532373992131">
+        <mark key="[" line="22" column="69" />
+        <mark key="]" line="22" column="75" />
+        <mark key="." line="22" column="75" />
+        <mark key="^" line="22" column="75" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/pbkr/restful/api/GenHourTest.java" timestamp="1521484830911">
         <mark key="'" line="69" column="28" />
         <mark key="[" line="103" column="31" />
@@ -892,7 +916,7 @@
       <file name="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/resources/aep-mock/cdtf-steam.json" timestamp="1530837954155">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/password/PbKdf2Hash.java" timestamp="1526335732903">
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/password/PbKdf2Hash.java" timestamp="1532370183120">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="11" />
@@ -960,7 +984,7 @@
         <mark key="^" line="67" column="55" />
         <mark key="." line="81" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/AuthDefaultBinder.java" timestamp="1512662623780">
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/AuthDefaultBinder.java" timestamp="1532370176158">
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
@@ -999,12 +1023,12 @@
         <mark key="^" line="35" column="77" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/data/UserInfoStore.java" timestamp="1532361037639">
-        <mark key="'" line="32" column="54" />
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="12" />
-        <mark key="^" line="47" column="12" />
-        <mark key="." line="47" column="12" />
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/data/UserInfoStore.java" timestamp="1532372792685">
+        <mark key="'" line="37" column="54" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="51" column="9" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/main/resources/reference.conf" timestamp="1526337076034">
         <mark key="[" line="10" column="4" />
@@ -1024,6 +1048,7 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/FallBackExceptionMapper.java" timestamp="1532371616172" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/RoleAssignment.java" timestamp="1520538015432">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="31" />
@@ -1065,12 +1090,12 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/security/AuthDataAccess.java" timestamp="1532367124170">
-        <mark key="'" line="438" column="36" />
-        <mark key="[" line="441" column="0" />
-        <mark key="]" line="441" column="0" />
-        <mark key="." line="441" column="0" />
-        <mark key="^" line="440" column="56" />
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/security/AuthDataAccess.java" timestamp="1532373780846">
+        <mark key="'" line="108" column="39" />
+        <mark key="[" line="484" column="0" />
+        <mark key="]" line="484" column="0" />
+        <mark key="." line="484" column="0" />
+        <mark key="^" line="440" column="29" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/api/Utils.java" timestamp="1527014188761">
         <mark key="'" line="22" column="27" />
@@ -1087,6 +1112,9 @@
         <mark key="]" line="21" column="3" />
         <mark key="^" line="21" column="3" />
         <mark key="." line="21" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/pbkr/common/target/generated-sources/annotations/com/integ/core/rest/immutables/RestfulResponse.java" timestamp="1532371698897">
+        <mark key="'" line="23" column="63" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/db-util/pom.xml" timestamp="1532369400469">
         <mark key="'" line="0" column="0" />
@@ -1113,27 +1141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="61" filename="$USER_HOME$/dev/integ/pbkr/pbkr-core/src/main/java/com/integ/broker/BrokerDataAccess.java" />
-      <jump line="43" column="42" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/java/com/integ/pspk/test/PspkTestGuiceModule.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepTestModule.java" />
-      <jump line="53" column="42" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/java/com/integ/pspk/test/PspkTestGuiceModule.java" />
-      <jump line="20" column="19" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/pom.xml" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/resources/application.conf" />
-      <jump line="31" column="38" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepTestModule.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
-      <jump line="26" column="65" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/HeatCurveCoefficients.java" />
-      <jump line="42" column="39" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
-      <jump line="14" column="37" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/HeatCurveCoefficientsDef.java" />
-      <jump line="47" column="24" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/HeatCurveCoefficientsDef.java" />
-      <jump line="15" column="24" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcKeyDef.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcKeyDef.java" />
-      <jump line="39" column="36" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/HeatCurveCoefficientsDef.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/HeatCurveCoefficientsDef.java" />
-      <jump line="35" column="22" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/HeatCurveCoefficientsDef.java" />
-      <jump line="46" column="84" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
-      <jump line="47" column="41" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
-      <jump line="4" column="38" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/core/SparkUtil.java" />
       <jump line="32" column="37" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/core/SparkUtil.java" />
       <jump line="44" column="44" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" />
       <jump line="45" column="34" filename="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" />
@@ -1213,10 +1220,31 @@
       <jump line="62" column="12" filename="$USER_HOME$/dev/pbkr/auth/pom.xml" />
       <jump line="78" column="20" filename="$USER_HOME$/dev/pbkr/db-util/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/db-util/pom.xml" />
+      <jump line="46" column="40" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
+      <jump line="48" column="18" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
+      <jump line="55" column="41" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
+      <jump line="49" column="8" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="46" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="56" column="26" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
+      <jump line="108" column="39" filename="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/security/AuthDataAccess.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppException.java" />
+      <jump line="20" column="28" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppExceptionMapper.java" />
+      <jump line="23" column="63" filename="$USER_HOME$/dev/pbkr/common/target/generated-sources/annotations/com/integ/core/rest/immutables/RestfulResponse.java" />
+      <jump line="17" column="43" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppExceptionMapper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/pom.xml" />
+      <jump line="165" column="26" filename="$USER_HOME$/dev/pbkr/auth/pom.xml" />
+      <jump line="97" column="35" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
+      <jump line="24" column="73" filename="$USER_HOME$/dev/pbkr/auth/target/generated-sources/annotations/com/integ/core/auth/rest/model/PasswordResetRequest.java" />
+      <jump line="23" column="46" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppExceptionMapper.java" />
+      <jump line="77" column="42" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTestApp.java" />
+      <jump line="53" column="27" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTestApp.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>app1</text>
+        <text>ArrayList.class</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1246,16 +1274,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>app1</text>
+        <text>ArrayList.class</text>
       </register>
       <register name="/" type="4">
-        <text>oracle</text>
+        <text>filter</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLm9yYWNsZS5qZGJjPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5vamRiYzc8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEyLjEuMC4yPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHJvbGVzLmdldCgibW9ja2FwcCIpLCBjb250YWluc0luQW55T3JkZXIoInVzZXIiLCAiYWRtaW4iKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1264,19 +1292,19 @@
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgQE92ZXJyaWRlCi8vICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBPYmplY3Q+IHJldHJpZXZlSnd0Q2xhaW1zKFN0cmluZyB1c2VySWQpIHsKLy8gICAgICAgIEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKLy8gICAgICAgIEhhc2hNYXA8U3RyaW5nLCBMaXN0PFN0cmluZz4+IHJvbGVzID0gbmV3IEhhc2hNYXA8PigpOwovLyAgICAgICAgcm9sZXMucHV0KCJhcHAxIiwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgidXNlciIpKTsKLy8gICAgICAgIHJvbGVzLnB1dCgiYXBwMiIsIEFycmF5cy5hc0xpc3QoInVzZXIiLCAiYWRtaW4iKSk7Ci8vICAgICAgICBtYXAucHV0KCJyb2xlcyIsIHJvbGVzKTsKLy8gICAgICAgIGlmICh1c2VySWQuZXF1YWxzKCJhZG1pbiIpKSB7Ci8vICAgICAgICAgICAgcm9sZXMucHV0KCJhdXRoIiwgQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCgiYWRtaW4iKSk7Ci8vICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgIHJvbGVzLnB1dCgiYXV0aCIsIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoInVzZXIiKSk7Ci8vICAgICAgICB9Ci8vICAgICAgICByZXR1cm4gbWFwOwovLyAgICB9CgovLyAgICBAT3ZlcnJpZGUKLy8gICAgcHVibGljIExpc3Q8VXNlcj4gbGlzdFVzZXJzKCkgewovLyAgICAgICAgVXNlciB1c2VyID0gbmV3IFVzZXIoKTsKLy8gICAgICAgIHVzZXIuc2V0VXNlck5hbWUoInVzZXIxIik7Ci8vICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdCh1c2VyKTsKLy8KLy8gICAgfQovLwovLyAgICBAT3ZlcnJpZGUKLy8gICAgcHVibGljIHZvaWQgY3JlYXRlVXNlcihVc2VyIHVzZXIpIHsKLy8KLy8gICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgQFN1cHByZXNzV2FybmluZ3MoIkR1cGxpY2F0ZXMiKQovLyAgICBAVGVzdAovLyAgICBwdWJsaWMgdm9pZCBhZG1pblJvbGVUZXN0KCkgewovLyAgICAgICAgQ3JlZGVudGlhbCBjcmVkZW50aWFsID0gbmV3IENyZWRlbnRpYWwoImFkbWluIiwgcGFzc3dvcmQpOwovLyAgICAgICAgUmVzcG9uc2UgcmVzcCA9IHRhcmdldCgiYXV0aC90b2tlbiIpLnJlcXVlc3QoKS5wb3N0KEVudGl0eS5lbnRpdHkoY3JlZGVudGlhbCwgTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04pKTsKLy8gICAgICAgIFN0cmluZyBqd3QgPSByZXNwLnJlYWRFbnRpdHkoU3RyaW5nLmNsYXNzKTsKLy8gICAgICAgIC8vQXV0aG9yaXphdGlvbjogSldUIDx5b3VyX3Rva2VuPgovLyAgICAgICAgcmVzcCA9IHRhcmdldCgidGVzdC9hZG1pbiIpCi8vICAgICAgICAgICAgICAgIC5yZXF1ZXN0KCkKLy8gICAgICAgICAgICAgICAgLmhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJKV1QgIiArIGp3dCkKLy8gICAgICAgICAgICAgICAgLmdldCgpOwovLyAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhyZXNwLmdldFN0YXR1cygpLCAyMDApOwovLyAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhzaW5nbGV0b25MaXN0KCJhZG1pbiIpLCByZXNwLnJlYWRFbnRpdHkoQXJyYXlMaXN0LmNsYXNzKSk7Ci8vICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkSGFzaGVyOiBjb20uaW50ZWcuY29yZS5hdXRoLnBhc3N3b3JkLlBiS2RmMkhhc2gK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKHNpbmdsZXRvbkxpc3QoInVzZXIiKSwgKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1285,7 +1313,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkUm9sZXMoImFkbWluIikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1298,22 +1326,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFVzZXJJbmZvPiB1c2VycyA9IEFycmF5cy5hc0xpc3QoCiAgICAgICAgICAgICAgICBVc2VySW5mby5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLnVzZXJOYW1lKCJmYWtlYWRtaW4iKQogICAgICAgICAgICAgICAgICAgICAgICAucGFzc3dvcmQocGFzc3dvcmQpCiAgICAgICAgICAgICAgICAgICAgICAgIC51c2VyU3RhdHVzKEFDVElWRSkKICAgICAgICAgICAgICAgICAgICAgICAgLmFkZFJvbGVzKCJhZG1pbiIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpLAogICAgICAgICAgICAgICAgVXNlckluZm8uYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC51c2VyTmFtZSgiZmFrZXVzZXIiKQogICAgICAgICAgICAgICAgICAgICAgICAucGFzc3dvcmQocGFzc3dvcmQpCiAgICAgICAgICAgICAgICAgICAgICAgIC51c2VyU3RhdHVzKEFDVElWRSkKICAgICAgICAgICAgICAgICAgICAgICAgLmFkZFJvbGVzKCJhZG1pbiIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgKTsK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBNYXA8U3RyaW5nLCBIYXNoZWRQYXNzd29yZD4gbW9ja2VkUGFzc3dvcmRzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKEFycmF5cy5hc0xpc3QoInVzZXIiLCJhZG1pbiIpLCApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Rerun</text>
       </register>
     </registers>
     <search>
-      <last-search>oracle</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>oracle</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d:\/apps\/dompspk\/</last-substitute>
       <last-dir>1</last-dir>
@@ -1321,9 +1349,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CalcRecord</entry>
-        <entry>rerieveUnitIdTo</entry>
-        <entry encoding="base64">XDxBdXRoRGF0YVNvdXJjZVw+</entry>
         <entry encoding="base64">XDxVc2VySW5mb1N0b3JlXD4=</entry>
         <entry encoding="base64">XDx1c2VySW5mb1N0b3JlXD4=</entry>
         <entry encoding="base64">XDxwYmtyUm9sZXNcPg==</entry>
@@ -1331,7 +1356,6 @@
         <entry>savePass</entry>
         <entry>updateUser</entry>
         <entry>savePassword</entry>
-        <entry encoding="base64">XDxzZXRQYXNzd29yZEV4cGlyYXRpb25cPg==</entry>
         <entry>pass</entry>
         <entry>auth</entry>
         <entry>db</entry>
@@ -1341,11 +1365,12 @@
         <entry>hikari</entry>
         <entry>db-util</entry>
         <entry>oracle</entry>
+        <entry encoding="base64">XDxzZXRQYXNzd29yZEV4cGlyYXRpb25cPg==</entry>
+        <entry>hamcrest</entry>
+        <entry>hamcre</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1dUQTMvL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL19XVEEzLy9n</entry>
-        <entry encoding="base64">JzwsJz5zLyovXCAvZw==</entry>
         <entry encoding="base64">JzwsJz5zLz0vXCAvZw==</entry>
         <entry encoding="base64">JzwsJz5zLygvXCAvZw==</entry>
         <entry encoding="base64">JzwsJz5zLykvXCAvZw==</entry>
@@ -1356,12 +1381,15 @@
         <entry encoding="base64">JzwsJz5zL1wgL3IvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wgL1xyL2c=</entry>
         <entry>action CheckinProject</entry>
-        <entry>action Compile</entry>
         <entry>action CompileDirty</entry>
         <entry>action IntroduceParameter</entry>
+        <entry>e ~/.ideavimrc</entry>
+        <entry>action Compile</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry>a</entry>
+        <entry encoding="base64">YWN0aW9uIEdpdC5CcmFuY2hlcyA=</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
-        <entry>a</entry>
         <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
