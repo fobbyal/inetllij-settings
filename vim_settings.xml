@@ -341,8 +341,8 @@
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/pom.xml" timestamp="1526505431486">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1532368398301">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1532533352348">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="33" column="2" />
         <mark key="^" line="2" column="5" />
@@ -1141,7 +1141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="35" filename="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="9" column="43" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/PJMAuthResponse.java" />
       <jump line="78" column="83" filename="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" />
       <jump line="25" column="13" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/auth/BrokerUserStore.java" />
@@ -1241,6 +1240,7 @@
       <jump line="191" column="41" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
       <jump line="68" column="31" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
       <jump line="220" column="11" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1336,7 +1336,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY3JlZGVudGlhbCA9IG5ldyBDcmVkZW50aWFsKCJyZXZva2VkdXNlciIsICJ3cm9uZ3Bhc3N3b3JkIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1388,10 +1388,10 @@
         <entry>a</entry>
         <entry>action AceAction</entry>
         <entry>action IntroduceVariable</entry>
-        <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>action Rerun</entry>
         <entry>wa</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
