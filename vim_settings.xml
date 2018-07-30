@@ -105,12 +105,12 @@
         <mark key="^" line="44" column="13" />
         <mark key="." line="44" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" timestamp="1532979861325">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" timestamp="1532980560836">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="5" column="61" />
-        <mark key="]" line="5" column="67" />
-        <mark key="^" line="4" column="66" />
-        <mark key="." line="5" column="61" />
+        <mark key="[" line="3" column="53" />
+        <mark key="]" line="3" column="52" />
+        <mark key="^" line="3" column="52" />
+        <mark key="." line="3" column="52" />
       </file>
       <file name="/AuthTest.java" timestamp="1532377002109" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/resources/script/dmb-load-mock.sql" timestamp="1525707281737">
@@ -443,6 +443,13 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" timestamp="1532980918568">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="99" column="68" />
+        <mark key="]" line="99" column="72" />
+        <mark key="." line="99" column="72" />
+        <mark key="^" line="99" column="72" />
+      </file>
       <file name="$USER_HOME$/dev/legacy/pspk/java/src/com/integ/pspk/costelement/client/CostElementCriteria.java" timestamp="1522081064698">
         <mark key="'" line="839" column="0" />
         <mark key="[" line="720" column="80" />
@@ -670,7 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="23" filename="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" />
       <jump line="9" column="60" filename="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/InvalidCredentialsException.java" />
       <jump line="26" column="10" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppException.java" />
       <jump line="75" column="33" filename="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" />
@@ -770,10 +776,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
       <jump line="11" column="27" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/est-6m-ct.solver" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NoLoad</text>
+        <text>AEP</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -803,7 +810,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>noxOutput</text>
+        <text>AEP</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOT3hBZGRlckNvc3ROb0xvYWRcPg==</text>
