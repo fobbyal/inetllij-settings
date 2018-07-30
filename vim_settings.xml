@@ -100,6 +100,12 @@
         <mark key="." line="21" column="10" />
         <mark key="^" line="21" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/application.conf" timestamp="1532966603042">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="13" />
+        <mark key="." line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/InvalidCredentialsException.java" timestamp="1532376856147">
         <mark key="'" line="9" column="60" />
         <mark key="[" line="11" column="16" />
@@ -1243,8 +1249,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDcmVkZW50aWFsIGNyZWRlbnRpYWw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PSPK</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1274,7 +1280,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>PSPK</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXZva2VkdXNlclw+</text>
@@ -1336,7 +1342,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY3JlZGVudGlhbCA9IG5ldyBDcmVkZW50aWFsKCJyZXZva2VkdXNlciIsICJ3cm9uZ3Bhc3N3b3JkIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action Rerun</text>
       </register>
     </registers>
     <search>
@@ -1389,9 +1395,9 @@
         <entry>action AceAction</entry>
         <entry>action IntroduceVariable</entry>
         <entry>w</entry>
-        <entry>action Rerun</entry>
         <entry>wa</entry>
         <entry>action ReformatCode</entry>
+        <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
       <history-input />
