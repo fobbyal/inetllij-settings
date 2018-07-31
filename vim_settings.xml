@@ -113,10 +113,10 @@
         <mark key="." line="3" column="52" />
       </file>
       <file name="/AuthTest.java" timestamp="1532377002109" />
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/6m-weighted-average-fuel.solver" timestamp="1532983945078">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="11" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/6m-weighted-average-fuel.solver" timestamp="1533047306529">
+        <mark key="'" line="0" column="49" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="133" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="4" column="11" />
       </file>
@@ -416,10 +416,10 @@
         <mark key="." line="282" column="19" />
         <mark key="^" line="282" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/2m-weighted-average-fuel.solver" timestamp="1532983734638">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/2m-weighted-average-fuel.solver" timestamp="1533046869644">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="133" />
         <mark key="^" line="3" column="71" />
         <mark key="." line="4" column="12" />
       </file>
@@ -453,12 +453,12 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" timestamp="1532980918568">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" timestamp="1533047386730">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="99" column="68" />
-        <mark key="]" line="99" column="72" />
-        <mark key="." line="99" column="72" />
-        <mark key="^" line="99" column="72" />
+        <mark key="]" line="99" column="71" />
+        <mark key="." line="99" column="71" />
+        <mark key="^" line="99" column="71" />
       </file>
       <file name="$USER_HOME$/dev/legacy/pspk/java/src/com/integ/pspk/costelement/client/CostElementCriteria.java" timestamp="1522081064698">
         <mark key="'" line="839" column="0" />
@@ -687,7 +687,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="41" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/UserService.java" />
       <jump line="84" column="17" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/UserService.java" />
       <jump line="77" column="41" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/UserService.java" />
       <jump line="90" column="26" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/UserService.java" />
@@ -784,13 +783,14 @@
       <jump line="50" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/6m-weighted-average-fuel.solver" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/6m-weighted-average-fuel.solver" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/6m-weighted-average-fuel.solver" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/2m-weighted-average-fuel.solver" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/2m-weighted-average-fuel.solver" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/2m-weighted-average-fuel.solver" />
+      <jump line="0" column="49" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/6m-weighted-average-fuel.solver" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>WeightedAverageHEATCOST_WTA2</text>
+        <text>EST6M</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -820,7 +820,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>WeightedAverageHEATCOST_WTA2</text>
+        <text>EST6M</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWlnaHRlZEF2ZXJhZ2VDT1NUX1dUQTZcPg==</text>
@@ -828,8 +828,8 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text>FuelHeatCost</text>
+      <register name="0" type="2">
+        <text encoding="base64">V2VpZ2h0ZWRBdmVyYWdlQ09TVF9XVEE2ID0gKEVzdGltYXRlZFFVQU5USVRZX1dUQTYgKyBFc3RpbWF0ZWRRVUFOVElUWUFkal9XVEE2KSAqIEVzdGltYXRlZFVOSVRDT1NUX1dUQTYKV2VpZ2h0ZWRBdmVyYWdlVU5JVENPU1RfV1RBNiA9IGlmKFdlaWdodGVkQXZlcmFnZVFVQU5USVRZX1dUQTYgPT0gMCwgMCAsV2VpZ2h0ZWRBdmVyYWdlQ09TVF9XVEE2IC8gV2VpZ2h0ZWRBdmVyYWdlUVVBTlRJVFlfV1RBNikKV2VpZ2h0ZWRBdmVyYWdlUVVBTlRJVFlfV1RBNiA9IEVzdGltYXRlZFFVQU5USVRZX1dUQTYgKyBFc3RpbWF0ZWRRVUFOVElUWUFkal9XVEE2CldlaWdodGVkQXZlcmFnZVFVQUxJVFlfV1RBNiA9IGlmKFdlaWdodGVkQXZlcmFnZVFVQU5USVRZX1dUQTYgPT0gMCwgMCAsICgoRXN0aW1hdGVkUVVBTlRJVFlfV1RBNiArIEVzdGltYXRlZFFVQU5USVRZQWRqX1dUQTYpICogRXN0aW1hdGVkUVVBTElUWV9XVEE2KSAvIFdlaWdodGVkQXZlcmFnZVFVQU5USVRZX1dUQTYpCkZ1ZWxIZWF0Q29zdCA9IGlmKFdlaWdodGVkQXZlcmFnZVFVQUxJVFlfV1RBNiA9PSAwLCAwICwgKFdlaWdodGVkQXZlcmFnZVVOSVRDT1NUX1dUQTYgLyBXZWlnaHRlZEF2ZXJhZ2VRVUFMSVRZX1dUQTYpICogSGVhdENvc3RGYWN0b3IpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">V2VpZ2h0ZWRBdmVyYWdlVU5JVENPU1RfV1RBNiA9IGlmKFdlaWdodGVkQXZlcmFnZVFVQU5USVRZX1dUQTYgPT0gMCwgMCAsV2VpZ2h0ZWRBdmVyYWdlQ09TVF9XVEE2IC8gV2VpZ2h0ZWRBdmVyYWdlUVVBTlRJVFlfV1RBNikK</text>
@@ -881,7 +881,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLy5jb2xsZWN0KHRvTWFwKEdlbmVyaWNJbnB1dDo6ZWxlbWVudCwgaSAtPiBpLm51bVZhbHVlKCkub3JFbHNlKFpFUk8pKSk7CiAgICAgICAgICAgIC8vLmZvckVhY2goZSAtPiB3ZWlnaHRlZEF2Z0lucHV0LnB1dChlLmVsZW1lbnQoKSwgZS5udW1WYWx1ZSgpLm9yRWxzZShaRVJPKSkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action IntroduceVariable</text>
+        <text>action Rerun</text>
       </register>
     </registers>
     <search>
@@ -930,13 +930,13 @@
         <entry>e ~/.ideavimrc</entry>
         <entry>a</entry>
         <entry>action AceAction</entry>
-        <entry>action Rerun</entry>
         <entry>action Compile</entry>
         <entry>w</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
         <entry encoding="base64">YWN0aW9uIEdpdC5CcmFuY2hlcyA=</entry>
         <entry>action IntroduceVariable</entry>
+        <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
       <history-input />
