@@ -449,12 +449,12 @@
         <mark key="^" line="3" column="124" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" timestamp="1533051913668">
-        <mark key="'" line="695" column="31" />
-        <mark key="[" line="271" column="16" />
-        <mark key="]" line="271" column="17" />
-        <mark key="." line="271" column="17" />
-        <mark key="^" line="271" column="17" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" timestamp="1533056084669">
+        <mark key="'" line="680" column="31" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="." line="252" column="0" />
+        <mark key="^" line="256" column="17" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/AdminDataAccess.java" timestamp="1530115594296">
         <mark key="'" line="57" column="113" />
@@ -720,12 +720,12 @@
         <mark key="^" line="56" column="97" />
         <mark key="." line="56" column="97" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" timestamp="1533051126907">
-        <mark key="'" line="261" column="50" />
-        <mark key="[" line="821" column="46" />
-        <mark key="]" line="821" column="50" />
-        <mark key="." line="821" column="50" />
-        <mark key="^" line="821" column="50" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" timestamp="1533056685525">
+        <mark key="'" line="295" column="56" />
+        <mark key="[" line="528" column="8" />
+        <mark key="]" line="529" column="7" />
+        <mark key="." line="529" column="7" />
+        <mark key="^" line="529" column="7" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/data-miner2/src/main/java/com/integ/core/dataminer2/api/HourlyMeteredLoadApi.java" timestamp="1521485791869">
         <mark key="[" line="38" column="0" />
@@ -1218,18 +1218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppException.java" />
-      <jump line="20" column="28" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppExceptionMapper.java" />
-      <jump line="23" column="63" filename="$USER_HOME$/dev/pbkr/common/target/generated-sources/annotations/com/integ/core/rest/immutables/RestfulResponse.java" />
-      <jump line="17" column="43" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppExceptionMapper.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/pom.xml" />
-      <jump line="165" column="26" filename="$USER_HOME$/dev/pbkr/auth/pom.xml" />
-      <jump line="97" column="35" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
-      <jump line="24" column="73" filename="$USER_HOME$/dev/pbkr/auth/target/generated-sources/annotations/com/integ/core/auth/rest/model/PasswordResetRequest.java" />
-      <jump line="23" column="46" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppExceptionMapper.java" />
-      <jump line="77" column="42" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
-      <jump line="107" column="0" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTestApp.java" />
       <jump line="53" column="27" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTestApp.java" />
       <jump line="310" column="39" filename="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/security/AuthDataAccess.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/security/AuthDataAccess.java" />
@@ -1275,7 +1263,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/2m-weighted-average-fuel.solver" />
       <jump line="0" column="49" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/6m-weighted-average-fuel.solver" />
       <jump line="820" column="8" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="239" column="34" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="500" column="76" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="687" column="23" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
@@ -1314,14 +1301,27 @@
       <jump line="524" column="28" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="531" column="31" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="536" column="56" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
-      <jump line="250" column="19" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="252" column="35" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="261" column="50" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="146" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataAccessTest.java" />
+      <jump line="779" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="246" column="36" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="250" column="19" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="259" column="28" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="266" column="30" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="267" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="272" column="34" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="273" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="278" column="31" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="279" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="284" column="30" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="288" column="31" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="295" column="56" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWZmZWN0aXZlZGF0ZSA8PSBzeXNkYXQ=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1351,53 +1351,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWZmZWN0aXZlZGF0ZSA8PSBzeXNkYXQ=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>handy</text>
+        <text encoding="base64">XDxtdGNlXD4=</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text>handy_whitman_year</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGVycm9yT2YoIk9hbmRNQ29zdF9DRFRGIiwKICAgICAgICAgICAgICAgICAgICBTdHJpbmcuZm9ybWF0KCJUaGVyZSBhcmUgbm90IGVub3VnaCBNVENFIGRhdGEgdG8gY2FsY3VsYXRlIG9BbmRNIGZvciAlcyIsIHVuaXROYW1lT2YoZW50cnksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2UpKSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>select * from (\n&quot; +
-                &quot;select a.*,max(effectivedate) over (partition by unitid,year) md from MTCE a\n&quot; +
-                &quot;    where %s \n&quot; +
-                &quot;) where md = effectiivedate</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKiogVE9ETyB0byBpbnZlc3RpZ2F0ZSB0aGUgbmVlZCBvZiBndXJhbnRlZWluZyAyMCB5ZWFycyAqKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLm1hcChtYXRjaFllYXJzSW5QYXN0KCJoYW5keV93aGl0bWFuX3llYXIiLCBkYXRlLCAyMCkpCg==</text>
+        <text encoding="base64">Ly8gICAgQnVpbHRDbGF1c2UgYmNsID0gT3B0aW9uYWwub2YoQ29uZGl0aW9uQ2xhdXNlLmNsKCkpCi8vICAgICAgICAgICAgLy8ubWFwKG1hdGNoWWVhcnNJblBhc3QoZGF0ZSwgMjApKQovLyAgICAgICAgICAgIC5tYXAoY2wgLT4gY2wuYW5kKCJ5ZWFyIixsdGUsZGF0ZS5nZXRZZWFyKCkpKQovLyAgICAgICAgICAgIC5tYXAoZWZmZWN0aXZlRGF0ZUxlc3NUaGFuKGRhdGUpKQovLyAgICAgICAgICAgIC5tYXAobGltaXRVbml0c1RvKHVuaXRzKSkKLy8gICAgICAgICAgICAubWFwKENvbmRpdGlvbjo6YnVpbGQpCi8vICAgICAgICAgICAgLmdldCgpOwovLyAgICBTdHJpbmcgcXVlcnkgPSBTdHJpbmcuZm9ybWF0KCJzZWxlY3QgKiBmcm9tIFxuIiArCi8vICAgICAgICAgICAgIihzZWxlY3QgYi4qLCByb3dfbnVtYmVyKCkgb3ZlciAocGFydGl0aW9uIGJ5IHVuaXQsIG9yZGVyIGJ5IHllYXIgZGVzYykgcm4gZnJvbSAiICsKLy8gICAgICAgICAgICAiKFxuIiArCi8vICAgICAgICAgICAgInNlbGVjdCBhLiosbWF4KGVmZmVjdGl2ZWRhdGUpIG92ZXIgKHBhcnRpdGlvbiBieSB1bml0aWQseWVhcikgbWQgZnJvbSBNVENFIGFcbiIgKwovLyAgICAgICAgICAgICIgICB3aGVyZSAlcyBcbiIgKwovLyAgICAgICAgICAgICIpIGIgd2hlcmUgbWQgPSBlZmZlY3RpdmVkYXRlKSB3aGVyZSBybiA8PTIwIiwgYmNsLnRvU3FsKCkpOwovLwovLyAgICAgICAgcmV0dXJuIGRhIC0+IGRhLmdldEJ5Um93KHF1ZXJ5LCBiY2wudG9QYXJhbXMoKSwgcm93RXh0cmFjdG9yT2YoTXRjZS5jbGFzcykpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="4">
+        <text>select * from (\n&quot; +
+                &quot;select a.*,max(effectivedate) over (partition by unitid,year) md from MTCE a\n&quot; +
+                &quot;    where %s \n&quot; +
+                &quot;) where md = effectiivedate</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvKiogVE9ETyB0byBpbnZlc3RpZ2F0ZSB0aGUgbmVlZCBvZiBndXJhbnRlZWluZyAyMCB5ZWFycyAqKi8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vLm1hcChtYXRjaFllYXJzSW5QYXN0KCJoYW5keV93aGl0bWFuX3llYXIiLCBkYXRlLCAyMCkpCg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">c2VsZWN0IGIuKixyb3dfbnVtYmVyKCkgb3ZlciAocGFydGl0aW9uIGJ5IG51bGwgb3JkZXIgYnkgaGFuZHlfd2hpdG1hbl95ZWFyIGRlc2MpIHJuIGZyb20gXG4iICsKICAgICAgICAgICAgICAgICIoXG4iICsKICAgICAgICAgICAgICAgICJzZWxlY3QgKiBmcm9tIChcbiIrCiAgICAgICAgICAgICAgICAic2VsZWN0IGEuKixtYXgoZWZmZWN0aXZlZGF0ZSkgb3ZlciAocGFydGl0aW9uIGJ5IGhhbmR5X3doaXRtYW5feWVhcikgbWQsIGZyb20gSEFORFlfV0hJVE1BTiBhIFxuIiArCiAgICAgICAgICAgICAgICAiIHdoZXJlICVzKSB3aGVyZSBlZmZlY3RpdmVkYXRlPW1kKSBiIFxuIiArCiAgICAgICAgICAgICAgICAiIHdoZXJlIHJuIDw9MjA=</text>
-      </register>
-      <register name="5" type="4">
-        <text>&quot;select * from (\n&quot; +
-                &quot;select a.*,max(effectivedate) over (partition by handy_whitman_year) md, &quot; +
-                &quot;row_number(effectivedate) over (partition by handy_whitman_year) md &quot; +
-                &quot;from HANDY_WHITMAN a \n&quot; +
-                &quot; where %s) where effectivedate=md&quot;, bcl.toSql()</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">KG0ueWVhcigpLmNvbXBhcmVUbyhlbmQpPD0pICYmCiAgICAgICAgICAgICAgICAobS55ZWFyTW9udGgoKS5pc0VxdWFsKHN0YXJ0KSB8fCBtLnllYXJNb250aCgpLmlzQWZ0ZXIoc3RhcnQpKTs=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZpbHRlcihtIC0+IG0ueWVhck1vbnRoKCkuaXNFcXVhbChlbmQpIHx8IG0ueWVhck1vbnRoKCkuaXNCZWZvcmUoZW5kKSkKLy8gICAgICAgICAgICAgICAgLmZpbHRlcihtIC0+IG0ueWVhck1vbnRoKCkuaXNFcXVhbChzdGFydCkgfHwgbS55ZWFyTW9udGgoKS5pc0FmdGVyKHN0YXJ0KSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1409,14 +1405,18 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLmZpbHRlcihtIC0+IG0ueWVhck1vbnRoKCkuaXNFcXVhbChlbmQpIHx8IG0ueWVhck1vbnRoKCkuaXNCZWZvcmUoZW5kKSkKLy8gICAgICAgICAgICAgICAgLmZpbHRlcihtIC0+IG0ueWVhck1vbnRoKCkuaXNFcXVhbChzdGFydCkgfHwgbS55ZWFyTW9udGgoKS5pc0FmdGVyKHN0YXJ0KSkK</text>
+      <register name="8" type="4">
+        <text>&quot;select * from (\n&quot; +
+                &quot;select a.*,max(effectivedate) over (partition by handy_whitman_year) md, &quot; +
+                &quot;row_number(effectivedate) over (partition by handy_whitman_year) md &quot; +
+                &quot;from HANDY_WHITMAN a \n&quot; +
+                &quot; where %s) where effectivedate=md&quot;, bcl.toSql()</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">KG0ueWVhcigpLmNvbXBhcmVUbyhlbmQpPD0pICYmCiAgICAgICAgICAgICAgICAobS55ZWFyTW9udGgoKS5pc0VxdWFsKHN0YXJ0KSB8fCBtLnllYXJNb250aCgpLmlzQWZ0ZXIoc3RhcnQpKTs=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
@@ -1426,9 +1426,9 @@
       </register>
     </registers>
     <search>
-      <last-search>handy</last-search>
+      <last-search encoding="base64">XDxtdGNlXD4=</last-search>
       <last-offset />
-      <last-pattern>handy</last-pattern>
+      <last-pattern encoding="base64">XDxtdGNlXD4=</last-pattern>
       <last-replace>g</last-replace>
       <last-substitute>d:\/apps\/dompspk\/</last-substitute>
       <last-dir>1</last-dir>
@@ -1436,7 +1436,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3ZWlnaHRlZEF2Z0lucHV0XD4=</entry>
         <entry>estimatedcost_wta3</entry>
         <entry encoding="base64">XDxFc3RpbWF0ZWRDT1NUX1dUQTNcPg==</entry>
         <entry>consumedquality</entry>
@@ -1453,9 +1452,10 @@
         <entry encoding="base64">XDxpc0JlZm9yZVw+</entry>
         <entry>isBefore</entry>
         <entry encoding="base64">XDxNVENFXD4=</entry>
-        <entry encoding="base64">XDxtdGNlXD4=</entry>
         <entry encoding="base64">XDxoYW5keVdoaXRtYW5cPg==</entry>
         <entry>handy</entry>
+        <entry>mtce</entry>
+        <entry encoding="base64">XDxtdGNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLykvXCAvZw==</entry>
