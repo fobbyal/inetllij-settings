@@ -537,11 +537,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531929018927">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
+      <file name="/Dummy.txt" timestamp="1533072338572">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/nrg/CalcPublisher.java" timestamp="1525197243783">
         <mark key="'" line="784" column="33" />
@@ -1388,8 +1388,8 @@
       <jump line="2" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BITHI</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3RydWdnbGluZyB3aXRoIGZ1ZWwuLiB0cnkgdG8gYXBwbHkgZnVlbCBmYWN0b3IK</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1431,34 +1431,34 @@
         <text encoding="base64">ICAgICAgICBpZiAoYmFzZU13SW5wdXQuaGFzRXJyb3IoKSkgewogICAgICAgICAgICByZXR1cm4gZXJyb3JPZih2YXJOYW1lLCAiQmFzZWQgTVcgaXMgbmVlZGVkIHRvIGNhbGN1bGF0ZSBtYWludGVuYW5jZSBmb3IgIiArIHVuaXROYW1lT2YoZW50cnksIHNvdXJjZSkpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG10Cg==</text>
+        <text encoding="base64">c3RydWdnbGluZyB3aXRoIGZ1ZWwuLiB0cnkgdG8gYXBwbHkgZnVlbCBmYWN0b3IK</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG10Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtdGNlID0gbXRjZS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZpbHRlcihtYXRjaEluY2x1c2l2ZVllYXJzKHN0YXJ0WWVhciwgZW5kWWVhcikpCiAgICAgICAgICAgICAgICAuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGVhbVRlbXBlcmF0dXJlKCkK</text>
+        <text encoding="base64">ICAgICAgICBtdGNlID0gbXRjZS5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZpbHRlcihtYXRjaEluY2x1c2l2ZVllYXJzKHN0YXJ0WWVhciwgZW5kWWVhcikpCiAgICAgICAgICAgICAgICAuY29sbGVjdCh0b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobWF0Y2hJbmNsdXNpdmVZZWFycyhzdGFydFllYXIsIGVuZFllYXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICBzdGVhbVRlbXBlcmF0dXJlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIobWF0Y2hJbmNsdXNpdmVZZWFycyhzdGFydFllYXIsIGVuZFllYXIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1471,19 +1471,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgQnVpbHRDbGF1c2UgYmNsID0gT3B0aW9uYWwub2YoQ29uZGl0aW9uQ2xhdXNlLmNsKCkpCi8vICAgICAgICAgICAgLy8ubWFwKG1hdGNoWWVhcnNJblBhc3QoZGF0ZSwgMjApKQovLyAgICAgICAgICAgIC5tYXAoY2wgLT4gY2wuYW5kKCJ5ZWFyIixsdGUsZGF0ZS5nZXRZZWFyKCkpKQovLyAgICAgICAgICAgIC5tYXAoZWZmZWN0aXZlRGF0ZUxlc3NUaGFuKGRhdGUpKQovLyAgICAgICAgICAgIC5tYXAobGltaXRVbml0c1RvKHVuaXRzKSkKLy8gICAgICAgICAgICAubWFwKENvbmRpdGlvbjo6YnVpbGQpCi8vICAgICAgICAgICAgLmdldCgpOwovLyAgICBTdHJpbmcgcXVlcnkgPSBTdHJpbmcuZm9ybWF0KCJzZWxlY3QgKiBmcm9tIFxuIiArCi8vICAgICAgICAgICAgIihzZWxlY3QgYi4qLCByb3dfbnVtYmVyKCkgb3ZlciAocGFydGl0aW9uIGJ5IHVuaXQsIG9yZGVyIGJ5IHllYXIgZGVzYykgcm4gZnJvbSAiICsKLy8gICAgICAgICAgICAiKFxuIiArCi8vICAgICAgICAgICAgInNlbGVjdCBhLiosbWF4KGVmZmVjdGl2ZWRhdGUpIG92ZXIgKHBhcnRpdGlvbiBieSB1bml0aWQseWVhcikgbWQgZnJvbSBNVENFIGFcbiIgKwovLyAgICAgICAgICAgICIgICB3aGVyZSAlcyBcbiIgKwovLyAgICAgICAgICAgICIpIGIgd2hlcmUgbWQgPSBlZmZlY3RpdmVkYXRlKSB3aGVyZSBybiA8PTIwIiwgYmNsLnRvU3FsKCkpOwovLwovLyAgICAgICAgcmV0dXJuIGRhIC0+IGRhLmdldEJ5Um93KHF1ZXJ5LCBiY2wudG9QYXJhbXMoKSwgcm93RXh0cmFjdG9yT2YoTXRjZS5jbGFzcykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -1526,7 +1526,6 @@
         <entry encoding="base64">JzwsJz5zL1wgLy9yL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1wgL3IvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wgL1xyL2c=</entry>
-        <entry>action CheckinProject</entry>
         <entry>action CompileDirty</entry>
         <entry>action IntroduceParameter</entry>
         <entry>e ~/.ideavimrc</entry>
@@ -1539,6 +1538,7 @@
         <entry>action IntroduceVariable</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
