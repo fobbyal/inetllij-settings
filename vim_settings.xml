@@ -840,12 +840,12 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" timestamp="1533059485547">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" timestamp="1533138673005">
         <mark key="'" line="50" column="0" />
-        <mark key="[" line="102" column="67" />
-        <mark key="]" line="102" column="71" />
-        <mark key="." line="102" column="71" />
-        <mark key="^" line="102" column="71" />
+        <mark key="[" line="99" column="68" />
+        <mark key="]" line="99" column="72" />
+        <mark key="." line="99" column="72" />
+        <mark key="^" line="99" column="72" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppException.java" timestamp="1532371685183">
         <mark key="'" line="12" column="0" />
@@ -1388,8 +1388,8 @@
       <jump line="2" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3RydWdnbGluZyB3aXRoIGZ1ZWwuLiB0cnkgdG8gYXBwbHkgZnVlbCBmYWN0b3IK</text>
+      <register name="&quot;" type="4">
+        <text>AEP</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1419,7 +1419,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>BITHI</text>
+        <text>AEP</text>
       </register>
       <register name="/" type="4">
         <text>tfrc</text>
@@ -1483,7 +1483,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>action Rerun</text>
       </register>
     </registers>
     <search>
@@ -1537,8 +1537,8 @@
         <entry>wa</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Rerun</entry>
         <entry>action CheckinProject</entry>
+        <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
       <history-input />
