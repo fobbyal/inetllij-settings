@@ -196,6 +196,7 @@
         <mark key="^" line="3" column="52" />
         <mark key="." line="3" column="52" />
       </file>
+      <file name="/AuthTest.java" timestamp="1532377002109" />
       <file name="$USER_HOME$/dev/pbkr/auth/src/test/resources/application.conf" timestamp="1532369571623">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -294,6 +295,7 @@
         <mark key="." line="3" column="18" />
         <mark key="^" line="3" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-original/repl-calc-orignal.solver" timestamp="1533156070855" />
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/HandyWhitmanDef.java" timestamp="1533049115690">
         <mark key="[" line="20" column="32" />
         <mark key="]" line="20" column="49" />
@@ -306,11 +308,12 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" timestamp="1533059005665">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/repl-steam.solver" timestamp="1533156791585">
         <mark key="'" line="2" column="21" />
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="24" />
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="21" column="44" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/Auth.java" timestamp="1532376901890">
         <mark key="'" line="1" column="0" />
@@ -341,6 +344,7 @@
         <mark key="." line="33" column="23" />
         <mark key="^" line="33" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepTestModule.java" timestamp="1532967586643" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/40e8e490-e483-4a52-9cdf-94d27d22e29c/console.sql" timestamp="1519157255063">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="50" />
@@ -540,11 +544,11 @@
         <mark key="^" line="15" column="3" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533072338572">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1533157301329">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/nrg/CalcPublisher.java" timestamp="1525197243783">
         <mark key="'" line="784" column="33" />
@@ -774,6 +778,7 @@
         <mark key="^" line="50" column="59" />
         <mark key="." line="50" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-original/3m-weighted-average-fuel-inputs" timestamp="1532968563669" />
       <file name="$USER_HOME$/dev/integ/pgadsanalytics/pom.xml" timestamp="1530814578111">
         <mark key="'" line="55" column="36" />
         <mark key="[" line="299" column="23" />
@@ -843,12 +848,12 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" timestamp="1533155742391">
-        <mark key="'" line="59" column="52" />
-        <mark key="[" line="100" column="67" />
-        <mark key="]" line="100" column="71" />
-        <mark key="." line="100" column="71" />
-        <mark key="^" line="100" column="71" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" timestamp="1533157268841">
+        <mark key="'" line="56" column="30" />
+        <mark key="[" line="103" column="80" />
+        <mark key="]" line="103" column="82" />
+        <mark key="." line="103" column="82" />
+        <mark key="^" line="103" column="82" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppException.java" timestamp="1532371685183">
         <mark key="'" line="12" column="0" />
@@ -1160,6 +1165,7 @@
         <mark key="." line="16" column="58" />
         <mark key="^" line="16" column="58" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/emkt/api/core/SubmissionTransUtil.java" timestamp="1531926220608" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/immutables/UnitHourlyKeyDef.java" timestamp="1521148500199">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="13" column="19" />
@@ -1197,6 +1203,7 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/FallBackExceptionMapper.java" timestamp="1532371616172" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/RoleAssignment.java" timestamp="1520538015432">
         <mark key="[" line="9" column="31" />
         <mark key="]" line="9" column="31" />
@@ -1236,6 +1243,7 @@
         <mark key="^" line="26" column="69" />
         <mark key="." line="26" column="69" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthUncaughtTest.java" timestamp="1532369083598" />
       <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/UnitsService.java" timestamp="1531766004759">
         <mark key="'" line="41" column="72" />
       </file>
@@ -1296,7 +1304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/2m-weighted-average-fuel.solver" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/2m-weighted-average-fuel.solver" />
       <jump line="0" column="49" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/6m-weighted-average-fuel.solver" />
       <jump line="820" column="8" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
@@ -1396,10 +1403,11 @@
       <jump line="292" column="31" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/BidCostCalculator.java" />
       <jump line="116" column="29" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/BidCostCalculator.java" />
       <jump line="322" column="78" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/BidCostCalculator.java" />
+      <jump line="56" column="30" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>cost</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1429,7 +1437,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>cost</text>
       </register>
       <register name="/" type="4">
         <text>entry</text>
@@ -1438,40 +1446,40 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVbml0QmFzaWNJbmZvIHVuaXRJbmZvID0gZHMudW5pdEluZm9NYXAoKS5nZXQoZW50cnkudW5pdElkKCkpOwogICAgICAgIEJvb2xlYW4gaXNTdGFydCA9IGVudHJ5LnN0YXJ0U3RhdGUoKS5pc1ByZXNlbnQoKTsKICAgICAgICBCb29sZWFuIGlzQ3QgPSB1bml0SW5mby51bml0VHlwZUNvZGUoKS5lcXVhbHNJZ25vcmVDYXNlKCJjdCIpOwogICAgICAgIFN0cmluZyBjb3N0VHlwZSA9IGVudHJ5LmNvc3RUeXBlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL1N0cmluZyB1bml0ID0gIjg5NDEyMTAxIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwKGUgLT4gY29zdFR5cGVzLnN0cmVhbSgpLm1hcChlOjp3aXRoQ29zdFR5cGUpKQogICAgICAgICAgICAgICAgLmZsYXRNYXAoZSAtPiBzZWxlY3RGb3JtdWxhKGUsIHNvdXJjZSkpCiAgICAgICAgICAgICAgICAuZmlsdGVyKHdlaWdodGVkQXZnQ29tcGF0aWJsZShzb3VyY2UpKQo=</text>
+        <text encoding="base64">c3RhcnRpbmcgbWl4ZWQgZnVlbCBjb3N0IG1hdGNoaW5nCg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBVbml0QmFzaWNJbmZvIHVuaXRJbmZvID0gZHMudW5pdEluZm9NYXAoKS5nZXQoZW50cnkudW5pdElkKCkpCg==</text>
+        <text encoding="base64">SFJBRgo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
-      <register name="3" type="4">
-        <text>;
-        Boolean isStart = entry.startState().isPresent();
-        Boolean isCt = unitInfo.unitTypeCode().equalsIgnoreCase(&quot;ct&quot;);
-        String costType = entry.costType();</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwKGUgLT4gY29zdFR5cGVzLnN0cmVhbSgpLm1hcChlOjp3aXRoQ29zdFR5cGUpKQogICAgICAgICAgICAgICAgLmZsYXRNYXAoZSAtPiBzZWxlY3RGb3JtdWxhKGUsIHNvdXJjZSkpCiAgICAgICAgICAgICAgICAuZmlsdGVyKHdlaWdodGVkQXZnQ29tcGF0aWJsZShzb3VyY2UpKQo=</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9zb3VyY2Uub3BlcmF0aW5nUmFuZ2VNYXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBVbml0QmFzaWNJbmZvIHVuaXRJbmZvID0gZHMudW5pdEluZm9NYXAoKS5nZXQoZW50cnkudW5pdElkKCkpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29zdFR5cGUgPSBlbnRyeS5jb3N0VHlwZSgpOwo=</text>
+      <register name="5" type="4">
+        <text>;
+        Boolean isStart = entry.startState().isPresent();
+        Boolean isCt = unitInfo.unitTypeCode().equalsIgnoreCase(&quot;ct&quot;);
+        String costType = entry.costType();</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCb29sZWFuIGlzU3RhcnQgPSBlbnRyeS5zdGFydFN0YXRlKCkuaXNQcmVzZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9zb3VyY2Uub3BlcmF0aW5nUmFuZ2VNYXAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIGFkZCB0cmFucyBtdyBwYWlyIGFzIHdlbGwgYXMgYmFzZSBwZWFrIG13CiAgICAgICAgLy8gdG9kbyBtYXJrIG1pblNlZwoK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29zdFR5cGUgPSBlbnRyeS5jb3N0VHlwZSgpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1484,19 +1492,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIod2VpZ2h0ZWRBdmdDb21wYXRpYmxlKHNvdXJjZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBCb29sZWFuIGlzU3RhcnQgPSBlbnRyeS5zdGFydFN0YXRlKCkuaXNQcmVzZW50KCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwKGUgLT4gY29zdFR5cGVzLnN0cmVhbSgpLm1hcChlOjp3aXRoQ29zdFR5cGUpKQogICAgICAgICAgICAgICAgLmZsYXRNYXAoZSAtPiBzZWxlY3RGb3JtdWxhKGUsIHNvdXJjZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIGFkZCB0cmFucyBtdyBwYWlyIGFzIHdlbGwgYXMgYmFzZSBwZWFrIG13CiAgICAgICAgLy8gdG9kbyBtYXJrIG1pblNlZwoK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -1541,17 +1549,17 @@
         <entry>action CompileDirty</entry>
         <entry>action IntroduceParameter</entry>
         <entry>e ~/.ideavimrc</entry>
-        <entry>w</entry>
         <entry encoding="base64">YWN0aW9uIEdpdC5CcmFuY2hlcyA=</entry>
         <entry>a</entry>
         <entry>action Compile</entry>
-        <entry>action CheckinProject</entry>
         <entry>action AceAction</entry>
         <entry>action IntroduceVariable</entry>
         <entry encoding="base64">JzwsJz5zL2VudHJ5L2UvZw==</entry>
         <entry>wa</entry>
         <entry>action ReformatCode</entry>
+        <entry>w</entry>
         <entry>action Rerun</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
