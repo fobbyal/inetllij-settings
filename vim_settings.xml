@@ -843,12 +843,12 @@
         <mark key="^" line="3" column="44" />
         <mark key="." line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" timestamp="1533154488578">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" timestamp="1533155742391">
         <mark key="'" line="59" column="52" />
-        <mark key="[" line="54" column="59" />
-        <mark key="]" line="54" column="60" />
-        <mark key="." line="54" column="60" />
-        <mark key="^" line="101" column="81" />
+        <mark key="[" line="100" column="67" />
+        <mark key="]" line="100" column="71" />
+        <mark key="." line="100" column="71" />
+        <mark key="^" line="100" column="71" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppException.java" timestamp="1532371685183">
         <mark key="'" line="12" column="0" />
@@ -1399,7 +1399,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>T</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1429,7 +1429,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>entry</text>
