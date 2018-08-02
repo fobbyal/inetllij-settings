@@ -678,12 +678,12 @@
         <mark key="^" line="10" column="49" />
         <mark key="." line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/AncillaryServiceApi.java" timestamp="1533227063350">
-        <mark key="'" line="183" column="31" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="36" />
-        <mark key="^" line="117" column="9" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/AncillaryServiceApi.java" timestamp="1533232610322">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="42" />
+        <mark key="^" line="127" column="38" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1531287121747">
         <mark key="'" line="10" column="35" />
@@ -1328,8 +1328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/2m-weighted-average-fuel.solver" />
-      <jump line="0" column="49" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/6m-weighted-average-fuel.solver" />
       <jump line="820" column="8" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="239" column="34" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="500" column="76" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
@@ -1428,10 +1426,12 @@
       <jump line="116" column="29" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/BidCostCalculator.java" />
       <jump line="322" column="78" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/BidCostCalculator.java" />
       <jump line="56" column="30" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/BidCostCalculatorTest.java" />
+      <jump line="139" column="4" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/AncillaryServiceApi.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/AncillaryServiceApi.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJ1c2VyIn0pCg==</text>
+        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJhcl91cGRhdGVyIn0pCg==</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1461,7 +1461,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cost</text>
+        <text>submitter</text>
       </register>
       <register name="/" type="4">
         <text>entry</text>
@@ -1470,7 +1470,7 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJ1c2VyIn0pCg==</text>
+        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJhcl91cGRhdGVyIn0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJ1c2VyIn0pCg==</text>
@@ -1528,7 +1528,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1579,11 +1579,11 @@
         <entry>action AceAction</entry>
         <entry>action IntroduceVariable</entry>
         <entry encoding="base64">JzwsJz5zL2VudHJ5L2UvZw==</entry>
-        <entry>wa</entry>
         <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>action Rerun</entry>
         <entry>action CheckinProject</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
