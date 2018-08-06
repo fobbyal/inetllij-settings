@@ -397,10 +397,12 @@
         <mark key="^" line="58" column="19" />
         <mark key="." line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533586600688">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533588688753">
+        <mark key="'" line="10" column="39" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="7" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/UserGroup.java" timestamp="1520537887561">
         <mark key="[" line="9" column="26" />
@@ -1325,7 +1327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="534" column="28" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="536" column="48" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="539" column="46" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="542" column="15" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
@@ -1425,10 +1426,11 @@
       <jump line="12" column="26" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidsDef.java" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidsDef.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidsDef.java" />
+      <jump line="10" column="39" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1483,7 +1485,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>col</text>
@@ -1495,34 +1497,34 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBNYXBwZXIoY29sTmFtZSA9ICJDQUxDX0VMRU1FTlQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25maWcuc3RyCg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHB1YmxjaSB2b2kK</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxjCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
+        <text encoding="base64">ICAgIEBNYXBwZXIoY29sTmFtZSA9ICJDQUxDX0VMRU1FTlQiKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1535,7 +1537,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
@@ -1547,7 +1549,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Compile</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1601,8 +1603,8 @@
         <entry>%s/col/colName/g</entry>
         <entry>action RenameElement</entry>
         <entry>wa</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Compile</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
