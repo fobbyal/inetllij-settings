@@ -349,10 +349,16 @@
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/LoadDataSourceConfig.java" timestamp="1530196463822">
         <mark key="'" line="32" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" timestamp="1533584122819">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidsDef.java" timestamp="1533586709296">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="16" />
+        <mark key="." line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" timestamp="1533586658750">
         <mark key="'" line="157" column="30" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="48" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="165" column="22" />
         <mark key="." line="156" column="39" />
         <mark key="^" line="156" column="47" />
       </file>
@@ -390,10 +396,10 @@
         <mark key="^" line="41" column="12" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533585072997">
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="2" column="15" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533586600688">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/UserGroup.java" timestamp="1520537887561">
         <mark key="[" line="9" column="26" />
@@ -1415,7 +1421,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">ICAgICAgICAgIE5VTUJFUg==</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1470,7 +1476,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">ICAgICAgICAgIE5VTUJFUg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJ2ZUFkZGVyVHlwZVw+</text>
@@ -1479,10 +1485,10 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qIHAgb3IgZCAqLwo=</text>
+        <text encoding="base64">ICAiSUQiICAgICAgICAgICB2YXJjaGFyMigxMDApLAogICJVTklUSUQiICAgICAgIFZBUkNIQVIyKDEwMCksCiAgIlNDSEVEVUxFX0lEIiAgTlVNQkVSLAogICJCSURfQ0FURUdPUlkiIFZBUkNIQVIyKDUwKSwgLS0gQ1VSVkUsTk8tTE9BRCxIT1QtU1RBUlQsQ09MRC1TVEFSVCxXQVJNLVNUQVJUCiAgIk1XIiAgICAgICAgICAgTlVNQkVSIGRlZmF1bHQgLTEsCiAgIkNBTENfRUxFTUVOVCIgTlVNQkVSLAogICJDT1NUIiAgICAgICAgIE5VTUJFUiwKICAiQklEIiAgICAgICAgICBOVU1CRVIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
@@ -1494,19 +1500,19 @@
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFkZGVyVHlwZSB2YWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1522,13 +1528,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFkZGVyVHlwZSB2YWx1ZQo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERPTExBUixQRUNFCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
