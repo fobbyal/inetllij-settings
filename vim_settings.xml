@@ -344,12 +344,12 @@
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/target/generated-sources/annotations/com/integ/dmb/immutables/LoadDataSourceConfig.java" timestamp="1530196463822">
         <mark key="'" line="32" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" timestamp="1533577961524">
-        <mark key="'" line="79" column="6" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="111" column="21" />
-        <mark key="." line="95" column="20" />
-        <mark key="^" line="95" column="20" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" timestamp="1533579144649">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="113" column="31" />
       </file>
       <file name="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CoefficientDef.java" timestamp="1530846999281">
         <mark key="[" line="14" column="37" />
@@ -538,6 +538,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="^" line="17" column="10" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/BidCostPublisher.java" timestamp="1533579584741">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/JsonProvider.java" timestamp="1520265813896">
         <mark key="[" line="7" column="44" />
@@ -1262,7 +1267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="259" column="28" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="266" column="30" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="267" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="272" column="34" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
@@ -1361,11 +1365,12 @@
       <jump line="75" column="2" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
       <jump line="86" column="20" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
-      <jump line="79" column="6" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
+      <jump line="79" column="45" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFICJDQUxDX1BVQkxJU0hfQ09ORklHIgooCiAgIkVGRkVDVElWRURBVEUiIERBVEUsCiAgIklTTyIgVkFSQ0hBUjIoMTAwKSwKICAiTUFSS0VUIiBWQVJDSEFSMigyKSBERUZBVUxUICdEQScsIC0tJ0RBJywnUlQnCiAgIlVOSVRJRCIgVkFSQ0hBUjIoMTAwKSwKICAiRlVFTCIgVkFSQ0hBUjIoMTAwKSwKICAiQ09TVFRZUEUiIFZBUkNIQVIyKDEwMCksCiAgIkNVUlZFX1RZUEUiIFZBUkNIQVIyKDEwKSBERUZBVUxUICdTTE9QRScsCiAgIkNUX0FTX1NUIiBDSEFSKDEpLAogICJTQ0hFRFVMRV9JRCIgTlVNQkVSLAogICJBVkFJTEFCTEUiIENIQVIoMSksCiAgIk1PRElGSUVSIiBWQVJDSEFSMigxNSksCiAgIk1PRElGSUVEREFURSIgVElNRVNUQU1QICg2KQopOwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQotLSAgRERMIGZvciBJbmRleCBQS19DQUxDX1BVQkxJU0hfQ09ORklHCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpDUkVBVEUgVU5JUVVFIElOREVYICJQS19DQUxDX1BVQkxJU0hfQ09ORklHIiBPTiAiQ0FMQ19QVUJMSVNIX0NPTkZJRyIgKCJFRkZFQ1RJVkVEQVRFIiwgIlVOSVRJRCIsICJTQ0hFRFVMRV9JRCIsICJNQVJLRVQiKTsKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLS0gIENvbnN0cmFpbnRzIGZvciBUYWJsZSBDQUxDX1BVQkxJU0hfQ09ORklHCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpBTFRFUiBUQUJMRSAiQ0FMQ19QVUJMSVNIX0NPTkZJRyIgQUREIENPTlNUUkFJTlQgIlBLX0NBTENfUFVCTElTSF9DT05GSUciIFBSSU1BUlkgS0VZICgiRUZGRUNUSVZFREFURSIsICJVTklUSUQiLCAiU0NIRURVTEVfSUQiLCAiTUFSS0VUIikKICBVU0lORyBJTkRFWCAgRU5BQkxFOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="d" type="4">
         <text>,#poset_date#</text>
@@ -1395,7 +1400,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDYWxjTWVzc2FnZVw+</text>
@@ -1403,38 +1408,38 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFICJDQUxDX1BVQkxJU0hfQ09ORklHIgooCiAgIkVGRkVDVElWRURBVEUiIERBVEUsCiAgIklTTyIgVkFSQ0hBUjIoMTAwKSwKICAiTUFSS0VUIiBWQVJDSEFSMigyKSBERUZBVUxUICdEQScsIC0tJ0RBJywnUlQnCiAgIlVOSVRJRCIgVkFSQ0hBUjIoMTAwKSwKICAiRlVFTCIgVkFSQ0hBUjIoMTAwKSwKICAiQ09TVFRZUEUiIFZBUkNIQVIyKDEwMCksCiAgIkNVUlZFX1RZUEUiIFZBUkNIQVIyKDEwKSBERUZBVUxUICdTTE9QRScsCiAgIkNUX0FTX1NUIiBDSEFSKDEpLAogICJTQ0hFRFVMRV9JRCIgTlVNQkVSLAogICJBVkFJTEFCTEUiIENIQVIoMSksCiAgIk1PRElGSUVSIiBWQVJDSEFSMigxNSksCiAgIk1PRElGSUVEREFURSIgVElNRVNUQU1QICg2KQopOwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQotLSAgRERMIGZvciBJbmRleCBQS19DQUxDX1BVQkxJU0hfQ09ORklHCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpDUkVBVEUgVU5JUVVFIElOREVYICJQS19DQUxDX1BVQkxJU0hfQ09ORklHIiBPTiAiQ0FMQ19QVUJMSVNIX0NPTkZJRyIgKCJFRkZFQ1RJVkVEQVRFIiwgIlVOSVRJRCIsICJTQ0hFRFVMRV9JRCIsICJNQVJLRVQiKTsKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLS0gIENvbnN0cmFpbnRzIGZvciBUYWJsZSBDQUxDX1BVQkxJU0hfQ09ORklHCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpBTFRFUiBUQUJMRSAiQ0FMQ19QVUJMSVNIX0NPTkZJRyIgQUREIENPTlNUUkFJTlQgIlBLX0NBTENfUFVCTElTSF9DT05GSUciIFBSSU1BUlkgS0VZICgiRUZGRUNUSVZFREFURSIsICJVTklUSUQiLCAiU0NIRURVTEVfSUQiLCAiTUFSS0VUIikKICBVU0lORyBJTkRFWCAgRU5BQkxFOwo=</text>
+      <register name="0" type="4">
+        <text>CALC_PUBLISH_HISTORY</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiQVZBSUxBQkxFIiBDSEFSKDEpLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiRlVFTCIgVkFSQ0hBUjIoMTAwKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAiU0NIRURVTEVfSUQiIE5VTUJFUiwK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIAo=</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KLS0gIEZpbGUgY3JlYXRlZCAtIE1vbmRheS1BdWd1c3QtMDYtMjAxOAotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQotLSAgRERMIGZvciBUYWJsZSBDQUxDX1BVQkxJU0hfQ09ORklHCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpDUkVBVEUgVEFCTEUgIkNBTENfUFVCTElTSF9DT05GSUciCigKICAiRUZGRUNUSVZFREFURSIgREFURSwKICAiSVNPIiBWQVJDSEFSMigxMDApLAogICJNQVJLRVQiIFZBUkNIQVIyKDIpIERFRkFVTFQgJ0RBJywgLS0nREEnLCdSVCcKICAiVU5JVElEIiBWQVJDSEFSMigxMDApLAogICJGVUVMIiBWQVJDSEFSMigxMDApLAogICJDT1NUVFlQRSIgVkFSQ0hBUjIoMTAwKSwKICAiQ1VSVkVfVFlQRSIgVkFSQ0hBUjIoMTApIERFRkFVTFQgJ1NMT1BFJywKICAiQ1RfQVNfU1QiIENIQVIoMSksCiAgIlNDSEVEVUxFX0lEIiBOVU1CRVIsCiAgIkFWQUlMQUJMRSIgQ0hBUigxKSwKICAiTU9ESUZJRVIiIFZBUkNIQVIyKDE1KSwKICAiTU9ESUZJRUREQVRFIiBUSU1FU1RBTVAgKDYpCik7Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi0tICBEREwgZm9yIEluZGV4IFBLX0NBTENfUFVCTElTSF9DT05GSUcKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCkNSRUFURSBVTklRVUUgSU5ERVggIlBLX0NBTENfUFVCTElTSF9DT05GSUciIE9OICJDQUxDX1BVQkxJU0hfQ09ORklHIiAoIkVGRkVDVElWRURBVEUiLCAiVU5JVElEIiwgIlNDSEVEVUxFX0lEIiwgIk1BUktFVCIpOwotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQotLSAgQ29uc3RyYWludHMgZm9yIFRhYmxlIENBTENfUFVCTElTSF9DT05GSUcKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCkFMVEVSIFRBQkxFICJDQUxDX1BVQkxJU0hfQ09ORklHIiBBREQgQ09OU1RSQUlOVCAiUEtfQ0FMQ19QVUJMSVNIX0NPTkZJRyIgUFJJTUFSWSBLRVkgKCJFRkZFQ1RJVkVEQVRFIiwgIlVOSVRJRCIsICJTQ0hFRFVMRV9JRCIsICJNQVJLRVQiKQogIFVTSU5HIElOREVYICBFTkFCTEU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiU0NIRURVTEVfSUQiIE5VTUJFUiwK</text>
+        <text encoding="base64">ICAiQVZBSUxBQkxFIiBDSEFSKDEpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiVU5JVElEIiBWQVJDSEFSMigxMDApLAo=</text>
+        <text encoding="base64">ICAiRlVFTCIgVkFSQ0hBUjIoMTAwKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiQVZBSUxBQkxFIiBDSEFSKDEpLAo=</text>
+        <text encoding="base64">ICAiU0NIRURVTEVfSUQiIE5VTUJFUiwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1453,7 +1458,7 @@
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiU0NIRURVTEVfSUQiIE5VTUJFUiwK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
