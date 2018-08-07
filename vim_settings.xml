@@ -397,12 +397,12 @@
         <mark key="^" line="58" column="19" />
         <mark key="." line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533650710418">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="106" column="15" />
-        <mark key="]" line="106" column="15" />
-        <mark key="." line="106" column="15" />
-        <mark key="^" line="106" column="20" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533656200678">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="104" column="15" />
+        <mark key="]" line="104" column="15" />
+        <mark key="." line="102" column="68" />
+        <mark key="^" line="104" column="20" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/UserGroup.java" timestamp="1520537887561">
         <mark key="[" line="9" column="26" />
@@ -1327,9 +1327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="553" column="31" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
-      <jump line="558" column="56" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
-      <jump line="251" column="19" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="891" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="938" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
@@ -1427,6 +1424,9 @@
       <jump line="74" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="13" column="60" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/nrg-calcs/nrg-cc-op.solver" />
       <jump line="24" column="55" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/nrg-calcs/nrg-st-op.solver" />
+      <jump line="77" column="48" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
+      <jump line="71" column="4" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1488,7 +1488,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzTm9Mb2FkQ2FwTGltaXRcPg==</text>
+        <text encoding="base64">XDxhcHBseU13Qmlkc1w+</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -1549,13 +1549,13 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Compile</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzTm9Mb2FkQ2FwTGltaXRcPg==</last-search>
+      <last-search encoding="base64">XDxhcHBseU13Qmlkc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzTm9Mb2FkQ2FwTGltaXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBseU13Qmlkc1w+</last-pattern>
       <last-replace>colName</last-replace>
       <last-substitute>col</last-substitute>
       <last-dir>1</last-dir>
@@ -1563,7 +1563,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNVENFXD4=</entry>
         <entry encoding="base64">XDxNdGNlXD4=</entry>
         <entry encoding="base64">XDxtdGNlXD4=</entry>
         <entry>tfrc</entry>
@@ -1583,6 +1582,7 @@
         <entry>col</entry>
         <entry encoding="base64">XDxjZHRmQ2FwTGltaXRcPg==</entry>
         <entry encoding="base64">XDxzTm9Mb2FkQ2FwTGltaXRcPg==</entry>
+        <entry encoding="base64">XDxhcHBseU13Qmlkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action IntroduceParameter</entry>
@@ -1602,9 +1602,9 @@
         <entry>%s/col/colname/g</entry>
         <entry>%s/col/colName/g</entry>
         <entry>action RenameElement</entry>
-        <entry>action ReformatCode</entry>
         <entry>wa</entry>
         <entry>action Compile</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
