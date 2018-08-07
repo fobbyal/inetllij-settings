@@ -397,12 +397,12 @@
         <mark key="^" line="58" column="19" />
         <mark key="." line="58" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533589821557">
-        <mark key="'" line="11" column="23" />
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="15" />
-        <mark key="." line="19" column="15" />
-        <mark key="^" line="19" column="20" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533650710418">
+        <mark key="'" line="74" column="0" />
+        <mark key="[" line="106" column="15" />
+        <mark key="]" line="106" column="15" />
+        <mark key="." line="106" column="15" />
+        <mark key="^" line="106" column="20" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/UserGroup.java" timestamp="1520537887561">
         <mark key="[" line="9" column="26" />
@@ -675,11 +675,8 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidDef.java" timestamp="1533587635940">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="43" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/nrg-calcs/nrg-cc-op.solver" timestamp="1533651014569">
+        <mark key="'" line="13" column="60" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidCostPublisher.java" timestamp="1533585072025">
         <mark key="[" line="2" column="16" />
@@ -742,6 +739,9 @@
         <mark key="]" line="55" column="31" />
         <mark key="^" line="55" column="31" />
         <mark key="." line="55" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/nrg-calcs/nrg-st-op.solver" timestamp="1533651041335">
+        <mark key="'" line="24" column="55" />
       </file>
       <file name="$USER_HOME$/dev/integ/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1531287121747">
         <mark key="'" line="10" column="35" />
@@ -1327,9 +1327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="539" column="46" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
-      <jump line="542" column="15" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
-      <jump line="546" column="28" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="553" column="31" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="558" column="56" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="251" column="19" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
@@ -1427,6 +1424,9 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidsDef.java" />
       <jump line="10" column="39" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="11" column="23" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
+      <jump line="74" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
+      <jump line="13" column="60" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/nrg-calcs/nrg-cc-op.solver" />
+      <jump line="24" column="55" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/nrg-calcs/nrg-st-op.solver" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1488,7 +1488,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>col</text>
+        <text encoding="base64">XDxzTm9Mb2FkQ2FwTGltaXRcPg==</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -1549,13 +1549,13 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action Compile</text>
       </register>
     </registers>
     <search>
-      <last-search>col</last-search>
+      <last-search encoding="base64">XDxzTm9Mb2FkQ2FwTGltaXRcPg==</last-search>
       <last-offset />
-      <last-pattern>col</last-pattern>
+      <last-pattern encoding="base64">XDxzTm9Mb2FkQ2FwTGltaXRcPg==</last-pattern>
       <last-replace>colName</last-replace>
       <last-substitute>col</last-substitute>
       <last-dir>1</last-dir>
@@ -1563,8 +1563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handy</entry>
-        <entry>mtce</entry>
         <entry encoding="base64">XDxNVENFXD4=</entry>
         <entry encoding="base64">XDxNdGNlXD4=</entry>
         <entry encoding="base64">XDxtdGNlXD4=</entry>
@@ -1583,6 +1581,8 @@
         <entry encoding="base64">XDxjdEFzU3RlYW1cPg==</entry>
         <entry encoding="base64">XDxjdXJ2ZUFkZGVyVHlwZVw+</entry>
         <entry>col</entry>
+        <entry encoding="base64">XDxjZHRmQ2FwTGltaXRcPg==</entry>
+        <entry encoding="base64">XDxzTm9Mb2FkQ2FwTGltaXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action IntroduceParameter</entry>
@@ -1602,9 +1602,9 @@
         <entry>%s/col/colname/g</entry>
         <entry>%s/col/colName/g</entry>
         <entry>action RenameElement</entry>
-        <entry>action Compile</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
+        <entry>action Compile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
