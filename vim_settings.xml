@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1533755158487">
-        <mark key="'" line="51" column="20" />
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="119" column="18" />
-        <mark key="." line="119" column="18" />
-        <mark key="^" line="119" column="18" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1533755330261">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="121" column="46" />
+        <mark key="]" line="121" column="46" />
+        <mark key="." line="121" column="46" />
+        <mark key="^" line="121" column="46" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/resources/reference.conf" timestamp="1523992332480">
         <mark key="'" line="5" column="56" />
@@ -1285,10 +1285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
-      <jump line="237" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="207" column="20" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="217" column="48" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="218" column="52" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
@@ -1385,22 +1381,41 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidPublishConfigDef.java" />
       <jump line="162" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
       <jump line="50" column="20" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" />
+      <jump line="127" column="45" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" />
+      <jump line="128" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>collect</text>
+        <text>n</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">TWFwPFN0cmluZywgVW5pdEJhc2ljSW5mbz4gdW5pdEJhc2ljSW5mb01hcA==</text>
       </register>
       <register name="e" type="4">
         <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="64" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="34" code="0" mods="0" />
-          <key char="41" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="124" code="0" mods="0" />
+          <key char="35" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="115" code="0" mods="0" />
+          <key char="116" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="103" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
         </keys>
       </register>
       <register name="f" type="4">
@@ -1443,7 +1458,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>collect</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>BID_PUBLISH_CONFIG</text>
@@ -1452,7 +1467,7 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;EFFECTIVEDATE&quot;, &quot;UNITID&quot;, &quot;SCHEDULE_ID&quot;, &quot;MARKET&quot;,</text>
+        <text>wkjk0wwj</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGtramQK</text>
@@ -1560,8 +1575,8 @@
         <entry>%s/DROP/--DROP/g</entry>
         <entry>action Compile</entry>
         <entry encoding="base64">JzwsJz5zL0JJRF9QVUJMSVNIX0NPTkZJRy9CSURfUFVCTElTSF9DT05GSUdfQVVEL2c=</entry>
-        <entry>action ReformatCode</entry>
         <entry>action IntroduceVariable</entry>
+        <entry>action ReformatCode</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
