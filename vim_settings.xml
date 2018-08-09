@@ -294,12 +294,12 @@
         <mark key="^" line="23" column="51" />
         <mark key="." line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublisherTest.java" timestamp="1533761326063">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="87" column="32" />
-        <mark key="]" line="87" column="31" />
-        <mark key="." line="87" column="31" />
-        <mark key="^" line="87" column="31" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublisherTest.java" timestamp="1533840803155">
+        <mark key="'" line="62" column="74" />
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="16" />
+        <mark key="." line="36" column="16" />
+        <mark key="^" line="36" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.4/joda-time-2.9.4-sources.jar!/org/joda/time/base/BaseDateTime.java" timestamp="1533049619189">
         <mark key="'" line="43" column="22" />
@@ -425,12 +425,11 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533839683991">
-        <mark key="'" line="443" column="43" />
-        <mark key="[" line="345" column="62" />
-        <mark key="]" line="345" column="66" />
-        <mark key="." line="345" column="66" />
-        <mark key="^" line="345" column="66" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533840651263">
+        <mark key="[" line="38" column="54" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/UserGroup.java" timestamp="1520537887561">
         <mark key="[" line="9" column="26" />
@@ -753,7 +752,7 @@
         <mark key="." line="11" column="48" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1533761282183">
+      <file name="/fragment.java" timestamp="1533840741429">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="32" />
@@ -923,10 +922,6 @@
         <mark key="^" line="14" column="1" />
         <mark key="." line="14" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/integ/core/pbkr/0.1.2-SNAPSHOT/pbkr-0.1.2-SNAPSHOT.jar!/com/integ/broker/immutables/BidNodeListDef.class" timestamp="1533754421908">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="60" column="49" />
-      </file>
       <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/exception/AppException.java" timestamp="1532371685183">
         <mark key="'" line="12" column="0" />
       </file>
@@ -1095,6 +1090,12 @@
         <mark key="]" line="72" column="57" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidProcessorTest.java" timestamp="1533840958309">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+        <mark key="^" line="112" column="40" />
       </file>
       <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" timestamp="1531756589632">
         <mark key="'" line="20" column="46" />
@@ -1379,9 +1380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="85" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
-      <jump line="234" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
-      <jump line="244" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="228" column="26" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="220" column="25" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="154" column="25" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
@@ -1479,10 +1477,13 @@
       <jump line="53" column="19" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/ido/IdoDataAccess.java" />
       <jump line="49" column="34" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/ido/IdoDataAccess.java" />
       <jump line="65" column="33" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/ido/IdoDataAccess.java" />
+      <jump line="327" column="26" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
+      <jump line="63" column="74" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublisherTest.java" />
+      <jump line="80" column="41" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIk5PVElGSUNBVElPTl9USU1FIiwKICAgICAgICAgICAgIk1JTl9SVU5USU1FIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">TWFwPFN0cmluZywgVW5pdEJhc2ljSW5mbz4gdW5pdEJhc2ljSW5mb01hcA==</text>
@@ -1552,46 +1553,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTQ0hFRFVMRV9VUERBVEVfQ09TVFNfT05MWV9DT0xTXD4=</text>
+        <text>createBids</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZ1tdIFNDSEVEVUxFX1VQREFURV9DT0xTX1dJVEhfQ09TVFMgPSBuZXcgU3RyaW5nW117CiAgICAgICAgICAgICJOT1RJRklDQVRJT05fVElNRSIsCiAgICAgICAgICAgICJNSU5fUlVOVElNRSIsCiAgICAgICAgICAgICJDT0xEX1NUQVJUVVBfQ09TVCIsCiAgICAgICAgICAgICJJTlRFUl9TVEFSVFVQX0NPU1QiLAogICAgICAgICAgICAiSE9UX1NUQVJUVVBfQ09TVCIsCiAgICAgICAgICAgICJOT0xPQURfQ09TVCIsCiAgICAgICAgICAgICJTVUJNSVRURURUT0lTTyIsCiAgICAgICAgICAgICJTVUJNSVRfVFJBTlNfSUQiLAogICAgICAgICAgICAiU1VCTUlTU0lPTl9USU1FIiwKICAgICAgICAgICAgIlNVQk1JU1NJT05fTVNHIiwKICAgICAgICAgICAgIk1PRElGSUVSIiwKICAgICAgICAgICAgIk1PRElGSUVEREFURSIsCiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBzdGFydEFkZGVyVHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpZ0RlY2ltYWwgc3RhcnRBZGRlciwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIk5PVElGSUNBVElPTl9USU1FIiwKICAgICAgICAgICAgIk1JTl9SVU5USU1FIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2V0RG91YmxlU2NoZWR1bGVEZXRhaWxVcGRhdGVGdW5jdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpdERlY2ltCg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJpZ2trCg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z2V0RW50cnlTY2hlZHVsZURldGFpbFVwZGF0ZUZ1bmN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzY2hlZHVsZUQK</text>
+        <text encoding="base64">ICAgICAgICAvL2JpZHMuc3RyZWFtKCkKICAgICAgICAvKgogICAgICAgIC8vU3RhcnROb0xvYWRJdGVtLmJ1aWxkZXIoKQogICAgICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTY2gK</text>
+        <text encoding="base64">ICAgICAgICBydW5EYShwc3BrRHMsIHJlY29yZFB1Ymxpc2goY29uZmlnTGlzdCwgcHVibGlzaElkLCBjYWxjSWRzLCBkYXRlLCBob3VycywgdXNlciwgdHN0YW1wKSk7CiAgICAgICAgcnVuRGEocHNwa0RTLCByZWNvcmRCaWRzKGJpZHMpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTYXJ0dXAK</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1604,25 +1605,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTY2hlCg==</text>
+        <text encoding="base64">ICAgICAgICAvKiByZXBvcnQgaW4gcHNwawo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action IntroduceParameter</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTQ0hFRFVMRV9VUERBVEVfQ09TVFNfT05MWV9DT0xTXD4=</last-search>
+      <last-search>createBids</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTQ0hFRFVMRV9VUERBVEVfQ09TVFNfT05MWV9DT0xTXD4=</last-pattern>
+      <last-pattern>createBids</last-pattern>
       <last-replace>BID_PUBLISH_CONFIG_AUD</last-replace>
       <last-substitute>BID_PUBLISH_CONFIG</last-substitute>
       <last-dir>1</last-dir>
@@ -1630,9 +1631,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Bid\.builder</entry>
-        <entry>findCostBased</entry>
-        <entry>findCos</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>apply</entry>
         <entry>drop</entry>
@@ -1650,11 +1648,13 @@
         <entry>start</entry>
         <entry encoding="base64">XDxTQ0hFRFVMRV9VUERBVEVfQ09MU19XSVRIX0NPU1RTXD4=</entry>
         <entry encoding="base64">XDxTQ0hFRFVMRV9VUERBVEVfQ09TVFNfT05MWV9DT0xTXD4=</entry>
+        <entry encoding="base64">XDxjYWxjSWRzXD4=</entry>
+        <entry encoding="base64">XDxtYXJrZXRcPg==</entry>
+        <entry>createBids</entry>
       </history-search>
       <history-cmd>
         <entry>%s/col/colname/g</entry>
         <entry>%s/col/colName/g</entry>
-        <entry>action RenameElement</entry>
         <entry>vs</entry>
         <entry>814</entry>
         <entry>wea</entry>
@@ -1664,14 +1664,15 @@
         <entry encoding="base64">JzwsJz5zL0JJRF9QVUJMSVNIX0NPTkZJRy9CSURfUFVCTElTSF9DT05GSUdfQVVEL2c=</entry>
         <entry>action CheckinProject</entry>
         <entry>action AceAction</entry>
-        <entry>a</entry>
         <entry>action CompileDirty</entry>
-        <entry>action Rerun</entry>
         <entry>action Compile</entry>
-        <entry>action IntroduceVariable</entry>
-        <entry>action ReformatCode</entry>
-        <entry>wa</entry>
         <entry>action IntroduceParameter</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Rerun</entry>
+        <entry>wa</entry>
+        <entry>action ReformatCode</entry>
+        <entry>a</entry>
       </history-cmd>
       <history-expr />
       <history-input />
