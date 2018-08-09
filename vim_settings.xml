@@ -577,11 +577,11 @@
         <mark key="^" line="117" column="39" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533762146232">
+      <file name="/Dummy.txt" timestamp="1533762162261">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="39" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/nrg/CalcPublisher.java" timestamp="1525197243783">
         <mark key="'" line="784" column="33" />
@@ -1390,8 +1390,8 @@
       <jump line="70" column="14" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>values</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29ycmVjCg==</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">TWFwPFN0cmluZywgVW5pdEJhc2ljSW5mbz4gdW5pdEJhc2ljSW5mb01hcA==</text>
@@ -1473,34 +1473,34 @@
         <text>finalValues</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5iaW4K</text>
+        <text encoding="base64">Y29ycmVjCg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCaWRQdWJsaXNoQ29uZmlnLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5iaW4K</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgCg==</text>
+        <text encoding="base64">ICAgICAgICBCaWRQdWJsaXNoQ29uZmlnLgo=</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcwoK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubQo=</text>
+        <text encoding="base64">ICAgICAgICBhcwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZS5EZWZhdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAubQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1513,13 +1513,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">ICAgIEBWYWx1ZS5EZWZhdWx0Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
