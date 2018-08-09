@@ -425,12 +425,12 @@
         <mark key="." line="30" column="30" />
         <mark key="^" line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533838104461">
-        <mark key="'" line="419" column="43" />
-        <mark key="[" line="348" column="27" />
-        <mark key="]" line="352" column="60" />
-        <mark key="^" line="352" column="60" />
-        <mark key="." line="352" column="60" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1533838801932">
+        <mark key="'" line="422" column="43" />
+        <mark key="[" line="355" column="42" />
+        <mark key="]" line="356" column="29" />
+        <mark key="." line="356" column="29" />
+        <mark key="^" line="356" column="29" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/UserGroup.java" timestamp="1520537887561">
         <mark key="[" line="9" column="26" />
@@ -1483,8 +1483,8 @@
       <jump line="49" column="34" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/ido/IdoDataAccess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>startNoLoadBids</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTYXJ0dXAK</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">TWFwPFN0cmluZywgVW5pdEJhc2ljSW5mbz4gdW5pdEJhc2ljSW5mb01hcA==</text>
@@ -1554,7 +1554,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>startNoLoadBids</text>
+        <text>code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTQ0hFRFVMRV9VUERBVEVfQ09MU19XSVRIX0NPU1RTXD4=</text>
@@ -1563,37 +1563,37 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPcHRpb25hbDxCaWQ+IGhvdCA9IGZpbmRCaWQoc3RhcnROb0xvYWRCaWRzLCBiIC0+IGIuYmlkQ2F0ZWdvcnkoKS50b0xvd2VyQ2FzZSgpLmNvbnRhaW5zKCJ3YXJtIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPcHRpb25hbDxCaWQ+IGNvZGUgPSBmaW5kQmlkKGUuZ2V0VmFsdWUoKSwgYiAtPiBiLmJpZENhdGVnb3J5KCkudG9Mb3dlckNhc2UoKS5jb250YWlucygiY29sZCIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTY2hlZHVsZURldGFpbFVwZGF0ZS5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC51bml0SWQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTYXJ0dXAK</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTY2hlCg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydE5vTG9hZEJpZHMuc3RyZWFtKCkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaWQgaG90ID0gc3RhcnROb0xvYWRCaWRzLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBra2oK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8qCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBTY2hlZHVsZURldGFpbFVwZGF0ZS5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC51bml0SWQoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGFydE5vTG9hZEJpZHMuc3RyZWFtKCkuCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1606,19 +1606,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaWQgaG90ID0gc3RhcnROb0xvYWRCaWRzLgo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdAo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action Compile</text>
       </register>
     </registers>
     <search>
@@ -1671,9 +1671,9 @@
         <entry>action CompileDirty</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action Rerun</entry>
-        <entry>action Compile</entry>
-        <entry>wa</entry>
         <entry>action ReformatCode</entry>
+        <entry>wa</entry>
+        <entry>action Compile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
