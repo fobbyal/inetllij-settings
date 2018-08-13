@@ -1098,10 +1098,10 @@
         <mark key="." line="91" column="26" />
         <mark key="^" line="91" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" timestamp="1534182138386">
-        <mark key="[" line="44" column="47" />
-        <mark key="]" line="44" column="47" />
-        <mark key="." line="44" column="47" />
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" timestamp="1534183732427">
+        <mark key="[" line="36" column="71" />
+        <mark key="]" line="36" column="72" />
+        <mark key="." line="36" column="72" />
         <mark key="^" line="44" column="47" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/security/immutables/UserInfoDef.java" timestamp="1520867568626">
@@ -1623,7 +1623,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1677,8 +1677,8 @@
         <entry>a</entry>
         <entry>action CheckinProject</entry>
         <entry>action ReformatCode</entry>
-        <entry>wa</entry>
         <entry>action Rerun</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
