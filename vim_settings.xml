@@ -1002,6 +1002,9 @@
         <mark key="." line="33" column="71" />
         <mark key="^" line="33" column="71" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" timestamp="1534178287183">
+        <mark key="'" line="31" column="55" />
+      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/FuelBurnDef.java" timestamp="1533049163975">
         <mark key="'" line="9" column="21" />
         <mark key="[" line="74" column="0" />
@@ -1383,7 +1386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="48" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="131" column="119" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="137" column="66" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="17" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" />
@@ -1483,6 +1485,7 @@
       <jump line="13" column="19" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/aep/run.sql" />
       <jump line="27" column="12" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/aep/run.sql" />
       <jump line="59" column="29" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/aep/run.sql" />
+      <jump line="31" column="55" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
