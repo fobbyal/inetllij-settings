@@ -221,8 +221,8 @@
         <mark key="^" line="110" column="93" />
         <mark key="." line="110" column="93" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" timestamp="1532980560836">
-        <mark key="'" line="33" column="0" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" timestamp="1534277647164">
+        <mark key="'" line="13" column="85" />
         <mark key="[" line="3" column="53" />
         <mark key="]" line="3" column="52" />
         <mark key="^" line="3" column="52" />
@@ -825,6 +825,7 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-ct.solver" timestamp="1534277610544" />
       <file name="$USER_HOME$/dev/pgadsanalytics/pom.xml" timestamp="1526416423569">
         <mark key="[" line="269" column="21" />
         <mark key="]" line="269" column="59" />
@@ -1388,9 +1389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" />
-      <jump line="168" column="28" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
-      <jump line="110" column="1" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
       <jump line="78" column="2" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
       <jump line="120" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
@@ -1488,6 +1486,9 @@
       <jump line="31" column="55" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" />
       <jump line="29" column="30" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
       <jump line="104" column="37" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
+      <jump line="6" column="10" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
+      <jump line="13" column="85" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1565,7 +1566,7 @@
         <text>AUGEND</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0d29UaG91c2FuZFw+</text>
+        <text>calc</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -1630,9 +1631,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0d29UaG91c2FuZFw+</last-search>
+      <last-search>calc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0d29UaG91c2FuZFw+</last-pattern>
+      <last-pattern>calc</last-pattern>
       <last-replace>BID_PUBLISH_CONFIG_AUD</last-replace>
       <last-substitute>BID_PUBLISH_CONFIG</last-substitute>
       <last-dir>1</last-dir>
@@ -1640,7 +1641,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdMaXN0XD4=</entry>
         <entry>pbkr</entry>
         <entry>calcEntry</entry>
         <entry encoding="base64">XDx0b0RhU3RhcnRzXD4=</entry>
@@ -1660,6 +1660,7 @@
         <entry encoding="base64">XDxiYXNlXD4=</entry>
         <entry>costtype</entry>
         <entry encoding="base64">XDx0d29UaG91c2FuZFw+</entry>
+        <entry>calc</entry>
       </history-search>
       <history-cmd>
         <entry>%s/col/colname/g</entry>
