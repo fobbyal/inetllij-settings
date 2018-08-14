@@ -109,7 +109,9 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/immutables/CalcResponseDef.java" timestamp="1534269091869" />
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/immutables/CalcResponseDef.java" timestamp="1534278702303">
+        <mark key="'" line="29" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/immutables/JobRunResponseDef.java" timestamp="1511898432544">
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="19" />
@@ -683,6 +685,9 @@
         <mark key="]" line="218" column="65" />
         <mark key="^" line="218" column="65" />
         <mark key="." line="218" column="65" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/bid/immutables/Bid.java" timestamp="1534278714071">
+        <mark key="'" line="29" column="34" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/auth/UserRoleTest.java" timestamp="1520547883273">
         <mark key="[" line="63" column="35" />
@@ -1389,8 +1394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
-      <jump line="78" column="2" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
       <jump line="120" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
       <jump line="156" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
@@ -1489,6 +1492,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
       <jump line="6" column="10" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
       <jump line="13" column="85" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/aep-steam.solver" />
+      <jump line="29" column="9" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/immutables/CalcResponseDef.java" />
+      <jump line="29" column="34" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/bid/immutables/Bid.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
