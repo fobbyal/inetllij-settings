@@ -513,6 +513,7 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1534430572149" />
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/immutables/ScheduleJobInfoDef.java" timestamp="1512486320783">
         <mark key="[" line="39" column="27" />
         <mark key="]" line="39" column="39" />
@@ -1632,7 +1633,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1686,8 +1687,8 @@
         <entry>a</entry>
         <entry>action CheckinProject</entry>
         <entry>action Rerun</entry>
-        <entry>action ReformatCode</entry>
         <entry>wa</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
