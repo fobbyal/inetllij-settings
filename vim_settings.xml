@@ -155,12 +155,12 @@
         <mark key="^" line="43" column="39" />
         <mark key="." line="23" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishTest.java" timestamp="1533847409473">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishTest.java" timestamp="1534964715058">
         <mark key="'" line="59" column="22" />
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="40" />
-        <mark key="." line="68" column="40" />
-        <mark key="^" line="68" column="40" />
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="56" column="21" />
+        <mark key="." line="56" column="21" />
+        <mark key="^" line="56" column="21" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/data-miner2/src/main/java/com/integ/core/dataminer2/api/HourlyEstimatedLoadApi.java" timestamp="1512664012239">
         <mark key="[" line="38" column="0" />
@@ -717,12 +717,6 @@
         <mark key="^" line="218" column="65" />
         <mark key="." line="218" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/mktgateway/QueryScheduleDetailUpdate.java" timestamp="1534445105692">
-        <mark key="[" line="26" column="38" />
-        <mark key="]" line="60" column="75" />
-        <mark key="^" line="60" column="75" />
-        <mark key="." line="60" column="75" />
-      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/bid/immutables/Bid.java" timestamp="1534278714071">
         <mark key="'" line="29" column="34" />
       </file>
@@ -1030,12 +1024,6 @@
       <file name="$USER_HOME$/.ideavimrc" timestamp="1532370124033">
         <mark key="'" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DemandVirtualBidDef.java" timestamp="1534777829331">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="35" column="24" />
-        <mark key="^" line="21" column="50" />
-        <mark key="." line="21" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/MonthlyValue.java" timestamp="1533049331639">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="16" />
@@ -1124,12 +1112,6 @@
         <mark key="." line="22" column="75" />
         <mark key="^" line="22" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/mktgateway/QueryScheduleOfferUpdate.java" timestamp="1534445115892">
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="57" column="69" />
-        <mark key="." line="57" column="35" />
-        <mark key="^" line="29" column="87" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/561a3011-7fdb-4913-8c5e-003cac4bc428/console.sql" timestamp="1511904510467">
         <mark key="[" line="3" column="44" />
         <mark key="]" line="3" column="44" />
@@ -1157,14 +1139,15 @@
         <mark key="." line="73" column="0" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidProcessorTest.java" timestamp="1533847111287">
-        <mark key="'" line="115" column="26" />
-        <mark key="[" line="90" column="95" />
-        <mark key="]" line="91" column="26" />
-        <mark key="." line="91" column="26" />
-        <mark key="^" line="91" column="26" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidProcessorTest.java" timestamp="1534964915666">
+        <mark key="'" line="97" column="56" />
+        <mark key="[" line="101" column="46" />
+        <mark key="]" line="101" column="51" />
+        <mark key="." line="101" column="51" />
+        <mark key="^" line="101" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" timestamp="1534183732427">
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" timestamp="1534964360710">
+        <mark key="'" line="88" column="0" />
         <mark key="[" line="36" column="71" />
         <mark key="]" line="36" column="72" />
         <mark key="." line="36" column="72" />
@@ -1259,8 +1242,12 @@
         <mark key="^" line="67" column="55" />
         <mark key="." line="81" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishDataAccessTest.java" timestamp="1534960456500">
-        <mark key="'" line="110" column="45" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishDataAccessTest.java" timestamp="1534964982272">
+        <mark key="'" line="111" column="45" />
+        <mark key="[" line="138" column="69" />
+        <mark key="]" line="138" column="70" />
+        <mark key="^" line="138" column="70" />
+        <mark key="." line="138" column="70" />
       </file>
       <file name="$USER_HOME$/dev/jc-jdk8/pbroker/java/src/com/integ/pbroker/controller/ejb/handler/dmb/loadimport/LoadImportEJBHandler.java" timestamp="1525184137347">
         <mark key="'" line="68" column="12" />
@@ -1459,11 +1446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="78" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
-      <jump line="333" column="29" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
-      <jump line="361" column="43" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
-      <jump line="173" column="61" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/genoffer/GenOfferDataAccess.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/genoffer/GenOfferDataAccess.java" />
       <jump line="58" column="29" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/ido/IdoDataAccess.java" />
       <jump line="52" column="18" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/ido/IdoDataAccess.java" />
       <jump line="53" column="19" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/ido/IdoDataAccess.java" />
@@ -1559,10 +1541,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
       <jump line="110" column="45" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishDataAccessTest.java" />
       <jump line="57" column="8" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepUnitServiceTest.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
+      <jump line="88" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
+      <jump line="154" column="16" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidProcessorTest.java" />
+      <jump line="95" column="56" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidProcessorTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Loca</text>
+        <text>unit</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">TWFwPFN0cmluZywgVW5pdEJhc2ljSW5mbz4gdW5pdEJhc2ljSW5mb01hcA==</text>
@@ -1633,16 +1620,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Loca</text>
+        <text>unit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDUklURVJJQV9TQ0hFRFVMRVNcPg==</text>
+        <text encoding="base64">XDxtYXJrZXRcPg==</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TWFwPFN0cmluZyxMaXN0PFN0cmluZz4+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLmN0QXNTdGVhbSggdW5pdE1hcC5nZXQoZS51bml0SWQoKSkudW5pdFR5cGVDb2RlKCkuZXF1YWxzSWdub3JlQ2FzZSgiY3QiKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvL3JldHVybiBydW5EYShwcm92aWRlci5kc0luZm8oKS5wc3BrRHMoKSwgcmV0cmlldmVVbml0SW5mbyhkYXRlLnRvTG9jYWxEYXRlVGltZShNSUROSUdIVCkpKTsK</text>
@@ -1701,9 +1688,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDUklURVJJQV9TQ0hFRFVMRVNcPg==</last-search>
+      <last-search encoding="base64">XDxtYXJrZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDUklURVJJQV9TQ0hFRFVMRVNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtYXJrZXRcPg==</last-pattern>
       <last-replace>BID_PUBLISH_CONFIG_AUD</last-replace>
       <last-substitute>BID_PUBLISH_CONFIG</last-substitute>
       <last-dir>1</last-dir>
@@ -1711,7 +1698,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwc3BrRHNcPg==</entry>
         <entry encoding="base64">XDx1bml0SW5mb01hcFw+</entry>
         <entry encoding="base64">XDxtb2NrQ29uZmlnTGlzdFw+</entry>
         <entry>ctAsSt</entry>
@@ -1731,10 +1717,9 @@
         <entry encoding="base64">XDxCaWRJbmZvXD4=</entry>
         <entry encoding="base64">XDx0b0JpZEluZm9cPg==</entry>
         <entry encoding="base64">XDxDUklURVJJQV9TQ0hFRFVMRVNcPg==</entry>
+        <entry encoding="base64">XDxtYXJrZXRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/col/colname/g</entry>
-        <entry>%s/col/colName/g</entry>
         <entry>vs</entry>
         <entry>814</entry>
         <entry>wea</entry>
@@ -1745,12 +1730,14 @@
         <entry>action IntroduceParameter</entry>
         <entry>action AceAction</entry>
         <entry>action RenameElement</entry>
-        <entry>action IntroduceVariable</entry>
-        <entry>action ReformatCode</entry>
-        <entry>a</entry>
         <entry>action CheckinProject</entry>
         <entry>w</entry>
         <entry>action Compile</entry>
+        <entry>neofo</entry>
+        <entry>a</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry>action ReformatCode</entry>
+        <entry>kj;wa</entry>
         <entry>wa</entry>
         <entry>action Rerun</entry>
       </history-cmd>
