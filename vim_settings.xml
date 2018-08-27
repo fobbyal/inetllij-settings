@@ -42,8 +42,12 @@
         <mark key="." line="30" column="67" />
         <mark key="^" line="30" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" timestamp="1533829029666">
-        <mark key="'" line="294" column="43" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" timestamp="1535397930747">
+        <mark key="'" line="158" column="30" />
+        <mark key="[" line="349" column="39" />
+        <mark key="]" line="349" column="39" />
+        <mark key="^" line="349" column="39" />
+        <mark key="." line="349" column="39" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/ExternalApi.java" timestamp="1534444606224">
         <mark key="'" line="52" column="26" />
@@ -681,7 +685,7 @@
         <mark key="^" line="117" column="39" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1534796331212">
+      <file name="/Dummy.txt" timestamp="1535397938347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
@@ -1450,25 +1454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="32" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
-      <jump line="53" column="22" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishTest.java" />
-      <jump line="216" column="30" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
-      <jump line="214" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
-      <jump line="82" column="29" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidProcessorTest.java" />
-      <jump line="79" column="26" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidProcessorTest.java" />
-      <jump line="32" column="64" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/bid/immutables/BidPublishConfig.java" />
-      <jump line="269" column="4" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CostCalculator.java" />
-      <jump line="212" column="45" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CostCalculator.java" />
-      <jump line="126" column="36" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidProcessorTest.java" />
-      <jump line="130" column="34" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidProcessorTest.java" />
-      <jump line="114" column="26" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidProcessorTest.java" />
-      <jump line="179" column="43" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
-      <jump line="12" column="20" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/aep/tables/unit_groups.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/aep/tables/unit_groups.sql" />
-      <jump line="24" column="2" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/aep/tables/unit_groups.sql" />
-      <jump line="5" column="15" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/aep/run.sql" />
-      <jump line="13" column="19" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/aep/run.sql" />
-      <jump line="27" column="12" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/aep/run.sql" />
       <jump line="59" column="29" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/aep/run.sql" />
       <jump line="31" column="55" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" />
       <jump line="29" column="30" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
@@ -1550,10 +1535,29 @@
       <jump line="134" column="48" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
       <jump line="255" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
       <jump line="170" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
+      <jump line="391" column="45" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="156" column="16" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="336" column="51" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="328" column="27" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="358" column="60" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="311" column="26" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="233" column="40" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="324" column="50" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="370" column="71" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="376" column="70" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="275" column="71" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="306" column="70" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="335" column="18" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="83" column="25" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="128" column="55" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="104" column="32" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="143" column="30" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
+      <jump line="158" column="30" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/cost/CostProcessor.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="d" type="4">
         <text encoding="base64">TWFwPFN0cmluZywgVW5pdEJhc2ljSW5mbz4gdW5pdEJhc2ljSW5mb01hcA==</text>
@@ -1624,10 +1628,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub0xvYWRCaWRQcm9jZXNzb3JcPg==</text>
+        <text encoding="base64">XDxjcmVhdGVIb3VybHlDdXJ2ZXNcPg==</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -1688,13 +1692,13 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub0xvYWRCaWRQcm9jZXNzb3JcPg==</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVIb3VybHlDdXJ2ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub0xvYWRCaWRQcm9jZXNzb3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVIb3VybHlDdXJ2ZXNcPg==</last-pattern>
       <last-replace>BID_PUBLISH_CONFIG_AUD</last-replace>
       <last-substitute>BID_PUBLISH_CONFIG</last-substitute>
       <last-dir>1</last-dir>
@@ -1702,13 +1706,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0d29UaG91c2FuZFw+</entry>
-        <entry>calc</entry>
-        <entry>he</entry>
-        <entry>sched-det</entry>
-        <entry encoding="base64">XDx0b1BKTVBqbVdzWHNsdFJlc1w+</entry>
-        <entry>sched-det-update</entry>
-        <entry>demand-raw</entry>
         <entry>lseCopmany</entry>
         <entry>lse_company</entry>
         <entry encoding="base64">XDxCaWRJbmZvXD4=</entry>
@@ -1722,6 +1719,13 @@
         <entry encoding="base64">XDxJbmNyQ29zdFw+</entry>
         <entry>max</entry>
         <entry encoding="base64">XDxub0xvYWRCaWRQcm9jZXNzb3JcPg==</entry>
+        <entry>sno</entry>
+        <entry encoding="base64">XDxmaW5kTm9Mb2FkXD4=</entry>
+        <entry encoding="base64">XDxjb25zdW1lTm9Mb2FkQ29zdHNcPg==</entry>
+        <entry>&quot;value&quot;</entry>
+        <entry>slope</entry>
+        <entry encoding="base64">XDx0b09mZmVyU2VnbWVudFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVIb3VybHlDdXJ2ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -1734,16 +1738,16 @@
         <entry>action IntroduceParameter</entry>
         <entry>action AceAction</entry>
         <entry>action RenameElement</entry>
-        <entry>action CheckinProject</entry>
         <entry>w</entry>
         <entry>action Compile</entry>
         <entry>neofo</entry>
         <entry>a</entry>
         <entry>action IntroduceVariable</entry>
-        <entry>action ReformatCode</entry>
         <entry>kj;wa</entry>
         <entry>action Rerun</entry>
         <entry>wa</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
