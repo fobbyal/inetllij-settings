@@ -694,7 +694,7 @@
         <mark key="^" line="117" column="39" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535565831547">
+      <file name="/Dummy.txt" timestamp="1536249708004">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
         <mark key="^" line="0" column="21" />
@@ -1419,12 +1419,11 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/api/Utils.java" timestamp="1536248412896">
-        <mark key="'" line="29" column="26" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="38" column="61" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/api/Utils.java" timestamp="1536249705577">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="43" column="18" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/MessageCodes.java" timestamp="1533237189627">
         <mark key="[" line="2" column="24" />
@@ -1489,7 +1488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidDef.java" />
       <jump line="59" column="3" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcDataAccess.java" />
       <jump line="42" column="56" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepUnitService.java" />
       <jump line="282" column="35" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/db/pending-updates/aep-legacy-integration/calc-tables.sql" />
@@ -1589,10 +1587,11 @@
       <jump line="251" column="23" filename="$USER_HOME$/dev/jc-jdk8/pbroker/java/src/com/integ/pbroker/dao/dmb/submission/SubmitEJBHandler.java" />
       <jump line="252" column="29" filename="$USER_HOME$/dev/jc-jdk8/pbroker/java/src/com/integ/pbroker/dao/dmb/submission/SubmitEJBHandler.java" />
       <jump line="38" column="26" filename="$USER_HOME$/dev/jc-jdk8/pbroker/java/src/com/integ/pbroker/dao/dmb/submission/DeleteBidEJBHandler.java" />
+      <jump line="42" column="40" filename="$USER_HOME$/dev/pbkr/common/src/main/java/com/integ/core/api/Utils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>auth.rest.api</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1663,7 +1662,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>auth.rest.api</text>
+        <text>getVersionProps(url)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBcPg==</text>
@@ -1672,7 +1671,7 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcy5hZGQoImNvbS5pbnRlZy5jb3JlLmF1dGgucmVzdC5hcGkiKTsK</text>
+        <text encoding="base64">ICAgICAgICBUcmVlTWFwPFN0cmluZyxTdHJpbmc+IG1hcCA9bmV3IFRyZWVNYXA8PigpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1681,7 +1680,7 @@
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2cgPSBnZXRMb2dnZXIoVXRpbHMuY2xhc3MpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
@@ -1693,16 +1692,16 @@
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdE9mUGptSGVPbihkYXRlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBSb2xlc0FsbG93ZWQoeyJhZG1pbiIsICJ1c2VyIn0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBQYXRoKCJwam0taGUtaW4tZGF5IikK</text>
+        <text encoding="base64">ICAgICAgICBUcmVlTWFwPFN0cmluZyxTdHJpbmc+IG1hcCA9bmV3IFRyZWVNYXA8PigpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1715,19 +1714,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmRlYnVnKCJwcm9wcyBhcmUge30iLHByb3BzKTsK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJvcGVydGllcyBwcm9wcyA9IG5ldyBQcm9wZXJ0aWVzKCk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -1769,7 +1768,6 @@
         <entry>%s/drop/--drop/g</entry>
         <entry>%s/DROP/--DROP/g</entry>
         <entry encoding="base64">JzwsJz5zL0JJRF9QVUJMSVNIX0NPTkZJRy9CSURfUFVCTElTSF9DT05GSUdfQVVEL2c=</entry>
-        <entry>action CompileDirty</entry>
         <entry>action AceAction</entry>
         <entry>w</entry>
         <entry>action Compile</entry>
@@ -1777,12 +1775,13 @@
         <entry>a</entry>
         <entry>kj;wa</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action CheckinProject</entry>
         <entry>action RenameElement</entry>
         <entry>action Rerun</entry>
         <entry>action IntroduceVariable</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action CompileDirty</entry>
         <entry>wa</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
