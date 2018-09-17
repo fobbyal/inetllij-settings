@@ -862,10 +862,10 @@
         <mark key="^" line="59" column="59" />
         <mark key="." line="59" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/db/pending-update/task-migration/run.sql" timestamp="1537215021707">
-        <mark key="[" line="23" column="131" />
-        <mark key="]" line="23" column="131" />
-        <mark key="." line="23" column="131" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/db/pending-update/task-migration/run.sql" timestamp="1537216032574">
+        <mark key="[" line="11" column="112" />
+        <mark key="]" line="11" column="113" />
+        <mark key="." line="11" column="112" />
         <mark key="^" line="22" column="102" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/DefaultTemperatureDef.java" timestamp="1530896951746">
@@ -1602,7 +1602,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>spa-migrate-n</text>
+        <text>l</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1673,7 +1673,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>spa-migrate-n</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>\\\\</text>
@@ -1737,7 +1737,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1778,7 +1778,6 @@
         <entry>%s/DROP/--DROP/g</entry>
         <entry encoding="base64">JzwsJz5zL0JJRF9QVUJMSVNIX0NPTkZJRy9CSURfUFVCTElTSF9DT05GSUdfQVVEL2c=</entry>
         <entry>action AceAction</entry>
-        <entry>w</entry>
         <entry>action Compile</entry>
         <entry>neofo</entry>
         <entry>a</entry>
@@ -1793,6 +1792,7 @@
         <entry>%s/\\\\/\\/g</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
