@@ -862,10 +862,11 @@
         <mark key="^" line="59" column="59" />
         <mark key="." line="59" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/db/pending-update/task-migration/run.sql" timestamp="1537209324582">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/db/pending-update/task-migration/run.sql" timestamp="1537215021707">
+        <mark key="[" line="23" column="131" />
+        <mark key="]" line="23" column="131" />
+        <mark key="." line="23" column="131" />
+        <mark key="^" line="22" column="102" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/DefaultTemperatureDef.java" timestamp="1530896951746">
         <mark key="[" line="20" column="12" />
@@ -1600,8 +1601,8 @@
       <jump line="51" column="26" filename="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/api/SchedulerApi.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>spa-migrate-n</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1672,7 +1673,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>spa-migrate-n</text>
       </register>
       <register name="/" type="4">
         <text>\\\\</text>
@@ -1680,8 +1681,8 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IHRhc2tfc2NoZWR1bGVfbmFtZSwncGJrci1sZWdhY3knLHRhc2tfY2xhc3NfZnFuLCdZJwo=</text>
+      <register name="0" type="4">
+        <text>spa-migrate-y</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
