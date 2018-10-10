@@ -186,6 +186,11 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/IncreCostMatcher.java" timestamp="1539187157904">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/ApiTest.java" timestamp="1531756300814">
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="9" />
@@ -602,6 +607,13 @@
         <mark key="^" line="4" column="24" />
         <mark key="." line="4" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/IncrCostMatcher.java" timestamp="1539187561874">
+        <mark key="'" line="5" column="51" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/40e8e490-e483-4a52-9cdf-94d27d22e29c/console.sql" timestamp="1519157255063">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="50" />
@@ -733,8 +745,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="29" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
-      <jump line="195" column="40" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="178" column="32" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" />
       <jump line="44" column="20" filename="$USER_HOME$/dev/jc-jdk8/pbroker/java/src/com/integ/pbroker/controller/ejb/handler/dmb/loadimport/LoadImportEJBHandler.java" />
       <jump line="48" column="40" filename="$USER_HOME$/dev/jc-jdk8/pbroker/java/src/com/integ/pbroker/controller/ejb/handler/dmb/loadimport/LoadImportEJBHandler.java" />
@@ -833,10 +843,12 @@
       <jump line="146" column="62" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/AepCalcResultMatcher.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/AepCalcResultMatcher.java" />
       <jump line="237" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/AepCalcResultMatcher.java" />
+      <jump line="5" column="51" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/IncrCostMatcher.java" />
+      <jump line="25" column="4" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/IncrCostMatcher.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -907,7 +919,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRPZlw+</text>
@@ -919,34 +931,34 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBtYXRjaENvc3QoKSB7CiAgICAgICAgLy9yZXRyaWV2ZURhdGFTb3VyY2UKICAgICAgICBMb2NhbERhdGVUaW1lIGVmZmVjdGl2ZURhdGUgPSBMb2NhbERhdGVUaW1lLnBhcnNlKCIyMDE4LTAxLTAxIik7CiAgICAgICAgTG9jYWxEYXRlVGltZSB0aW1lU3RhbXAgPSBMb2NhbERhdGVUaW1lLm5vdygpOwogICAgICAgIENhbGNSZWNvcmQgY2FsY1JlY29yZCA9IGNhbGN1bGF0ZShkcywgZXgsIGVmZmVjdGl2ZURhdGUsIHNpbmdsZXRvbkxpc3QoIjg5MDEwMTAxIikpOwogICAgICAgIExpc3Q8VGVzdENhbGNSZXN1bHQ+IHJlc3VsdHMgPSBjYWxjUmVjb3JkLmNhbGNzKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtd3MuZm9yRWFjaCgKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bXcgLT4gewogICAgICAgICAgICBsb2cuZGVidWcoIm13IHt9IC0gbGVnYWN5Olt7fV0gbmV3Olt7fV0iLCBtdywgbGVnYWN5SW5jckNvc3QuZ2V0KG13KSwgbmV3SW5jcmVDb3N0LmdldChtdykpOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZihvcmlnaW5hbCkK</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsZWEK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuYW1lCg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImxlZ2FjeSBpcyB7fSIsIGxlZ2FjeSk7CgogICAgICAgIFNldDxCaWdEZWNpbWFsPiBtd3MgPSBTdHJlYW0uY29uY2F0KAogICAgICAgICAgICAgICAgbGVnYWN5LmluY3JDb3N0cygpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKSwKICAgICAgICAgICAgICAgIG5ld1Jlc3VsdC5pbmNyQ29zdHMoKQogICAgICAgICAgICAgICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICApLm1hcChQYWlyOjp2MSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvU2V0KCkpOwoKICAgICAgICBNYXA8QmlnRGVjaW1hbCwgQmlnRGVjaW1hbD4gbGVnYWN5SW5jckNvc3QgPSBsZWdhY3kuaW5jckNvc3RzKCkKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QodG9NYXAoUGFpcjo6djEsIFBhaXI6OnYyKSk7CgogICAgICAgIE1hcDxCaWdEZWNpbWFsLCBCaWdEZWNpbWFsPiBuZXdJbmNyZUNvc3QgPSBuZXdSZXN1bHQuaW5jckNvc3RzKCkKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QodG9NYXAoUGFpcjo6djEsIFBhaXI6OnYyKSk7Cg==</text>
+        <text encoding="base64">ICAgaiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvTGlzdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBtd3MuZm9yRWFjaCgKICAgICAgICB9KTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zb3J0ZWQoQ29tcGFyYXRvci5jb21wYXJpbmcoUGFpcjo6djEpKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">bXcgLT4gewogICAgICAgICAgICBsb2cuZGVidWcoIm13IHt9IC0gbGVnYWN5Olt7fV0gbmV3Olt7fV0iLCBtdywgbGVnYWN5SW5jckNvc3QuZ2V0KG13KSwgbmV3SW5jcmVDb3N0LmdldChtdykpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsZWEK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -959,19 +971,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImxlZ2FjeSBpcyB7fSIsIGxlZ2FjeSk7CgogICAgICAgIFNldDxCaWdEZWNpbWFsPiBtd3MgPSBTdHJlYW0uY29uY2F0KAogICAgICAgICAgICAgICAgbGVnYWN5LmluY3JDb3N0cygpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKSwKICAgICAgICAgICAgICAgIG5ld1Jlc3VsdC5pbmNyQ29zdHMoKQogICAgICAgICAgICAgICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICApLm1hcChQYWlyOjp2MSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvU2V0KCkpOwoKICAgICAgICBNYXA8QmlnRGVjaW1hbCwgQmlnRGVjaW1hbD4gbGVnYWN5SW5jckNvc3QgPSBsZWdhY3kuaW5jckNvc3RzKCkKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QodG9NYXAoUGFpcjo6djEsIFBhaXI6OnYyKSk7CgogICAgICAgIE1hcDxCaWdEZWNpbWFsLCBCaWdEZWNpbWFsPiBuZXdJbmNyZUNvc3QgPSBuZXdSZXN1bHQuaW5jckNvc3RzKCkKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QodG9NYXAoUGFpcjo6djEsIFBhaXI6OnYyKSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvTGlzdCgpKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1012,21 +1024,21 @@
         <entry>action CompileDirty</entry>
         <entry>%s/d\\\\/\\/g</entry>
         <entry>%s/\\\\/\\/g</entry>
-        <entry>action RenameElement</entry>
         <entry>wa'</entry>
         <entry>action CheckinProject</entry>
         <entry encoding="base64">JzwsJz4lcy9kZXYvc3RnL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3N0Zy9kZXYvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Rldi9zdGcvZw==</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>a</entry>
         <entry>w</entry>
         <entry>action Compile</entry>
         <entry>action AceAction</entry>
+        <entry>action Rerun</entry>
+        <entry>action RenameElement</entry>
         <entry>action IntroduceVariable</entry>
         <entry>wa</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Rerun</entry>
+        <entry>a</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1059,7 +1071,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
