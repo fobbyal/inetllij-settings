@@ -626,12 +626,12 @@
         <mark key="^" line="30" column="24" />
         <mark key="." line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/AepCalcResultMatcher.java" timestamp="1539183374673">
-        <mark key="'" line="227" column="0" />
-        <mark key="[" line="198" column="94" />
-        <mark key="]" line="198" column="114" />
-        <mark key="." line="198" column="114" />
-        <mark key="^" line="198" column="114" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/AepCalcResultMatcher.java" timestamp="1539185831867">
+        <mark key="'" line="229" column="0" />
+        <mark key="[" line="195" column="35" />
+        <mark key="]" line="196" column="15" />
+        <mark key="." line="196" column="15" />
+        <mark key="^" line="196" column="15" />
       </file>
       <file name="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcRequestDef.java" timestamp="1530840651205">
         <mark key="[" line="5" column="21" />
@@ -836,7 +836,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>newIncreCost</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -907,7 +907,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>newIncreCost</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXN1bHRPZlw+</text>
@@ -971,7 +971,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action Rerun</text>
       </register>
     </registers>
     <search>
@@ -1020,13 +1020,13 @@
         <entry encoding="base64">JzwsJz5zL2Rldi9zdGcvZw==</entry>
         <entry>action IntroduceParameter</entry>
         <entry>a</entry>
-        <entry>action Rerun</entry>
         <entry>w</entry>
         <entry>action Compile</entry>
         <entry>action AceAction</entry>
         <entry>action IntroduceVariable</entry>
-        <entry>action ReformatCode</entry>
         <entry>wa</entry>
+        <entry>action ReformatCode</entry>
+        <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
       <history-input />
