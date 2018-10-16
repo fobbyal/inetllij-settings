@@ -27,6 +27,11 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/jc-jdk8/pspk/props/nrg-stg.xml" timestamp="1539711587248">
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="59" />
+        <mark key="." line="23" column="59" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/UserGroupDef.java" timestamp="1520538148984">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="49" />
@@ -783,7 +788,7 @@
         <mark key="." line="11" column="48" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1539098881127">
+      <file name="/fragment.java" timestamp="1539711617118">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="32" />
@@ -1040,7 +1045,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1094,8 +1099,8 @@
         <entry>action Rerun</entry>
         <entry>action ReformatCode</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry>action CheckinProject</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
