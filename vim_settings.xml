@@ -616,6 +616,7 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/auth/src/main/resources/reference.conf" timestamp="1539712961655" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/common/VersionTest.java" timestamp="1536247580606">
         <mark key="[" line="17" column="86" />
         <mark key="]" line="17" column="86" />
