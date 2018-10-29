@@ -717,10 +717,10 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" timestamp="1540834414794">
+      <file name="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" timestamp="1540837467058">
         <mark key="'" line="114" column="11" />
-        <mark key="[" line="134" column="41" />
-        <mark key="]" line="134" column="42" />
+        <mark key="[" line="118" column="10" />
+        <mark key="]" line="119" column="56" />
         <mark key="^" line="134" column="42" />
         <mark key="." line="134" column="42" />
       </file>
@@ -889,7 +889,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>com.example.Main</text>
+        <text encoding="base64">ICBjcmVkZW50aWFscy5wdXQoInMyMDUzNjRBRHNiIiwgImVNS1Q9MTIzNDU2N3NiIik7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzLnB1dCgicGJUVGltYmVyMiIsICJJbnRlcmZhY2U9MiIpOw==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -969,7 +969,7 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="4">
-        <text>eMKT=1234567sb</text>
+        <text encoding="base64">ICBjcmVkZW50aWFscy5wdXQoInMyMDUzNjRBRHNiIiwgImVNS1Q9MTIzNDU2N3NiIik7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzLnB1dCgicGJUVGltYmVyMiIsICJJbnRlcmZhY2U9MiIpOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnRzPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnQ+YXJndW1lbnQxPC9hcmd1bWVudD4KICAgICAgICAgICAgICAgICAgICA8L2FyZ3VtZW50cz4K</text>
