@@ -38,6 +38,9 @@
         <mark key="^" line="10" column="49" />
         <mark key="." line="10" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/TokenManager.java" timestamp="1540832173792">
+        <mark key="'" line="17" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/quartz-scheduler-utils/src/main/java/com/integ/scheduler/IntegQuartzDriver.java" timestamp="1511969869178">
         <mark key="[" line="72" column="74" />
         <mark key="]" line="72" column="81" />
@@ -99,9 +102,6 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/CalcEntry.java" timestamp="1539116666361">
-        <mark key="'" line="30" column="51" />
-      </file>
       <file name="$USER_HOME$/dev/pgadsanalytics/src/main/java/com/integ/pgads/auth/PasswordValidator.java" timestamp="1526337228393">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="17" />
@@ -162,6 +162,11 @@
         <mark key="^" line="44" column="67" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/pom.xml" timestamp="1540831975633">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="260" column="0" />
+        <mark key="]" line="260" column="50" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/broker/genhour/GenHourDataMock.java" timestamp="1521484463095">
         <mark key="[" line="68" column="28" />
         <mark key="]" line="68" column="30" />
@@ -220,12 +225,18 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/mktgateway/PjmWsUtil.java" timestamp="1540830808030">
-        <mark key="'" line="301" column="37" />
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="289" column="11" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/mktgateway/PjmWsUtil.java" timestamp="1540832559428">
+        <mark key="'" line="276" column="0" />
+        <mark key="[" line="314" column="0" />
+        <mark key="]" line="319" column="28" />
         <mark key="." line="258" column="78" />
         <mark key="^" line="258" column="78" />
+      </file>
+      <file name="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/auth/PjmSecurityToken.java" timestamp="1540831867945">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/spark/vcsRoots/SparkWebGit.kt" timestamp="1539016275455">
         <mark key="[" line="8" column="54" />
@@ -317,8 +328,8 @@
         <mark key="^" line="23" column="51" />
         <mark key="." line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" timestamp="1539107761159">
-        <mark key="'" line="36" column="51" />
+      <file name="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/auth/TokenManger.java" timestamp="1540831814130">
+        <mark key="[" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/broker/BrokerDataAccessTest.java" timestamp="1521488668316">
         <mark key="[" line="60" column="8" />
@@ -356,6 +367,7 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/emkt/api/core/IOUtils.java" timestamp="1540832204446" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9c2e22bf-bba9-4b0d-958f-e21caaadc9e0/console.sql" timestamp="1520865217288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="25" />
@@ -374,6 +386,7 @@
         <mark key="^" line="1" column="28" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/PJMAuthResponse.java" timestamp="1540831931797" />
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/IntegJobRunner.java" timestamp="1539616363740">
         <mark key="'" line="167" column="31" />
         <mark key="[" line="181" column="90" />
@@ -417,6 +430,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="52" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/pjm-405-query-debug/pom.xml" timestamp="1540832024354">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="106" column="16" />
+        <mark key="]" line="108" column="57" />
+        <mark key="." line="108" column="57" />
+        <mark key="^" line="108" column="57" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/test/java/com/integ/scheduler/SchedulerDataAccessTest.java" timestamp="1511885897414">
         <mark key="[" line="132" column="46" />
@@ -472,14 +492,6 @@
         <mark key="." line="23" column="67" />
         <mark key="^" line="23" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/resources/db-scripts/mock-load-data.sql" timestamp="1539633289078">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="103" column="3" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/hamcrest/java-hamcrest/2.0.0.0/java-hamcrest-2.0.0.0-sources.jar!/org/hamcrest/TypeSafeMatcher.java" timestamp="1539187635574">
-        <mark key="'" line="53" column="15" />
-      </file>
       <file name="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/VcsRoots.kt" timestamp="1539019642877">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="52" column="10" />
@@ -498,6 +510,17 @@
         <mark key="]" line="100" column="5" />
         <mark key="." line="100" column="5" />
         <mark key="^" line="100" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/debug.java" timestamp="1540831646300">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/auth/PjmAuthResponse.java" timestamp="1540831925882">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcMessageDef.java" timestamp="1533241399910">
         <mark key="[" line="15" column="16" />
@@ -554,12 +577,6 @@
         <mark key="^" line="41" column="28" />
         <mark key="." line="41" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/core/SparkUtil.java" timestamp="1539115173416">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/jcomplete/JCompleteGit.kt" timestamp="1539016245898">
         <mark key="[" line="8" column="54" />
         <mark key="]" line="9" column="27" />
@@ -583,9 +600,6 @@
         <mark key="]" line="13" column="19" />
         <mark key="^" line="13" column="19" />
         <mark key="." line="13" column="19" />
-      </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/DemandService.java" timestamp="1539634180038">
-        <mark key="'" line="100" column="19" />
       </file>
       <file name="$USER_HOME$/dev/jc-jdk8/pspk/props/aep-dev.xml" timestamp="1525892180421">
         <mark key="[" line="40" column="0" />
@@ -617,9 +631,6 @@
         <mark key="]" line="14" column="52" />
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CalcDataCollectorTest.java" timestamp="1539111204151">
-        <mark key="'" line="391" column="45" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/RoleAssignment.java" timestamp="1520538015432">
         <mark key="[" line="9" column="31" />
@@ -664,17 +675,18 @@
         <mark key="." line="25" column="50" />
         <mark key="^" line="25" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/auth/TokenManager.java" timestamp="1540832195427">
+        <mark key="'" line="218" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="174" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/JsonProvider.java" timestamp="1520265813896">
         <mark key="[" line="7" column="44" />
         <mark key="]" line="7" column="44" />
         <mark key="^" line="7" column="44" />
         <mark key="." line="7" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" timestamp="1539614775909">
-        <mark key="'" line="53" column="13" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="53" />
-        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/broker/vcsRoots/BrokerWebGit.kt" timestamp="1539016334033">
         <mark key="'" line="0" column="0" />
@@ -718,6 +730,9 @@
         <mark key="^" line="63" column="36" />
         <mark key="." line="63" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/PjmSecurityToken.java" timestamp="1540831883143">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/MessageCodes.java" timestamp="1533237189627">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="24" />
@@ -729,6 +744,12 @@
         <mark key="]" line="2" column="56" />
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" timestamp="1540832592968">
+        <mark key="[" line="43" column="87" />
+        <mark key="]" line="43" column="87" />
+        <mark key="." line="43" column="87" />
+        <mark key="^" line="43" column="86" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DailyLoadDef.java" timestamp="1527010457185">
         <mark key="[" line="27" column="20" />
@@ -792,20 +813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/VcsRoots.kt" />
-      <jump line="43" column="0" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/VcsRoots.kt" />
-      <jump line="29" column="34" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/IntegModules.kt" />
-      <jump line="41" column="45" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
-      <jump line="47" column="38" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
-      <jump line="35" column="19" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
-      <jump line="49" column="38" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
-      <jump line="38" column="38" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
-      <jump line="74" column="4" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
-      <jump line="24" column="42" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
-      <jump line="80" column="0" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
-      <jump line="52" column="13" filename="$USER_HOME$/dev/pbkr/auth/src/test/java/com/integ/core/auth/rest/AuthTest.java" />
       <jump line="72" column="38" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
       <jump line="55" column="29" filename="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/modules/lm/LegacyIntegrationModules.kt" />
@@ -892,10 +899,24 @@
       <jump line="30" column="22" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/pjm/UnitDetSubmitResProcessor.java" />
       <jump line="33" column="35" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/broker/pjm/UnitDetSubmitResProcessor.java" />
       <jump line="300" column="37" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/mktgateway/PjmWsUtil.java" />
+      <jump line="14" column="15" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/TokenManager.java" />
+      <jump line="193" column="0" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/auth/TokenManager.java" />
+      <jump line="11" column="15" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/PjmSecurityToken.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/PjmSecurityToken.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/auth/PjmSecurityToken.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/auth/PjmSecurityToken.java" />
+      <jump line="2" column="28" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/auth/PjmAuthResponse.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/auth/PjmAuthResponse.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/pom.xml" />
+      <jump line="89" column="0" filename="$USER_HOME$/dev/pjm-405-query-debug/pom.xml" />
+      <jump line="276" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/mktgateway/PjmWsUtil.java" />
+      <jump line="18" column="43" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/TokenManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/TokenManager.java" />
+      <jump line="17" column="50" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/TokenManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly88cGptOlF1ZXJ5UmVxdWVzdCB4bWxuczpwam09Imh0dHA6Ly9lbWt0LnBqbS5jb20vZW1rdC94bWwiPgovLzxwam06UXVlcnlBbGxTY2hlZHVsZURldGFpbFVwZGF0ZSBkYXk9IjIwMTgtMTAtMjUiPgovLzxwam06QWxsLz4K</text>
+      <register name="&quot;" type="4">
+        <text>https://marketsgatewaytrain.pjm.com/marketsgateway/xml/query</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -966,16 +987,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>https://marketsgatewaytrain.pjm.com/marketsgateway/xml/query</text>
       </register>
       <register name="/" type="4">
-        <text>initial</text>
+        <text>streamTo</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly88cGptOlF1ZXJ5UmVxdWVzdCB4bWxuczpwam09Imh0dHA6Ly9lbWt0LnBqbS5jb20vZW1rdC94bWwiPgovLzxwam06UXVlcnlBbGxTY2hlZHVsZURldGFpbFVwZGF0ZSBkYXk9IjIwMTgtMTAtMjUiPgovLzxwam06QWxsLz4K</text>
+      <register name="0" type="4">
+        <text>urlCon</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -984,28 +1005,28 @@
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cK</text>
+        <text encoding="base64">ICAgICAgICBVUkwgdXJsID0gbmV3IFVSTChxdWVyeVVybCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly88P3htbCB2ZXJzaW9uPSIxLjAiIGVuY29kaW5nPSJVVEYtOCI/PgovLzxlbnY6RW52ZWxvcGUgeG1sbnM6ZW52PSJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy9zb2FwL2VudmVsb3BlLyI+Ci8vPGVudjpIZWFkZXIvPgovLzxlbnY6Qm9keT4KLy88cGptOlF1ZXJ5UmVxdWVzdCB4bWxuczpwam09Imh0dHA6Ly9lbWt0LnBqbS5jb20vZW1rdC94bWwiPgovLzxwam06UXVlcnlBbGxTY2hlZHVsZURldGFpbFVwZGF0ZSBkYXk9IjIwMTgtMTAtMjUiPgovLzxwam06QWxsLz4KLy88L3BqbTpRdWVyeUFsbFNjaGVkdWxlRGV0YWlsVXBkYXRlPgovLzwvcGptOlF1ZXJ5UmVxdWVzdD4KLy88L2VudjpCb2R5PgovLzwvZW52OkVudmVsb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBVcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZih2YWx1ZXMuY29udGFpbnMoIjw/eG1sIikpIHsKCiAgICAgICAgfQo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPGVudjpFbnZlbG9wZSB4bWxuczplbnY9Imh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3NvYXAvZW52ZWxvcGUvIj4KPGVudjpIZWFkZXIvPgo8ZW52OkJvZHk+Cjxwam06UXVlcnlSZXF1ZXN0IHhtbG5zOnBqbT0iaHR0cDovL2Vta3QucGptLmNvbS9lbWt0L3htbCI+Cjxwam06UXVlcnlBbGxTY2hlZHVsZURldGFpbFVwZGF0ZSBkYXk9IjIwMTgtMTAtMjUiPgo8cGptOkFsbC8+CjwvcGptOlF1ZXJ5QWxsU2NoZWR1bGVEZXRhaWxVcGRhdGU+CjwvcGptOlF1ZXJ5UmVxdWVzdD4KPC9lbnY6Qm9keT4KPC9lbnY6RW52ZWxvcGU+ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1018,13 +1039,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXEK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaW50ZWcucGptLmVta3QuYXBpLmNvcmUuSU9VdGlscy5zdHJlYW1Ub0J5dGVBcnJheTsK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB2YWx1ZXMgPSBuZXcgU3RyaW5nKHJlcSk7CiAgICAgICAgICAgICAgICBpZih2YWx1ZXMuY29udGFpbnMoIjw/eG1sIikpIHsKCiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jaWVzPgo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
@@ -1034,9 +1055,9 @@
       </register>
     </registers>
     <search>
-      <last-search>initial</last-search>
+      <last-search>streamTo</last-search>
       <last-offset />
-      <last-pattern>initial</last-pattern>
+      <last-pattern>streamTo</last-pattern>
       <last-replace>orignal</last-replace>
       <last-substitute>legacy</last-substitute>
       <last-dir>1</last-dir>
@@ -1044,9 +1065,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVwYXJlSW1wb3J0TG9hZFJlcXVlc3RcPg==</entry>
-        <entry encoding="base64">XDxkYXRlXD4=</entry>
-        <entry>delete</entry>
         <entry>configure</entry>
         <entry>auth</entry>
         <entry>common</entry>
@@ -1064,6 +1082,9 @@
         <entry>logStart</entry>
         <entry encoding="base64">XDxyZWNvcmRTdGFydFw+</entry>
         <entry>initial</entry>
+        <entry>jackson</entry>
+        <entry>stream</entry>
+        <entry>streamTo</entry>
       </history-search>
       <history-cmd>
         <entry>kj;wa</entry>
@@ -1081,10 +1102,10 @@
         <entry>action Rerun</entry>
         <entry>w</entry>
         <entry>action CheckinProject</entry>
-        <entry>a</entry>
-        <entry>action ReformatCode</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action RenameElement</entry>
+        <entry>a</entry>
+        <entry>action ReformatCode</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
