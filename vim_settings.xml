@@ -42,9 +42,6 @@
         <mark key="^" line="10" column="49" />
         <mark key="." line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/TokenManager.java" timestamp="1540832173792">
-        <mark key="'" line="17" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/quartz-scheduler-utils/src/main/java/com/integ/scheduler/IntegQuartzDriver.java" timestamp="1511969869178">
         <mark key="[" line="72" column="74" />
         <mark key="]" line="72" column="81" />
@@ -392,6 +389,9 @@
         <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/emkt/api/core/IOUtils.java" timestamp="1540832204446" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/reg/repl-steam.solver" timestamp="1540931792620">
+        <mark key="'" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/resources/xml-snapshots/reglimit-case3.xml" timestamp="1540911542679" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9c2e22bf-bba9-4b0d-958f-e21caaadc9e0/console.sql" timestamp="1520865217288">
         <mark key="[" line="0" column="0" />
@@ -731,9 +731,6 @@
         <mark key="." line="63" column="36" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/resources/xml-snapshots/eng-case-tag.xml" timestamp="1540911555857" />
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/PjmSecurityToken.java" timestamp="1540831883143">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/MessageCodes.java" timestamp="1533237189627">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="24" />
@@ -815,7 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="11" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/TestCalcResultDef.java" />
       <jump line="6" column="12" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/TestCalcResultDef.java" />
       <jump line="7" column="12" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/TestCalcResultDef.java" />
       <jump line="12" column="7" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/TestCalcResultDef.java" />
@@ -915,6 +911,7 @@
       <jump line="154" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CostCalculator.java" />
       <jump line="376" column="25" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" />
       <jump line="32" column="55" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/reg/repl-steam.solver" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -992,7 +989,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleGVjdXRlQ2FsY3VsYXRpb25cPg==</text>
+        <text encoding="base64">XDxPYW5kTUNvc3RfT1RIRVJcPg==</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -1057,9 +1054,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleGVjdXRlQ2FsY3VsYXRpb25cPg==</last-search>
+      <last-search encoding="base64">XDxPYW5kTUNvc3RfT1RIRVJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleGVjdXRlQ2FsY3VsYXRpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxPYW5kTUNvc3RfT1RIRVJcPg==</last-pattern>
       <last-replace>orignal</last-replace>
       <last-substitute>legacy</last-substitute>
       <last-dir>1</last-dir>
@@ -1067,7 +1064,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stg</entry>
         <entry>dev</entry>
         <entry encoding="base64">XDxyZXRyaWV2ZURhdGFTb3VyY2VcPg==</entry>
         <entry>HOT</entry>
@@ -1087,6 +1083,7 @@
         <entry>bulder</entry>
         <entry>builder</entry>
         <entry encoding="base64">XDxleGVjdXRlQ2FsY3VsYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxPYW5kTUNvc3RfT1RIRVJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>kj;wa</entry>
