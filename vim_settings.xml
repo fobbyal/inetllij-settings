@@ -164,6 +164,7 @@
         <mark key="[" line="260" column="0" />
         <mark key="]" line="260" column="50" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/resources/xml-snapshots/eng-case-one.xml" timestamp="1540911561249" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/broker/genhour/GenHourDataMock.java" timestamp="1521484463095">
         <mark key="[" line="68" column="28" />
         <mark key="]" line="68" column="30" />
@@ -375,6 +376,7 @@
         <mark key="^" line="13" column="21" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/emkt/api/core/IOUtils.java" timestamp="1540832204446" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/resources/xml-snapshots/reglimit-case3.xml" timestamp="1540911542679" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9c2e22bf-bba9-4b0d-958f-e21caaadc9e0/console.sql" timestamp="1520865217288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="25" />
@@ -624,12 +626,6 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/emkt/api/core/SubmissionResponseProcessor.java" timestamp="1540304484761">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/LoadAnalysisInputDef.java" timestamp="1526927824379">
         <mark key="[" line="32" column="32" />
         <mark key="]" line="32" column="34" />
@@ -702,6 +698,7 @@
         <mark key="^" line="63" column="36" />
         <mark key="." line="63" column="36" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/resources/xml-snapshots/eng-case-tag.xml" timestamp="1540911555857" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/PjmSecurityToken.java" timestamp="1540831883143">
         <mark key="'" line="0" column="0" />
       </file>
@@ -717,12 +714,12 @@
         <mark key="." line="2" column="56" />
         <mark key="^" line="2" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" timestamp="1540847616230">
-        <mark key="'" line="114" column="11" />
-        <mark key="[" line="102" column="60" />
-        <mark key="]" line="102" column="61" />
-        <mark key="^" line="134" column="42" />
-        <mark key="." line="102" column="61" />
+      <file name="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" timestamp="1540911845471">
+        <mark key="'" line="138" column="11" />
+        <mark key="[" line="53" column="97" />
+        <mark key="]" line="53" column="98" />
+        <mark key="^" line="53" column="98" />
+        <mark key="." line="53" column="98" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DailyLoadDef.java" timestamp="1527010457185">
         <mark key="[" line="27" column="20" />
@@ -889,7 +886,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBjcmVkZW50aWFscy5wdXQoInMyMDUzNjRBRHNiIiwgImVNS1Q9MTIzNDU2N3NiIik7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzLnB1dCgicGJUVGltYmVyMiIsICJJbnRlcmZhY2U9MiIpOw==</text>
+        <text>4</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -960,7 +957,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>com.example.Main</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>streamTo</text>
@@ -968,29 +965,29 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICBjcmVkZW50aWFscy5wdXQoInMyMDUzNjRBRHNiIiwgImVNS1Q9MTIzNDU2N3NiIik7CiAgICAgICAgICAgIGNyZWRlbnRpYWxzLnB1dCgicGJUVGltYmVyMiIsICJJbnRlcmZhY2U9MiIpOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIjwvZW52OkJvZHk+XG4iICsKICAgICAgICAgICAgIjwvZW52OkVudmVsb3BlPiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnRzPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnQ+YXJndW1lbnQxPC9hcmd1bWVudD4KICAgICAgICAgICAgICAgICAgICA8L2FyZ3VtZW50cz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3lzdGVtUHJvcGVydGllcz4KICAgICAgICAgICAgICAgICAgICA8L3N5c3RlbVByb3BlcnRpZXM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnRzPgogICAgICAgICAgICAgICAgICAgICAgICA8YXJndW1lbnQ+YXJndW1lbnQxPC9hcmd1bWVudD4KICAgICAgICAgICAgICAgICAgICA8L2FyZ3VtZW50cz4K</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN5c3RlbVByb3BlcnR5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGtleT5teXByb3BlcnR5PC9rZXk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmFsdWU+bXl2YWx1ZTwvdmFsdWU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3lzdGVtUHJvcGVydHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3lzdGVtUHJvcGVydGllcz4KICAgICAgICAgICAgICAgICAgICA8L3N5c3RlbVByb3BlcnRpZXM+Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLi4uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHN5c3RlbVByb3BlcnR5PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGtleT5teXByb3BlcnR5PC9rZXk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dmFsdWU+bXl2YWx1ZTwvdmFsdWU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3lzdGVtUHJvcGVydHk+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLi4uCg==</text>
@@ -999,7 +996,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLi4uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RTZXQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT5jbGFzc3dvcmxkczpjbGFzc3dvcmxkczwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+anVuaXQ6anVuaXQ8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPmptb2NrOio8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPio6eG1sLWFwaXM8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPm9yZy5hcGFjaGUubWF2ZW46bGliOnRlc3RzPC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT5sb2c0ajpsb2c0ajpqYXI6PC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhjbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2FydGlmYWN0U2V0PgogICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLi4uCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1012,13 +1009,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RTZXQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT5jbGFzc3dvcmxkczpjbGFzc3dvcmxkczwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+anVuaXQ6anVuaXQ8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPmptb2NrOio8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPio6eG1sLWFwaXM8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPm9yZy5hcGFjaGUubWF2ZW46bGliOnRlc3RzPC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT5sb2c0ajpsb2c0ajpqYXI6PC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZXhjbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2FydGlmYWN0U2V0PgogICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
