@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1541783713103">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pgadsanalytics/src/main/java/com/integ/pgads/PGADSApp.java" timestamp="1526336755224">
         <mark key="[" line="80" column="41" />
         <mark key="]" line="80" column="41" />
@@ -592,6 +597,11 @@
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" timestamp="1540929337205">
         <mark key="'" line="32" column="55" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidPublishHistoryDef.java" timestamp="1541783671902">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/LoadDataSourceConfigDef.java" timestamp="1525201513060">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -785,6 +795,9 @@
         <mark key="^" line="32" column="34" />
         <mark key="." line="32" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/bid/immutables/BidPublishHistory.java" timestamp="1541783662731">
+        <mark key="'" line="502" column="51" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6a3e4ec8-4699-4d40-ab13-d4914cbbd542/console.sql" timestamp="1513199098775">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="24" />
@@ -882,8 +895,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="13" filename="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/IntegJobRunner.java" />
-      <jump line="52" column="42" filename="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/IntegJobRunner.java" />
       <jump line="179" column="12" filename="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/IntegJobRunner.java" />
       <jump line="167" column="31" filename="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/IntegJobRunner.java" />
       <jump line="128" column="26" filename="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/SchedulerDataAccess.java" />
@@ -982,10 +993,12 @@
       <jump line="18" column="36" filename="$USER_HOME$/dev/gads-4.0/pgads-api/src/main/java/com/integ/restful/pgads/PowerGADS.java" />
       <jump line="75" column="21" filename="$USER_HOME$/dev/gads-4.0/pgads-api/src/main/java/com/integ/restful/pgads/PowerGADS.java" />
       <jump line="26" column="53" filename="$USER_HOME$/dev/gads-4.0/pgads-api/src/main/java/com/integ/restful/pgads/JsonProvider.java" />
+      <jump line="148" column="71" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" />
+      <jump line="502" column="51" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/bid/immutables/BidPublishHistory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlcihKb2RhUGFyYW1ldGVyQ29udmVydGVyUHJvdmlkZXIuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaWRBZGRlcnMgYWRkZXIgPSBCaWRQcm9jZXNzb3IuZ2V0QWRkZXJzKGMsIGFkZGVycyk7Cg==</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1059,7 +1072,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>joda</text>
+        <text>published_bids</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -1068,34 +1081,34 @@
         <text encoding="base64">ICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPGlkPmFlcDwvaWQ+CiAgICAgICAgICAgIDxidWlsZD4KICAgICAgICAgICAgICAgIDxwbHVnaW5zPgogICAgICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXdhci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjMuMi4yPC92ZXJzaW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS0gaWdub3JlIHRoZSBsaXRlIGdhZHMgYXBpIC0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBhY2thZ2luZ0V4Y2x1ZGVzPldFQi1JTkYvY2xhc3Nlcy9jb20vaW50ZWcvcmVzdGZ1bC9wZ2Fkcy9Qb3dlckdBRFMuY2xhc3M8L3BhY2thZ2luZ0V4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgICAgICAgICA8L3BsdWdpbnM+CiAgICAgICAgICAgIDwvYnVpbGQ+CiAgICAgICAgPC9wcm9maWxlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RlcihKb2RhUGFyYW1ldGVyQ29udmVydGVyUHJvdmlkZXIuY2xhc3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCaWRBZGRlcnMgYWRkZXIgPSBCaWRQcm9jZXNzb3IuZ2V0QWRkZXJzKGMsIGFkZGVycyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcy5hZGQoImNvbS5pbnRlZy5yZXN0ZnVsLnBnYWRzLmFlcC5hcGkiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxCaWRBZGRlcnM+IGFkZGVycywK</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcy5hZGQoImNvbS5pbnRlZy5yZXN0ZnVsLnBnYWRzLmFlcC5hcGkiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5iaW5kKCJDVVJWRV9BRERFUl9UWVBFIiwgYWRkZXIuY3VydmVBZGRlclR5cGUoKS5vckVsc2UoIiIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJpbmQoIkNVUlZFX0FEREVSIiwgYWRkZXIuY3VydmVBZGRlcigpLm9yRWxzZShudWxsKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5iaW5kKCJOT19MT0FEX0FEREVSX1RZUEUiLCBhZGRlci5ub0xvYWRBZGRlclR5cGUoKS5vckVsc2UoIiIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJpbmQoIk5PX0xPQURfQURERVIiLCBhZGRlci5ub0xvYWRBZGRlcigpLm9yRWxzZShudWxsKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5iaW5kKCJTVEFSVF9BRERFUl9UWVBFIiwgYWRkZXIuc3RhcnRBZGRlclR5cGUoKS5vckVsc2UoIiIpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJpbmQoIlNUQVJUX0FEREVSIiwgYWRkZXIuc3RhcnRBZGRlcigpLm9yRWxzZShudWxsKSkK</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlcy5hZGQoImNvbS5pbnRlZy5yZXN0ZnVsLnBnYWRzLmF1dGgiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgI2N1cnZlX2FkZGVyX3R5cGV8c3RyaW5nIyxcbiIgKwogICAgICAgICAgICAgICAgIiAgICAjY3VydmVfYWRkZXJ8bnVtYmVyIyxcbiIgKwogICAgICAgICAgICAgICAgIiAgICAjbm9fbG9hZF9hZGRlcl90eXBlfHN0cmluZyMsXG4iICsKICAgICAgICAgICAgICAgICIgICAgI25vX2xvYWRfYWRkZXJ8bnVtYmVyIyxcbiIgKwogICAgICAgICAgICAgICAgIiAgICAjc3RhcnRfYWRkZXJfdHlwZXxzdHJpbmcjLFxuIiArCiAgICAgICAgICAgICAgICAiICAgICNzdGFydF9hZGRlcnxudW1iZXIjLFxuIiArCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIgICAgY3VydmVfYWRkZXJfdHlwZSxcbiIgKwogICAgICAgICAgICAgICAgIiAgICBjdXJ2ZV9hZGRlcixcbiIgKwogICAgICAgICAgICAgICAgIiAgICBub19sb2FkX2FkZGVyX3R5cGUsXG4iICsKICAgICAgICAgICAgICAgICIgICAgbm9fbG9hZF9hZGRlcixcbiIgKwogICAgICAgICAgICAgICAgIiAgICBzdGFydF9hZGRlcl90eXBlLFxuIiArCiAgICAgICAgICAgICAgICAiICAgIHN0YXJ0X2FkZGVyLFxuIiArCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZGVycyhiaWRBZGRlcnNSb3dFeHRyYWN0b3IuZXh0cmFjdEN1cnJlbnRSb3cocnMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndpdGhTY2hlZHVsZXIgPSB3aXRoU2NoZWR1bGVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1108,13 +1121,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQb3dlckdBRFMoKSB7CiAgICAgICAgdGhpcyh0cnVlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEJpZEFkZGVycyBhZGRlcnMoKTsK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWdpc3RlcihKb2RhUGFyYW1ldGVyQ29udmVydGVyUHJvdmlkZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
@@ -1124,9 +1137,9 @@
       </register>
     </registers>
     <search>
-      <last-search>joda</last-search>
+      <last-search>published_bids</last-search>
       <last-offset />
-      <last-pattern>joda</last-pattern>
+      <last-pattern>published_bids</last-pattern>
       <last-replace>orignal</last-replace>
       <last-substitute>legacy</last-substitute>
       <last-dir>1</last-dir>
@@ -1134,7 +1147,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logStart</entry>
         <entry encoding="base64">XDxyZWNvcmRTdGFydFw+</entry>
         <entry>initial</entry>
         <entry>stream</entry>
@@ -1154,6 +1166,7 @@
         <entry>Filter</entry>
         <entry>jackson</entry>
         <entry>joda</entry>
+        <entry>published_bids</entry>
       </history-search>
       <history-cmd>
         <entry>action CompileDirty</entry>
