@@ -95,12 +95,6 @@
         <mark key="^" line="44" column="67" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CostCalculator.java" timestamp="1540929897309">
-        <mark key="[" line="162" column="74" />
-        <mark key="]" line="163" column="7" />
-        <mark key="." line="163" column="7" />
-        <mark key="^" line="163" column="7" />
-      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/broker/genhour/GenHourDataMock.java" timestamp="1521484463095">
         <mark key="[" line="68" column="28" />
         <mark key="]" line="68" column="30" />
