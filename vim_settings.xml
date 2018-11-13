@@ -739,6 +739,9 @@
       <file name="$USER_HOME$/dev/gads-4.0/pgads-api/pom.xml" timestamp="1541547147757">
         <mark key="'" line="5" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" timestamp="1542125104340">
+        <mark key="'" line="193" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/LoadAnalysisInputDef.java" timestamp="1526927824379">
         <mark key="[" line="32" column="32" />
         <mark key="]" line="32" column="34" />
@@ -912,22 +915,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="50" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/auth/TokenManager.java" />
-      <jump line="258" column="17" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/pjm/mktgateway/PjmWsUtil.java" />
-      <jump line="67" column="32" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" />
-      <jump line="51" column="29" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" />
-      <jump line="16" column="4" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" />
-      <jump line="46" column="0" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" />
-      <jump line="122" column="33" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" />
-      <jump line="4" column="39" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/resources/logback-test.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/pbkr/pbkr-core/src/test/resources/logback-test.xml" />
-      <jump line="114" column="11" filename="$USER_HOME$/dev/pjm-405-query-debug/src/main/java/com/integ/pjm/Debug405.java" />
-      <jump line="145" column="23" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CostCalculator.java" />
-      <jump line="288" column="47" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CostCalculator.java" />
-      <jump line="21" column="17" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcDataSourceDef.java" />
-      <jump line="384" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcDataSourceDef.java" />
-      <jump line="286" column="43" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CostCalculator.java" />
       <jump line="154" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CostCalculator.java" />
       <jump line="376" column="25" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" />
       <jump line="32" column="55" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" />
@@ -1012,6 +999,22 @@
       <jump line="180" column="30" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishDataAccessTest.java" />
       <jump line="269" column="24" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
       <jump line="270" column="40" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="385" column="29" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="426" column="34" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="427" column="43" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="454" column="32" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="378" column="31" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="379" column="43" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="276" column="47" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="513" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="538" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="491" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="367" column="11" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="193" column="26" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1089,7 +1092,7 @@
         <text>bidStrategyEntries</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRlcnNcPg==</text>
+        <text encoding="base64">XDxzYXZlQmlkQWRkZXJzXD4=</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -1154,9 +1157,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRlcnNcPg==</last-search>
+      <last-search encoding="base64">XDxzYXZlQmlkQWRkZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRlcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlQmlkQWRkZXJzXD4=</last-pattern>
       <last-replace>orignal</last-replace>
       <last-substitute>legacy</last-substitute>
       <last-dir>1</last-dir>
@@ -1164,11 +1167,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxub0xvYWRzXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVzXD4=</entry>
-        <entry encoding="base64">XDxkYXRhTWFwXD4=</entry>
-        <entry>config</entry>
-        <entry>packaging</entry>
         <entry encoding="base64">XDxwYWNrYWdpbmdcPg==</entry>
         <entry encoding="base64">XDxBZXBQb3dlckdBRFNcPg==</entry>
         <entry>alive</entry>
@@ -1184,6 +1182,11 @@
         <entry encoding="base64">XDxjb3N0QmFzZWRcPg==</entry>
         <entry encoding="base64">XDxCaWRTdHJhdGVneUVudHJ5XD4=</entry>
         <entry encoding="base64">XDxhZGRlcnNcPg==</entry>
+        <entry>bidStrategy</entry>
+        <entry>strategy</entry>
+        <entry>bid-strategy</entry>
+        <entry>save</entry>
+        <entry encoding="base64">XDxzYXZlQmlkQWRkZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/d\\\\/\\/g</entry>
@@ -1235,7 +1238,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -1261,6 +1264,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
