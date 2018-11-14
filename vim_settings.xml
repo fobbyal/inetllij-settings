@@ -520,11 +520,12 @@
         <mark key="." line="27" column="41" />
         <mark key="^" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" timestamp="1542212972164">
-        <mark key="[" line="237" column="8" />
-        <mark key="]" line="238" column="7" />
-        <mark key="." line="238" column="7" />
-        <mark key="^" line="238" column="7" />
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" timestamp="1542214343364">
+        <mark key="'" line="221" column="0" />
+        <mark key="[" line="290" column="41" />
+        <mark key="]" line="290" column="53" />
+        <mark key="." line="290" column="53" />
+        <mark key="^" line="290" column="53" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1541799028334">
         <mark key="'" line="63" column="26" />
@@ -814,11 +815,11 @@
         <mark key="]" line="99" column="53" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542136286513">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1542214527137">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="40" />
+        <mark key="^" line="0" column="40" />
+        <mark key="." line="0" column="40" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/QuartzDriver.java" timestamp="1511892677076">
         <mark key="[" line="30" column="13" />
@@ -944,9 +945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/dev/gads-4.0/pgads-api/src/test/resources/application.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/gads-4.0/pgads-api/src/test/resources/application.conf" />
-      <jump line="24" column="0" filename="$USER_HOME$/dev/gads-4.0/pgads-core/src/test/resources/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gads-4.0/pgads-core/src/test/resources/application.conf" />
       <jump line="31" column="14" filename="$USER_HOME$/dev/gads-4.0/pgads-api/debug.conf" />
       <jump line="29" column="2" filename="$USER_HOME$/dev/gads-4.0/pgads-api/debug.conf" />
@@ -1044,10 +1042,13 @@
       <jump line="181" column="16" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
       <jump line="204" column="47" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
       <jump line="205" column="14" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
+      <jump line="223" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
+      <jump line="221" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNhdmVkU3RyYXRlZ3kuLCApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>different</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1118,46 +1119,46 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>strategy</text>
+        <text>different</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>load-point</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHJlc3AgPSB0YXJnZXQoImFlcC9jYWxjL2JpZC1zdHJhdGVneSIpCiAgICAgICAgICAgICAgICAucXVlcnlQYXJhbSgiZGF0ZSIsIGVmZmVjdGl2ZURhdGUpCiAgICAgICAgICAgICAgICAucXVlcnlQYXJhbSgidW5pdHMiLCAiODkwMTAxMDEiKQogICAgICAgICAgICAgICAgLnJlcXVlc3QoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04pCiAgICAgICAgICAgICAgICAuZ2V0KCk7CgogICAgICAgIExpc3Q8QmlkU3RyYXRlZ3lFbnRyeT4gc3RyYXRlZ3kgPSByZXNwLnJlYWRFbnRpdHkobmV3IEdlbmVyaWNUeXBlPExpc3Q8QmlkU3RyYXRlZ3lFbnRyeT4+KCkgewogICAgICAgIH0pOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJubyBzZWcgbXcgaXMgbm90IG1vZGlmaWVkIiwgbXdzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuYWxsTWF0Y2goZCAtPiBkLm1vZGlmaWNhdGlvbkluZm8oKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwKGkgLT4gbmV3IERhdGVUaW1lKGkubW9kRGF0ZSgpKS5pc0FmdGVyKHRlc3RTdGFydCkpLm9yRWxzZShmYWxzZSkKICAgICAgICAgICAgICAgICkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KHNhdmVkU3RyYXRlZ3kuLCApOwo=</text>
+        <text encoding="base64">a2tra2tra2trawo=</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChpIC0+IG5ldyBEYXRlVGltZShpLm1vZERhdGUoKSkuaXNBZnRlcihub3cpKS5vckVsc2UoZmFsc2UpCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZC5tb2RpZmljYXRpb25JbmZvKCkKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChpIC0+IG5ldyBEYXRlVGltZShpLm1vZERhdGUoKSkuaXNBZnRlcih0ZXN0U3RhcnQpKS5vckVsc2UoZmFsc2Up</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRSCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gdGFyZ2V0KCJhZXAvY2FsYy9iaWQtc3RyYXRlZ3kiKQogICAgICAgICAgICAgICAgLnF1ZXJ5UGFyYW0oImRhdGUiLCBlZmZlY3RpdmVEYXRlKQogICAgICAgICAgICAgICAgLnJlcXVlc3QoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04pCiAgICAgICAgICAgICAgICAucG9zdChFbnRpdHkuZW50aXR5KHN0cmF0ZWd5LCBBUFBMSUNBVElPTl9KU09OX1RZUEUpKTsK</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5xdWVyeVBhcmFtKCJ1bml0cyIsICI4OTAxMDEwMSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJhZGRlciBpcyBzZXQgcHJvcGVybHkiLCApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0QmlkU3RyYXRlZ3koKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJubyBzZWcgbXcgaXMgbm90IG1vZGlmaWVkIiwgbXdzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKHMgLT4gcykKICAgICAgICAgICAgICAgIC5ub25lTWF0Y2goZCAtPiBkLm1vZGlmaWNhdGlvbkluZm8oKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwKGkgLT4gbmV3IERhdGVUaW1lKGkubW9kRGF0ZSgpKS5pc0FmdGVyKHRlc3RTdGFydCkpLm9yRWxzZShmYWxzZSkKICAgICAgICAgICAgICAgICkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYXYK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1176,19 +1177,19 @@
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIGRhdGUgPSBsb2NhbERhdGUudG9Mb2NhbERhdGVUaW1lKExvY2FsVGltZS5NSUROSUdIVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYXZlZFN0cmF0ZWd5LnN0cmVhbSgpLm1hcChzICkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>load-point</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern>load-point</last-pattern>
       <last-replace>orignal</last-replace>
       <last-substitute>legacy</last-substitute>
       <last-dir>1</last-dir>
@@ -1196,8 +1197,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0Nvc3RCYXNlZFw+</entry>
-        <entry encoding="base64">XDxjb3N0QmFzZWRcPg==</entry>
         <entry encoding="base64">XDxCaWRTdHJhdGVneUVudHJ5XD4=</entry>
         <entry encoding="base64">XDxhZGRlcnNcPg==</entry>
         <entry>bidStrategy</entry>
@@ -1216,6 +1215,8 @@
         <entry>bid-stra</entry>
         <entry encoding="base64">XDx0ZXN0QmlkU3RyYXRlZ3lcPg==</entry>
         <entry>post</entry>
+        <entry>loadPoint</entry>
+        <entry>load-point</entry>
       </history-search>
       <history-cmd>
         <entry>%s/d\\\\/\\/g</entry>
@@ -1228,7 +1229,6 @@
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zL2xlZ2FjeS9vcmlnbmFsL2c=</entry>
         <entry>aw</entry>
-        <entry>action CheckinProject</entry>
         <entry>action Compile</entry>
         <entry>action Rerun</entry>
         <entry>action CompileDirty</entry>
@@ -1236,8 +1236,9 @@
         <entry>action IntroduceVariable</entry>
         <entry>action RenameElement</entry>
         <entry>a</entry>
-        <entry>wa</entry>
         <entry>action ReformatCode</entry>
+        <entry>wa</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
