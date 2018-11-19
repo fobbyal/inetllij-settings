@@ -611,9 +611,10 @@
         <mark key="^" line="39" column="39" />
         <mark key="." line="39" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/gads-4.0/pgads-api/src/main/config/weblogic.xml" timestamp="1541527398849">
+      <file name="$USER_HOME$/dev/gads-4.0/pgads-api/src/main/config/weblogic.xml" timestamp="1542644819707">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="23" column="18" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/test/resources/quartz.properties" timestamp="1511899756330">
@@ -945,8 +946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/gads-4.0/pgads-core/src/test/resources/application.conf" />
-      <jump line="31" column="14" filename="$USER_HOME$/dev/gads-4.0/pgads-api/debug.conf" />
       <jump line="29" column="2" filename="$USER_HOME$/dev/gads-4.0/pgads-api/debug.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/gads-4.0/pgads-api/debug.conf" />
       <jump line="23" column="23" filename="$USER_HOME$/dev/gads-4.0/aep-gads-pi-api/pom.xml" />
@@ -1045,10 +1044,12 @@
       <jump line="223" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
       <jump line="211" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
       <jump line="221" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/AepCalcServiceTest.java" />
+      <jump line="5" column="32" filename="$USER_HOME$/dev/gads-4.0/pgads-api/src/main/config/weblogic.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/gads-4.0/pgads-api/src/main/config/weblogic.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>different</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHdlYmxvZ2ljLXdlYi1hcHAgeG1sbnM9Imh0dHA6Ly94bWxucy5vcmFjbGUuY29tL3dlYmxvZ2ljL3dlYmxvZ2ljLXdlYi1hcHAiPgo8Y29udGFpbmVyLWRlc2NyaXB0b3I+CiAgICA8cHJlZmVyLXdlYi1pbmYtY2xhc3Nlcz5mYWxzZTwvcHJlZmVyLXdlYi1pbmYtY2xhc3Nlcz4KCiAgICA8IS0tIGh0dHA6Ly93d3cudG9yc3Rlbi1ob3JuLmRlL3RlY2hkb2NzL2plZS1vcmFjbGV3ZWJsb2dpYy5odG0gLS0+CiAgICA8cHJlZmVyLWFwcGxpY2F0aW9uLXBhY2thZ2VzPgogICAgICAgIDxwYWNrYWdlLW5hbWU+Y2gucW9zLmxvZ2JhY2suKjwvcGFja2FnZS1uYW1lPgogICAgICAgIDxwYWNrYWdlLW5hbWU+b3JnLnNsZjRqLio8L3BhY2thZ2UtbmFtZT4KICAgICAgICA8cGFja2FnZS1uYW1lPmNvbS5mYXN0ZXJ4bWwuamFja3Nvbi4qPC9wYWNrYWdlLW5hbWU+CiAgICAgICAgPHBhY2thZ2UtbmFtZT5vcmcuam9kYS4qPC9wYWNrYWdlLW5hbWU+CiAgICAgICAgPHBhY2thZ2UtbmFtZT5vcmcuYXBhY2hlLmh0dHAuKjwvcGFja2FnZS1uYW1lPgogICAgPC9wcmVmZXItYXBwbGljYXRpb24tcGFja2FnZXM+CgoKICAgIDwhLS0gaWYgbm90IHVzaW5nIHByZWZlci1hcHBsaWNhdGlvbi1yZXNvdXJjZXMgeW91IHdpbGwgZ2V0IGEgd2FybmluZyBsaWtlIHRoaXM6IC0tPgogICAgPCEtLSBDbGFzcyBwYXRoIGNvbnRhaW5zIG11bHRpcGxlIFNMRjRKIGJpbmRpbmdzIC0tPgogICAgPCEtLSBTTEY0SjogRm91bmQgYmluZGluZyBpbiBbamFyOmZpbGU6L0M6L3dsczEyMTEvbW9kdWxlcy9vcmcuc2xmNGouamRrMTRfMS42LjEuMC5qYXIhL29yZy9zbGY0ai9pbXBsL1N0YXRpY0xvZ2dlckJpbmRlci5jbGFzc10gLS0+CiAgICA8cHJlZmVyLWFwcGxpY2F0aW9uLXJlc291cmNlcz4KICAgICAgICA8cmVzb3VyY2UtbmFtZT5vcmcvc2xmNGovaW1wbC9TdGF0aWNMb2dnZXJCaW5kZXIuY2xhc3M8L3Jlc291cmNlLW5hbWU+CiAgICAgICAgPHJlc291cmNlLW5hbWU+bG9nYmFjay54bWw8L3Jlc291cmNlLW5hbWU+CiAgICA8L3ByZWZlci1hcHBsaWNhdGlvbi1yZXNvdXJjZXM+CjwvY29udGFpbmVyLWRlc2NyaXB0b3I+Cjwvd2VibG9naWMtd2ViLWFwcD4K</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
