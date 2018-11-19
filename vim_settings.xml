@@ -574,6 +574,11 @@
       <file name="$USER_HOME$/dev/gads-4.0/pgads-api/src/main/java/com/integ/restful/pgads/JsonProvider.java" timestamp="1541547519074">
         <mark key="'" line="26" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/aps/aps-unit-avail/src/test/java/com/integ/AliveTest.java" timestamp="1542645577988">
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="." line="237" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/gads40/vcsRoots/AepGadsUIGit.kt" timestamp="1539016197427">
         <mark key="[" line="8" column="57" />
         <mark key="]" line="9" column="27" />
@@ -603,6 +608,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/aps/aps-unit-avail/debug.conf" timestamp="1542645591456">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="^" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcMessageDef.java" timestamp="1533241399910">
         <mark key="[" line="15" column="16" />
@@ -1053,8 +1064,8 @@
       <jump line="321" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPnBsLnByb2plY3QxMy5tYXZlbjwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPmdpdC1jb21taXQtaWQtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+Mi4yLjI8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5yZXZpc2lvbjwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxwcmVmaXg+Z2l0PC9wcmVmaXg+CiAgICAgICAgICAgICAgICAgICAgPGRvdEdpdERpcmVjdG9yeT4ke3Byb2plY3QuYmFzZWRpcn0vLmdpdDwvZG90R2l0RGlyZWN0b3J5PgogICAgICAgICAgICAgICAgICAgIDxpbmplY3RBbGxSZWFjdG9yUHJvamVjdHM+dHJ1ZTwvaW5qZWN0QWxsUmVhY3RvclByb2plY3RzPgogICAgICAgICAgICAgICAgICAgIDxnZW5lcmF0ZUdpdFByb3BlcnRpZXNGaWxlPnRydWU8L2dlbmVyYXRlR2l0UHJvcGVydGllc0ZpbGU+CiAgICAgICAgICAgICAgICAgICAgPGdlbmVyYXRlR2l0UHJvcGVydGllc0ZpbGVuYW1lPnRhcmdldC9jbGFzc2VzL2dpdC5wcm9wZXJ0aWVzPC9nZW5lcmF0ZUdpdFByb3BlcnRpZXNGaWxlbmFtZT4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>REST_SEED</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1125,7 +1136,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>different</text>
+        <text>REST_SEED</text>
       </register>
       <register name="/" type="4">
         <text>quartz</text>
@@ -1137,34 +1148,34 @@
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJubyBzZWcgbXcgaXMgbm90IG1vZGlmaWVkIiwgbXdzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuYWxsTWF0Y2goZCAtPiBkLm1vZGlmaWNhdGlvbkluZm8oKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwKGkgLT4gbmV3IERhdGVUaW1lKGkubW9kRGF0ZSgpKS5pc0FmdGVyKHRlc3RTdGFydCkpLm9yRWxzZShmYWxzZSkKICAgICAgICAgICAgICAgICkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2tra2tra2trawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZC5tb2RpZmljYXRpb25JbmZvKCkKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChpIC0+IG5ldyBEYXRlVGltZShpLm1vZERhdGUoKSkuaXNBZnRlcih0ZXN0U3RhcnQpKS5vckVsc2UoZmFsc2Up</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBMaXN0IGxpc3RVc2VycygpIHsKICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIHZvaWQgY3JlYXRlVXNlcihVc2VyIHVzZXIpIHsKCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwID0gdGFyZ2V0KCJhZXAvY2FsYy9iaWQtc3RyYXRlZ3kiKQogICAgICAgICAgICAgICAgLnF1ZXJ5UGFyYW0oImRhdGUiLCBlZmZlY3RpdmVEYXRlKQogICAgICAgICAgICAgICAgLnJlcXVlc3QoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04pCiAgICAgICAgICAgICAgICAucG9zdChFbnRpdHkuZW50aXR5KHN0cmF0ZWd5LCBBUFBMSUNBVElPTl9KU09OX1RZUEUpKTsK</text>
+        <text encoding="base64">a2tra2tra2trawo=</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJhZGRlciBpcyBzZXQgcHJvcGVybHkiLCApOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ZC5tb2RpZmljYXRpb25JbmZvKCkKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcChpIC0+IG5ldyBEYXRlVGltZShpLm1vZERhdGUoKSkuaXNBZnRlcih0ZXN0U3RhcnQpKS5vckVsc2UoZmFsc2Up</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwID0gdGFyZ2V0KCJhZXAvY2FsYy9iaWQtc3RyYXRlZ3kiKQogICAgICAgICAgICAgICAgLnF1ZXJ5UGFyYW0oImRhdGUiLCBlZmZlY3RpdmVEYXRlKQogICAgICAgICAgICAgICAgLnJlcXVlc3QoTWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT04pCiAgICAgICAgICAgICAgICAucG9zdChFbnRpdHkuZW50aXR5KHN0cmF0ZWd5LCBBUFBMSUNBVElPTl9KU09OX1RZUEUpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJubyBzZWcgbXcgaXMgbm90IG1vZGlmaWVkIiwgbXdzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKHMgLT4gcykKICAgICAgICAgICAgICAgIC5ub25lTWF0Y2goZCAtPiBkLm1vZGlmaWNhdGlvbkluZm8oKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwKGkgLT4gbmV3IERhdGVUaW1lKGkubW9kRGF0ZSgpKS5pc0FmdGVyKHRlc3RTdGFydCkpLm9yRWxzZShmYWxzZSkKICAgICAgICAgICAgICAgICkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJhZGRlciBpcyBzZXQgcHJvcGVybHkiLCApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzYXYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1177,19 +1188,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJubyBzZWcgbXcgaXMgbm90IG1vZGlmaWVkIiwgbXdzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAuZmlsdGVyKHMgLT4gcykKICAgICAgICAgICAgICAgIC5ub25lTWF0Y2goZCAtPiBkLm1vZGlmaWNhdGlvbkluZm8oKQogICAgICAgICAgICAgICAgICAgICAgICAubWFwKGkgLT4gbmV3IERhdGVUaW1lKGkubW9kRGF0ZSgpKS5pc0FmdGVyKHRlc3RTdGFydCkpLm9yRWxzZShmYWxzZSkKICAgICAgICAgICAgICAgICkpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlZFN0cmF0ZWd5LnN0cmVhbSgpLm1hcChzICkK</text>
+        <text encoding="base64">ICAgICAgICBzYXYK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1242,9 +1253,9 @@
         <entry>action RenameElement</entry>
         <entry>a</entry>
         <entry>action ReformatCode</entry>
-        <entry>wa</entry>
         <entry>action CheckinProject</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
