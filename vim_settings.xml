@@ -349,11 +349,11 @@
         <mark key="^" line="7" column="44" />
         <mark key="." line="7" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542214527137">
-        <mark key="[" line="0" column="41" />
-        <mark key="]" line="0" column="40" />
-        <mark key="^" line="0" column="40" />
-        <mark key="." line="0" column="40" />
+      <file name="/Dummy.txt" timestamp="1543873489532">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="49" />
+        <mark key="^" line="0" column="49" />
+        <mark key="." line="0" column="49" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/auth/UserRoleTest.java" timestamp="1520547883273">
         <mark key="[" line="63" column="35" />
@@ -1084,7 +1084,7 @@ pu</text>
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -1131,7 +1131,6 @@ pu</text>
         <entry>aw</entry>
         <entry>action CompileDirty</entry>
         <entry>a</entry>
-        <entry>action CheckinProject</entry>
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz4lcy9SRVNUX1NFRUQvUE1HUi9n</entry>
         <entry>action IntroduceVariable</entry>
@@ -1140,6 +1139,7 @@ pu</text>
         <entry>action Rerun</entry>
         <entry>action Compile</entry>
         <entry>wa</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
