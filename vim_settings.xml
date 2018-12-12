@@ -317,6 +317,12 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1544641969906">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/immutables/ScheduleJobInfoDef.java" timestamp="1512486320783">
         <mark key="[" line="39" column="27" />
         <mark key="]" line="39" column="39" />
@@ -378,6 +384,7 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/LegacyUtils.java" timestamp="1544641908494" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/auth/UserRoleTest.java" timestamp="1520547883273">
         <mark key="[" line="63" column="35" />
         <mark key="]" line="63" column="36" />
@@ -435,6 +442,7 @@
         <mark key="." line="30" column="19" />
       </file>
       <file name="$USER_HOME$/dev/aps/guice-test/src/main/java/com/integ/guice/AppServletContextListener.java" timestamp="1542646976939" />
+      <file name="$USER_HOME$/dev/pbkr/jc-legacy-connector/src/main/java/com/integ/LegacyJCConnector.java" timestamp="1544641870339" />
       <file name="$USER_HOME$/dev/pbkr/data-miner2/src/main/java/com/integ/core/dataminer2/immutables/RTHourlyLMPRetDef.java" timestamp="1512669323981">
         <mark key="[" line="30" column="19" />
         <mark key="]" line="30" column="19" />
@@ -1030,8 +1038,8 @@
       <jump line="115" column="64" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DA</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJhc2VzZXJ2bGV0OiAicGJrci9jaGFubmVsU2VydmxldCIK</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1101,7 +1109,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DA</text>
+        <text>baseservlet</text>
       </register>
       <register name="/" type="4">
         <text>bid-configs</text>
@@ -1109,38 +1117,38 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text>canWrite</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJhc2VzZXJ2bGV0OiAicGJrci9jaGFubmVsU2VydmxldCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGJhc2VzZXJ2bGV0OiAicGJrci9jaGFubmVsU2VydmxldCIK</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGFIb3VybHlCdXR0b24uc2V0RW5hYmxlZChmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGFIb3VybHlCdXR0b24uc2V0RW5hYmxlZChmYWxzZSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGFIb3VybHlCdXR0b24uc2V0RW5hYmxlZChmYWxzZSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZWZmZWN0SG91ckNvbWJvLmdldFNlbGVjdGVkSXRlbSgpLmVxdWFscygxKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGFIb3VybHlCdXR0b24uc2V0RW5hYmxlZChmYWxzZSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FuV3JpdGUpIHsKICAgICAgICAgICAgaWYgKGVmZmVjdEhvdXJDb21iby5nZXRTZWxlY3RlZEl0ZW0oKS5lcXVhbHMoMSkpIHsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGRhSG91cmx5QnV0dG9uLnNldEVuYWJsZWQodHJ1ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZWZmZWN0SG91ckNvbWJvLmdldFNlbGVjdGVkSXRlbSgpLmVxdWFscygxKSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhSG91cmx5QnV0dG9uLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2FuV3JpdGUpIHsKICAgICAgICAgICAgaWYgKGVmZmVjdEhvdXJDb21iby5nZXRTZWxlY3RlZEl0ZW0oKS5lcXVhbHMoMSkpIHsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGRhSG91cmx5QnV0dG9uLnNldEVuYWJsZWQodHJ1ZSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhSG91cmx5QnV0dG9uLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1153,19 +1161,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTG9jYWxEYXRlVGltZS5wYXJzZShkYXRlU3RyaW5nKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTG9jYWxEYXRlVGltZS5wYXJzZShkYXRlU3RyaW5nKQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1219,8 +1227,8 @@
         <entry>action Rerun</entry>
         <entry>action Compile</entry>
         <entry>a</entry>
-        <entry>wa</entry>
         <entry>action CheckinProject</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
