@@ -398,12 +398,12 @@
         <mark key="." line="55" column="52" />
         <mark key="^" line="55" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" timestamp="1541797310064">
-        <mark key="'" line="122" column="63" />
-        <mark key="[" line="245" column="39" />
-        <mark key="]" line="245" column="43" />
-        <mark key="^" line="245" column="43" />
-        <mark key="." line="245" column="43" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" timestamp="1544798899855">
+        <mark key="'" line="124" column="63" />
+        <mark key="[" line="74" column="51" />
+        <mark key="]" line="74" column="52" />
+        <mark key="^" line="75" column="31" />
+        <mark key="." line="74" column="52" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DailyLoadDef.java" timestamp="1527010457185">
         <mark key="[" line="27" column="20" />
@@ -1038,8 +1038,8 @@
       <jump line="115" column="64" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJhc2VzZXJ2bGV0OiAicGJrci9jaGFubmVsU2VydmxldCIK</text>
+      <register name="&quot;" type="4">
+        <text>equalsIgnoreCase</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1117,8 +1117,8 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhc2VzZXJ2bGV0OiAicGJrci9jaGFubmVsU2VydmxldCIK</text>
+      <register name="0" type="4">
+        <text>equalsIgnoreCase</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJhc2VzZXJ2bGV0OiAicGJrci9jaGFubmVsU2VydmxldCIK</text>
