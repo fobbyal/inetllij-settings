@@ -60,6 +60,7 @@
         <mark key="." line="34" column="53" />
         <mark key="^" line="34" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/common/DetailToRestfulResponse.java" timestamp="1545080797014" />
       <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/model/PasswordResetRequestDef.java" timestamp="1532372165671">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="20" />
@@ -162,6 +163,10 @@
         <mark key="]" line="55" column="23" />
         <mark key="." line="55" column="23" />
         <mark key="^" line="55" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/JsonProvider.java" timestamp="1542653623432">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="34" column="74" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/immutables/SchedulerKeyDef.java" timestamp="1512662400017">
         <mark key="[" line="8" column="47" />
@@ -317,7 +322,12 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1544641969906" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1545080380060">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="22" />
+        <mark key="." line="32" column="4" />
+        <mark key="^" line="31" column="70" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/immutables/ScheduleJobInfoDef.java" timestamp="1512486320783">
         <mark key="[" line="39" column="27" />
         <mark key="]" line="39" column="39" />
@@ -379,12 +389,19 @@
         <mark key="^" line="0" column="49" />
         <mark key="." line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/LegacyUtils.java" timestamp="1544641908494" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/LegacyUtils.java" timestamp="1545080377172">
+        <mark key="[" line="16" column="78" />
+        <mark key="]" line="16" column="95" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/auth/UserRoleTest.java" timestamp="1520547883273">
         <mark key="[" line="63" column="35" />
         <mark key="]" line="63" column="36" />
         <mark key="^" line="63" column="36" />
         <mark key="." line="63" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/java/com/integ/aps/ua/api/Alive.java" timestamp="1542653925630">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="43" column="5" />
       </file>
       <file name="$USER_HOME$/dev/aps/aps-unit-avail-api/src/test/java/com/integ/aps/ua/api/UnitAvailTest.java" timestamp="1543424864443">
         <mark key="'" line="26" column="63" />
@@ -633,6 +650,10 @@
         <mark key="]" line="140" column="1" />
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/aps/aps-unit-avail-api/src/test/java/com/integ/aps/ua/AliveTest.java" timestamp="1542654920377">
+        <mark key="[" line="103" column="44" />
+        <mark key="]" line="103" column="69" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/example/StandaloneStarter.java" timestamp="1511899451363">
         <mark key="[" line="11" column="43" />
@@ -1034,7 +1055,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>equalsIgnoreCase</text>
+        <text>channelServletPath</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1104,7 +1125,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>baseservlet</text>
+        <text>pbkrportal</text>
       </register>
       <register name="/" type="4">
         <text>bid-configs</text>
@@ -1113,7 +1134,7 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="4">
-        <text>equalsIgnoreCase</text>
+        <text>channelServletPath</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJhc2VzZXJ2bGV0OiAicGJrci9jaGFubmVsU2VydmxldCIK</text>
@@ -1217,12 +1238,12 @@
         <entry>action RenameElement</entry>
         <entry encoding="base64">JzwsJz4lcy9SRVNUX1NFRUQvUE1HUi9n</entry>
         <entry>action IntroduceVariable</entry>
-        <entry>w</entry>
         <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
         <entry>action Compile</entry>
         <entry>a</entry>
         <entry>action CheckinProject</entry>
+        <entry>w</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
