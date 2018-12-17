@@ -322,11 +322,11 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1545080380060">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="32" column="22" />
-        <mark key="." line="32" column="4" />
-        <mark key="^" line="31" column="70" />
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1545082365005">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="29" />
+        <mark key="." line="31" column="29" />
+        <mark key="^" line="31" column="29" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/immutables/ScheduleJobInfoDef.java" timestamp="1512486320783">
         <mark key="[" line="39" column="27" />
@@ -334,6 +334,7 @@
         <mark key="^" line="39" column="39" />
         <mark key="." line="39" column="39" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/integ/jcomplete/jdk8-SNAPSHOT/jcomplete-jdk8-SNAPSHOT.jar!/com/integ/jcomplete/secure/BasicScreenDao.class" timestamp="1545082422477" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/db/pending-update/legacy-migration-1/run.sql" timestamp="1526412596938">
         <mark key="[" line="80" column="72" />
         <mark key="]" line="166" column="0" />
@@ -1055,7 +1056,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>channelServletPath</text>
+        <text>172.17.0.4</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1125,7 +1126,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pbkrportal</text>
+        <text>172.17.0.4</text>
       </register>
       <register name="/" type="4">
         <text>bid-configs</text>
