@@ -774,12 +774,12 @@
         <mark key="^" line="30" column="24" />
         <mark key="." line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/db-util/src/test/java/com/integ/db/query/ConditionClauseTest.java" timestamp="1547654777221">
+      <file name="$USER_HOME$/dev/pbkr/db-util/src/test/java/com/integ/db/query/ConditionClauseTest.java" timestamp="1547655618088">
         <mark key="'" line="10" column="21" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="53" column="20" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="66" column="87" />
+        <mark key="]" line="66" column="95" />
+        <mark key="^" line="66" column="95" />
+        <mark key="." line="66" column="95" />
       </file>
       <file name="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcRequestDef.java" timestamp="1530840651205">
         <mark key="[" line="5" column="21" />
@@ -991,8 +991,8 @@
       <jump line="9" column="21" filename="$USER_HOME$/dev/pbkr/db-util/src/test/java/com/integ/db/query/ConditionClauseTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;String0&quot;,&quot;AM&quot;</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1062,7 +1062,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>bcl.toSql()</text>
+        <text>&quot;String0&quot;,&quot;AM&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Mat</text>
@@ -1071,37 +1071,37 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="4">
-        <text>effectivedate</text>
+        <text>partialSql</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImdvdCByZXN1bHQge30gIiwgKTsK</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJjb25kaXRpb25hbCBjbGF1c2Ugc2hvdWxkIGJ1aWxkIHByb3Blcmx5IiwgYnVpbHQudG9TcWwoKSwgTWF0Y2hlcnMuZXF1YWxUbygidW5pdGlkID0gI1N0cmluZzAjIGFuZCAodW5pdGlkICBpcyBub3QgbnVsbCAgb3IgZWZmZWN0aXZlZGF0ZSA8ICNEYXRlMCMpIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2Fzc2VydFRoYXQoImluIHF1ZXJ5IHNob3VscyIpCg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJjb25kaXRpb25hbCBjbGF1c2Ugc2hvdWxkIGJ1aWxkIHByb3Blcmx5IiwgcGFyYW1WYWx1ZXMubWFwLCBNYXRjaGVycy5oYXNFbnRyeSgiRGF0ZTAiLGRhdGUpKTsK</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInt9IiwgYmNsLnRvU3FsKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuaGFtY3Jlc3QuTWF0Y2hlckFzc2VydC5hc3NlcnRUaGF0Owo=</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInt9IiwgY2wuYnVpbGQoKS50b1NxbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJjb25kaXRpb25hbCBjbGF1c2Ugc2hvdWxkIGJ1aWxkIHByb3Blcmx5IiwgYnVpbHQudG9TcWwoKSwgTWF0Y2hlcnMuZXF1YWxUbygidW5pdGlkID0gI1N0cmluZzAjIGFuZCAodW5pdGlkICBpcyBub3QgbnVsbCAgb3IgZWZmZWN0aXZlZGF0ZSA8ICNEYXRlMCMpIikpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1120,13 +1120,13 @@
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb25kaXRpb25DbGF1c2UuY2woKS5hcHBlbmQoQW5kT3IuYW5kLCAsICwgKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action IntroduceVariable</text>
       </register>
     </registers>
     <search>
@@ -1179,9 +1179,9 @@
         <entry>w</entry>
         <entry>a</entry>
         <entry>action ReformatCode</entry>
-        <entry>action IntroduceVariable</entry>
         <entry>action Rerun</entry>
         <entry>wa</entry>
+        <entry>action IntroduceVariable</entry>
       </history-cmd>
       <history-expr />
       <history-input />
