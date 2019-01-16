@@ -513,12 +513,12 @@
         <mark key="^" line="107" column="26" />
         <mark key="." line="107" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/query/InCondition.java" timestamp="1547653952210">
-        <mark key="'" line="46" column="26" />
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="22" column="3" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="3" />
+      <file name="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/query/InCondition.java" timestamp="1547659505786">
+        <mark key="'" line="88" column="12" />
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="10" />
+        <mark key="." line="65" column="10" />
+        <mark key="^" line="65" column="10" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/PlantHandlingCostDef.java" timestamp="1533049294953">
         <mark key="[" line="23" column="59" />
@@ -648,6 +648,7 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
+      <file name="/InCondition.java" timestamp="1547659234504" />
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/RestfulScheduleJobRunner.java" timestamp="1512667293604">
         <mark key="[" line="197" column="72" />
         <mark key="]" line="197" column="76" />
@@ -685,9 +686,9 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/query/SingleOperatorCondition.java" timestamp="1547653978071">
-        <mark key="[" line="17" column="3" />
-        <mark key="]" line="32" column="4" />
+      <file name="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/query/SingleOperatorCondition.java" timestamp="1547658790080">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="31" column="33" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/common/VersionTest.java" timestamp="1536247580606">
         <mark key="[" line="17" column="86" />
@@ -762,11 +763,11 @@
         <mark key="." line="96" column="81" />
         <mark key="^" line="96" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545254717364">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1547659560379">
+        <mark key="[" line="0" column="47" />
+        <mark key="]" line="0" column="60" />
+        <mark key="^" line="0" column="60" />
+        <mark key="." line="0" column="60" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/QuartzDriver.java" timestamp="1511892677076">
         <mark key="[" line="30" column="13" />
@@ -774,12 +775,12 @@
         <mark key="^" line="30" column="24" />
         <mark key="." line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/db-util/src/test/java/com/integ/db/query/ConditionClauseTest.java" timestamp="1547658323526">
-        <mark key="'" line="10" column="21" />
-        <mark key="[" line="66" column="158" />
-        <mark key="]" line="66" column="158" />
-        <mark key="^" line="66" column="138" />
-        <mark key="." line="66" column="158" />
+      <file name="$USER_HOME$/dev/pbkr/db-util/src/test/java/com/integ/db/query/ConditionClauseTest.java" timestamp="1547659437886">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="66" column="38" />
+        <mark key="]" line="66" column="53" />
+        <mark key="^" line="66" column="53" />
+        <mark key="." line="66" column="53" />
       </file>
       <file name="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcRequestDef.java" timestamp="1530840651205">
         <mark key="[" line="5" column="21" />
@@ -889,9 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="0" filename="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/db/setup.sql" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/db/setup.sql" />
-      <jump line="12" column="0" filename="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/db/setup.sql" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/db/setup.sql" />
       <jump line="5" column="16" filename="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/db/setup.sql" />
       <jump line="34" column="0" filename="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/db/setup.sql" />
@@ -989,10 +987,13 @@
       <jump line="41" column="26" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/query/InCondition.java" />
       <jump line="12" column="8" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/query/NotInCondition.java" />
       <jump line="9" column="21" filename="$USER_HOME$/dev/pbkr/db-util/src/test/java/com/integ/db/query/ConditionClauseTest.java" />
+      <jump line="52" column="21" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/query/InCondition.java" />
+      <jump line="65" column="10" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/query/InCondition.java" />
+      <jump line="88" column="12" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/query/InCondition.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXBkYXRlZCBtZXNzYWdlIGV4Y2VwdGlvbgo=</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1062,31 +1063,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
-        <text>Mat</text>
+        <text encoding="base64">XDx0b1ZhbHVlU3RyaW5nXD4=</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="4">
-        <text>,#String2#</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyBidWlsZFdpdGhQYXJhbXMoUGFyYW1WYWx1ZXMgcGFyYW1WYWx1ZXMpIHsKICAgICAgICBpZiAobGltaXQgPiAwICYmIHZhbHVlLnNpemUoKSA+IGxpbWl0KSB7CiAgICAgICAgICAgIFN0cmluZyBwYXJ0aWFsU3FsID0gTGlzdHMucGFydGl0aW9uKG5ldyBBcnJheUxpc3Q8Pih2YWx1ZSksIGxpbWl0KQogICAgICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgICAgIC5tYXAodiAtPiBidWlsZExpbWl0ZWRQYXJ0aWFsU3FsKHBhcmFtVmFsdWVzLCB2KSkKICAgICAgICAgICAgICAgICAgICAucmVkdWNlKCIiLCAoYSwgYikgLT4gYSArICIgb3IgIiArIGIpOwogICAgICAgICAgICByZXR1cm4gIigiICsgcGFydGlhbFNxbCArICIpIjsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gc3VwZXIuYnVpbGRXaXRoUGFyYW1zKHBhcmFtVmFsdWVzKTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIFN0cmluZyBidWlsZExpbWl0ZWRQYXJ0aWFsU3FsKFBhcmFtVmFsdWVzIHBhcmFtVmFsdWVzLCBDb2xsZWN0aW9uPFY+IHZhbHVlKSB7CiAgICAgICAgU3RyaW5nQnVpbGRlciBidWlsZGVyID0gbmV3IFN0cmluZ0J1aWxkZXIoKTsKICAgICAgICBidWlsZGVyLmFwcGVuZChjb2xOYW1lKS5hcHBlbmQoJyAnKTsKICAgICAgICBpZiAob3BlcmF0b3IgPT0gT3B0ci5pc051bGwpIHsKICAgICAgICAgICAgcmV0dXJuIGJ1aWxkZXIuYXBwZW5kKCIgaXMgbnVsbCAiKS50b1N0cmluZygpOwogICAgICAgIH0KICAgICAgICBpZiAob3BlcmF0b3IgPT0gT3B0ci5ub3ROdWxsKSB7CiAgICAgICAgICAgIHJldHVybiBidWlsZGVyLmFwcGVuZCgiIGlzIG5vdCBudWxsICIpLnRvU3RyaW5nKCk7CiAgICAgICAgfQogICAgICAgIGJ1aWxkZXIuYXBwZW5kKG9wZXJhdG9yLmdldE9wdHJTdHJpbmcoKSkuYXBwZW5kKCIgIik7CgogICAgICAgIGJ1aWxkZXIuYXBwZW5kKHRvTGltaXRlZFZhbHVlU3RyaW5nKHBhcmFtVmFsdWVzLCB2YWx1ZSkpOwoKICAgICAgICByZXR1cm4gYnVpbGRlci50b1N0cmluZygpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImdvdCByZXN1bHQge30gIiwgKTsK</text>
+        <text encoding="base64">dXBkYXRlZCBtZXNzYWdlIGV4Y2VwdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Fzc2VydFRoYXQoImluIHF1ZXJ5IHNob3VscyIpCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdmFycyA9IHZhbHVlLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAvL2luIHZhbHVlcyBtdXN0IG5vdCBiZSBudWxsCiAgICAgICAgICAgICAgICAuZmlsdGVyKHYgLT4gdiAhPSBudWxsKQogICAgICAgICAgICAgICAgLm1hcChwYXJhbVZhbHVlczo6YmluZFZhbHVlKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIFN0cmluZ0J1aWxkZXIgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgYnVpbGRlci5hcHBlbmQoJygnKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHZhcnMuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoIiMiKTsKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQodmFycy5nZXQoaSkpOwogICAgICAgICAgICBidWlsZGVyLmFwcGVuZCgiIyIpOwogICAgICAgICAgICBpZiAoaSAhPSB2YXJzLnNpemUoKSAtIDEpIHsKICAgICAgICAgICAgICAgIGJ1aWxkZXIuYXBwZW5kKCIsIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgYnVpbGRlci5hcHBlbmQoJyknKTsKICAgICAgICByZXR1cm4gYnVpbGRlci50b1N0cmluZygpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJjb25kaXRpb25hbCBjbGF1c2Ugc2hvdWxkIGJ1aWxkIHByb3Blcmx5IiwgcGFyYW1WYWx1ZXMubWFwLCBNYXRjaGVycy5oYXNFbnRyeSgiRGF0ZTAiLGRhdGUpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
@@ -1095,13 +1096,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoInt9IiwgYmNsLnRvU3FsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvTGltaXRlZFZhbHVlU3RyaW5nKHBhcmFtVmFsdWVzLCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuYnVpbGRXaXRoUGFyYW1zKHBhcmFtVmFsdWVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCJjb25kaXRpb25hbCBjbGF1c2Ugc2hvdWxkIGJ1aWxkIHByb3Blcmx5IiwgYnVpbHQudG9TcWwoKSwgTWF0Y2hlcnMuZXF1YWxUbygidW5pdGlkID0gI1N0cmluZzAjIGFuZCAodW5pdGlkICBpcyBub3QgbnVsbCAgb3IgZWZmZWN0aXZlZGF0ZSA8ICNEYXRlMCMpIikpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmIChsaW1pdCA+IDAgJiYgdmFsdWUuc2l6ZSgpID4gbGltaXQpIHsKLy8gICAgICAgIFN0cmluZyBwYXJ0aWFsU3FsID0gTGlzdHMucGFydGl0aW9uKG5ldyBBcnJheUxpc3Q8Pih2YWx1ZSksIGxpbWl0KQovLyAgICAgICAgICAgICAgICAuc3RyZWFtKCkKLy8gICAgICAgICAgICAgICAgLm1hcCh2IC0+IHRvTGltaXRlZFZhbHVlU3RyaW5nKHBhcmFtVmFsdWVzLCB2KSkKLy8gICAgICAgICAgICAgICAgLnJlZHVjZSgiIiwgKGEsIGIpIC0+IGEgKyAiIG9yICIgKyBiKTsKLy8gICAgICAgIHJldHVybiAiKCIgKyBwYXJ0aWFsU3FsICsgIikiOwovLyAgICB9IGVsc2UgewovLyAgICAgICAgcmV0dXJuIHRvTGltaXRlZFZhbHVlU3RyaW5nKHBhcmFtVmFsdWVzLCB2YWx1ZSk7Ci8vCi8vICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1114,25 +1115,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1hdGNoZXJzOwo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
-      <last-search>Mat</last-search>
+      <last-search encoding="base64">XDx0b1ZhbHVlU3RyaW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>Mat</last-pattern>
+      <last-pattern encoding="base64">XDx0b1ZhbHVlU3RyaW5nXD4=</last-pattern>
       <last-replace>PMGR</last-replace>
       <last-substitute>REST_SEED</last-substitute>
       <last-dir>1</last-dir>
@@ -1140,7 +1141,6 @@
     </search>
     <history>
       <history-search>
-        <entry>git</entry>
         <entry>quartz</entry>
         <entry>auth</entry>
         <entry encoding="base64">XDxpbml0RmlsZVw+</entry>
@@ -1160,6 +1160,7 @@
         <entry encoding="base64">XDxkZWZhdWx0V2lkdGhcPg==</entry>
         <entry>shade</entry>
         <entry>Mat</entry>
+        <entry encoding="base64">XDx0b1ZhbHVlU3RyaW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\\\\/\\/g</entry>
@@ -1174,14 +1175,14 @@
         <entry encoding="base64">JzwsJz4lcy9SRVNUX1NFRUQvUE1HUi9n</entry>
         <entry>action Compile</entry>
         <entry>action RenameElement</entry>
-        <entry>action CheckinProject</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>w</entry>
         <entry>a</entry>
-        <entry>action ReformatCode</entry>
-        <entry>action Rerun</entry>
+        <entry>w</entry>
         <entry>action IntroduceVariable</entry>
+        <entry>action ReformatCode</entry>
         <entry>wa</entry>
+        <entry>action Rerun</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
