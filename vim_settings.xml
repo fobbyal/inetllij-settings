@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1548697212200">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1548698053596">
         <mark key="'" line="48" column="34" />
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="28" />
-        <mark key="." line="40" column="28" />
-        <mark key="^" line="40" column="28" />
+        <mark key="[" line="42" column="83" />
+        <mark key="]" line="43" column="85" />
+        <mark key="." line="43" column="85" />
+        <mark key="^" line="43" column="85" />
       </file>
       <file name="$USER_HOME$/dev/pspk/auth/src/main/java/com/integ/core/auth/AuthToolsCli.java" timestamp="1545168552095">
         <mark key="[" line="67" column="54" />
@@ -731,12 +731,12 @@
         <mark key="." line="29" column="24" />
         <mark key="^" line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" timestamp="1548696964788">
-        <mark key="'" line="202" column="27" />
-        <mark key="[" line="294" column="42" />
-        <mark key="]" line="294" column="43" />
-        <mark key="^" line="294" column="43" />
-        <mark key="." line="202" column="61" />
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" timestamp="1548699037305">
+        <mark key="'" line="114" column="48" />
+        <mark key="[" line="127" column="27" />
+        <mark key="]" line="127" column="38" />
+        <mark key="." line="127" column="38" />
+        <mark key="^" line="127" column="38" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/LoadAnalysisInputDef.java" timestamp="1526927824379">
         <mark key="[" line="32" column="32" />
@@ -744,10 +744,10 @@
         <mark key="^" line="32" column="34" />
         <mark key="." line="32" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/UnitsService.java" timestamp="1545252607324">
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/UnitsService.java" timestamp="1548698945925">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="75" column="16" />
-        <mark key="]" line="75" column="16" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="86" />
         <mark key="." line="75" column="16" />
         <mark key="^" line="86" column="41" />
       </file>
@@ -908,7 +908,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/db/setup.sql" />
       <jump line="30" column="13" filename="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/java/com/integ/api/Alive.java" />
       <jump line="15" column="46" filename="$USER_HOME$/dev/pspk/common/pom.xml" />
       <jump line="16" column="33" filename="$USER_HOME$/dev/pspk/common/pom.xml" />
@@ -1008,10 +1007,11 @@
       <jump line="292" column="33" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
       <jump line="48" column="34" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" />
       <jump line="202" column="27" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
+      <jump line="112" column="48" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cl.and(&quot;market&quot;, market)</text>
+        <text>e</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1081,7 +1081,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>cl.and(&quot;market&quot;, market)</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCSURfUFVCTElTSF9DT05GSUdcPg==</text>
@@ -1090,37 +1090,37 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRzOiAke2RzLnBia3IuZGV2fQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcnVuRGEocHJvdmlkZXIuZHNJbmZvKCkucHNwa0RzKCksIEJyb2tlckRhdGFBY2Nlc3MucmV0cmlldmVVbml0KGRhdGUpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGkgYmlkSGlzdG9yaWVzOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihta3QuZXF1YWxzSWdub3JlQ2FzZSgiREEiKSkgCiAgICAgICAgICAgIHJldHVybiBkYUNvbmZpZ3M7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXBkYXRlZCBtZXNzYWdlIGV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdmFycyA9IHZhbHVlLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAvL2luIHZhbHVlcyBtdXN0IG5vdCBiZSBudWxsCiAgICAgICAgICAgICAgICAuZmlsdGVyKHYgLT4gdiAhPSBudWxsKQogICAgICAgICAgICAgICAgLm1hcChwYXJhbVZhbHVlczo6YmluZFZhbHVlKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIFN0cmluZ0J1aWxkZXIgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgYnVpbGRlci5hcHBlbmQoJygnKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHZhcnMuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoIiMiKTsKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQodmFycy5nZXQoaSkpOwogICAgICAgICAgICBidWlsZGVyLmFwcGVuZCgiIyIpOwogICAgICAgICAgICBpZiAoaSAhPSB2YXJzLnNpemUoKSAtIDEpIHsKICAgICAgICAgICAgICAgIGJ1aWxkZXIuYXBwZW5kKCIsIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgYnVpbGRlci5hcHBlbmQoJyknKTsKICAgICAgICByZXR1cm4gYnVpbGRlci50b1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGkgYmlkSGlzdG9yaWVzOwo=</text>
       </register>
       <register name="s" type="4">
         <text>(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXBkYXRlZCBtZXNzYWdlIGV4Y2VwdGlvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gdmFycyA9IHZhbHVlLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAvL2luIHZhbHVlcyBtdXN0IG5vdCBiZSBudWxsCiAgICAgICAgICAgICAgICAuZmlsdGVyKHYgLT4gdiAhPSBudWxsKQogICAgICAgICAgICAgICAgLm1hcChwYXJhbVZhbHVlczo6YmluZFZhbHVlKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CgogICAgICAgIFN0cmluZ0J1aWxkZXIgYnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CiAgICAgICAgYnVpbGRlci5hcHBlbmQoJygnKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHZhcnMuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQoIiMiKTsKICAgICAgICAgICAgYnVpbGRlci5hcHBlbmQodmFycy5nZXQoaSkpOwogICAgICAgICAgICBidWlsZGVyLmFwcGVuZCgiIyIpOwogICAgICAgICAgICBpZiAoaSAhPSB2YXJzLnNpemUoKSAtIDEpIHsKICAgICAgICAgICAgICAgIGJ1aWxkZXIuYXBwZW5kKCIsIik7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgYnVpbGRlci5hcHBlbmQoJyknKTsKICAgICAgICByZXR1cm4gYnVpbGRlci50b1N0cmluZygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvTGltaXRlZFZhbHVlU3RyaW5nKHBhcmFtVmFsdWVzLCB2YWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuYnVpbGRXaXRoUGFyYW1zKHBhcmFtVmFsdWVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1133,13 +1133,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChsaW1pdCA+IDAgJiYgdmFsdWUuc2l6ZSgpID4gbGltaXQpIHsKLy8gICAgICAgIFN0cmluZyBwYXJ0aWFsU3FsID0gTGlzdHMucGFydGl0aW9uKG5ldyBBcnJheUxpc3Q8Pih2YWx1ZSksIGxpbWl0KQovLyAgICAgICAgICAgICAgICAuc3RyZWFtKCkKLy8gICAgICAgICAgICAgICAgLm1hcCh2IC0+IHRvTGltaXRlZFZhbHVlU3RyaW5nKHBhcmFtVmFsdWVzLCB2KSkKLy8gICAgICAgICAgICAgICAgLnJlZHVjZSgiIiwgKGEsIGIpIC0+IGEgKyAiIG9yICIgKyBiKTsKLy8gICAgICAgIHJldHVybiAiKCIgKyBwYXJ0aWFsU3FsICsgIikiOwovLyAgICB9IGVsc2UgewovLyAgICAgICAgcmV0dXJuIHRvTGltaXRlZFZhbHVlU3RyaW5nKHBhcmFtVmFsdWVzLCB2YWx1ZSk7Ci8vCi8vICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRvTGltaXRlZFZhbHVlU3RyaW5nKHBhcmFtVmFsdWVzLCB2YWx1ZSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIuYnVpbGRXaXRoUGFyYW1zKHBhcmFtVmFsdWVzKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
@@ -1193,13 +1193,13 @@
         <entry>action IntroduceParameter</entry>
         <entry>a</entry>
         <entry>w</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
         <entry>action CheckinProject</entry>
         <entry>1152</entry>
         <entry>485</entry>
         <entry>action Compile</entry>
         <entry>action IntroduceVariable</entry>
+        <entry>action ReformatCode</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
