@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1548694825579">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1548697212200">
         <mark key="'" line="48" column="34" />
-        <mark key="[" line="354" column="42" />
-        <mark key="]" line="354" column="54" />
-        <mark key="." line="354" column="42" />
-        <mark key="^" line="354" column="63" />
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="28" />
+        <mark key="." line="40" column="28" />
+        <mark key="^" line="40" column="28" />
       </file>
       <file name="$USER_HOME$/dev/pspk/auth/src/main/java/com/integ/core/auth/AuthToolsCli.java" timestamp="1545168552095">
         <mark key="[" line="67" column="54" />
@@ -502,12 +502,6 @@
         <mark key="." line="27" column="41" />
         <mark key="^" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1548694593795">
-        <mark key="[" line="41" column="13" />
-        <mark key="]" line="41" column="16" />
-        <mark key="^" line="41" column="16" />
-        <mark key="." line="41" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcFormulaDef.java" timestamp="1535396987233">
         <mark key="[" line="47" column="18" />
         <mark key="]" line="48" column="14" />
@@ -737,7 +731,7 @@
         <mark key="." line="29" column="24" />
         <mark key="^" line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" timestamp="1548694857389">
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" timestamp="1548696964788">
         <mark key="'" line="202" column="27" />
         <mark key="[" line="294" column="42" />
         <mark key="]" line="294" column="43" />
@@ -1017,7 +1011,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pbkr</text>
+        <text>cl.and(&quot;market&quot;, market)</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1087,7 +1081,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pbkr</text>
+        <text>cl.and(&quot;market&quot;, market)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCSURfUFVCTElTSF9DT05GSUdcPg==</text>
