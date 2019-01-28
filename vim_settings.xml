@@ -503,11 +503,11 @@
         <mark key="." line="27" column="41" />
         <mark key="^" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1548701708463">
-        <mark key="[" line="41" column="18" />
-        <mark key="]" line="41" column="20" />
-        <mark key="^" line="41" column="20" />
-        <mark key="." line="41" column="20" />
+      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1548706535476">
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="^" line="41" column="5" />
+        <mark key="." line="35" column="4" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidPublishConfigDef.java" timestamp="1548701627789">
         <mark key="'" line="54" column="0" />
@@ -1020,8 +1020,8 @@
       <jump line="54" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidPublishConfigDef.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgICBjbGllbnQgdXNlcyBIU0hlYXRDb3N0MSAsIFN3aXRjaGluZ0hlYXRDb3N0MSBhbmQgSGFuZGxpbmdIZWF0Q29zdDEgdG8gb3ZlcnJpZGUgZGF0YQogICAgICAgICBsb2dpYyBhcmUgYXMgZm9sbG93cwogICAgICAgICAxLiBIU0hlYXRDb3N0MSxTd2l0Y2hpbmdIZWF0Q29zdDEsSGFuZGxpbmdIZWF0Q29zdDEgcmVwbGFjZXMgY29ycmVzcG9uZGluZyB2YWx1ZXMKICAgICAgICAgMi4gRnVlbENvc3QxIGhhcyBubyBlZmZlY3QKICAgICAgICAgKi8K</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="d" type="2">
         <text encoding="base64">QmxvY2tOb0xvYWRDYXAgPSBOb0xvYWRDYXAK</text>
@@ -1091,7 +1091,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>docker</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCSURfUFVCTElTSF9DT05GSUdcPg==</text>
