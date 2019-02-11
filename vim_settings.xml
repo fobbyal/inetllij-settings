@@ -164,6 +164,9 @@
         <mark key="^" line="7" column="26" />
         <mark key="." line="7" column="26" />
       </file>
+      <file name="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/mitg-ct.solver" timestamp="1549903706020">
+        <mark key="'" line="11" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/example/src/main/java/com/integ/scheduler/example/api/ScheduledTasks.java" timestamp="1511904648797">
         <mark key="[" line="23" column="42" />
         <mark key="]" line="23" column="56" />
@@ -176,6 +179,12 @@
         <mark key="." line="35" column="52" />
         <mark key="^" line="35" column="52" />
       </file>
+      <file name="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/mitg-steam.solver" timestamp="1549903720682">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="45" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/data-miner2/src/main/java/com/integ/core/dataminer2/api/HourlyMeteredLoadApi.java" timestamp="1521485791869">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
@@ -187,6 +196,10 @@
         <mark key="]" line="50" column="59" />
         <mark key="^" line="50" column="59" />
         <mark key="." line="50" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/EmissionApi.java" timestamp="1545252476859">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/data-miner2/src/main/java/com/integ/core/dataminer2/api/HourlyEstimatedLoadApi.java" timestamp="1512664012239">
         <mark key="[" line="38" column="0" />
@@ -236,6 +249,12 @@
         <mark key="]" line="51" column="9" />
         <mark key="." line="51" column="9" />
         <mark key="^" line="51" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl-steam.solver" timestamp="1549903734425">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/spark/vcsRoots/SparkLegacyGit.kt" timestamp="1539016261658">
         <mark key="[" line="8" column="49" />
@@ -422,6 +441,10 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/gads-4.0/pgads-api/src/main/java/com/integ/restful/pgads/aep/api/PiApi.java" timestamp="1546881626468">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="60" column="31" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9c2e22bf-bba9-4b0d-958f-e21caaadc9e0/console.sql" timestamp="1520865217288">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="25" />
@@ -493,6 +516,9 @@
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl-ct.solver" timestamp="1549903743307">
+        <mark key="'" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepTestModule.java" timestamp="1533841916315">
         <mark key="[" line="28" column="14" />
@@ -635,11 +661,6 @@
         <mark key="." line="8" column="61" />
         <mark key="^" line="8" column="61" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/scripts/calc-input.sql" timestamp="1549484531491">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalculationDef.java" timestamp="1540929389599">
         <mark key="[" line="31" column="37" />
         <mark key="]" line="32" column="3" />
@@ -659,12 +680,12 @@
         <mark key="^" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" timestamp="1549902357694">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="79" />
-        <mark key="^" line="68" column="79" />
-        <mark key="." line="68" column="79" />
+      <file name="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" timestamp="1549905047533">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="70" column="40" />
+        <mark key="]" line="70" column="79" />
+        <mark key="." line="70" column="79" />
+        <mark key="^" line="70" column="79" />
       </file>
       <file name="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/resources/reference.conf" timestamp="1530846566250">
         <mark key="[" line="22" column="16" />
@@ -740,6 +761,10 @@
         <mark key="]" line="23" column="28" />
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/query/SingleOperatorCondition.java" timestamp="1547658790080">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="31" column="33" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/test/java/com/integ/common/VersionTest.java" timestamp="1536247580606">
         <mark key="[" line="17" column="86" />
@@ -823,6 +848,10 @@
         <mark key="]" line="31" column="5" />
         <mark key="." line="31" column="5" />
         <mark key="^" line="31" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/unreg/repl-steam.solver" timestamp="1549903695995">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="45" />
       </file>
       <file name="/Dummy.txt" timestamp="1549901669500">
         <mark key="[" line="0" column="0" />
@@ -967,15 +996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="48" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidPublishConfigDef.java" />
-      <jump line="172" column="30" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
-      <jump line="583" column="37" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" />
-      <jump line="297" column="16" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" />
-      <jump line="248" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepFormulaTest.java" />
-      <jump line="23" column="51" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/SPPImFromulaTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-calc-inputs/steam.json" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-sppim-calc-inputs/steam.json" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-sppim-calc-inputs/steam.json" />
       <jump line="64" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-sppim-calc-inputs/steam.json" />
@@ -1067,10 +1087,19 @@
       <jump line="71" column="4" filename="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
       <jump line="130" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
+      <jump line="11" column="27" filename="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/mitg-ct.solver" />
+      <jump line="17" column="18" filename="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/mitg-steam.solver" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/mitg-steam.solver" />
+      <jump line="24" column="25" filename="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl-steam.solver" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl-steam.solver" />
+      <jump line="21" column="29" filename="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl-ct.solver" />
+      <jump line="72" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
+      <jump line="168" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4868.34293133563235414263627217395505406</text>
+        <text>2952.54261786633614221046379738330636765</text>
       </register>
       <register name="d" type="4">
         <text>&quot;)</text>
@@ -1156,62 +1185,62 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4868.34293133563235414263627217395505406</text>
+        <text>2952.54261786633614221046379738330636765</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJTlBVVF9GVUVMX0FORF9IQU5ETElOR1w+</text>
+        <text>hraf</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="4">
         <text>@Test
-    public void testArsenalHillReplMaxSeg() throws IOException {
-
-        Calculation calcs = calculate(&quot;ARSENALHILL5&quot;, &quot;ARS5GAS&quot;, &quot;DA REPL&quot;, STEAM_CURVE_REPL);
+    public void testWeleetkaReplMaxSeg() throws IOException {
+        Calculation calcs = calculate(&quot;WELEETKA4&quot;, &quot;WPS4GAS&quot;, &quot;DA REPL&quot;, STEAM_CURVE_REPL, new BigDecimal(&quot;65&quot;));
 
         AepFormulaTest.log(calcs.results());
 
+
         assertThat(calcs.results(),
                 varCloseTo(&quot;IncrCost&quot;,
-                        new BigDecimal(&quot;45.7449751882002295222336981335055905427&quot;),
+                        new BigDecimal(&quot;38.1286953192674092251729687110945860682&quot;),
                         TOLERANCE_LIMIT));
 
         assertThat(calcs.results(),
                 varCloseTo(&quot;TotalCost&quot;,
-                        new BigDecimal(&quot;4868.34293133563235414263627217395505406&quot;),
+                        new BigDecimal(&quot;2952.54261786633614221046379738330636765&quot;),
                         TOLERANCE_LIMIT));
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0V2VsZWV0a2FEYU1pdGdNaW5TZWcoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIENhbGN1bGF0aW9uIGNhbGNzID0gY2FsY3VsYXRlKCJXRUxFRVRLQTQiLCAiV1BTNEdBUyIsICJEQSBNSVRHIiwgU1RFQU1fQ1VSVkVfREFfTUlURywgbmV3IEJpZ0RlY2ltYWwoIjQ1IikpOwoKICAgICAgICBBZXBGb3JtdWxhVGVzdC5sb2coY2FsY3MucmVzdWx0cygpKTsKCgogICAgICAgIGFzc2VydFRoYXQoY2FsY3MucmVzdWx0cygpLAogICAgICAgICAgICAgICAgdmFyQ2xvc2VUbygiSW5jckNvc3QiLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiNTAuNDk0OTI0MzkxMTU1NTk5ODkzNTgxMjAwMDEwNzU2NTMwMjI2MiIpLAogICAgICAgICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsKCiAgICAgICAgYXNzZXJ0VGhhdChjYWxjcy5yZXN1bHRzKCksCiAgICAgICAgICAgICAgICB2YXJDbG9zZVRvKCJUb3RhbENvc3QiLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiMTg5NS45NjExNDg4MzEyMDQwMDAwNDM4NDQ5Mzc2MzIzMjgyMjE3NCIpLAogICAgICAgICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0QXJzZW5hbGhpbGxSZXBsTWF4U2VnKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICBDYWxjdWxhdGlvbiBjYWxjcyA9IGNhbGN1bGF0ZSgiV0VMRUVUS0E0IiwgIldQUzRHQVMiLCAiREEgUkVQTCIsIFNURUFNX0NVUlZFX1JFUEwsIG5ldyBCaWdEZWNpbWFsKCI2NSIpKTsKCiAgICAgICAgQWVwRm9ybXVsYVRlc3QubG9nKGNhbGNzLnJlc3VsdHMoKSk7CgoKICAgICAgICBhc3NlcnRUaGF0KGNhbGNzLnJlc3VsdHMoKSwKICAgICAgICAgICAgICAgIHZhckNsb3NlVG8oIkluY3JDb3N0IiwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEJpZ0RlY2ltYWwoIjM4LjEyODY5NTMxOTI2NzQwOTIyNTE3Mjk2ODcxMTA5NDU4NjA2ODIiKSwKICAgICAgICAgICAgICAgICAgICAgICAgVE9MRVJBTkNFX0xJTUlUKSk7CgogICAgICAgIGFzc2VydFRoYXQoY2FsY3MucmVzdWx0cygpLAogICAgICAgICAgICAgICAgdmFyQ2xvc2VUbygiVG90YWxDb3N0IiwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEJpZ0RlY2ltYWwoIjI5NTIuNTQyNjE3ODY2MzM2MTQyMjEwNDYzNzk3MzgzMzA2MzY3NjUiKSwKICAgICAgICAgICAgICAgICAgICAgICAgVE9MRVJBTkNFX0xJTUlUKSk7CiAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL2ZhaWxpbmcgZHVlIHRvIG9BbmRNQ29zdF9PVEhFUgo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0V2VsZWV0a2FEYU1pdGdNYXhTZWcoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIENhbGN1bGF0aW9uIGNhbGNzID0gY2FsY3VsYXRlKCJXRUxFRVRLQTQiLCAiV1BTNEdBUyIsICJEQSBNSVRHIiwgU1RFQU1fQ1VSVkVfREFfTUlURywgbmV3IEJpZ0RlY2ltYWwoIjQ1IikpOwoKICAgICAgICBBZXBGb3JtdWxhVGVzdC5sb2coY2FsY3MucmVzdWx0cygpKTsKCgogICAgICAgIGFzc2VydFRoYXQoY2FsY3MucmVzdWx0cygpLAogICAgICAgICAgICAgICAgdmFyQ2xvc2VUbygiSW5jckNvc3QiLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiNTAuNDk0OTI0MzkxMTU1NTk5ODkzNTgxMjAwMDEwNzU2NTMwMjI2MiIpLAogICAgICAgICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsKCiAgICAgICAgYXNzZXJ0VGhhdChjYWxjcy5yZXN1bHRzKCksCiAgICAgICAgICAgICAgICB2YXJDbG9zZVRvKCJUb3RhbENvc3QiLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiMTg5NS45NjExNDg4MzEyMDQwMDAwNDM4NDQ5Mzc2MzIzMjgyMjE3NCIpLAogICAgICAgICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsKICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZnVlbE5hbWUgPSBmdWVsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZnVlbE5hbWUgPSAiQVJTNUdBUyI7Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0V2VsZWV0a2FEYU1pdGdNYXhTZWcoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIENhbGN1bGF0aW9uIGNhbGNzID0gY2FsY3VsYXRlKCJXRUxFRVRLQTQiLCAiV1BTNEdBUyIsICJEQSBNSVRHIiwgU1RFQU1fQ1VSVkVfREFfTUlURywgbmV3IEJpZ0RlY2ltYWwoIjQ1IikpOwoKICAgICAgICBBZXBGb3JtdWxhVGVzdC5sb2coY2FsY3MucmVzdWx0cygpKTsKCgogICAgICAgIGFzc2VydFRoYXQoY2FsY3MucmVzdWx0cygpLAogICAgICAgICAgICAgICAgdmFyQ2xvc2VUbygiSW5jckNvc3QiLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiNTAuNDk0OTI0MzkxMTU1NTk5ODkzNTgxMjAwMDEwNzU2NTMwMjI2MiIpLAogICAgICAgICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsKCiAgICAgICAgYXNzZXJ0VGhhdChjYWxjcy5yZXN1bHRzKCksCiAgICAgICAgICAgICAgICB2YXJDbG9zZVRvKCJUb3RhbENvc3QiLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiMTg5NS45NjExNDg4MzEyMDQwMDAwNDM4NDQ5Mzc2MzIzMjgyMjE3NCIpLAogICAgICAgICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z2V0Q2FsY3VsYXRpb24K</text>
+        <text encoding="base64">ICAgIGtvago=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YmlkIHN0cmF0ZWd5IG9ubHkgc3luY3MgbXcgd2hlbiB0aGV5IGFyZSBuZWNlc3NhcnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1224,13 +1253,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZXAtc3RnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
@@ -1240,9 +1269,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJTlBVVF9GVUVMX0FORF9IQU5ETElOR1w+</last-search>
+      <last-search>hraf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJTlBVVF9GVUVMX0FORF9IQU5ETElOR1w+</last-pattern>
+      <last-pattern>hraf</last-pattern>
       <last-replace>PMGR</last-replace>
       <last-substitute>REST_SEED</last-substitute>
       <last-dir>1</last-dir>
@@ -1250,8 +1279,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jackson</entry>
-        <entry>common</entry>
         <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
         <entry>REST_SEED</entry>
         <entry encoding="base64">XDxNZWRpYVR5cGVcPg==</entry>
@@ -1270,6 +1297,8 @@
         <entry encoding="base64">XDxyZXRyaWV2ZUxlZ2FjeUluY3JDb3N0c1w+</entry>
         <entry encoding="base64">XDxuZXdFbGVtZW50TWFwXD4=</entry>
         <entry encoding="base64">XDxJTlBVVF9GVUVMX0FORF9IQU5ETElOR1w+</entry>
+        <entry>raf</entry>
+        <entry>hraf</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0Zy9kZXYvZw==</entry>
@@ -1278,7 +1307,6 @@
         <entry>aw</entry>
         <entry>action CompileDirty</entry>
         <entry encoding="base64">JzwsJz4lcy9SRVNUX1NFRUQvUE1HUi9n</entry>
-        <entry>a</entry>
         <entry>1152</entry>
         <entry>485</entry>
         <entry>action Rerun</entry>
@@ -1291,6 +1319,7 @@
         <entry>action InsertLiveTemplate</entry>
         <entry>action ReformatCode</entry>
         <entry>action IntroduceParameter</entry>
+        <entry>a</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
