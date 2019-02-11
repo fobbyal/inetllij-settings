@@ -435,6 +435,10 @@
         <mark key="^" line="20" column="49" />
         <mark key="." line="20" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl.solver" timestamp="1549905737734">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="61" />
+      </file>
       <file name="$USER_HOME$/dev/legacy/pbroker/java/src/com/integ/broker/genoffer/model/GenOfferBundle.java" timestamp="1525100956414">
         <mark key="[" line="13" column="21" />
         <mark key="]" line="13" column="21" />
@@ -517,8 +521,11 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl-ct.solver" timestamp="1549903743307">
-        <mark key="'" line="21" column="29" />
+      <file name="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl-ct.solver" timestamp="1549905741172">
+        <mark key="'" line="5" column="46" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="61" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepTestModule.java" timestamp="1533841916315">
         <mark key="[" line="28" column="14" />
@@ -996,9 +1003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-sppim-calc-inputs/steam.json" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-sppim-calc-inputs/steam.json" />
-      <jump line="64" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-sppim-calc-inputs/steam.json" />
       <jump line="63" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-sppim-calc-inputs/steam.json" />
       <jump line="1" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/aep-sppim-calc-inputs/steam.json" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/steam-da-mitg.solver" />
@@ -1096,10 +1100,13 @@
       <jump line="72" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
       <jump line="168" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
       <jump line="76" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
+      <jump line="3" column="43" filename="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl-ct.solver" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl-ct.solver" />
+      <jump line="4" column="46" filename="$USER_HOME$/dev/spark-gen-calc/src/main/resources/aep-calcs/spp/repl-ct.solver" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2952.54261786633614221046379738330636765</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Tk94RW1pc3Npb25SYXRlR2VuID0gTk94QUNvZWZmaWNpZW50ICsgKE5PeEJDb2VmZmljaWVudCAqIE1XKQo=</text>
       </register>
       <register name="d" type="4">
         <text>&quot;)</text>
@@ -1188,29 +1195,13 @@
         <text>2952.54261786633614221046379738330636765</text>
       </register>
       <register name="/" type="4">
-        <text>hraf</text>
+        <text encoding="base64">XDxOT3hFbWlzc2lvblJhdGVOb0xvYWRcPg==</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text>@Test
-    public void testWeleetkaReplMaxSeg() throws IOException {
-        Calculation calcs = calculate(&quot;WELEETKA4&quot;, &quot;WPS4GAS&quot;, &quot;DA REPL&quot;, STEAM_CURVE_REPL, new BigDecimal(&quot;65&quot;));
-
-        AepFormulaTest.log(calcs.results());
-
-
-        assertThat(calcs.results(),
-                varCloseTo(&quot;IncrCost&quot;,
-                        new BigDecimal(&quot;38.1286953192674092251729687110945860682&quot;),
-                        TOLERANCE_LIMIT));
-
-        assertThat(calcs.results(),
-                varCloseTo(&quot;TotalCost&quot;,
-                        new BigDecimal(&quot;2952.54261786633614221046379738330636765&quot;),
-                        TOLERANCE_LIMIT));
-    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">Tk94RW1pc3Npb25SYXRlR2VuID0gTk94QUNvZWZmaWNpZW50ICsgKE5PeEJDb2VmZmljaWVudCAqIE1XKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0V2VsZWV0a2FEYU1pdGdNaW5TZWcoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIENhbGN1bGF0aW9uIGNhbGNzID0gY2FsY3VsYXRlKCJXRUxFRVRLQTQiLCAiV1BTNEdBUyIsICJEQSBNSVRHIiwgU1RFQU1fQ1VSVkVfREFfTUlURywgbmV3IEJpZ0RlY2ltYWwoIjQ1IikpOwoKICAgICAgICBBZXBGb3JtdWxhVGVzdC5sb2coY2FsY3MucmVzdWx0cygpKTsKCgogICAgICAgIGFzc2VydFRoYXQoY2FsY3MucmVzdWx0cygpLAogICAgICAgICAgICAgICAgdmFyQ2xvc2VUbygiSW5jckNvc3QiLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiNTAuNDk0OTI0MzkxMTU1NTk5ODkzNTgxMjAwMDEwNzU2NTMwMjI2MiIpLAogICAgICAgICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsKCiAgICAgICAgYXNzZXJ0VGhhdChjYWxjcy5yZXN1bHRzKCksCiAgICAgICAgICAgICAgICB2YXJDbG9zZVRvKCJUb3RhbENvc3QiLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiMTg5NS45NjExNDg4MzEyMDQwMDAwNDM4NDQ5Mzc2MzIzMjgyMjE3NCIpLAogICAgICAgICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsKICAgIH0K</text>
@@ -1269,9 +1260,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hraf</last-search>
+      <last-search encoding="base64">XDxOT3hFbWlzc2lvblJhdGVOb0xvYWRcPg==</last-search>
       <last-offset />
-      <last-pattern>hraf</last-pattern>
+      <last-pattern encoding="base64">XDxOT3hFbWlzc2lvblJhdGVOb0xvYWRcPg==</last-pattern>
       <last-replace>PMGR</last-replace>
       <last-substitute>REST_SEED</last-substitute>
       <last-dir>1</last-dir>
@@ -1279,9 +1270,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2R1bGVcPg==</entry>
-        <entry>REST_SEED</entry>
-        <entry encoding="base64">XDxNZWRpYVR5cGVcPg==</entry>
         <entry>DA-HOURLY</entry>
         <entry encoding="base64">XDxkYUhvdXJseUJ1dHRvblw+</entry>
         <entry>bid-stra</entry>
@@ -1299,6 +1287,9 @@
         <entry encoding="base64">XDxJTlBVVF9GVUVMX0FORF9IQU5ETElOR1w+</entry>
         <entry>raf</entry>
         <entry>hraf</entry>
+        <entry encoding="base64">XDxOT3hBZGRlckNvc3RHZW5cPg==</entry>
+        <entry encoding="base64">XDxOT3hFbWlzc2lvblJhdGVHZW5cPg==</entry>
+        <entry encoding="base64">XDxOT3hFbWlzc2lvblJhdGVOb0xvYWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0Zy9kZXYvZw==</entry>
