@@ -836,11 +836,11 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549909629577">
+      <file name="/Dummy.txt" timestamp="1549920309758">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/QuartzDriver.java" timestamp="1511892677076">
         <mark key="[" line="30" column="13" />
@@ -860,12 +860,12 @@
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/legacy/LegacyDAO.java" timestamp="1549488758674">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" timestamp="1549918523306">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="260" column="64" />
-        <mark key="]" line="260" column="65" />
-        <mark key="." line="260" column="65" />
-        <mark key="^" line="259" column="25" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" timestamp="1549920299073">
+        <mark key="'" line="268" column="24" />
+        <mark key="[" line="275" column="60" />
+        <mark key="]" line="275" column="99" />
+        <mark key="^" line="275" column="99" />
+        <mark key="." line="275" column="99" />
       </file>
       <file name="$USER_HOME$/dev/jc-jdk8/pspk/java/src/com/integ/pspk/costdev/server/CostDevRunner.java" timestamp="1549483727406">
         <mark key="[" line="48" column="48" />
@@ -971,7 +971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/scripts/calc-input.sql" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/scripts/calc-input.sql" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/scripts/calc-input.sql" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/scripts/calc-input.sql" />
@@ -1071,10 +1070,11 @@
       <jump line="261" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
       <jump line="356" column="7" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
+      <jump line="268" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29udGludWUgYXQgaG9tZQo=</text>
       </register>
       <register name="d" type="4">
         <text>&quot;)</text>
@@ -1160,7 +1160,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>38.1286953192674092251729687110945860682</text>
       </register>
       <register name="/" type="4">
         <text>TotalCost</text>
@@ -1168,35 +1168,35 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9QYWlyLm9mKCJUb3RhbENvc3RfQ1QiLCBuZXcgQmlnRGVjaW1hbCgiMjUyOC41NDI2MTc4NjYzMzYxNDIyMTA0NjM3OTczODMzMDYzNjc2NCIpKQo=</text>
+      <register name="0" type="4">
+        <text>.withMw(new BigDecimal(&quot;45&quot;))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29udGludWUgYXQgaG9tZQo=</text>
       </register>
       <register name="q" type="4">
         <text>kjllll0</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5mb3IK</text>
+        <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQoY2FsY3MucmVzdWx0cygpLAovLyAgICAgICAgICAgICAgICB2YXJDbG9zZVRvKCJJbmNyQ29zdCIsCi8vICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEJpZ0RlY2ltYWwoIjUyLjU0MzIyMjUxMjM1NzYxNDMyMzA4MDY4NTk2NDM0MTI4NDM2NDQiKSwKLy8gICAgICAgICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsKLy8KLy8gICAgICAgIGFzc2VydFRoYXQoY2FsY3MucmVzdWx0cygpLAovLyAgICAgICAgICAgICAgICB2YXJDbG9zZVRvKCJUb3RhbENvc3QiLAovLyAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBCaWdEZWNpbWFsKCIyNTI4LjU0MjYxNzg2NjMzNjE0MjIxMDQ2Mzc5NzM4MzMwNjM2NzY0IiksCi8vICAgICAgICAgICAgICAgICAgICAgICAgVE9MRVJBTkNFX0xJTUlUKSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDYWxjUmVjb3JkIHJlY29yZCA9CiAgICAgICAgICAgICAgICBDb3N0Q2FsY3VsYXRvci5jYWxjdWxhdGUoZHMsIGV4LCB0ZXN0RGF0ZSwgQXJyYXlzLmFzTGlzdCgiQVJTRU5BTEhJTEw1IiwgIldFTEVFVEtBNCIpLCAiYWRtaW4iKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIGV4cGVjZWRSZXN1bHRzLnB1dChXRUxFRVRLQTRfR0VOLndpdGhDb3N0VHlwZSgiREEgUkVQTCIpLndpdGhGb3JtdWxhKG5vcm1saWF6ZUZvcm11bGEoQ1RfQ1VSVkVfUkVQTCkpLAovLyAgICAgICAgICAgICAgICBBcnJheXMuYXNMaXN0KAovLyAgICAgICAgICAgICAgICAgICAgICAgIFBhaXIub2YoIk9wZXJSYXRlX0NUIiwgbmV3IEJpZ0RlY2ltYWwoIjQ1LjQyMzczMjU4MjU1OTAxNzU3MjQ2ODY3MzgwNTg5NzAyMTA0MDYiKSksCi8vICAgICAgICAgICAgICAgICAgICAgICAgUGFpci5vZigiVG90YWxDb3N0X0NUIiwgbmV3IEJpZ0RlY2ltYWwoIjI1MjguNTQyNjE3ODY2MzM2MTQyMjEwNDYzNzk3MzgzMzA2MzY3NjQiKSkKLy8gICAgICAgICAgICAgICAgKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICwgIkFSUzVHQVMiLCAiREEgUkVQTCIsIFNURUFNX0NVUlZFX1JFUEwsIG5ldyBCaWdEZWNpbWFsKCIxMTAiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgUGFpci5vZigiVG90YWxDb3N0X0NUIiwgbmV3IEJpZ0RlY2ltYWwoIjI1MjguNTQyNjE3ODY2MzM2MTQyMjEwNDYzNzk3MzgzMzA2MzY3NjQiKSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1212,19 +1212,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBBZXBGb3JtdWxhVGVzdC5sb2coY2FsY3MucmVzdWx0cygpKTsKCgogICAgICAgIC8vIGFzc2VydFRoYXQoY2FsY3MucmVzdWx0cygpLAogICAgICAgIC8vICAgICAgICAgdmFyQ2xvc2VUbygiSW5jckNvc3QiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiMzguMTI4Njk1MzE5MjY3NDA5MjI1MTcyOTY4NzExMDk0NTg2MDY4MiIpLAogICAgICAgIC8vICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsKCiAgICAgICAgLy8gYXNzZXJ0VGhhdChjYWxjcy5yZXN1bHRzKCksCiAgICAgICAgLy8gICAgICAgICB2YXJDbG9zZVRvKCJUb3RhbENvc3QiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiMjk1Mi41NDI2MTc4NjYzMzYxNDIyMTA0NjM3OTczODMzMDYzNjc2NSIpLAogICAgICAgIC8vICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5mb3IK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -1269,17 +1269,17 @@
         <entry>485</entry>
         <entry>action InsertLiveTemplate</entry>
         <entry>a</entry>
-        <entry>action CheckinProject</entry>
         <entry>414</entry>
         <entry>action IntroduceParameter</entry>
         <entry>action Compile</entry>
         <entry>action RenameElement</entry>
         <entry>action AceAction</entry>
         <entry>action IntroduceVariable</entry>
+        <entry>action Rerun</entry>
         <entry>action ReformatCode</entry>
         <entry>w</entry>
         <entry>wa</entry>
-        <entry>action Rerun</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
