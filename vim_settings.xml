@@ -687,12 +687,12 @@
         <mark key="^" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" timestamp="1549907753826">
+      <file name="$USER_HOME$/dev/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" timestamp="1549909622117">
         <mark key="'" line="114" column="0" />
-        <mark key="[" line="207" column="40" />
-        <mark key="]" line="207" column="79" />
-        <mark key="^" line="207" column="79" />
-        <mark key="." line="207" column="79" />
+        <mark key="[" line="194" column="40" />
+        <mark key="]" line="66" column="1" />
+        <mark key="^" line="66" column="1" />
+        <mark key="." line="66" column="1" />
       </file>
       <file name="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/resources/reference.conf" timestamp="1530846566250">
         <mark key="[" line="22" column="16" />
@@ -860,11 +860,11 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549901669500">
+      <file name="/Dummy.txt" timestamp="1549909629577">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="49" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/QuartzDriver.java" timestamp="1511892677076">
         <mark key="[" line="30" column="13" />
@@ -1106,7 +1106,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4091.12357622800490212592719984274114968</text>
+        <text>6.00650240391453395927419235580537763758</text>
       </register>
       <register name="d" type="4">
         <text>&quot;)</text>
@@ -1192,7 +1192,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4091.12357622800490212592719984274114968</text>
+        <text>6.00650240391453395927419235580537763758</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOT3hFbWlzc2lvblJhdGVOb0xvYWRcPg==</text>
@@ -1200,48 +1200,8 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text>@Test
-    public void testArsenalHillReplMaxSeg() throws IOException {
-        Calculation calcs = calculate(&quot;ARSENALHILL5&quot;, &quot;ARS5GAS&quot;, &quot;DA REPL&quot;, STEAM_CURVE_REPL, new BigDecimal(&quot;110&quot;));
-
-        AepFormulaTest.log(calcs.results());
-
-        assertThat(calcs.results(),
-                varCloseTo(&quot;IncrCost&quot;,
-                        new BigDecimal(&quot;45.7449751882002295222336981335055905427&quot;),
-                        TOLERANCE_LIMIT));
-
-        assertThat(calcs.results(),
-                varCloseTo(&quot;TotalCost&quot;,
-                        new BigDecimal(&quot;4868.34293133563235414263627217395505406&quot;),
-                        TOLERANCE_LIMIT));
-    }
-
-
-    @Test
-    public void testArsenalHillMitgMaxSeg() throws IOException {
-        Calculation calcs = calculate(&quot;ARSENALHILL5&quot;, &quot;ARS5GAS&quot;, &quot;DA MITG&quot;, STEAM_CURVE_DA_MITG, new BigDecimal(&quot;110&quot;));
-
-        AepFormulaTest.log(calcs.results());
-
-        assertThat(calcs.results(),
-                varCloseTo(&quot;IncrCost&quot;,
-                        new BigDecimal(&quot;38.4485091409719293250430613235027089894&quot;),
-                        TOLERANCE_LIMIT));
-
-        assertThat(calcs.results(),
-                varCloseTo(&quot;TotalCost&quot;,
-                        new BigDecimal(&quot;4091.12357622800490212592719984274114968&quot;),
-                        TOLERANCE_LIMIT));
-
-        assertThat(calcs.results(),
-                varCloseTo(&quot;IncrOandMCost&quot;,
-                        new BigDecimal(&quot;7.03847453581085926984198403197410128579&quot;),
-                        TOLERANCE_LIMIT));
-
-
-    }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KGNhbGNzLnJlc3VsdHMoKSwKICAgICAgICAgICAgICAgIHZhckNsb3NlVG8oIkluY3JPYW5kTUNvc3QiLAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgQmlnRGVjaW1hbCgiNi4wMDY1MDI0MDM5MTQ1MzM5NTkyNzQxOTIzNTU4MDUzNzc2Mzc1OCIpLAogICAgICAgICAgICAgICAgICAgICAgICBUT0xFUkFOQ0VfTElNSVQpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1296,7 +1256,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -1344,7 +1304,6 @@
         <entry>action IntroduceVariable</entry>
         <entry>w</entry>
         <entry>action Compile</entry>
-        <entry>action CheckinProject</entry>
         <entry>action AceAction</entry>
         <entry>action RenameElement</entry>
         <entry>action InsertLiveTemplate</entry>
@@ -1352,6 +1311,7 @@
         <entry>action IntroduceParameter</entry>
         <entry>a</entry>
         <entry>wa</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
