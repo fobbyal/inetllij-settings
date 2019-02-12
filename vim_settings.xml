@@ -544,11 +544,11 @@
         <mark key="." line="27" column="41" />
         <mark key="^" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1549913688772">
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="16" />
-        <mark key="^" line="32" column="16" />
-        <mark key="." line="32" column="16" />
+      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1549996170465">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="^" line="40" column="5" />
+        <mark key="." line="41" column="4" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/BidPublishConfigDef.java" timestamp="1548701627789">
         <mark key="'" line="54" column="0" />
@@ -860,13 +860,6 @@
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/legacy/LegacyDAO.java" timestamp="1549488758674">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" timestamp="1549920299073">
-        <mark key="'" line="268" column="24" />
-        <mark key="[" line="275" column="60" />
-        <mark key="]" line="275" column="99" />
-        <mark key="^" line="275" column="99" />
-        <mark key="." line="275" column="99" />
-      </file>
       <file name="$USER_HOME$/dev/jc-jdk8/pspk/java/src/com/integ/pspk/costdev/server/CostDevRunner.java" timestamp="1549483727406">
         <mark key="[" line="48" column="48" />
         <mark key="]" line="48" column="48" />
@@ -1073,8 +1066,8 @@
       <jump line="268" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29udGludWUgYXQgaG9tZQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>&quot;)</text>
@@ -1160,7 +1153,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>38.1286953192674092251729687110945860682</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>TotalCost</text>
@@ -1224,7 +1217,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1278,8 +1271,8 @@
         <entry>action Rerun</entry>
         <entry>action ReformatCode</entry>
         <entry>w</entry>
-        <entry>wa</entry>
         <entry>action CheckinProject</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
