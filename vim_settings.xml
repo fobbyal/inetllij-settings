@@ -198,12 +198,12 @@
         <mark key="." line="35" column="52" />
         <mark key="^" line="35" column="52" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishTest.java" timestamp="1550083117655">
-        <mark key="'" line="115" column="16" />
-        <mark key="[" line="118" column="17" />
-        <mark key="]" line="118" column="17" />
-        <mark key="." line="118" column="17" />
-        <mark key="^" line="118" column="17" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishTest.java" timestamp="1550085705116">
+        <mark key="'" line="122" column="21" />
+        <mark key="[" line="122" column="30" />
+        <mark key="]" line="122" column="29" />
+        <mark key="." line="122" column="29" />
+        <mark key="^" line="122" column="29" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/data-miner2/src/main/java/com/integ/core/dataminer2/api/HourlyMeteredLoadApi.java" timestamp="1521485791869">
         <mark key="[" line="38" column="0" />
@@ -585,12 +585,12 @@
         <mark key="^" line="45" column="11" />
         <mark key="." line="45" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1550083114712">
-        <mark key="'" line="49" column="45" />
-        <mark key="[" line="74" column="97" />
-        <mark key="]" line="74" column="98" />
-        <mark key="." line="74" column="98" />
-        <mark key="^" line="74" column="98" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1550085680922">
+        <mark key="'" line="121" column="24" />
+        <mark key="[" line="103" column="55" />
+        <mark key="]" line="103" column="55" />
+        <mark key="^" line="103" column="55" />
+        <mark key="." line="103" column="55" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcFormulaDef.java" timestamp="1535396987233">
         <mark key="[" line="47" column="18" />
@@ -1079,8 +1079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="34" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
-      <jump line="76" column="14" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/FormulaDataAccess.java" />
       <jump line="326" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CostCalculator.java" />
       <jump line="313" column="8" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/SPPImFormulaTest.java" />
       <jump line="257" column="7" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/SPPCalculatorTest.java" />
@@ -1179,10 +1177,12 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
       <jump line="115" column="16" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishTest.java" />
       <jump line="49" column="45" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
+      <jump line="122" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishTest.java" />
+      <jump line="124" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ZERO</text>
+        <text>, new Date()</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1277,7 +1277,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ZERO</text>
+        <text>, new Date()</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1347,38 +1347,40 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJpZ0RlY2ltYWwgdHJhbnNJZCA9IHJ1bkRhKHBzcGtEcywgbmV4dFBia3JTZXEoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>PSPK_OFFER_CAL_IO</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5lbmRNdygpCg==</text>
+      <register name="1" type="4">
+        <text>,
+                                      Date tstamp</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5lbmRNdygpCg==</text>
+      <register name="2" type="4">
+        <text>,
+            Date timestamp</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgVW5pdEJhc2ljSW5mbz4gdW5pdEluZm9NYXAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGEuZXhlY3V0ZSgiSU5TRVJUIElOVE8gUFNQS19PRkZFUl9DQUxfSU8gKFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgICBUUkFOU0FDVElPTl9JRCAsXG4iICsKICAgICAgICAgICAgICAgICAgICAiICAgIEVGRkVDVElWRURBVEUgLFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgICBVTklUSUQgLFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgICBGVUVMTkFNRSAsXG4iICsKICAgICAgICAgICAgICAgICAgICAiICAgIE1PREVTICxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgICAgQ09TVFRZUEUgLFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgICBFTkRfTVcgLFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgICBPUF9SQVRFICxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgICAgSU5DX1RPVEFMX0NPU1QgLFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgICBNSVRJR0FURURfQ09TVCAsXG4iICsKICAgICAgICAgICAgICAgICAgICAiICAgIE1BUktFVF9UWVBFXG4iICsKICAgICAgICAgICAgICAgICAgICAiKSBWQUxVRVMgKFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgICAjVFJBTlNBQ1RJT05fSUR8bnVtYmVyIyAsXG4iICsKICAgICAgICAgICAgICAgICAgICAiICAgICNFRkZFQ1RJVkVEQVRFfGRhdGUjICxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgICAgI1VOSVRJRHxzdHJpbmcjICxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgICAgI0ZVRUxOQU1FfHN0cmluZyMgLFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgICAjTU9ERVN8c3RyaW5nIyAsXG4iICsKICAgICAgICAgICAgICAgICAgICAiICAgICNDT1NUVFlQRXxzdHJpbmcjICxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgICAgI0VORF9NV3xzdHJpbmcjICxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgICAgI09QX1JBVEV8bnVtYmVyIyAsXG4iICsKICAgICAgICAgICAgICAgICAgICAiICAgICNJTkNfVE9UQUxfQ09TVHxudW1iZXIjICxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgICAgI01JVElHQVRFRF9DT1NUfG51bWJlciMgLFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgICAjTUFSS0VUX1RZUEV8c3RyaW5nI1xuIiArCiAgICAgICAgICAgICAgICAgICAgIilcbiIsIHZhbGV1cyk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGZ1ZWwsCg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFBhcmFtVmFsdWVzPiB2YWxldXMgPSBiaWRzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKGIgLT4gUGFyYW1WYWx1ZXMuZHBWYWxzKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmJpbmQoIlRSQU5TQUNUSU9OX0lEIiwgdHJhbnNJZCkKICAgICAgICAgICAgICAgICAgICAgICAgLmJpbmQoIkVGRkVDVElWRURBVEUiLCBkYXRlVGltZS50b0RhdGUoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJpbmQoIlVOSVRJRCIsIGIudW5pdElkKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5iaW5kKCJGVUVMTkFNRSIsIGIuZnVlbCgpKQogICAgICAgICAgICAgICAgICAgICAgICAuYmluZCgiTU9ERVMiLCAiTkEiKQogICAgICAgICAgICAgICAgICAgICAgICAuYmluZCgiQ09TVFRZUEUiLCBiLmNvc3RUeXBlKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5iaW5kKCJFTkRfTVciLCBiLm13KCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC8vLmJpbmQoIk9QX1JBVEUiKQogICAgICAgICAgICAgICAgICAgICAgICAuYmluZCgiSU5DX1RPVEFMX0NPU1QiLCBiLmNvc3QoKSkKICAgICAgICAgICAgICAgICAgICAgICAgLy8uYmluZCgiTUlUSUdBVEVEX0NPU1QiLCBiLigpKQogICAgICAgICAgICAgICAgICAgICAgICAuYmluZCgiTUFSS0VUX1RZUEUiLCBtYXJrZXQpKQogICAgICAgICAgICAgICAgLmNvbGxlY3QodG9MaXN0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFRSQU5TQUNUSU9OX0lELAovLyAgICAgICAgRUZGRUNUSVZFREFURSwKLy8gICAgICAgIFVOSVRJRCwKLy8gICAgICAgIEZVRUxOQU1FLAovLyAgICAgICAgTU9ERVMsCi8vICAgICAgICBDT1NUVFlQRSwKLy8gICAgICAgIEVORF9NVywKLy8gICAgICAgIE9QX1JBVEUsCi8vICAgICAgICBJTkNfVE9UQUxfQ09TVCwKLy8gICAgICAgIE1JVElHQVRFRF9DT1NULAovLyAgICAgICAgTUFSS0VUX1RZUEUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mdWVsTmFtZShjLmVudHJ5KCkuZnVlbCgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG1hcmtldCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlVGltZSBkYXRlVGltZSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1391,19 +1393,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmlnRGVjaW1hbCB0cmFuc0lkLAo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5lbmRNdygpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Rerun</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -1455,10 +1457,10 @@
         <entry>action AceAction</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action RenameElement</entry>
-        <entry>action ReformatCode</entry>
-        <entry>wa</entry>
         <entry>w</entry>
         <entry>action Rerun</entry>
+        <entry>wa</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
