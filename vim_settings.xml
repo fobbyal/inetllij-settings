@@ -573,11 +573,11 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr/pmgr-api/pom.xml" timestamp="1553024242623">
+      <file name="$USER_HOME$/dev/pmgr/pmgr-api/pom.xml" timestamp="1553025966639">
         <mark key="'" line="115" column="48" />
-        <mark key="[" line="138" column="23" />
-        <mark key="]" line="138" column="24" />
-        <mark key="." line="138" column="24" />
+        <mark key="[" line="138" column="25" />
+        <mark key="]" line="138" column="26" />
+        <mark key="." line="138" column="26" />
         <mark key="^" line="49" column="36" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepTestModule.java" timestamp="1533841916315">
@@ -1071,7 +1071,7 @@
         <mark key="." line="11" column="48" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1553025753013">
+      <file name="/fragment.java" timestamp="1553025982077">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="31" />
         <mark key="^" line="1" column="31" />
@@ -1409,7 +1409,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1463,8 +1463,8 @@
         <entry>action Compile</entry>
         <entry>action ReformatCode</entry>
         <entry>a</entry>
-        <entry>wa</entry>
         <entry>action CheckinProject</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
