@@ -653,12 +653,7 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr/pmgr-api/src/test/java/com/integ/pmgr/AliveTest.java" timestamp="1553011979558">
-        <mark key="[" line="47" column="81" />
-        <mark key="]" line="47" column="82" />
-        <mark key="^" line="47" column="35" />
-        <mark key="." line="47" column="81" />
-      </file>
+      <file name="$USER_HOME$/dev/pmgr/pmgr-api/src/test/java/com/integ/pmgr/AliveTest.java" timestamp="1553011979558" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/Alive.java" timestamp="1511899179088">
         <mark key="[" line="100" column="68" />
         <mark key="]" line="100" column="5" />
