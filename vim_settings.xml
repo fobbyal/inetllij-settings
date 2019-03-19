@@ -262,6 +262,12 @@
         <mark key="." line="43" column="9" />
         <mark key="^" line="43" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/DBTools.java" timestamp="1553025533662">
+        <mark key="[" line="171" column="92" />
+        <mark key="]" line="171" column="95" />
+        <mark key="^" line="171" column="95" />
+        <mark key="." line="171" column="95" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b732c591-bb75-4c2e-96e5-302fa86ecd5d/console.sql" timestamp="1515172287448">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="18" />
@@ -685,7 +691,7 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1545082365005">
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1553024876990">
         <mark key="[" line="31" column="21" />
         <mark key="]" line="31" column="29" />
         <mark key="." line="31" column="29" />
@@ -753,12 +759,12 @@
         <mark key="^" line="44" column="16" />
         <mark key="." line="44" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/WaitForDbStart.java" timestamp="1553023764462">
+      <file name="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/WaitForDbStart.java" timestamp="1553025741020">
         <mark key="'" line="7" column="30" />
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="12" column="59" />
+        <mark key="." line="12" column="59" />
+        <mark key="^" line="12" column="59" />
       </file>
       <file name="$USER_HOME$/dev/aps/aps-unit-avail-api/src/test/resources/application.conf" timestamp="1542655244576">
         <mark key="[" line="4" column="13" />
@@ -943,11 +949,11 @@
         <mark key="." line="31" column="5" />
         <mark key="^" line="31" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553023535541">
+      <file name="/Dummy.txt" timestamp="1553025770692">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="48" />
-        <mark key="^" line="0" column="48" />
-        <mark key="." line="0" column="48" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/db-util/src/test/java/com/integ/db/query/ConditionClauseTest.java" timestamp="1547659437886">
         <mark key="'" line="9" column="21" />
@@ -1065,7 +1071,7 @@
         <mark key="." line="11" column="48" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1553011481958">
+      <file name="/fragment.java" timestamp="1553025753013">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="31" />
         <mark key="^" line="1" column="31" />
@@ -1181,8 +1187,8 @@
       <jump line="115" column="48" filename="$USER_HOME$/dev/pmgr/pmgr-api/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YmV0dGVyIG1lc3NhZ2luCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1277,7 +1283,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1351,34 +1357,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhvc3QgaXM6ICIrU3lzdGVtLmdldFByb3BlcnR5KCJwbWdyLmRzLmhvc3QiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YWRkZWQgb3B0aW9uIHRvIHdhaXQgZm9yIGRiIHdpdGggbm8gYXJncwo=</text>
+        <text encoding="base64">YmV0dGVyIG1lc3NhZ2luCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVtb3ZlZCBhcmcK</text>
+        <text encoding="base64">YWRkZWQgYWJpbGl0eSB0byBjYWxsIFdhaXRGb3JEYlN0YXJ0IHdpdGggbm8gYXJncwo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmtpZyA9IENvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJVc2FnZTogamF2YSAtY3AgamFyLXBhdGggY29tLmludGVnLmRiLldhaXRGb3JEYlN0YXJ0ICAjZGIuY29uZmlnLnBhdGgjIik7CiAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">YWRkZWQgb3B0aW9uIHRvIHdhaXQgZm9yIGRiIHdpdGggbm8gYXJncwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uZmlnRmFjdG9yeS5sb2FkKCk7Cg==</text>
+        <text encoding="base64">cmVtb3ZlZCBhcmcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDb25maWcgY29uZmlnID0gQ29uZmlnRmFjdG9yeS5sb2FkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmtpZyA9IENvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zml4ZWQgaXNzdWUgd2l0aCBvcmFjbGUgbGltaXRpbmcgaW4gc3RhdGVtZW50cyB0byAxMDAwIHZhbHVlcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJVc2FnZTogamF2YSAtY3AgamFyLXBhdGggY29tLmludGVnLmRiLldhaXRGb3JEYlN0YXJ0ICAjZGIuY29uZmlnLnBhdGgjIik7CiAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1391,19 +1397,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29uZmlnRmFjdG9yeS5sb2FkKCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25maWcgY29uZmlnID0gQ29uZmlnRmFjdG9yeS5sb2FkKCk7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -1447,7 +1453,6 @@
         <entry>action InsertLiveTemplate</entry>
         <entry>414</entry>
         <entry>wa'</entry>
-        <entry>a</entry>
         <entry>reg</entry>
         <entry>action AceAction</entry>
         <entry>action IntroduceVariable</entry>
@@ -1457,8 +1462,9 @@
         <entry>action Rerun</entry>
         <entry>action Compile</entry>
         <entry>action ReformatCode</entry>
-        <entry>action CheckinProject</entry>
+        <entry>a</entry>
         <entry>wa</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
