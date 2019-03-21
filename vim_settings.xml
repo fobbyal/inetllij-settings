@@ -254,7 +254,6 @@
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/integ/core/db-util/1.2.0/db-util-1.2.0.jar!/com/integ/db/connection/GenericDataSource.class" timestamp="1553024404471" />
       <file name="$USER_HOME$/dev/pspk/auth/src/main/java/com/integ/core/auth/jwt/GenerateKey.java" timestamp="1545167258464">
         <mark key="'" line="56" column="35" />
         <mark key="[" line="43" column="4" />
@@ -573,13 +572,6 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr/pmgr-api/pom.xml" timestamp="1553025966639">
-        <mark key="'" line="115" column="48" />
-        <mark key="[" line="138" column="25" />
-        <mark key="]" line="138" column="26" />
-        <mark key="." line="138" column="26" />
-        <mark key="^" line="49" column="36" />
-      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/AepTestModule.java" timestamp="1533841916315">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="28" column="13" />
@@ -653,7 +645,6 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr/pmgr-api/src/test/java/com/integ/pmgr/AliveTest.java" timestamp="1553011979558" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/Alive.java" timestamp="1511899179088">
         <mark key="[" line="100" column="68" />
         <mark key="]" line="100" column="5" />
