@@ -584,11 +584,12 @@
         <mark key="." line="27" column="41" />
         <mark key="^" line="27" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1552920966265">
+      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1553186740188">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="35" column="4" />
-        <mark key="]" line="35" column="4" />
-        <mark key="." line="35" column="4" />
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="." line="41" column="4" />
+        <mark key="^" line="40" column="5" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcFormulaDef.java" timestamp="1535396987233">
         <mark key="[" line="47" column="18" />
@@ -1178,8 +1179,8 @@
       <jump line="115" column="48" filename="$USER_HOME$/dev/pmgr/pmgr-api/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YmV0dGVyIG1lc3NhZ2luCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1274,7 +1275,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>/</text>
       </register>
       <register name="n" type="4">
         <keys>
