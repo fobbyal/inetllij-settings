@@ -149,6 +149,7 @@
         <mark key="." line="269" column="46" />
         <mark key="^" line="269" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete/framework/dao/statement/DataExportProcess.java" timestamp="1553713505625" />
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/immutables/JobRunResponseDef.java" timestamp="1511898432544">
         <mark key="[" line="28" column="19" />
         <mark key="]" line="28" column="19" />
@@ -210,6 +211,10 @@
         <mark key="]" line="50" column="59" />
         <mark key="^" line="50" column="59" />
         <mark key="." line="50" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/framework/server/io/CommentedReportWriter.java" timestamp="1553713547677">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="180" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/data-miner2/src/main/java/com/integ/core/dataminer2/api/HourlyEstimatedLoadApi.java" timestamp="1512664012239">
         <mark key="[" line="38" column="0" />
@@ -511,6 +516,9 @@
         <mark key="^" line="51" column="3" />
         <mark key="." line="51" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete/basicdatamanagement/dao/TableDAO.java" timestamp="1553714370350">
+        <mark key="'" line="48" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/match/IncreCostMather.java" timestamp="1539203586166">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -560,6 +568,9 @@
         <mark key="." line="103" column="71" />
         <mark key="^" line="103" column="71" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete/framework/dao/CommonDAO.java" timestamp="1553712693427">
+        <mark key="'" line="142" column="46" />
+      </file>
       <file name="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/java/com/integ/core/jackson/AsGmtDeserializer.java" timestamp="1543424799226">
         <mark key="[" line="16" column="46" />
         <mark key="]" line="16" column="46" />
@@ -580,11 +591,11 @@
       </file>
       <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1553700916249">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="4" />
-        <mark key="." line="41" column="4" />
-        <mark key="^" line="40" column="5" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="." line="35" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/framework/server/io/DBFileWriter.java" timestamp="1553712869750" />
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcFormulaDef.java" timestamp="1535396987233">
         <mark key="[" line="47" column="18" />
         <mark key="]" line="48" column="14" />
@@ -664,6 +675,10 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/framework/server/io/CustomFileWriter.java" timestamp="1553713689580">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="259" />
       </file>
       <file name="$USER_HOME$/dev/aps/aps-unit-avail/debug.conf" timestamp="1542645591456">
         <mark key="[" line="13" column="14" />
@@ -809,6 +824,7 @@
         <mark key="^" line="35" column="77" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/framework/server/io/DefaultDBWriter.java" timestamp="1553713180808" />
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/QuartzSchedulerProvider.java" timestamp="1511896648390">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="14" />
@@ -838,6 +854,10 @@
         <mark key="]" line="14" column="52" />
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
+      </file>
+      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/framework/server/io/GadsDefaultDBWriter.java" timestamp="1553712819618">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="183" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/RoleAssignment.java" timestamp="1520538015432">
         <mark key="[" line="9" column="31" />
@@ -1062,8 +1082,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/spp-mitg-ct.solver" />
-      <jump line="28" column="19" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/spp-mitg-ct.solver" />
       <jump line="27" column="49" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/spp-mitg-steam.solver" />
       <jump line="28" column="36" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/spp-repl-steam.solver" />
       <jump line="27" column="59" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/spp-repl-ct.solver" />
@@ -1162,10 +1180,12 @@
       <jump line="9" column="30" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/WaitForDbStart.java" />
       <jump line="155" column="39" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/DBTools.java" />
       <jump line="115" column="48" filename="$USER_HOME$/dev/pmgr/pmgr-api/pom.xml" />
+      <jump line="142" column="46" filename="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete/framework/dao/CommonDAO.java" />
+      <jump line="48" column="19" filename="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete/basicdatamanagement/dao/TableDAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RtdCA9IGNvbi5wcmVwYXJlU3RhdGVtZW50KCJpbnNlcnQgaW50byAiICsgY29uZmlnLmdldFRhYmxlTmFtZSgpICsgIiAoIiArIGNvbmZpZy5nZXRGaWxlTmFtZUNvbCgpICsgIiwiICsgY29uZmlnLmdldFNvdXJjZVR5cGVDb2woKSArICIsIiArIGNvbmZpZy5nZXRJZGVudENvbCgpICsgIiwiICsgZ2V0RGF0YUNvbCgpICsgIixkYXRhX3NpemUsZGF0YV90aW1lc3RhbXApIHZhbHVlcyAoPyw/LD8sZW1wdHlfYmxvYigpLD8sPykiKTsK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1325,13 +1345,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>db</text>
+        <text encoding="base64">XDxzZWxlY3RTdHJpbmdcPg==</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhvc3QgaXM6ICIrU3lzdGVtLmdldFByb3BlcnR5KCJwbWdyLmRzLmhvc3QiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RtdCA9IGNvbi5wcmVwYXJlU3RhdGVtZW50KCJpbnNlcnQgaW50byAiICsgY29uZmlnLmdldFRhYmxlTmFtZSgpICsgIiAoIiArIGNvbmZpZy5nZXRGaWxlTmFtZUNvbCgpICsgIiwiICsgY29uZmlnLmdldFNvdXJjZVR5cGVDb2woKSArICIsIiArIGNvbmZpZy5nZXRJZGVudENvbCgpICsgIiwiICsgZ2V0RGF0YUNvbCgpICsgIixkYXRhX3NpemUsZGF0YV90aW1lc3RhbXApIHZhbHVlcyAoPyw/LD8sZW1wdHlfYmxvYigpLD8sPykiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YmV0dGVyIG1lc3NhZ2luCg==</text>
@@ -1386,13 +1406,13 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>90</text>
       </register>
     </registers>
     <search>
-      <last-search>db</last-search>
+      <last-search encoding="base64">XDxzZWxlY3RTdHJpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern>db</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxlY3RTdHJpbmdcPg==</last-pattern>
       <last-replace>PMGR</last-replace>
       <last-substitute>REST_SEED</last-substitute>
       <last-dir>1</last-dir>
@@ -1400,7 +1420,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPdmVycmlkZU5vTG9hZENvc3RfQ1RcPg==</entry>
         <entry>zip</entry>
         <entry>calculate</entry>
         <entry>publish</entry>
@@ -1420,12 +1439,9 @@
         <entry encoding="base64">XDxyZWNvcmRQdWJsaXNoXD4=</entry>
         <entry encoding="base64">XDxhcmdzXD4=</entry>
         <entry>db</entry>
+        <entry encoding="base64">XDxzZWxlY3RTdHJpbmdcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>aw</entry>
-        <entry>action CompileDirty</entry>
-        <entry encoding="base64">JzwsJz4lcy9SRVNUX1NFRUQvUE1HUi9n</entry>
-        <entry>1152</entry>
         <entry>485</entry>
         <entry>action InsertLiveTemplate</entry>
         <entry>414</entry>
@@ -1442,6 +1458,10 @@
         <entry>a</entry>
         <entry>action CheckinProject</entry>
         <entry>wa</entry>
+        <entry>143</entry>
+        <entry>21</entry>
+        <entry>37</entry>
+        <entry>90</entry>
       </history-cmd>
       <history-expr />
       <history-input />
