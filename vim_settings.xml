@@ -377,6 +377,11 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/jc-jdk8/jcomplete-dev/src/main/java/com/integ/dev/NoAuthenticationAuthenticator.java" timestamp="1553795175478">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/gads40/Gads40.kt" timestamp="1539022163706">
         <mark key="[" line="51" column="36" />
         <mark key="]" line="51" column="36" />
@@ -841,6 +846,11 @@
         <mark key="^" line="35" column="77" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/bkf-pmgr/jcomplete/src/main/java/com/integ/dev/NoAuthenticationAuthenticator.java" timestamp="1553795179579">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/QuartzSchedulerProvider.java" timestamp="1511896648390">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="14" />
@@ -1084,7 +1094,7 @@
         <mark key="." line="11" column="48" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1553794943552">
+      <file name="/fragment.java" timestamp="1553795210548">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="31" />
         <mark key="^" line="1" column="31" />
@@ -1098,8 +1108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="17" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
-      <jump line="211" column="17" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
       <jump line="213" column="17" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
       <jump line="202" column="20" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
       <jump line="78" column="65" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
@@ -1198,10 +1206,12 @@
       <jump line="36" column="39" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.xml" />
       <jump line="81" column="0" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.xml" />
+      <jump line="23" column="18" filename="$USER_HOME$/dev/jc-jdk8/jcomplete-dev/src/main/java/com/integ/dev/NoAuthenticationAuthenticator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/jc-jdk8/jcomplete-dev/src/main/java/com/integ/dev/NoAuthenticationAuthenticator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PROG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20uaW50ZWcuZGV2OwoKcHVibGljIGNsYXNzIE5vQXV0aGVudGljYXRpb25BdXRoZW50aWNhdG9yIHsKfQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1366,38 +1376,38 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PERBVEFCQVNFIERBVEFTT1VSQ0VOQU1FPSJBRVBERVZEQVRBU09VUkNFIgogICAgICAgICAgICAgIERBVEFCQVNFVVJMPSIiCiAgICAgICAgICAgICAgREFUQUJBU0VTQ0hFTUE9IlBCS1IiIERBVEFCQVNFVVNFUj0iUEJLUiIgREFUQUJBU0VQQVNTV09SRD0iUEJLUiIKICAgICAgICAgICAgICBEQVRBQkFTRUZVTExVUkw9ImpkYmM6b3JhY2xlOnRoaW46QElFQ1NWUkRCMTIuaW50ZWdlYy5jb206MTUyMTpBRVBDTyIvPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20uaW50ZWcuZGV2OwoKaW1wb3J0IGNvbS5pbnRlZy5qY29tcGxldGUyLmF1dGhlbnRpY2F0aW9uLmNsaWVudC5EZWZhdWx0QXV0aGVudGljYXRvcjsKaW1wb3J0IGNvbS5pbnRlZy5qY29tcGxldGUyLmF1dGhlbnRpY2F0aW9uLmNsaWVudC5Mb2dpblNwbGFzaEZyYW1lOwppbXBvcnQgY29tLmludGVnLmpjb21wbGV0ZTIuZnJhbWV3b3JrLmNsaWVudC5mcmFtZS5DaGFuZ2VQYXNzQWN0aW9uOwppbXBvcnQgY29tLmludGVnLmpjb21wbGV0ZTIuaW5pdGlhbGl6YXRpb24uY2xpZW50LlN5c3RlbUluaXRpYWxpemVyOwoKaW1wb3J0IGphdmF4LnN3aW5nLio7CmltcG9ydCBqYXZhLnV0aWwuTWFwOwoKLyoqCiAqIENyZWF0ZWQgd2l0aCBJbnRlbGxpSiBJREVBLgogKiBVc2VyOiBhbGlhbmcKICogRGF0ZTogMTEvMTYvMjAxNgogKiBUaW1lOiAzOjI4IFBNCiAqLwpwdWJsaWMgY2xhc3MgTm9BdXRoZW50aWNhdGlvbkF1dGhlbnRpY2F0b3IgZXh0ZW5kcyBEZWZhdWx0QXV0aGVudGljYXRvciB7CiAgICBwdWJsaWMgTm9BdXRoZW50aWNhdGlvbkF1dGhlbnRpY2F0b3IoTWFwIGxvZ2luSW5mbywgTG9naW5TcGxhc2hGcmFtZSBsb2dpbkZyYW1lLCBTeXN0ZW1Jbml0aWFsaXplciBpbml0aWFsaXplcikgewogICAgICAgIHN1cGVyKGxvZ2luSW5mbyxsb2dpbkZyYW1lLGluaXRpYWxpemVyKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGF1dGhlbnRpY2F0ZSgpIHsKICAgICAgICAvL2RvTm90aGluZwoKCiAgICAgICAgZG9CYXNpY0pDTG9naW4oKTsKICAgIH0KCiAgICBwdWJsaWMgQ2hhbmdlUGFzc0FjdGlvbiBjcmVhdGVDaGFuZ2VQYXNzd29yZEFjdGlvbihKRnJhbWUgbG9naW5GcmFtZSkgewogICAgICAgIHJldHVybiBuZXcgQ2hhbmdlUGFzc0FjdGlvbihsb2dpbkZyYW1lKTsKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PERBVEFCQVNFIERBVEFTT1VSQ0VOQU1FPSJia2YtcG1nci1zYi1kcyIgREFUQUJBU0VTQ0hFTUE9IkJLRlBNR1JfU0IiLz4K</text>
+        <text encoding="base64">cGFja2FnZSBjb20uaW50ZWcuZGV2OwoKcHVibGljIGNsYXNzIE5vQXV0aGVudGljYXRpb25BdXRoZW50aWNhdG9yIHsKfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmV0dGVyIG1lc3NhZ2luCg==</text>
+        <text encoding="base64">PERBVEFCQVNFIERBVEFTT1VSQ0VOQU1FPSJia2YtcG1nci1zYi1kcyIgREFUQUJBU0VTQ0hFTUE9IkJLRlBNR1JfU0IiLz4K</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWRkZWQgYWJpbGl0eSB0byBjYWxsIFdhaXRGb3JEYlN0YXJ0IHdpdGggbm8gYXJncwo=</text>
+        <text encoding="base64">YmV0dGVyIG1lc3NhZ2luCg==</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">YWRkZWQgYWJpbGl0eSB0byBjYWxsIFdhaXRGb3JEYlN0YXJ0IHdpdGggbm8gYXJncwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkZWQgb3B0aW9uIHRvIHdhaXQgZm9yIGRiIHdpdGggbm8gYXJncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmVtb3ZlZCBhcmcK</text>
+        <text encoding="base64">YWRkZWQgb3B0aW9uIHRvIHdhaXQgZm9yIGRiIHdpdGggbm8gYXJncwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmtpZyA9IENvbgo=</text>
+        <text encoding="base64">cmVtb3ZlZCBhcmcK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1410,13 +1420,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJVc2FnZTogamF2YSAtY3AgamFyLXBhdGggY29tLmludGVnLmRiLldhaXRGb3JEYlN0YXJ0ICAjZGIuY29uZmlnLnBhdGgjIik7CiAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uZmtpZyA9IENvbgo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uZmlnRmFjdG9yeS5sb2FkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJVc2FnZTogamF2YSAtY3AgamFyLXBhdGggY29tLmludGVnLmRiLldhaXRGb3JEYlN0YXJ0ICAjZGIuY29uZmlnLnBhdGgjIik7CiAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
