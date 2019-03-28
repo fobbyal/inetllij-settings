@@ -827,6 +827,10 @@
         <mark key="." line="36" column="35" />
         <mark key="^" line="36" column="35" />
       </file>
+      <file name="$USER_HOME$/dev/jc-jdk8/pbroker/props/pbpjm-aep-dev.xml" timestamp="1553795240436">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="72" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/immutables/UnitHourlyKeyDef.java" timestamp="1521148500199">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="13" column="19" />
@@ -1211,7 +1215,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uaW50ZWcuZGV2OwoKcHVibGljIGNsYXNzIE5vQXV0aGVudGljYXRpb25BdXRoZW50aWNhdG9yIHsKfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIExPR0lOX1ZBTElEQVRPUj0iY29tLmludGVnLmRldi5Ob1ZhbGlkYXRpb25WYWxpZGF0b3IiCg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1377,7 +1381,7 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uaW50ZWcuZGV2OwoKaW1wb3J0IGNvbS5pbnRlZy5qY29tcGxldGUyLmF1dGhlbnRpY2F0aW9uLmNsaWVudC5EZWZhdWx0QXV0aGVudGljYXRvcjsKaW1wb3J0IGNvbS5pbnRlZy5qY29tcGxldGUyLmF1dGhlbnRpY2F0aW9uLmNsaWVudC5Mb2dpblNwbGFzaEZyYW1lOwppbXBvcnQgY29tLmludGVnLmpjb21wbGV0ZTIuZnJhbWV3b3JrLmNsaWVudC5mcmFtZS5DaGFuZ2VQYXNzQWN0aW9uOwppbXBvcnQgY29tLmludGVnLmpjb21wbGV0ZTIuaW5pdGlhbGl6YXRpb24uY2xpZW50LlN5c3RlbUluaXRpYWxpemVyOwoKaW1wb3J0IGphdmF4LnN3aW5nLio7CmltcG9ydCBqYXZhLnV0aWwuTWFwOwoKLyoqCiAqIENyZWF0ZWQgd2l0aCBJbnRlbGxpSiBJREVBLgogKiBVc2VyOiBhbGlhbmcKICogRGF0ZTogMTEvMTYvMjAxNgogKiBUaW1lOiAzOjI4IFBNCiAqLwpwdWJsaWMgY2xhc3MgTm9BdXRoZW50aWNhdGlvbkF1dGhlbnRpY2F0b3IgZXh0ZW5kcyBEZWZhdWx0QXV0aGVudGljYXRvciB7CiAgICBwdWJsaWMgTm9BdXRoZW50aWNhdGlvbkF1dGhlbnRpY2F0b3IoTWFwIGxvZ2luSW5mbywgTG9naW5TcGxhc2hGcmFtZSBsb2dpbkZyYW1lLCBTeXN0ZW1Jbml0aWFsaXplciBpbml0aWFsaXplcikgewogICAgICAgIHN1cGVyKGxvZ2luSW5mbyxsb2dpbkZyYW1lLGluaXRpYWxpemVyKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyB2b2lkIGF1dGhlbnRpY2F0ZSgpIHsKICAgICAgICAvL2RvTm90aGluZwoKCiAgICAgICAgZG9CYXNpY0pDTG9naW4oKTsKICAgIH0KCiAgICBwdWJsaWMgQ2hhbmdlUGFzc0FjdGlvbiBjcmVhdGVDaGFuZ2VQYXNzd29yZEFjdGlvbihKRnJhbWUgbG9naW5GcmFtZSkgewogICAgICAgIHJldHVybiBuZXcgQ2hhbmdlUGFzc0FjdGlvbihsb2dpbkZyYW1lKTsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIExPR0lOX1ZBTElEQVRPUj0iY29tLmludGVnLmRldi5Ob1ZhbGlkYXRpb25WYWxpZGF0b3IiCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGFja2FnZSBjb20uaW50ZWcuZGV2OwoKcHVibGljIGNsYXNzIE5vQXV0aGVudGljYXRpb25BdXRoZW50aWNhdG9yIHsKfQo=</text>
