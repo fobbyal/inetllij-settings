@@ -365,10 +365,6 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/framework/server/io/CustomFileWriter.java" timestamp="1553713689580">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="259" />
-      </file>
       <file name="$USER_HOME$/dev/aps/aps-unit-avail/debug.conf" timestamp="1542645591456">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="17" />
@@ -509,6 +505,12 @@
         <mark key="." line="439" column="0" />
         <mark key="^" line="561" column="47" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.database/schema/Generate Immutables.groovy" timestamp="1554141059488">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="^" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DailyLoadDef.java" timestamp="1527010457185">
         <mark key="[" line="27" column="20" />
         <mark key="]" line="29" column="23" />
@@ -648,10 +650,6 @@
         <mark key="]" line="50" column="59" />
         <mark key="^" line="50" column="59" />
         <mark key="." line="50" column="59" />
-      </file>
-      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/framework/server/io/CommentedReportWriter.java" timestamp="1553713547677">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="180" />
       </file>
       <file name="$USER_HOME$/dev/bkf-pmgr/bkf-implementation/java/src/com/integ/pmgr/client/PMGRInitializer.java" timestamp="1553801440386" />
       <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/ApiTest.java" timestamp="1531756300814">
@@ -947,10 +945,6 @@
         <mark key="." line="36" column="35" />
         <mark key="^" line="36" column="35" />
       </file>
-      <file name="$USER_HOME$/dev/jc-jdk8/pbroker/props/pbpjm-aep-dev.xml" timestamp="1553795277822">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="72" />
-      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/immutables/UnitHourlyKeyDef.java" timestamp="1521148500199">
         <mark key="[" line="12" column="21" />
         <mark key="]" line="13" column="19" />
@@ -994,10 +988,6 @@
         <mark key="]" line="14" column="52" />
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/framework/server/io/GadsDefaultDBWriter.java" timestamp="1553712819618">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="183" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/RoleAssignment.java" timestamp="1520538015432">
         <mark key="[" line="9" column="31" />
@@ -1446,7 +1436,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1500,8 +1490,8 @@
         <entry>35</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action CompileDirty</entry>
-        <entry>wa</entry>
         <entry>action CheckinProject</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
