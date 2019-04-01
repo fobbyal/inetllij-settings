@@ -16,11 +16,11 @@
         <mark key="^" line="80" column="41" />
         <mark key="." line="80" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1550071897118">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="3" />
+      <file name="/a.dummy" timestamp="1554144549059">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/db/integ-scheduler.sql" timestamp="1512665879880">
         <mark key="[" line="17" column="20" />
@@ -854,12 +854,12 @@
         <mark key="." line="23" column="67" />
         <mark key="^" line="23" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" timestamp="1554142245182">
-        <mark key="'" line="44" column="47" />
-        <mark key="[" line="44" column="52" />
-        <mark key="]" line="44" column="52" />
-        <mark key="." line="44" column="52" />
-        <mark key="^" line="44" column="52" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" timestamp="1554144582901">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="122" column="41" />
+        <mark key="]" line="122" column="43" />
+        <mark key="^" line="122" column="43" />
+        <mark key="." line="122" column="43" />
       </file>
       <file name="$USER_HOME$/dev/pspk/auth/src/main/java/com/integ/core/auth/AuthTools.java" timestamp="1545168316577">
         <mark key="'" line="48" column="31" />
@@ -1131,13 +1131,6 @@
       <file name="$USER_HOME$/dev/bkf-pmgr/bkf-implementation/java/src/com/integ/pmgr/outage/server/OutageTicketDAO.java" timestamp="1553798492352" />
     </filemarks>
     <jumps>
-      <jump line="18" column="27" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
-      <jump line="7" column="57" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/SPPIMDataSource.java" />
-      <jump line="38" column="36" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
-      <jump line="72" column="25" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
-      <jump line="299" column="15" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
-      <jump line="415" column="15" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
-      <jump line="638" column="15" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" />
       <jump line="116" column="17" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
       <jump line="50" column="47" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
       <jump line="84" column="30" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
@@ -1231,10 +1224,17 @@
       <jump line="60" column="49" filename="$USER_HOME$/dev/bkf-pmgr/jcomplete/src/main/java/com/integ/jcomplete/framework/util/TimeUtil.java" />
       <jump line="47" column="101" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
       <jump line="44" column="47" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
+      <jump line="46" column="39" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
+      <jump line="112" column="54" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
+      <jump line="115" column="22" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
+      <jump line="120" column="43" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>message</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1329,7 +1329,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>message</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1400,37 +1400,37 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZS5QYXJhbWV0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEZvcmJpZGRlbkV4Y2VwdGlvbihtZXNzYWdlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cHMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZvaWQgCg==</text>
+        <text encoding="base64">Z2V0UGFpclN0cmVhbQo=</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICAvL1N0cmluZyBtZXNzYWdlID0gIkFjY2VzcyBkZW5pZWQ6ICIgKyByb2xlICsgIiBpcyBub3QgYXNzaWduZWQgb24gWyIgKyByZXNvdXJjZVR5cGUgKyAiOiIgKyByZXNvdXJjZUlkICsgIl0iOwovLyAgICAgICAgaWYgKCFpc1Blcm1pdHRlZChyb2xlLCByZXNvdXJjZVR5cGUsIHJlc291cmNlSWQpKSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IEZvcmJpZGRlbkV4Y2VwdGlvbihtZXNzYWdlKTsKLy8gICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb2xlCg==</text>
+        <text encoding="base64">ICAgICAgICAvLy5yZWR1Y2UoZW1wdHlTdHJpbmcsKGEsYikgLT4gKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBhbGxSb2xlcyA9IGdyb3Vwcy5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZsYXRNYXAoZyAtPiBnLnJvbGVzKCkuc3RyZWFtKCkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1443,19 +1443,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U3RyaW5nPiBhbGxSb2xlcyA9IGdyb3Vwcy5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZsYXRNYXAoZyAtPiBnLnJvbGVzKCkuc3RyZWFtKCkpCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZW1wdHlTdHJpbmc9IiIK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Compile</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1496,7 +1496,6 @@
         <entry>reg</entry>
         <entry>action AceAction</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>w</entry>
         <entry>action Rerun</entry>
         <entry>a</entry>
         <entry>143</entry>
@@ -1506,11 +1505,12 @@
         <entry>35</entry>
         <entry>action CompileDirty</entry>
         <entry>action CheckinProject</entry>
-        <entry>action IntroduceVariable</entry>
+        <entry>action Compile</entry>
         <entry>action RenameElement</entry>
+        <entry>w</entry>
+        <entry>action IntroduceVariable</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
-        <entry>action Compile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
