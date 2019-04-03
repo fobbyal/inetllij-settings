@@ -485,7 +485,7 @@
         <mark key="." line="31" column="5" />
         <mark key="^" line="31" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554151360207">
+      <file name="/Dummy.txt" timestamp="1554321376190">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="20" />
@@ -541,7 +541,7 @@
         <mark key="." line="11" column="48" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1553801022585">
+      <file name="/fragment.java" timestamp="1554321380674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="31" />
         <mark key="^" line="1" column="31" />
@@ -838,6 +838,13 @@
         <mark key="]" line="16" column="46" />
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/AliveTest.java" timestamp="1554320749355">
+        <mark key="'" line="233" column="40" />
+        <mark key="[" line="60" column="54" />
+        <mark key="]" line="60" column="54" />
+        <mark key="." line="60" column="54" />
+        <mark key="^" line="60" column="54" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcFormulaDef.java" timestamp="1535396987233">
         <mark key="[" line="47" column="18" />
@@ -1148,7 +1155,6 @@
       <file name="$USER_HOME$/dev/bkf-pmgr/bkf-implementation/java/src/com/integ/pmgr/outage/server/OutageTicketDAO.java" timestamp="1553798492352" />
     </filemarks>
     <jumps>
-      <jump line="116" column="17" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
       <jump line="50" column="47" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
       <jump line="84" column="30" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
       <jump line="100" column="8" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/PspkServices.java" />
@@ -1248,10 +1254,11 @@
       <jump line="115" column="22" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
       <jump line="120" column="43" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
+      <jump line="218" column="40" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/AliveTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgogICAgICAgIDxwYWNrYWdpbmcudHlwZT5qYXI8L3BhY2thZ2luZy50eXBlPgogICAgICAgIDxzbGY0ai52ZXJzaW9uPjEuNy4xNjwvc2xmNGoudmVyc2lvbj4KICAgICAgICA8bG9nYmFjay52ZXJzaW9uPjEuMS41PC9sb2diYWNrLnZlcnNpb24+CiAgICAgICAgPGphY2tzb24yLnZlcnNpb24+Mi44LjE8L2phY2tzb24yLnZlcnNpb24+CiAgICAgICAgPGplcnNleS52ZXJzaW9uPjIuMjIuMTwvamVyc2V5LnZlcnNpb24+CiAgICAgICAgPEhpa2FyaUNQLnZlcnNpb24+Mi40LjU8L0hpa2FyaUNQLnZlcnNpb24+CiAgICAgICAgPG1hdmVuLmNvbXBpbGVyLnNvdXJjZT4xLjg8L21hdmVuLmNvbXBpbGVyLnNvdXJjZT4KICAgICAgICA8bWF2ZW4uY29tcGlsZXIudGFyZ2V0PjEuODwvbWF2ZW4uY29tcGlsZXIudGFyZ2V0PgogICAgICAgIDxwcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPlVURi04PC9wcm9qZWN0LmJ1aWxkLnNvdXJjZUVuY29kaW5nPgogICAgICAgIDxwbWdyLmRzLmhvc3Q+bG9jYWxob3N0PC9wbWdyLmRzLmhvc3Q+CiAgICAgICAgPHBtZ3IuZHMucG9ydD40OTE5MTwvcG1nci5kcy5wb3J0PgogICAgPC9wcm9wZXJ0aWVzPgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;integ.auth.godMode&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1346,7 +1353,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>master</text>
+        <text>originalGodModeOption</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1416,38 +1423,38 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNYXBwZXIoaWdub3JlRnJvbURiID0gdHJ1ZSwgaWdub3JlVG9EYiA9IHRydWUpCg==</text>
+      <register name="0" type="4">
+        <text>&quot;integ.auth.godMode&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2hhbmdlIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZihvcmlnaW5hbEdvZE1vZGVPcHRpb24pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihvcmlnaW5hbEdvZE1vZGVPcHRpb24pCg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Z2V0UGFpclN0cmVhbQo=</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL1N0cmluZyBtZXNzYWdlID0gIkFjY2VzcyBkZW5pZWQ6ICIgKyByb2xlICsgIiBpcyBub3QgYXNzaWduZWQgb24gWyIgKyByZXNvdXJjZVR5cGUgKyAiOiIgKyByZXNvdXJjZUlkICsgIl0iOwovLyAgICAgICAgaWYgKCFpc1Blcm1pdHRlZChyb2xlLCByZXNvdXJjZVR5cGUsIHJlc291cmNlSWQpKSB7Ci8vICAgICAgICAgICAgdGhyb3cgbmV3IEZvcmJpZGRlbkV4Y2VwdGlvbihtZXNzYWdlKTsKLy8gICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3lzdGVtLmdldFByb3BlcnR5KCJpbnRlZy5hdXRoLmdvZE1vZGUiKSA9PSBudWxsIHx8CiAgICAgICAgICAgICAgICAhU3lzdGVtLmdldFByb3BlcnR5KCJpbnRlZy5hdXRoLmdvZE1vZGUiKS5lcXVhbHNJZ25vcmVDYXNlKCJmYWxzZSIpKQogICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImludGVnLmF1dGguZ29kTW9kZSIsICJmYWxzZSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJpbnRlZy5hdXRoLmdvZE1vZGUiLCAidHJ1ZSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLy5yZWR1Y2UoZW1wdHlTdHJpbmcsKGEsYikgLT4gKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1460,19 +1467,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25maWdGYWN0b3J5LmludmFsaWRhdGVDYWNoZXMoKTsK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action Rerun</text>
       </register>
     </registers>
     <search>
@@ -1508,12 +1515,10 @@
         <entry encoding="base64">XDxkYlRpbWVab25lSWRNYXBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>414</entry>
         <entry>wa'</entry>
         <entry>reg</entry>
         <entry>action AceAction</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>action Rerun</entry>
         <entry>a</entry>
         <entry>143</entry>
         <entry>21</entry>
@@ -1522,12 +1527,14 @@
         <entry>35</entry>
         <entry>action CompileDirty</entry>
         <entry>action Compile</entry>
-        <entry>action RenameElement</entry>
         <entry>w</entry>
         <entry>action IntroduceVariable</entry>
-        <entry>action ReformatCode</entry>
         <entry>action CheckinProject</entry>
+        <entry>220</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ReformatCode</entry>
         <entry>wa</entry>
+        <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
       <history-input />
