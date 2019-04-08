@@ -839,13 +839,6 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/AliveTest.java" timestamp="1554320749355">
-        <mark key="'" line="233" column="40" />
-        <mark key="[" line="60" column="54" />
-        <mark key="]" line="60" column="54" />
-        <mark key="." line="60" column="54" />
-        <mark key="^" line="60" column="54" />
-      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcFormulaDef.java" timestamp="1535396987233">
         <mark key="[" line="47" column="18" />
         <mark key="]" line="48" column="14" />
@@ -863,6 +856,11 @@
         <mark key="]" line="53" column="2" />
         <mark key="^" line="48" column="3" />
         <mark key="." line="48" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/PmgrApiTest.java" timestamp="1554734158943">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/PlantHandlingCostDef.java" timestamp="1533049294953">
         <mark key="[" line="23" column="59" />
@@ -1026,11 +1024,6 @@
         <mark key="]" line="14" column="52" />
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/immutables/SecurityGroupDef.java" timestamp="1554151958001">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="51" />
-        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/immutables/RoleAssignment.java" timestamp="1520538015432">
         <mark key="[" line="9" column="31" />
@@ -1257,8 +1250,8 @@
       <jump line="218" column="40" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/AliveTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;integ.auth.godMode&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICBwcm90ZWN0ZWQgSW52b2NhdGlvbi5CdWlsZGVyIHdpdGhBZG1pbkhlYWRlcihXZWJUYXJnZXQgdGFyZ2V0KSB7CiAgICAgICAgcmV0dXJuIHRhcmdldAogICAgICAgICAgICAgICAgLnJlcXVlc3QoKQogICAgICAgICAgICAgICAgLmhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJKV1QgIiArIGFkbWluand0KTsKICAgIH0K</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1424,37 +1417,38 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;integ.auth.godMode&quot;</text>
+        <text encoding="base64">IHByb3RlY3RlZCBJbnZvY2F0aW9uLkJ1aWxkZXIgd2l0aEFkbWluSGVhZGVyKFdlYlRhcmdldCB0YXJnZXQpIHsKICAgICAgICByZXR1cm4gdGFyZ2V0CiAgICAgICAgICAgICAgICAucmVxdWVzdCgpCiAgICAgICAgICAgICAgICAuaGVhZGVyKCJBdXRob3JpemF0aW9uIiwgIkpXVCAiICsgYWRtaW5qd3QpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZihvcmlnaW5hbEdvZE1vZGVPcHRpb24pCg==</text>
+        <text encoding="base64">ICAgICBwcm90ZWN0ZWQgSW52b2NhdGlvbi5CdWlsZGVyIHdpdGhBZG1pbkhlYWRlcihXZWJUYXJnZXQgdGFyZ2V0KSB7CiAgICAgICAgcmV0dXJuIHRhcmdldAogICAgICAgICAgICAgICAgLnJlcXVlc3QoKQogICAgICAgICAgICAgICAgLmhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJKV1QgIiArIGFkbWluand0KTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZihvcmlnaW5hbEdvZE1vZGVPcHRpb24pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGFyZ2V0Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXF1ZXN0KCkK</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>target
+                .request()</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoU3lzdGVtLmdldFByb3BlcnR5KCJpbnRlZy5hdXRoLmdvZE1vZGUiKSA9PSBudWxsIHx8CiAgICAgICAgICAgICAgICAhU3lzdGVtLmdldFByb3BlcnR5KCJpbnRlZy5hdXRoLmdvZE1vZGUiKS5lcXVhbHNJZ25vcmVDYXNlKCJmYWxzZSIpKQogICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImludGVnLmF1dGguZ29kTW9kZSIsICJmYWxzZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihvcmlnaW5hbEdvZE1vZGVPcHRpb24pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJpbnRlZy5hdXRoLmdvZE1vZGUiLCAidHJ1ZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihvcmlnaW5hbEdvZE1vZGVPcHRpb24pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1467,13 +1461,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb25maWdGYWN0b3J5LmludmFsaWRhdGVDYWNoZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3lzdGVtLmdldFByb3BlcnR5KCJpbnRlZy5hdXRoLmdvZE1vZGUiKSA9PSBudWxsIHx8CiAgICAgICAgICAgICAgICAhU3lzdGVtLmdldFByb3BlcnR5KCJpbnRlZy5hdXRoLmdvZE1vZGUiKS5lcXVhbHNJZ25vcmVDYXNlKCJmYWxzZSIpKQogICAgICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoImludGVnLmF1dGguZ29kTW9kZSIsICJmYWxzZSIpOwo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
