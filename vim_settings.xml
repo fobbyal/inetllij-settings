@@ -366,6 +366,10 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/pom.xml" timestamp="1554927217961">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="104" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/aps/aps-unit-avail/debug.conf" timestamp="1542645591456">
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="17" />
@@ -679,6 +683,7 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/integ/core/auth/2.2.0/auth-2.2.0.jar!/reference.conf" timestamp="1554926753810" />
       <file name="$USER_HOME$/dev/pspk/db-util/src/main/java/com/integ/data/immutables/DataOperationDef.java" timestamp="1548701491754">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="34" />
@@ -829,6 +834,7 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
       </file>
+      <file name="$USER_HOME$/dev/pmgr-api/Dockerfile" timestamp="1554926792599" />
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcFormulaDef.java" timestamp="1535396987233">
         <mark key="[" line="47" column="18" />
         <mark key="]" line="48" column="14" />
@@ -869,10 +875,6 @@
         <mark key="]" line="15" column="24" />
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/legacy/pbroker/props/pbpjm-aep-dev.xml" timestamp="1553794297433">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="16" column="84" />
       </file>
       <file name="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/gads40/vcsRoots/AepGadsUIGit.kt" timestamp="1539016197427">
         <mark key="[" line="8" column="57" />
@@ -931,9 +933,10 @@
         <mark key="^" line="66" column="1" />
         <mark key="." line="66" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/pom.xml" timestamp="1554224797279">
-        <mark key="[" line="374" column="0" />
-        <mark key="]" line="386" column="16" />
+      <file name="$USER_HOME$/dev/pmgr-api/pom.xml" timestamp="1554927221793">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="92" column="54" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/auth/advanced/ResourceSecurityDataAccessTest.java" timestamp="1554912099687" />
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/UnitInputOverrideDef.java" timestamp="1540936113293">
@@ -987,6 +990,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="35" column="77" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/bkf-pmgr/jcomplete/src/main/java/com/integ/dev/NoAuthenticationAuthenticator.java" timestamp="1553795179579">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gads-4.0/pgads-api/src/test/java/com/integ/restful/pgads/api/PowerGADSApiTest.java" timestamp="1541531921142">
         <mark key="[" line="23" column="29" />
@@ -1237,7 +1245,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29udGludWUgdG8gd29yayBob21lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHJhbnNmb3JtZXIgaW1wbGVtZW50YXRpb249Im9yZy5hcGFjaGUubWF2ZW4ucGx1Z2lucy5zaGFkZS5yZXNvdXJjZS5BcHBlbmRpbmdUcmFuc2Zvcm1lciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxyZXNvdXJjZT5yZWZlcmVuY2UuY29uZjwvcmVzb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cmFuc2Zvcm1lcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHJhbnNmb3JtZXIgaW1wbGVtZW50YXRpb249Im9yZy5hcGFjaGUubWF2ZW4ucGx1Z2lucy5zaGFkZS5yZXNvdXJjZS5BcHBlbmRpbmdUcmFuc2Zvcm1lciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxyZXNvdXJjZT5hcHBsaWNhdGlvbi5jb25mPC9yZXNvdXJjZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyYW5zZm9ybWVyPgo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1397,13 +1405,13 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYlRpbWVab25lSWRNYXBcPg==</text>
+        <text>pasword</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCBJbnZvY2F0aW9uLkJ1aWxkZXIgd2l0aFNlY3VyaXR5Um9sZXMoV2ViVGFyZ2V0IHRhcmdldCwgU3RyaW5nLi4uIHNlY3VyaXR5R3JvdXBzKSB7CiAgICAgICAgcmV0dXJuIHRhcmdldAogICAgICAgICAgICAgICAgLnJlcXVlc3QoKQogICAgICAgICAgICAgICAgLmhlYWRlcigiQXV0aG9yaXphdGlvbiIsICJKV1QgIiArIGdlbmVyYXRlSnd0V2l0aFJvbGVzKCJwbWdyIiwgc2VjdXJpdHlHcm91cHMpKTsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHJhbnNmb3JtZXIgaW1wbGVtZW50YXRpb249Im9yZy5hcGFjaGUubWF2ZW4ucGx1Z2lucy5zaGFkZS5yZXNvdXJjZS5BcHBlbmRpbmdUcmFuc2Zvcm1lciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxyZXNvdXJjZT5yZWZlcmVuY2UuY29uZjwvcmVzb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cmFuc2Zvcm1lcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHJhbnNmb3JtZXIgaW1wbGVtZW50YXRpb249Im9yZy5hcGFjaGUubWF2ZW4ucGx1Z2lucy5zaGFkZS5yZXNvdXJjZS5BcHBlbmRpbmdUcmFuc2Zvcm1lciI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxyZXNvdXJjZT5hcHBsaWNhdGlvbi5jb25mPC9yZXNvdXJjZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyYW5zZm9ybWVyPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29udGludWUgdG8gd29yayBob21lCg==</text>
@@ -1459,13 +1467,13 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYlRpbWVab25lSWRNYXBcPg==</last-search>
+      <last-search>pasword</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYlRpbWVab25lSWRNYXBcPg==</last-pattern>
+      <last-pattern>pasword</last-pattern>
       <last-replace>PMGR</last-replace>
       <last-substitute>REST_SEED</last-substitute>
       <last-dir>1</last-dir>
@@ -1473,7 +1481,6 @@
     </search>
     <history>
       <history-search>
-        <entry>provider</entry>
         <entry encoding="base64">XDxwcm92aWRlclw+</entry>
         <entry encoding="base64">XDxwYmtyRHNcPg==</entry>
         <entry>create</entry>
@@ -1493,6 +1500,7 @@
         <entry>daylight</entry>
         <entry encoding="base64">XDxkYXlsaWdodHNhdmluZ3NcPg==</entry>
         <entry encoding="base64">XDxkYlRpbWVab25lSWRNYXBcPg==</entry>
+        <entry>pasword</entry>
       </history-search>
       <history-cmd>
         <entry>wa'</entry>
@@ -1513,8 +1521,8 @@
         <entry>action Rerun</entry>
         <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
-        <entry>wa</entry>
         <entry>action CheckinProject</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
