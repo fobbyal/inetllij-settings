@@ -276,12 +276,12 @@
         <mark key="." line="6" column="18" />
         <mark key="^" line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/FuelCostDataCollector.java" timestamp="1555346229517">
-        <mark key="'" line="492" column="59" />
-        <mark key="[" line="454" column="32" />
-        <mark key="]" line="454" column="31" />
-        <mark key="." line="454" column="31" />
-        <mark key="^" line="454" column="31" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/FuelCostDataCollector.java" timestamp="1555346880167">
+        <mark key="'" line="496" column="59" />
+        <mark key="[" line="365" column="54" />
+        <mark key="]" line="366" column="15" />
+        <mark key="." line="366" column="15" />
+        <mark key="^" line="366" column="15" />
       </file>
       <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/ApiTest.java" timestamp="1531756300814">
         <mark key="[" line="51" column="8" />
