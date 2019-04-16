@@ -16,10 +16,10 @@
         <mark key="^" line="80" column="41" />
         <mark key="." line="80" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1555348075208">
+      <file name="/a.dummy" timestamp="1555433597270">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="4" />
+        <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/db/integ-scheduler.sql" timestamp="1512665879880">
@@ -70,8 +70,8 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="10" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/legacy/immutables/LegacyCalcResult.java" timestamp="1555431976564">
-        <mark key="'" line="29" column="64" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/legacy/immutables/LegacyCalcResult.java" timestamp="1555432432074">
+        <mark key="'" line="30" column="65" />
       </file>
       <file name="$USER_HOME$/dev/scheduler-rnd/src/main/java/com/integ/scheduler/immutables/JobRunResponseDef.java" timestamp="1511898432544">
         <mark key="[" line="28" column="19" />
@@ -494,12 +494,12 @@
         <mark key="^" line="66" column="53" />
         <mark key="." line="66" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/legacy/LegacyDataUtils.java" timestamp="1555431940925">
-        <mark key="'" line="511" column="25" />
-        <mark key="[" line="511" column="33" />
-        <mark key="]" line="512" column="70" />
-        <mark key="." line="512" column="70" />
-        <mark key="^" line="512" column="70" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/legacy/LegacyDataUtils.java" timestamp="1555433628743">
+        <mark key="'" line="512" column="16" />
+        <mark key="[" line="545" column="46" />
+        <mark key="]" line="545" column="46" />
+        <mark key="." line="545" column="46" />
+        <mark key="^" line="545" column="46" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/test/java/com/integ/auth/UserRoleTest.java" timestamp="1520547883273">
         <mark key="[" line="63" column="35" />
@@ -1170,11 +1170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="18" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/immutables/SppCurveDef.java" />
-      <jump line="405" column="66" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
-      <jump line="49" column="45" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
-      <jump line="122" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishTest.java" />
       <jump line="124" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
       <jump line="406" column="58" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
       <jump line="318" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
@@ -1270,10 +1265,15 @@
       <jump line="29" column="64" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/legacy/immutables/LegacyCalcResult.java" />
       <jump line="21" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/legacy/immutables/LegacyCalcResultDef.java" />
       <jump line="35" column="16" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/Calculation.java" />
+      <jump line="579" column="39" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/legacy/LegacyDataUtils.java" />
+      <jump line="551" column="27" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/legacy/LegacyDataUtils.java" />
+      <jump line="56" column="44" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/legacy/LegacyDataUtils.java" />
+      <jump line="512" column="16" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/legacy/LegacyDataUtils.java" />
+      <jump line="30" column="65" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/legacy/immutables/LegacyCalcResult.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENXVEhvdXIK</text>
+      <register name="&quot;" type="4">
+        <text>collect</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1368,7 +1368,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>CalcRes</text>
+        <text>collect</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1433,43 +1433,43 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNvcmRcPg==</text>
+        <text encoding="base64">XDxyZXN1bHRCdWlsZGVyT2ZcPg==</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text>CalcEntry</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIociAtPiAhci5lbGVtZW50KCkuZXF1YWxzSWdub3JlQ2FzZSgiQ1dUSG91ciIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENXVEhvdXIK</text>
+        <text encoding="base64">Z2V0TGVnYWN5Q2FsY1Jlc3VsdFN0cmVhbQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvTGlzdCgpKQo=</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxjLmlucHV0cygpLmVudHJ5U2V0KCkKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVkdWNpbmcoKGEsYikgLT4gYSApCiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRkZWQgbm9sb2FkIGFuZCBzdGFydHVwIHBpY2t1cCB2YXJzIGZvciBmcm9udGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWFwcGluZyhyIC0+IHIuLCApCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1482,25 +1482,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW08TGVnYWN5Q2FsY1Jlc3VsdD4gd2l0aE91dEN3dEhvdXIgPSByZXN1bHRzLnN0cmVhbSgpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Compile</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWNvcmRcPg==</last-search>
+      <last-search encoding="base64">XDxyZXN1bHRCdWlsZGVyT2ZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNvcmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZXN1bHRCdWlsZGVyT2ZcPg==</last-pattern>
       <last-replace>PMGR</last-replace>
       <last-substitute>REST_SEED</last-substitute>
       <last-dir>1</last-dir>
@@ -1508,7 +1508,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pasword</entry>
         <entry encoding="base64">XDxmdWVsRmFjdG9yc1w+</entry>
         <entry encoding="base64">XDxmdWVsSGVhdEZhY3Rvclw+</entry>
         <entry encoding="base64">XDx3ZWlnaHRlZEF2Z0lucHV0XD4=</entry>
@@ -1528,6 +1527,7 @@
         <entry encoding="base64">XDxjYWxjUmVzdWx0U3RyZWFtT2ZcPg==</entry>
         <entry encoding="base64">XDxjYWxjc1w+</entry>
         <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
+        <entry encoding="base64">XDxyZXN1bHRCdWlsZGVyT2ZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wa'</entry>
@@ -1542,14 +1542,14 @@
         <entry>action CompileDirty</entry>
         <entry>220</entry>
         <entry>a</entry>
-        <entry>w</entry>
         <entry>action Rerun</entry>
         <entry>action CheckinProject</entry>
+        <entry>action Compile</entry>
         <entry>action RenameElement</entry>
+        <entry>w</entry>
         <entry>action IntroduceVariable</entry>
         <entry>wa</entry>
         <entry>action ReformatCode</entry>
-        <entry>action Compile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
