@@ -520,6 +520,7 @@
         <mark key="^" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/integ/core/auth/2.2.0/auth-2.2.0-sources.jar!/com/integ/core/auth/rest/model/AuthConfigDef.java" timestamp="1556049068069" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/DailyLoadDef.java" timestamp="1527010457185">
         <mark key="[" line="27" column="20" />
         <mark key="]" line="29" column="23" />
@@ -950,11 +951,6 @@
         <mark key="^" line="66" column="1" />
         <mark key="." line="66" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/pom.xml" timestamp="1554927221793">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="92" column="54" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/UnitInputOverrideDef.java" timestamp="1540936113293">
         <mark key="[" line="44" column="4" />
         <mark key="]" line="44" column="16" />
@@ -1002,19 +998,11 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="71" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/CalcDataSource.java" timestamp="1555345988271">
-        <mark key="'" line="808" column="58" />
-      </file>
       <file name="$USER_HOME$/dev/jc-jdk8/pspk/props/aep-dev.xml" timestamp="1525892180421">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="35" column="77" />
         <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/bkf-pmgr/jcomplete/src/main/java/com/integ/dev/NoAuthenticationAuthenticator.java" timestamp="1553795179579">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/gads-4.0/pgads-api/src/test/java/com/integ/restful/pgads/api/PowerGADSApiTest.java" timestamp="1541531921142">
         <mark key="[" line="23" column="29" />
@@ -1107,6 +1095,9 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="5" column="21" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/integ/core/auth/2.2.0/auth-2.2.0-sources.jar!/com/integ/core/auth/rest/api/Auth.java" timestamp="1556049038691">
+        <mark key="'" line="2" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/jc-jdk8/pspk/java/src/com/integ/pspk/costdev/server/CostDevRunner.java" timestamp="1549483727406">
         <mark key="[" line="48" column="48" />
         <mark key="]" line="48" column="48" />
@@ -1169,11 +1160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="24" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
-      <jump line="221" column="16" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
-      <jump line="393" column="18" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
-      <jump line="31" column="62" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/bid/immutables/BidStrategyEntry.java" />
-      <jump line="392" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
       <jump line="445" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
       <jump line="502" column="4" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
       <jump line="513" column="29" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidProcessor.java" />
@@ -1269,6 +1255,11 @@
       <jump line="30" column="65" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/legacy/immutables/LegacyCalcResult.java" />
       <jump line="77" column="37" filename="$USER_HOME$/dev/pbkr/pbroker/java/src/com/integ/pbroker/server/AbstractDataSubmitter.java" />
       <jump line="26" column="15" filename="$USER_HOME$/dev/pbkr/pbroker/java/src/com/integ/pbroker/scheduling/controller/ejb/PJMScheduleTaskHandler.java" />
+      <jump line="45" column="10" filename="$MAVEN_REPOSITORY$/com/integ/core/auth/2.2.0/auth-2.2.0-sources.jar!/com/integ/core/auth/rest/api/Auth.java" />
+      <jump line="72" column="43" filename="$MAVEN_REPOSITORY$/com/integ/core/auth/2.2.0/auth-2.2.0-sources.jar!/com/integ/core/auth/rest/api/Auth.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/integ/core/auth/2.2.0/auth-2.2.0-sources.jar!/com/integ/core/auth/rest/api/Auth.java" />
+      <jump line="70" column="16" filename="$MAVEN_REPOSITORY$/com/integ/core/auth/2.2.0/auth-2.2.0-sources.jar!/com/integ/core/auth/rest/api/Auth.java" />
+      <jump line="2" column="31" filename="$MAVEN_REPOSITORY$/com/integ/core/auth/2.2.0/auth-2.2.0-sources.jar!/com/integ/core/auth/rest/api/Auth.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1432,7 +1423,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXNrXD4=</text>
+        <text>config</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -1497,9 +1488,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXNrXD4=</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXNrXD4=</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-replace>PMGR</last-replace>
       <last-substitute>REST_SEED</last-substitute>
       <last-dir>1</last-dir>
@@ -1507,9 +1498,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdWVsSGVhdEZhY3Rvclw+</entry>
-        <entry encoding="base64">XDx3ZWlnaHRlZEF2Z0lucHV0XD4=</entry>
-        <entry encoding="base64">XDxGdWVsSGVhdENvc3QxXD4=</entry>
         <entry encoding="base64">XDxtb250aE9mZnNldFw+</entry>
         <entry>fuelBurn</entry>
         <entry>burn</entry>
@@ -1527,6 +1515,9 @@
         <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRCdWlsZGVyT2ZcPg==</entry>
         <entry encoding="base64">XDx0YXNrXD4=</entry>
+        <entry>Config</entry>
+        <entry>getAuthConfig</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>wa'</entry>
