@@ -215,6 +215,9 @@
         <mark key="." line="33" column="28" />
         <mark key="^" line="33" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" timestamp="1556131054255">
+        <mark key="'" line="105" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/immutables/SchedulerKeyDef.java" timestamp="1512662400017">
         <mark key="[" line="8" column="47" />
         <mark key="]" line="8" column="47" />
@@ -428,6 +431,12 @@
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
         <mark key="^" line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/mq/RabbitClient.java" timestamp="1556131299275">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="38" column="9" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="7" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/quartz-scheduler-utils/src/main/java/com/integ/scheduler/RestfulScheduleJobRunner.java" timestamp="1512667293604">
         <mark key="[" line="197" column="72" />
@@ -1190,16 +1199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="30" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/WaitForDbStart.java" />
-      <jump line="155" column="39" filename="$USER_HOME$/dev/pbkr/db-util/src/main/java/com/integ/db/DBTools.java" />
-      <jump line="115" column="48" filename="$USER_HOME$/dev/pmgr/pmgr-api/pom.xml" />
-      <jump line="142" column="46" filename="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete/framework/dao/CommonDAO.java" />
-      <jump line="48" column="19" filename="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete/basicdatamanagement/dao/TableDAO.java" />
-      <jump line="0" column="23" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.log4j.properties" />
-      <jump line="2" column="15" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.log4j.properties" />
-      <jump line="3" column="15" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.log4j.properties" />
-      <jump line="4" column="15" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.log4j.properties" />
-      <jump line="5" column="15" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.log4j.properties" />
       <jump line="6" column="15" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.log4j.properties" />
       <jump line="7" column="15" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.log4j.properties" />
       <jump line="8" column="15" filename="$USER_HOME$/dev/bkf-pmgr/pmgr-bkf-sb.log4j.properties" />
@@ -1290,10 +1289,20 @@
       <jump line="147" column="44" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/calc/CostCalculatorTest.java" />
       <jump line="365" column="30" filename="$USER_HOME$/dev/pmgr-api/pom.xml" />
       <jump line="66" column="0" filename="$USER_HOME$/dev/pmgr-api/pom.xml" />
+      <jump line="610" column="11" filename="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" />
+      <jump line="612" column="39" filename="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" />
+      <jump line="619" column="11" filename="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" />
+      <jump line="624" column="11" filename="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" />
+      <jump line="629" column="11" filename="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" />
+      <jump line="634" column="11" filename="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" />
+      <jump line="639" column="11" filename="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" />
+      <jump line="644" column="11" filename="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" />
+      <jump line="48" column="13" filename="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" />
+      <jump line="105" column="11" filename="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgKENvbm5lY3Rpb24gY29ubmVjdGlvbiA9IGZhY3RvcnkubmV3Q29ubmVjdGlvbigpOwogICAgICAgICAgICAgQ2hhbm5lbCBjaGFubmVsID0gY29ubmVjdGlvbi5jcmVhdGVDaGFubmVsKCkpIHsKCiAgICAgICAgICAgIGNoYW5uZWwuZXhjaGFuZ2VEZWNsYXJlKEVYQ0hBTkdFX05BTUUsICJmYW5vdXQiKTsKCiAgICAgICAgICAgIFN0cmluZyBtc2cgPSAidGVzdCBwdWIgc3ViIG1zZyI7CiAgICAgICAgICAgIGNoYW5uZWwuYmFzaWNQdWJsaXNoKEVYQ0hBTkdFX05BTUUsICIiLCBudWxsLAogICAgICAgICAgICAgICAgICAgIG1zZy5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CgogICAgICAgICAgICBsb2cuZGVidWcoInNlbnQgcHViIG1zZzoge30iLCBtc2cpOwoKICAgICAgICB9Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1388,7 +1397,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>String</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1453,43 +1462,43 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text encoding="base64">XDxDb25uZWN0aW9uRmFjdG9yeVw+</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF1dG9NaWdyYXRlTGVnYWN5UGFzc3dvcmQ6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICBmYWN0b3J5LnNldEhvc3QoY29uZmlnLmdldFN0cmluZygiaG9zdCIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKENvbm5lY3Rpb24gY29ubmVjdGlvbiA9IGZhY3RvcnkubmV3Q29ubmVjdGlvbigpOwogICAgICAgICAgICAgQ2hhbm5lbCBjaGFubmVsID0gY29ubmVjdGlvbi5jcmVhdGVDaGFubmVsKCkpIHsKCiAgICAgICAgICAgIGNoYW5uZWwuZXhjaGFuZ2VEZWNsYXJlKEVYQ0hBTkdFX05BTUUsICJmYW5vdXQiKTsKCiAgICAgICAgICAgIFN0cmluZyBtc2cgPSAidGVzdCBwdWIgc3ViIG1zZyI7CiAgICAgICAgICAgIGNoYW5uZWwuYmFzaWNQdWJsaXNoKEVYQ0hBTkdFX05BTUUsICIiLCBudWxsLAogICAgICAgICAgICAgICAgICAgIG1zZy5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7CgogICAgICAgICAgICBsb2cuZGVidWcoInNlbnQgcHViIG1zZzoge30iLCBtc2cpOwoKICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIod2VpZ2h0ZWRBdmdDb21wYXRpYmxlKHNvdXJjZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBGYQo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5maWx0ZXIod2VpZ2h0ZWRBdmdDb21wYXRpYmxlKHNvdXJjZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwKGUgLT4gc2VsZWN0Rm9ybXVsYShlLCBzb3VyY2UpKQogICAgICAgICAgICAgICAgLmZpbHRlcih3ZWlnaHRlZEF2Z0NvbXBhdGlibGUoc291cmNlKSkK</text>
+        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uRmFjdG9yeSBmYWN0b3J5ID0gbmV3IENvbm5lY3Rpb25GYWN0b3J5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2V0TGVnYWN5Q2FsY1Jlc3VsdFN0cmVhbQo=</text>
+        <text encoding="base64">ICAgIGtramoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">cGFja2FnZSBvcmcuZm9iYnlhbC5wdWJzdWI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvTGlzdCgpKQo=</text>
+        <text encoding="base64">fQoKCnB1YmxpYyBjbGFzcyBFbWl0TG9nIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1502,25 +1511,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">cGFja2FnZSBvcmcuZm9iYnlhbC5wdWJzdWI7CgogICAgICAgIGltcG9ydCBjb20ucmFiYml0bXEuY2xpZW50LkNoYW5uZWw7CiAgICAgICAgaW1wb3J0IGNvbS5yYWJiaXRtcS5jbGllbnQuQ29ubmVjdGlvbjsKICAgICAgICBpbXBvcnQgY29tLnJhYmJpdG1xLmNsaWVudC5Db25uZWN0aW9uRmFjdG9yeTsKICAgICAgICBpbXBvcnQgb3JnLnNsZjRqLkxvZ2dlcjsKICAgICAgICBpbXBvcnQgb3JnLnNsZjRqLkxvZ2dlckZhY3Rvcnk7CgogICAgICAgIGltcG9ydCBqYXZhLmlvLklPRXhjZXB0aW9uOwogICAgICAgIGltcG9ydCBqYXZhLm5pby5jaGFyc2V0LlN0YW5kYXJkQ2hhcnNldHM7CiAgICAgICAgaW1wb3J0IGphdmEudXRpbC5jb25jdXJyZW50LlRpbWVvdXRFeGNlcHRpb247Cg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVkdWNpbmcoKGEsYikgLT4gYSApCiAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search encoding="base64">XDxDb25uZWN0aW9uRmFjdG9yeVw+</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern encoding="base64">XDxDb25uZWN0aW9uRmFjdG9yeVw+</last-pattern>
       <last-replace>PMGR</last-replace>
       <last-substitute>REST_SEED</last-substitute>
       <last-dir>1</last-dir>
@@ -1528,7 +1537,6 @@
     </search>
     <history>
       <history-search>
-        <entry>burn</entry>
         <entry>-2</entry>
         <entry encoding="base64">XDxwbGFudEZ1ZWxCdXJuXD4=</entry>
         <entry>unitFuelBurn</entry>
@@ -1548,6 +1556,7 @@
         <entry>config</entry>
         <entry>generateStart</entry>
         <entry>start</entry>
+        <entry encoding="base64">XDxDb25uZWN0aW9uRmFjdG9yeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wa'</entry>
@@ -1568,8 +1577,8 @@
         <entry>w</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action Rerun</entry>
-        <entry>action ReformatCode</entry>
         <entry>wa</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
