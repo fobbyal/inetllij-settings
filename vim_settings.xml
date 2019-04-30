@@ -1134,12 +1134,12 @@
         <mark key="^" line="30" column="24" />
         <mark key="." line="30" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/mb/RabbitClient.java" timestamp="1556137146297">
-        <mark key="'" line="246" column="54" />
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
-        <mark key="^" line="247" column="54" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/mb/RabbitClient.java" timestamp="1556646225430">
+        <mark key="'" line="248" column="18" />
+        <mark key="[" line="258" column="52" />
+        <mark key="]" line="258" column="54" />
+        <mark key="." line="258" column="54" />
+        <mark key="^" line="258" column="54" />
       </file>
       <file name="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcRequestDef.java" timestamp="1530840651205">
         <mark key="[" line="5" column="21" />
@@ -1209,7 +1209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="43" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
       <jump line="218" column="40" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/AliveTest.java" />
       <jump line="808" column="58" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/CalcDataSource.java" />
@@ -1309,10 +1308,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/OperatorLogApi.java" />
       <jump line="66" column="29" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/OperatorLogApi.java" />
       <jump line="28" column="11" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/mb/MessageBrokerClient.java" />
+      <jump line="247" column="18" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/mb/RabbitClient.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;hello2&quot;</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1407,7 +1407,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>publishJson</text>
+        <text>&quot;hello2&quot;</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1481,34 +1481,34 @@
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBwdWJsaXNoSnNvbihleGNoYW5nZU5hbWUsIHBheWxvYWQpOwogICAgICAgIH0gY2F0Y2ggKFRocm93YWJsZSBlKSB7CiAgICAgICAgICAgIGxvZy5lcnJvcigiVW5hYmxlIHRvIHB1Ymxpc2ggbWVzc2FnZSB7fSB0byBtZXNzYWdlIGJyb2tlciAiLCBtc2csIGUpOwoKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5sb2dNZXNzYWdlKCIiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5sb2dNZXNzYWdlKCJ0ZXN0MTIzNCIpCg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChUaW1lb3V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb3BMb2c7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5iaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChUaW1lb3V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlQnJva2VyQ2xpZW50LmNyZWF0ZUNsaWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb3BMb2c7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5iaW4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1521,19 +1521,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlQnJva2VyQ2xpZW50LmNyZWF0ZUNsaWVudCgpOwo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1585,10 +1585,10 @@
         <entry>action Rerun</entry>
         <entry>a</entry>
         <entry>w</entry>
-        <entry>action IntroduceVariable</entry>
         <entry>action RenameElement</entry>
-        <entry>wa</entry>
+        <entry>action IntroduceVariable</entry>
         <entry>action ReformatCode</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
