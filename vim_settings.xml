@@ -882,8 +882,9 @@
         <mark key="." line="16" column="46" />
         <mark key="^" line="16" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/resources/reference.conf" timestamp="1556134847464">
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/resources/reference.conf" timestamp="1556650350274">
         <mark key="g" line="15" column="14" />
+        <mark key="'" line="19" column="2" />
         <mark key="[" line="10" column="3" />
         <mark key="]" line="10" column="4" />
         <mark key="." line="10" column="4" />
@@ -1209,7 +1210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/SecurityPermissions.java" />
       <jump line="218" column="40" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/AliveTest.java" />
       <jump line="808" column="58" filename="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/CalcDataSource.java" />
       <jump line="60" column="25" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcDataSourceDef.java" />
@@ -1309,6 +1309,7 @@
       <jump line="66" column="29" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/OperatorLogApi.java" />
       <jump line="28" column="11" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/mb/MessageBrokerClient.java" />
       <jump line="247" column="18" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/mb/RabbitClient.java" />
+      <jump line="19" column="2" filename="$USER_HOME$/dev/pmgr-api/src/main/resources/reference.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
