@@ -395,7 +395,7 @@
       <file name="/dummy.sql" timestamp="1556738444176">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556729742634">
+      <file name="/Dummy.txt" timestamp="1556741160946">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="20" />
@@ -1370,7 +1370,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>action CheckinProject</text>
       </register>
     </registers>
     <search>
@@ -1415,7 +1415,6 @@
         <entry>action Compile</entry>
         <entry>a</entry>
         <entry>%s/EntryTemplate/FormTemplate/g</entry>
-        <entry>action CheckinProject</entry>
         <entry>aw</entry>
         <entry>wea</entry>
         <entry>action IntroduceParameter</entry>
@@ -1426,6 +1425,7 @@
         <entry>w</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
+        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
