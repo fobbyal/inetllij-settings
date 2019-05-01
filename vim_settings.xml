@@ -586,6 +586,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c371695-6291-4095-8663-5640540a7e68/console.sql" timestamp="1556731095132">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="37" />
+        <mark key="^" line="0" column="37" />
+        <mark key="." line="0" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/ApiTest.java" timestamp="1531756300814">
         <mark key="[" line="51" column="8" />
         <mark key="]" line="51" column="9" />
@@ -1167,8 +1173,8 @@
       <jump line="84" column="30" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FileStorageApi.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fileName == null ||</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBDQVJEOTUgd2hlcmUgeWVhciA+IDIwMTUK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1231,7 +1237,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fileName == null ||</text>
+        <text>;</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1302,7 +1308,7 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZWdhdGl2ZUZvcm0ucGFyYW0oImp3dCIsIGdlbmVyYXRlSnd0V2l0aFJvbGVzKCJwbWdyIiwgImFueXRoaW5nIikpOwo=</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSBDQVJEOTUgd2hlcmUgeWVhciA+IDIwMTUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
