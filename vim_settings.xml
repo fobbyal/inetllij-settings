@@ -586,11 +586,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c371695-6291-4095-8663-5640540a7e68/console.sql" timestamp="1556731095132">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="37" />
-        <mark key="^" line="0" column="37" />
-        <mark key="." line="0" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2c371695-6291-4095-8663-5640540a7e68/console.sql" timestamp="1556734021617">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="24" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/ApiTest.java" timestamp="1531756300814">
         <mark key="[" line="51" column="8" />
@@ -1174,7 +1174,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VsZWN0ICogZnJvbSBDQVJEOTUgd2hlcmUgeWVhciA+IDIwMTUK</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSAoc2VsZWN0IGEuKiwgbWF4KEVGRkVDVElWRURBVEUpIG92ZXIgKHBhcnRpdGlvbiBieSBNT0RFTF9DT0RFLCBJTlNQRUNUSU9OX1RZUEVfQ09ERSkgbWQKICAgICAgICAgICAgICAgZnJvbSBDVF9JTlNQRUNUSU9OX0lOVEVSVkFMUyBhCndoZXJlIEVGRkVDVElWRURBVEU8PXN5c2RhdGUKKSB3aGVyZSBlZmZlY3RpdmVkYXRlPW1kOwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
