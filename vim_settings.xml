@@ -723,6 +723,7 @@
         <mark key="^" line="50" column="59" />
         <mark key="." line="50" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/aep/communications/client/SecuredConnectorFactory.java" timestamp="1557244099315" />
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/immutables/ProtectedResourceDef.java" timestamp="1554142390002">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
