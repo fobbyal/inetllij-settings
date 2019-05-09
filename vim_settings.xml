@@ -10,11 +10,11 @@
         <mark key="." line="43" column="85" />
         <mark key="^" line="43" column="85" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/data/AssetDataAccessTest.java" timestamp="1557346060193">
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="17" />
-        <mark key="." line="54" column="17" />
-        <mark key="^" line="54" column="17" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/data/AssetDataAccessTest.java" timestamp="1557346094224">
+        <mark key="[" line="54" column="32" />
+        <mark key="]" line="54" column="46" />
+        <mark key="." line="54" column="46" />
+        <mark key="^" line="54" column="46" />
       </file>
       <file name="$USER_HOME$/dev/pgadsanalytics/src/main/java/com/integ/pgads/PGADSApp.java" timestamp="1526336755224">
         <mark key="[" line="80" column="41" />
@@ -1680,7 +1680,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1734,8 +1734,8 @@
         <entry>w</entry>
         <entry>action RenameElement</entry>
         <entry>action Compile</entry>
-        <entry>wa</entry>
         <entry>action ReformatCode</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
