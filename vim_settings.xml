@@ -547,11 +547,11 @@
         <mark key="^" line="30" column="19" />
         <mark key="." line="30" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1556729886153">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" timestamp="1557844845473">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="5" />
         <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="25" />
+        <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/dev/pspk/auth/src/main/java/com/integ/core/auth/AuthToolsCli.java" timestamp="1545168552095">
         <mark key="[" line="67" column="54" />
@@ -1490,7 +1490,7 @@
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1543,9 +1543,9 @@
         <entry>action RenameElement</entry>
         <entry>action Compile</entry>
         <entry>action ReformatCode</entry>
-        <entry>w</entry>
         <entry>a</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
