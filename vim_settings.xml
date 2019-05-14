@@ -45,6 +45,12 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/VisibilityMatcherDef.java" timestamp="1557858804992">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/LoadAnalysisFormulaDef.java" timestamp="1526927817173">
         <mark key="[" line="30" column="24" />
         <mark key="]" line="30" column="26" />
@@ -201,11 +207,8 @@
         <mark key="." line="41" column="163" />
         <mark key="^" line="41" column="192" />
       </file>
-      <file name="/CT_INSPECTION_INTERVALS [APS_GADS]" timestamp="1556730348115">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/workflow/immutables/WorkflowStep.java" timestamp="1557770627361">
-        <mark key="'" line="30" column="57" />
+      <file name="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/workflow/immutables/WorkflowStep.java" timestamp="1557858160178">
+        <mark key="'" line="33" column="57" />
       </file>
       <file name="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/gads40/vcsRoots/AepGadsCoreGit.kt" timestamp="1539016188786">
         <mark key="[" line="8" column="68" />
@@ -218,6 +221,9 @@
         <mark key="]" line="19" column="72" />
         <mark key="." line="19" column="0" />
         <mark key="^" line="26" column="86" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/immutables/FormEntryTemplate.java" timestamp="1557857969148">
+        <mark key="'" line="33" column="67" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/MtceDef.java" timestamp="1533049279505">
         <mark key="[" line="22" column="41" />
@@ -382,9 +388,6 @@
         <mark key="^" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="/MODEL [APS_GADS]" timestamp="1556730310981">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/integ/spark-2.0/spark-gen-calc/src/test/resources/reference.conf" timestamp="1530846566250">
         <mark key="[" line="22" column="16" />
         <mark key="]" line="23" column="15" />
@@ -453,10 +456,10 @@
       <file name="/usr/lib/jvm/java-8-jdk/src.zip!/java/io/Serializable.java" timestamp="1557760416396">
         <mark key="'" line="168" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/CyclingChangeRequestDef.java" timestamp="1557845627279">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/CyclingChangeRequestDef.java" timestamp="1557858912967">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b732c591-bb75-4c2e-96e5-302fa86ecd5d/console.sql" timestamp="1515172287448">
         <mark key="[" line="6" column="19" />
@@ -476,15 +479,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1556738444176">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowDataContainer.java" timestamp="1557845606207">
-        <mark key="'" line="0" column="23" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="43" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowDataContainer.java" timestamp="1557858898143">
+        <mark key="'" line="6" column="38" />
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1556744804483">
         <mark key="[" line="0" column="0" />
@@ -657,9 +657,6 @@
         <mark key="." line="269" column="46" />
         <mark key="^" line="269" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/SeletionValueSpec.java" timestamp="1557761015395">
-        <mark key="[" line="2" column="30" />
-      </file>
       <file name="$USER_HOME$/dev/pbkr/auth/src/main/java/com/integ/core/auth/rest/api/UserManagement.java" timestamp="1532360815064">
         <mark key="[" line="41" column="8" />
         <mark key="]" line="41" column="9" />
@@ -725,9 +722,6 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="/MODEL_UNIT [APS_GADS]" timestamp="1556730322990">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/pspk/db-util/src/main/java/com/integ/data/immutables/DataOperationDef.java" timestamp="1548701491754">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="4" column="34" />
@@ -776,6 +770,12 @@
         <mark key="^" line="18" column="21" />
         <mark key="." line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/immutables/FormEntryTemplateDef.java" timestamp="1557857997319">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/tc2-config/.teamcity/_Root/project/gads40/Gads40.kt" timestamp="1539022163706">
         <mark key="[" line="51" column="36" />
         <mark key="]" line="51" column="36" />
@@ -819,12 +819,12 @@
         <mark key="." line="33" column="71" />
         <mark key="^" line="33" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" timestamp="1557855893969">
-        <mark key="'" line="52" column="29" />
-        <mark key="[" line="52" column="16" />
-        <mark key="]" line="52" column="31" />
-        <mark key="^" line="52" column="31" />
-        <mark key="." line="52" column="31" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" timestamp="1557858389552">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="29" column="75" />
+        <mark key="]" line="30" column="7" />
+        <mark key="^" line="30" column="7" />
+        <mark key="." line="30" column="7" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/LoadDataSourceConfigDef.java" timestamp="1525201513060">
         <mark key="[" line="21" column="0" />
@@ -949,9 +949,6 @@
         <mark key="]" line="32" column="3" />
         <mark key="." line="32" column="3" />
         <mark key="^" line="32" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/immutables/OperatrLogTypeDef.java" timestamp="1556652918313">
-        <mark key="[" line="17" column="23" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/transaction/TransactionalResourcePayload.java" timestamp="1557344549265">
         <mark key="[" line="8" column="32" />
@@ -1138,11 +1135,10 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/WorkflowStepDef.java" timestamp="1557853834065">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/WorkflowStepDef.java" timestamp="1557858261597">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/MessageCodes.java" timestamp="1533237189627">
         <mark key="[" line="2" column="24" />
@@ -1210,12 +1206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FormTemplateApi.java" />
-      <jump line="27" column="23" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FileStorageApi.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FileStorageApi.java" />
-      <jump line="40" column="42" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FileStorageApi.java" />
-      <jump line="96" column="20" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrRoles.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrRoles.java" />
       <jump line="28" column="28" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FileStorageApi.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FileStorageApi.java" />
       <jump line="125" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FileStorageApi.java" />
@@ -1290,7 +1280,6 @@
       <jump line="40" column="19" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="37" column="52" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="98" column="4" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="39" column="36" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/WorkflowDef.java" />
       <jump line="139" column="23" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/ParamDataTest.java" />
       <jump line="62" column="37" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
@@ -1310,10 +1299,17 @@
       <jump line="97" column="44" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="102" column="44" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="54" column="29" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
+      <jump line="33" column="67" filename="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/immutables/FormEntryTemplate.java" />
+      <jump line="18" column="17" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/immutables/FormEntryTemplateDef.java" />
+      <jump line="43" column="12" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/immutables/FormEntryTemplateDef.java" />
+      <jump line="6" column="38" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowDataContainer.java" />
+      <jump line="33" column="57" filename="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/workflow/immutables/WorkflowStep.java" />
+      <jump line="66" column="6" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>NexStep</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBTdHJpbmcgZ3JhYkRhdGEoU3RyaW5nIGtleSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1376,7 +1372,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>NexStep</text>
+        <text>b</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1441,22 +1437,22 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWx1ZVw+</text>
+        <text>w</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">ICAgIFNldDxQYWlyPFN0cmluZywgU3RyaW5nPj4gbm9uTnVsbE1hdGNoZXIoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBTdHJpbmcgZ3JhYkRhdGEoU3RyaW5nIGtleSkgewogICAgICAgIHJldHVybiBudWxsOwogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QAo=</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
@@ -1468,16 +1464,16 @@
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJvb2xlYW4gCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSBpbmRleE9mKHRlbXBsYXRlLnN0ZXBzKCksIHMgLT4gcy5pZGVudCgpLmVxdWFsc0lnbm9yZUNhc2Uoc3RlcCkpOwo=</text>
+        <text encoding="base64">ICAgIEJvb2xlYW4gaXNTdGVwVmlzaWJsZShXb3JrZmxvd1N0ZXAgc3RlcCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5kZXggPT0gLTEgfHwgaW5kZXggPT0gdGVtcGxhdGUuc3RlcHMoKS5zaXplKCkgLSAxKQogICAgICAgICAgICByZXR1cm4gT3B0aW9uYWwuZW1wdHkoKTsK</text>
+        <text encoding="base64">ICAgIEJvb2xlYW4gaXNTdGVwVmlzaWJsZShXb3JrZmxvd1N0ZXAgc3RlcCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1496,19 +1492,19 @@
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPFN0cmluZz4gcmVxQ29tbWVudE9uVmFsdWUoKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text>action Compile</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWx1ZVw+</last-search>
+      <last-search>w</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWx1ZVw+</last-pattern>
+      <last-pattern>w</last-pattern>
       <last-replace>FormTemplate</last-replace>
       <last-substitute>EntryTemplate</last-substitute>
       <last-dir>1</last-dir>
@@ -1516,7 +1512,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb25uZWN0aW9uRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxtc2dcPg==</entry>
         <entry encoding="base64">XDxDb25uZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxjb25uZWN0aW9uXD4=</entry>
@@ -1536,6 +1531,7 @@
         <entry encoding="base64">XDx3b3JrZmxvd1w+</entry>
         <entry>step</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry>w</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
@@ -1551,13 +1547,13 @@
         <entry>aw</entry>
         <entry>action AceAction</entry>
         <entry>a</entry>
-        <entry>action Compile</entry>
-        <entry>wa</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action Rerun</entry>
-        <entry>action RenameElement</entry>
         <entry>w</entry>
+        <entry>action RenameElement</entry>
         <entry>action ReformatCode</entry>
+        <entry>wa</entry>
+        <entry>action Compile</entry>
       </history-cmd>
       <history-expr />
       <history-input />
