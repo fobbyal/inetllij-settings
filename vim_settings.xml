@@ -159,10 +159,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/WorkflowDef.java" timestamp="1557859741101">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/WorkflowDef.java" timestamp="1557939584021">
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="14" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/mq/AbstractMessageBrokerClient.java" timestamp="1556134579321">
         <mark key="[" line="45" column="8" />
@@ -829,8 +830,12 @@
         <mark key="." line="33" column="71" />
         <mark key="^" line="33" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" timestamp="1557861322745">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" timestamp="1557939562145">
+        <mark key="'" line="50" column="31" />
+        <mark key="[" line="53" column="64" />
+        <mark key="]" line="53" column="64" />
+        <mark key="^" line="57" column="41" />
+        <mark key="." line="53" column="64" />
       </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-core/src/main/java/com/integ/dmb/immutables/LoadDataSourceConfigDef.java" timestamp="1525201513060">
         <mark key="[" line="21" column="0" />
@@ -1079,12 +1084,12 @@
         <mark key="." line="96" column="81" />
         <mark key="^" line="96" column="81" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/workflow/WorkflowEngineTest.java" timestamp="1557862163143">
+      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/workflow/WorkflowEngineTest.java" timestamp="1557939648009">
         <mark key="'" line="106" column="10" />
-        <mark key="[" line="134" column="68" />
-        <mark key="]" line="134" column="68" />
-        <mark key="." line="134" column="68" />
-        <mark key="^" line="134" column="47" />
+        <mark key="[" line="241" column="16" />
+        <mark key="]" line="241" column="32" />
+        <mark key="." line="241" column="32" />
+        <mark key="^" line="241" column="32" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/transaction/ResourceTransactionalPayload.java" timestamp="1557344337088">
         <mark key="[" line="2" column="47" />
@@ -1212,7 +1217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="26" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/FileStorageApiTest.java" />
       <jump line="189" column="0" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/FileStorageApiTest.java" />
       <jump line="193" column="0" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/FileStorageApiTest.java" />
       <jump line="69" column="28" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/FileStorageApiTest.java" />
@@ -1312,10 +1316,11 @@
       <jump line="161" column="4" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="106" column="10" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/workflow/WorkflowEngineTest.java" />
+      <jump line="50" column="31" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>notificaiton</text>
+        <text>workflow</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1378,7 +1383,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>notificaiton</text>
+        <text>workflow</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -1449,37 +1454,49 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="4">
-        <text>DataMatcher</text>
+        <text>actual = WorkflowEngine.updateFormValue(
+                workflow,
+                &quot;step1&quot;,
+                WorkflowFormValue.builder()
+                        .type(&quot;text&quot;)
+                        .ident(&quot;text1&quot;)
+                        .value(&quot;something&quot;)
+                        .updatedBy(&quot;system&quot;)
+                        .updateTimestamp(new DateTime())
+                        .build(),
+                &quot;alx&quot;,
+                DateTime.now()
+        );</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Zml4ZWQgdGVzdHMK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gd29ya2Zsb3c7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlbGVjdGlvblZhbHVlU3BlYy5vZigiYSIpLndpdGhSZXF1aXJlQ29tbWVudCh0cnVlKS53aXRoTGFiZWwoImQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHdvcmtmbG93LndpdGhTdGF0dXMoImNvbXBsZXRlIik7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KFdvcmtmbG93RW5naW5lLnBhcnNlU2VsZWN0aW9uVmFsdWUoImFiYzpkZWYiKSkuaXNFcXVhbFRvKAogICAgICAgICAgICAgICAgU2VsZWN0aW9uVmFsdWVTcGVjLmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAuaWRlbnQoImFiYyIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5sYWJlbCgiZGVmIikKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICApOwoKICAgICAgICBhc3NlcnRUaGF0KFdvcmtmbG93RW5naW5lLnBhcnNlU2VsZWN0aW9uVmFsdWUoIiphYmM6ZGVmIikpLmlzRXF1YWxUbygKICAgICAgICAgICAgICAgIFNlbGVjdGlvblZhbHVlU3BlYy5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmlkZW50KCJhYmMiKQogICAgICAgICAgICAgICAgICAgICAgICAubGFiZWwoImRlZiIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5yZXF1aXJlQ29tbWVudCh0cnVlKQogICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICk7CgogICAgICAgIGFzc2VydFRoYXQoV29ya2Zsb3dFbmdpbmUucGFyc2VTZWxlY3Rpb25WYWx1ZSgiKmFiYyIpKS5pc0VxdWFsVG8oCiAgICAgICAgICAgICAgICBTZWxlY3Rpb25WYWx1ZVNwZWMuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5pZGVudCgiYWJjIikKICAgICAgICAgICAgICAgICAgICAgICAgLmxhYmVsKCJhYmMiKQogICAgICAgICAgICAgICAgICAgICAgICAucmVxdWlyZUNvbW1lbnQodHJ1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY29tcGxldGUpCg==</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0VGhyb3duQnkoKQo=</text>
+        <text encoding="base64">Zml4ZWQgdGVzdHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiYm9vbSEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNlbGVjdGlvblZhbHVlU3BlYy5vZigiYSIpLndpdGhSZXF1aXJlQ29tbWVudCh0cnVlKS53aXRoTGFiZWwoImQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGIK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KFdvcmtmbG93RW5naW5lLnBhcnNlU2VsZWN0aW9uVmFsdWUoImFiYzpkZWYiKSkuaXNFcXVhbFRvKAogICAgICAgICAgICAgICAgU2VsZWN0aW9uVmFsdWVTcGVjLmJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAuaWRlbnQoImFiYyIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5sYWJlbCgiZGVmIikKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICApOwoKICAgICAgICBhc3NlcnRUaGF0KFdvcmtmbG93RW5naW5lLnBhcnNlU2VsZWN0aW9uVmFsdWUoIiphYmM6ZGVmIikpLmlzRXF1YWxUbygKICAgICAgICAgICAgICAgIFNlbGVjdGlvblZhbHVlU3BlYy5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLmlkZW50KCJhYmMiKQogICAgICAgICAgICAgICAgICAgICAgICAubGFiZWwoImRlZiIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5yZXF1aXJlQ29tbWVudCh0cnVlKQogICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKQogICAgICAgICk7CgogICAgICAgIGFzc2VydFRoYXQoV29ya2Zsb3dFbmdpbmUucGFyc2VTZWxlY3Rpb25WYWx1ZSgiKmFiYyIpKS5pc0VxdWFsVG8oCiAgICAgICAgICAgICAgICBTZWxlY3Rpb25WYWx1ZVNwZWMuYnVpbGRlcigpCiAgICAgICAgICAgICAgICAgICAgICAgIC5pZGVudCgiYWJjIikKICAgICAgICAgICAgICAgICAgICAgICAgLmxhYmVsKCJhYmMiKQogICAgICAgICAgICAgICAgICAgICAgICAucmVxdWlyZUNvbW1lbnQodHJ1ZSkKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0VGhyb3duQnkoKQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1492,19 +1509,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbigiYm9vbSEiKTsK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGIK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CheckinProject</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -1540,26 +1557,26 @@
         <entry>w</entry>
       </history-search>
       <history-cmd>
-        <entry>90</entry>
         <entry>35</entry>
         <entry>action CompileDirty</entry>
         <entry>220</entry>
         <entry>%s/EntryTemplate/FormTemplate/g</entry>
         <entry>wea</entry>
         <entry encoding="base64">YWN0aW9uIEdpdC5CcmFuY2hlcyA=</entry>
-        <entry>action IntroduceParameter</entry>
         <entry>wqa</entry>
         <entry>aw</entry>
         <entry>action AceAction</entry>
         <entry>a</entry>
         <entry>action IntroduceVariable</entry>
-        <entry>action RenameElement</entry>
         <entry>w</entry>
+        <entry>action Rerun</entry>
+        <entry>action CheckinProject</entry>
+        <entry>vs</entry>
+        <entry>action RenameElement</entry>
+        <entry>action IntroduceParameter</entry>
         <entry>action Compile</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
-        <entry>action Rerun</entry>
-        <entry>action CheckinProject</entry>
       </history-cmd>
       <history-expr />
       <history-input />
