@@ -110,6 +110,12 @@
         <mark key="^" line="126" column="65" />
         <mark key="." line="126" column="65" />
       </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/OperatorLogApi.java" timestamp="1558362767709">
+        <mark key="[" line="96" column="30" />
+        <mark key="]" line="97" column="45" />
+        <mark key="." line="97" column="45" />
+        <mark key="^" line="97" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/db-util/src/test/java/com/integ/db/mapper/ImmutableDbTests.java" timestamp="1557333483010">
         <mark key="'" line="375" column="16" />
         <mark key="[" line="380" column="0" />
@@ -278,8 +284,8 @@
       <jump line="20" column="22" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/api/ResourceAuthApi.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>List</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -342,7 +348,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -413,37 +419,37 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="4">
-        <text>SecurityGroup</text>
+        <text>OPERATOR_LOG_VIEWER</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2b2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBQYXRoKCJsaXN0IikK</text>
+        <text encoding="base64">ICAgICAgICBwbWdySWRlbnRpdHkoY29udGV4dCkuCg==</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBEZQo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uaW50ZWcucG1nci5hdXRoLlBtZ3JSb2xlcy5PUEVSQVRPUl9MT0dfVklFV0VSOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNYXBwZXIoY29sTmFtZSA9ICJERVNDUklQVElPTiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGNvbnRleHQuZ2V0VXNlclByaW5jaXBhbCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gd29ya2Zsb3c7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2b2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHdvcmtmbG93LndpdGhTdGF0dXMoImNvbXBsZXRlIik7Cg==</text>
+        <text encoding="base64">ICAgIEBQYXRoKCJsaXN0IikK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -456,19 +462,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY29tcGxldGUpCg==</text>
+        <text encoding="base64">ICAgIEBEZQo=</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zml4ZWQgdGVzdHMK</text>
+        <text encoding="base64">ICAgIEBNYXBwZXIoY29sTmFtZSA9ICJERVNDUklQVElPTiIpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
@@ -521,9 +527,9 @@
         <entry>action IntroduceParameter</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action Compile</entry>
-        <entry>wa</entry>
         <entry>action ReformatCode</entry>
         <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
