@@ -25,12 +25,12 @@
       <file name="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/immutables/FormEntryTemplate.java" timestamp="1557857969148">
         <mark key="'" line="33" column="67" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrRoles.java" timestamp="1556721529668">
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrRoles.java" timestamp="1558365410845">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="96" column="13" />
-        <mark key="]" line="96" column="23" />
-        <mark key="." line="96" column="23" />
-        <mark key="^" line="96" column="23" />
+        <mark key="[" line="83" column="13" />
+        <mark key="]" line="83" column="27" />
+        <mark key="." line="83" column="27" />
+        <mark key="^" line="83" column="27" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/PiNotificationTest.java" timestamp="1558359377317">
         <mark key="'" line="37" column="30" />
@@ -110,11 +110,11 @@
         <mark key="^" line="126" column="65" />
         <mark key="." line="126" column="65" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/OperatorLogApi.java" timestamp="1558362767709">
-        <mark key="[" line="96" column="30" />
-        <mark key="]" line="97" column="45" />
-        <mark key="." line="97" column="45" />
-        <mark key="^" line="97" column="45" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/OperatorLogApi.java" timestamp="1558365307037">
+        <mark key="[" line="52" column="68" />
+        <mark key="]" line="52" column="88" />
+        <mark key="." line="52" column="88" />
+        <mark key="^" line="52" column="88" />
       </file>
       <file name="$USER_HOME$/dev/db-util/src/test/java/com/integ/db/mapper/ImmutableDbTests.java" timestamp="1557333483010">
         <mark key="'" line="375" column="16" />
@@ -284,8 +284,8 @@
       <jump line="20" column="22" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/api/ResourceAuthApi.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+      <register name="&quot;" type="4">
+        <text>operator_logger</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -348,7 +348,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -419,7 +419,7 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="4">
-        <text>OPERATOR_LOG_VIEWER</text>
+        <text>operator_logger</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLwo=</text>
@@ -527,8 +527,8 @@
         <entry>action IntroduceParameter</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action Compile</entry>
-        <entry>action ReformatCode</entry>
         <entry>w</entry>
+        <entry>action ReformatCode</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
