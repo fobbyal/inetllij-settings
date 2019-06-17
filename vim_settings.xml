@@ -192,6 +192,9 @@
       <file name="$USER_HOME$/dev/db-util/target/generated-test-sources/test-annotations/com/integ/db/mapper/TestDbNestedObj.java" timestamp="1557333298179">
         <mark key="'" line="839" column="39" />
       </file>
+      <file name="/fragment.java" timestamp="1560779690041">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="169" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FileStorageApi.java" />
