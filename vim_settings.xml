@@ -26,6 +26,9 @@
         <mark key="." line="57" column="44" />
         <mark key="^" line="57" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1560881641210">
+        <mark key="^" line="35" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FormTemplateApi.java" timestamp="1558361255147">
         <mark key="'" line="47" column="19" />
       </file>
@@ -227,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="33" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrIdentity.java" />
       <jump line="63" column="33" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrIdentity.java" />
       <jump line="44" column="73" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/access/CustomLogTypeAccess.java" />
       <jump line="46" column="68" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/access/CustomLogTypeAccess.java" />
@@ -327,10 +329,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/ChangeRequestDef.java" />
       <jump line="63" column="41" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/ChangeRequestApi.java" />
       <jump line="343" column="36" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/workflow/WorkflowProcessorTest.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/pspk/pspk-api/debug.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZS5EZWZhdWx0CiAgICBkZWZhdWx0IFN0cmluZyBzdGF0dXMoKSB7CiAgICAgICAgcmV0dXJuICJwZW5kaW5nIjsKICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -393,7 +396,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="n" type="4">
         <keys>
