@@ -99,6 +99,7 @@
         <mark key="." line="77" column="47" />
         <mark key="^" line="77" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/aep/communications/client/SecuredConnectorFactory.java" timestamp="1561040975485" />
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/immutables/ChangeRequestCreateDef.java" timestamp="1560789401260">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="16" column="0" />
