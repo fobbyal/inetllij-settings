@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1561039386004" />
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrAuthUtil.java" timestamp="1558361280174">
         <mark key="'" line="14" column="31" />
         <mark key="[" line="13" column="0" />
@@ -17,7 +18,7 @@
         <mark key="." line="57" column="44" />
         <mark key="^" line="57" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1560881641210">
+      <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1561039459867">
         <mark key="^" line="35" column="5" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/ChangeRequestDataAccess.java" timestamp="1560882865988">
@@ -25,6 +26,13 @@
         <mark key="]" line="203" column="27" />
         <mark key="." line="203" column="27" />
         <mark key="^" line="203" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1561039708936">
+        <mark key="'" line="97" column="42" />
+        <mark key="[" line="76" column="113" />
+        <mark key="]" line="76" column="115" />
+        <mark key="^" line="76" column="115" />
+        <mark key="." line="76" column="115" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/immutables/CommentDef.java" timestamp="1560882770229">
         <mark key="[" line="15" column="13" />
@@ -135,6 +143,11 @@
         <mark key="." line="24" column="11" />
         <mark key="^" line="24" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/AepCalcService.java" timestamp="1561039673363">
+        <mark key="[" line="245" column="40" />
+        <mark key="]" line="245" column="41" />
+        <mark key="." line="245" column="41" />
+      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/WorkflowApiTest.java" timestamp="1560883138248">
         <mark key="[" line="41" column="38" />
         <mark key="]" line="41" column="50" />
@@ -216,9 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/db/transaction/TransactionDataAccess.java" />
-      <jump line="16" column="56" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/immutables/UnitDef.java" />
-      <jump line="37" column="37" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/worflow/WorkflowEngine.java" />
       <jump line="248" column="22" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/com/google/common/collect/ImmutableMap.class" />
       <jump line="39" column="74" filename="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/com/google/common/collect/ImmutableMap.class" />
       <jump line="168" column="17" filename="/usr/lib/jvm/java-8-jdk/src.zip!/java/io/Serializable.java" />
@@ -316,6 +326,9 @@
       <jump line="59" column="27" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/repl.solver" />
       <jump line="61" column="43" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/repl.solver" />
       <jump line="63" column="25" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/repl.solver" />
+      <jump line="52" column="45" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
+      <jump line="76" column="96" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
+      <jump line="97" column="42" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,7 +460,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>1.1</text>
+        <text encoding="base64">XDxoZVw+</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -514,9 +527,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1.1</last-search>
+      <last-search encoding="base64">XDxoZVw+</last-search>
       <last-offset />
-      <last-pattern>1.1</last-pattern>
+      <last-pattern encoding="base64">XDxoZVw+</last-pattern>
       <last-replace>FormTemplate</last-replace>
       <last-substitute>EntryTemplate</last-substitute>
       <last-dir>1</last-dir>
@@ -524,7 +537,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbnNlcnRGb3JtRW50cnlUZW1wbGF0ZURhdGFcPg==</entry>
         <entry encoding="base64">XDxGaWxlVXBsb2FkR3JvdXAxXD4=</entry>
         <entry encoding="base64">XDxqd3RUb1NlY3VyaXR5RW50aXR5XD4=</entry>
         <entry encoding="base64">XDxmb3JtX3RlbXBsYXRlX21hbmFnZXJcPg==</entry>
@@ -544,6 +556,7 @@
         <entry>cap</entry>
         <entry encoding="base64">XDxOb0xvYWRDYXBcPg==</entry>
         <entry>1.1</entry>
+        <entry encoding="base64">XDxoZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
