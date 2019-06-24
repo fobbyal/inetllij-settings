@@ -30,7 +30,12 @@
       <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1561039459867">
         <mark key="^" line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/ChangeRequestDataAccess.java" timestamp="1561390723734" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/ChangeRequestDataAccess.java" timestamp="1561395940212">
+        <mark key="[" line="188" column="137" />
+        <mark key="]" line="188" column="137" />
+        <mark key="^" line="188" column="137" />
+        <mark key="." line="188" column="137" />
+      </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublisher.java" timestamp="1561039708936">
         <mark key="'" line="97" column="42" />
         <mark key="[" line="76" column="113" />
@@ -370,7 +375,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UUID.randomUUID()</text>
+        <text>t</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -433,7 +438,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UUID.randomUUID()</text>
+        <text>t</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -504,7 +509,7 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpzb25Qcm92aWRlci5tYXBwZXIud3JpdGVyV2l0aERlZmF1bHRQcmV0dHlQcmludGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgLndyaXRlVmFsdWVBc1N0cmluZyhqc29uTm9kZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcHBFeGNlcHRpb24oIkNhbm5vdCBtb2RpZnkgYW4gYWxyZWFkeSByZWplY3RlZCBjaGFuZ2UgcmVxdWVzdCIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZWZhdWx0CiAgICBkZWZhdWx0IFN0cmluZyBzdGF0dXMoKSB7CiAgICAgICAgcmV0dXJuICJwZW5kaW5nIjsKICAgIH0KCg==</text>
@@ -606,7 +611,6 @@
         <entry>wqa</entry>
         <entry>aw</entry>
         <entry>action AceAction</entry>
-        <entry>a</entry>
         <entry>action Rerun</entry>
         <entry>action CheckinProject</entry>
         <entry>vs</entry>
@@ -614,8 +618,9 @@
         <entry>w</entry>
         <entry>action RenameElement</entry>
         <entry>action IntroduceVariable</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Compile</entry>
+        <entry>a</entry>
+        <entry>action ReformatCode</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
