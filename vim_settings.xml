@@ -4,12 +4,21 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1561039386004" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/access/FormEntryTemplateDataAccess.java" timestamp="1556654197459">
+        <mark key="'" line="155" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrAuthUtil.java" timestamp="1558361280174">
         <mark key="'" line="14" column="31" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="15" column="63" />
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/resources/reference.conf" timestamp="1556651003041">
+        <mark key="'" line="4" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/ResourceSecurityIdentity.java" timestamp="1558361396098">
+        <mark key="'" line="11" column="31" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/auth/advanced/AuthTestApi.java" timestamp="1558370827627">
         <mark key="'" line="5" column="36" />
@@ -31,6 +40,9 @@
         <mark key="]" line="76" column="115" />
         <mark key="^" line="76" column="115" />
         <mark key="." line="76" column="115" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FormTemplateApi.java" timestamp="1558361255147">
+        <mark key="'" line="47" column="19" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/workflow/WorkflowProcessorTest.java" timestamp="1561398253537">
         <mark key="'" line="146" column="26" />
@@ -94,6 +106,9 @@
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" timestamp="1558368269880">
+        <mark key="'" line="80" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/ChangeRqeuestPayload.java" timestamp="1560786627954">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="26" />
@@ -111,6 +126,9 @@
         <mark key="]" line="57" column="15" />
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" timestamp="1561662413093">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/db/transaction/TransactionDataAccess.java" timestamp="1557344176657">
         <mark key="'" line="36" column="0" />
@@ -153,6 +171,9 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="10" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/target/generated-sources/annotations/com/integ/pspk/aep/calc/immutables/CalcDataSource.java" timestamp="1555345988271">
+        <mark key="'" line="808" column="58" />
+      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/OperatorLogApi.java" timestamp="1558365307037">
         <mark key="[" line="52" column="68" />
         <mark key="]" line="52" column="88" />
@@ -179,6 +200,9 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
       </file>
+      <file name="/usr/lib/jvm/java-8-jdk/src.zip!/java/io/Serializable.java" timestamp="1557760416396">
+        <mark key="'" line="168" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/CyclingChangeRequestDef.java" timestamp="1557858931966">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="11" />
@@ -197,6 +221,9 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.5.1/amqp-client-5.5.1.jar!/com/rabbitmq/client/ConnectionFactory.class" timestamp="1556131612005">
+        <mark key="'" line="105" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/api/ResourceAuthApi.java" timestamp="1558361423916">
         <mark key="'" line="20" column="22" />
         <mark key="[" line="17" column="11" />
@@ -204,12 +231,19 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/cost-calc.md" timestamp="1561661880210" />
+      <file name="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/workflow/immutables/WorkflowStep.java" timestamp="1557858160178">
+        <mark key="'" line="33" column="57" />
+      </file>
       <file name="$USER_HOME$/dev/db-util/src/test/java/com/integ/db/mapper/ImmutableDbTests.java" timestamp="1557333483010">
         <mark key="'" line="375" column="16" />
         <mark key="[" line="380" column="0" />
         <mark key="]" line="382" column="34" />
         <mark key="^" line="356" column="32" />
         <mark key="." line="380" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/immutables/FormEntryTemplate.java" timestamp="1557857969148">
+        <mark key="'" line="33" column="67" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowProcessor.java" timestamp="1558359672298">
         <mark key="'" line="65" column="10" />
@@ -245,15 +279,26 @@
         <mark key="^" line="116" column="46" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/AssetServiceTest.java" timestamp="1561398047965" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/HeatCurveCoefficientsDef.java" timestamp="1561662443606" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrRoles.java" timestamp="1558370324984">
+        <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" timestamp="1561662229200">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="0" column="107" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/com/google/common/collect/ImmutableMap.class" timestamp="1557760414340">
+        <mark key="'" line="39" column="74" />
+      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/mb/AbstractMessageBrokerClient.java" timestamp="1561401054873" />
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/DataMatcherDef.java" timestamp="1557861440718">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="11" column="19" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowDataAccess.java" timestamp="1561390699282">
-        <mark key="'" line="90" column="26" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FileStorageApi.java" timestamp="1556737110138">
         <mark key="'" line="84" column="30" />
@@ -269,26 +314,14 @@
         <mark key="." line="34" column="41" />
         <mark key="^" line="34" column="41" />
       </file>
+      <file name="$USER_HOME$/dev/db-util/target/generated-test-sources/test-annotations/com/integ/db/mapper/TestDbNestedObj.java" timestamp="1557333298179">
+        <mark key="'" line="839" column="39" />
+      </file>
       <file name="/fragment.java" timestamp="1561398027196">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="77" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowDataContainer.java" />
-      <jump line="2" column="22" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowDataContainer.java" />
-      <jump line="0" column="23" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowDataContainer.java" />
-      <jump line="35" column="18" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="28" column="56" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="96" column="55" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="100" column="23" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="93" column="27" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="84" column="26" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/workflow/WorkflowEngineTest.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/workflow/WorkflowEngineTest.java" />
-      <jump line="113" column="18" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="112" column="21" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="91" column="98" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="97" column="44" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="102" column="44" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="54" column="29" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="33" column="67" filename="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/immutables/FormEntryTemplate.java" />
       <jump line="18" column="17" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/immutables/FormEntryTemplateDef.java" />
@@ -374,10 +407,25 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcEntryDef.java" />
       <jump line="66" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/CalcEntryDef.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/reg/aep-steam.solver" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="8" column="27" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="9" column="22" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="4" column="12" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="14" column="10" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="6" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="7" column="62" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="636" column="34" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Tk94RW1pc3Npb25SYXRlR2VuID0gKE5PeEFDb2VmZmljaWVudCArIChOT3hCQ29lZmZpY2llbnQgKiBNVykpICogTk94QWRqdXN0bWVudEZhY3RvcgpOT3hBZGRlckNvc3RHZW4gPSBOT3hBbGxvd2FuY2VDb3N0X05DRFRGICogTk94RW1pc3Npb25SYXRlR2VuICogMC4wMDA1ClNPeEVtaXNzaW9uUmF0ZUdlbiA9IChTT3hBQ29lZmZpY2llbnQgKyAoU094QkNvZWZmaWNpZW50ICogTVcpKSAqIFNPeEFkanVzdG1lbnRGYWN0b3IKU094QWRkZXJDb3N0R2VuID0gQ0ZTTzIgKiBTT3hFbWlzc2lvblJhdGVHZW4gKiAwLjAwMDUKTk94QWRkZXJDb3N0Tm9Mb2FkID0gTk94QWxsb3dhbmNlQ29zdF9OQ0RURiAqIE5PeEFDb2VmZmljaWVudE5vTG9hZCAqIE5PeEFkanVzdG1lbnRGYWN0b3IgKiAwLjAwMDUKU094QWRkZXJDb3N0Tm9Mb2FkID0gU094QWxsb3dhbmNlQ29zdF9OQ0RURiAqIFNPeEFDb2VmZmljaWVudE5vTG9hZCAqIFNPeEFkanVzdG1lbnRGYWN0b3IgKiAwLjAwMDUKVG90YWxDaGVtaWNhbENvc3RHZW4gPSBpZihVbml0SGVhdEFWR19HQURTID09IDAsIDAgLChVbml0QWN0Q2FyYkNvc3QrVW5pdEFtbUNhcmJDb3N0K1VuaXRBbmhBbW1Db3N0K1VuaXRDYWxCcm9Db3N0K1VuaXRMaW1lQ29zdCArIFVuaXRMaW1lSHlkQ29zdCtVbml0TGltZXN0b25lQ29zdCArVW5pdFBvbHltZXJDb3N0K1VuaXRTb2RCaUNvc3QrVW5pdFRyb25hQ29zdCtVbml0VXJlYUNvc3QpIC8gICBVbml0SGVhdEFWR19HQURTKQovL0N0QXNTVCBPYW5kTUNvc3Qgc29sdXRpb24KQmFzZVRvdGFsSGVhdCA9CShBQ29lZmZpY2llbnQgKyAoQkNvZWZmaWNpZW50ICogQmFzZV9DVCkgKyAoQ0NvZWZmaWNpZW50ICogQmFzZV9DVCAqIEJhc2VfQ1QpICsgKERDb2VmZmljaWVudCAqIEJhc2VfQ1QgKiBCYXNlX0NUICogQmFzZV9DVCkpICogT3BlclBlcmZGYWN0ICogU2Vhc0ZhY3QKQmFzZUF2ZXJhZ2VIZWF0UmF0ZSA9IGlmKEJhc2VfQ1QgPT0gMCwgMSwgQmFzZVRvdGFsSGVhdCAvIEJhc2VfQ1QgICkKT2FuZE1Db3N0X09USEVSX0NUID0gaWYoQmFzZV9DVCA9PSAwLCAwICwgQmFzZU1haW50X0NUL0Jhc2VfQ1QvQmFzZUF2ZXJhZ2VIZWF0UmF0ZSkKT2FuZE1Db3N0X09USEVSID0gaWYoSXNDdEFzU3RlYW0gPT0gMSAsIE9hbmRNQ29zdF9PVEhFUl9DVCwgT2FuZE1Db3N0X09USEVSX1NUKQovL0N0QXNTVCBPYW5kTUNvc3Qgc29sdXRpb24gZW5kcwpURlJDR2VuID0gV0ZIU0Nvc3QgKyBGdWVsQ29zdERpc2NvdW50ICsgT2FuZE1Db3N0X09USEVSICsgU094QWRkZXJDb3N0R2VuICsgTk94QWRkZXJDb3N0R2VuICsgVG90YWxDaGVtaWNhbENvc3RHZW4KVG90YWxIZWF0ID0JKEFDb2VmZmljaWVudCArIChCQ29lZmZpY2llbnQgKiBNVykgKyAoQ0NvZWZmaWNpZW50ICogTVcgKiBNVykgKyAoRENvZWZmaWNpZW50ICogTVcgKiBNVyAqIE1XKSkgKiBPcGVyUGVyZkZhY3QgKiBTZWFzRmFjdApOb0xvYWRIZWF0ID0gQUNvZWZmaWNpZW50ICogT3BlclBlcmZGYWN0ICogU2Vhc0ZhY3QKVEZSQ05vTG9hZCA9IFdGSFNDb3N0ICsgRnVlbENvc3REaXNjb3VudCArIE9hbmRNQ29zdF9PVEhFUiArIFNPeEFkZGVyQ29zdE5vTG9hZCArIE5PeEFkZGVyQ29zdE5vTG9hZCArIFRvdGFsQ2hlbWljYWxDb3N0R2VuClRvdGFsQ29zdCA9CU5vTG9hZENvc3QgKyAoKFRvdGFsSGVhdCAtIE5vTG9hZEhlYXQpICogVEZSQ0dlbiAqIExvc3NGYWN0KSArIEluY3JBZGp1c3QgKyBJbmNyU2NoZWRBZGRlciArIChTdXJjaGFyZ2VzICogTVcpCkF2ZXJhZ2VDb3N0ID0gaWYoTVcgPT0gMCwgMCAsIFRvdGFsQ29zdCAvIE1XKQpCYXNpY0dlbkNvc3QgPSBURlJDR2VuICogVG90YWxIZWF0CkluY3JDb3N0ID0gKEluY3JIZWF0UmF0ZSAqIFRGUkNHZW4gKiBMb3NzRmFjdCkgKyBTdXJjaGFyZ2VzCkluY3JIZWF0UmF0ZSA9IChCQ29lZmZpY2llbnQgKyAoMiAqIENDb2VmZmljaWVudCAqIE1XKSArICgzICogRENvZWZmaWNpZW50ICogTVcgKiBNVykpICogT3BlclBlcmZGYWN0ICogU2Vhc0ZhY3QKSW5jckNvc3RDYXBQcmltZSA9IGlmKEluY3JDb3N0Q2FwQWRqID09IDAsIEluY3JDb3N0ICogMS4xLCAgSW5jckNvc3QrSW5jckNvc3RDYXBBZGopCkluY3JDb3N0Q2FwID0gaWYoSW5jckNvc3RDYXBQcmltZSA+IDEwMDAgLCBtaW4obWluKEluY3JDb3N0Q2FwUHJpbWUsMTAwK0luY3JDb3N0KSwyMDAwKSxJbmNyQ29zdENhcFByaW1lKQpBdmVyYWdlSGVhdFJhdGUgPSBpZihNVyA9PSAwICwgMCAsIFRvdGFsSGVhdC9NVykKQXZlcmFnZUhlYXRSYXRlQW5jID0gQXZlcmFnZUhlYXRSYXRlICogMTAwMC4wMApJbmNyRW1pc3Npb25Db3N0ID0JSW5jckhlYXRSYXRlICogKFNPeEFkZGVyQ29zdEdlbiArIE5PeEFkZGVyQ29zdEdlbiArIFRvdGFsQ2hlbWljYWxDb3N0R2VuKSAqIExvc3NGYWN0CkluY3JPYW5kTUNvc3QgPQkoSW5jckhlYXRSYXRlICogKE9NQURKICsgT2FuZE1Db3N0X09USEVSKSAqIExvc3NGYWN0KQpPdmVycmlkZU5vTG9hZENvc3QgPSBpZihUb3RhbENvc3QgLSAoTVcgKiBJbmNyQ29zdCkgPCAwLjAwLCAwLjAwICAsVG90YWxDb3N0IC0gKE1XICogSW5jckNvc3QpKQpPdmVycmlkZU5vTG9hZENvc3RDYXAgPQlPdmVycmlkZU5vTG9hZENvc3QgKiAxLjEKTk94RW1pc3Npb25SYXRlR2VuX0VDT01BWCA9CShOT3hBQ29lZmZpY2llbnQgKyAoTk94QkNvZWZmaWNpZW50ICogTVdfRUNPTUFYKSkgKiBOT3hBZGp1c3RtZW50RmFjdG9yClNPeEVtaXNzaW9uUmF0ZUdlbl9FQ09NQVggPQkoU094QUNvZWZmaWNpZW50ICsgKFNPeEJDb2VmZmljaWVudCAqIE1XX0VDT01BWCkpICogU094QWRqdXN0bWVudEZhY3RvcgpJbmNySGVhdFJhdGVfRUNPTUFYID0gKEJDb2VmZmljaWVudCArICgyICogQ0NvZWZmaWNpZW50ICogTVdfRUNPTUFYKSArICgzICogRENvZWZmaWNpZW50ICogTVdfRUNPTUFYICogTVdfRUNPTUFYKSkgKiBPcGVyUGVyZkZhY3QgKiBTZWFzRmFjdApPcHBDb3N0ID0gSW5jckhlYXRSYXRlX0VDT01BWCooKFNPeEVtaXNzaW9uUmF0ZUdlbl9FQ09NQVgqKFNPeFNoYWRvd1ByaWNlIC8gMjAwMCkpKyhOT3hFbWlzc2lvblJhdGVHZW5fRUNPTUFYKihOT3hTaGFkb3dQcmljZSAvIDIwMDApKSkKTm9Mb2FkQ29zdCA9IChOb0xvYWRIZWF0ICogVEZSQ05vTG9hZCkgKyBOb0xvYWRBZGp1c3QgKyBOb0xvYWRJbmNyTGFib3JDb3N0Ck5vTG9hZENhcCA9IE5vTG9hZENvc3QgKiAxLjEKQmxvY2tOb0xvYWRDb3N0ID0gTm9Mb2FkQ29zdApCbG9ja05vTG9hZENhcCA9IE5vTG9hZENhcApTbG9wZU5vTG9hZENvc3QgPSBtYXgoVG90YWxDb3N0IC0gKE1XICogSW5jckNvc3QpLDApClNsb3BlTm9Mb2FkQ2FwID0gU2xvcGVOb0xvYWRDb3N0ICogMS4xCkJhc2ljR2VuQ29zdCA9IFRGUkNHZW4gKiBUb3RhbEhlYXQKSW5jcldGSFNDb3N0ID0gSW5jckhlYXRSYXRlICogV0ZIU0Nvc3RHZW4gKiBMb3NzRmFjdApOT3hFbWlzc2lvblJhdGVOb0xvYWQgPSBOT3hBQ29lZmZpY2llbnROb0xvYWQKU094RW1pc3Npb25SYXRlTm9Mb2FkID0gU094QUNvZWZmaWNpZW50Tm9Mb2FkCk92ZXJyaWRlTm9Mb2FkQ2FwID0gU2xvcGVOb0xvYWRDYXAKT3ZlcnJpZGVOb0xvYWRDb3N0ID0gU2xvcGVOb0xvYWRDb3N0ClZPTSA9IE9hbmRNQ29zdF9PVEhFUiAqIEF2ZXJhZ2VIZWF0UmF0ZQo=</text>
+        <text encoding="base64">SW5jcldGSFNDb3N0ID0gSW5jckhlYXRSYXRlICogV0ZIU0Nvc3RHZW4gKiBMb3NzRmFjdAo=</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -440,7 +488,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>WFHSCost + FuelCostDiscount + OandMCost_OTHER + SOxAdderCostGen + NOxAdderCostGen + TotalChemicalCostGen</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -505,7 +553,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>initi</text>
+        <text>coef</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -514,35 +562,34 @@
         <text encoding="base64">Tk94RW1pc3Npb25SYXRlR2VuID0gKE5PeEFDb2VmZmljaWVudCArIChOT3hCQ29lZmZpY2llbnQgKiBNVykpICogTk94QWRqdXN0bWVudEZhY3RvcgpOT3hBZGRlckNvc3RHZW4gPSBOT3hBbGxvd2FuY2VDb3N0X05DRFRGICogTk94RW1pc3Npb25SYXRlR2VuICogMC4wMDA1ClNPeEVtaXNzaW9uUmF0ZUdlbiA9IChTT3hBQ29lZmZpY2llbnQgKyAoU094QkNvZWZmaWNpZW50ICogTVcpKSAqIFNPeEFkanVzdG1lbnRGYWN0b3IKU094QWRkZXJDb3N0R2VuID0gQ0ZTTzIgKiBTT3hFbWlzc2lvblJhdGVHZW4gKiAwLjAwMDUKTk94QWRkZXJDb3N0Tm9Mb2FkID0gTk94QWxsb3dhbmNlQ29zdF9OQ0RURiAqIE5PeEFDb2VmZmljaWVudE5vTG9hZCAqIE5PeEFkanVzdG1lbnRGYWN0b3IgKiAwLjAwMDUKU094QWRkZXJDb3N0Tm9Mb2FkID0gU094QWxsb3dhbmNlQ29zdF9OQ0RURiAqIFNPeEFDb2VmZmljaWVudE5vTG9hZCAqIFNPeEFkanVzdG1lbnRGYWN0b3IgKiAwLjAwMDUKVG90YWxDaGVtaWNhbENvc3RHZW4gPSBpZihVbml0SGVhdEFWR19HQURTID09IDAsIDAgLChVbml0QWN0Q2FyYkNvc3QrVW5pdEFtbUNhcmJDb3N0K1VuaXRBbmhBbW1Db3N0K1VuaXRDYWxCcm9Db3N0K1VuaXRMaW1lQ29zdCArIFVuaXRMaW1lSHlkQ29zdCtVbml0TGltZXN0b25lQ29zdCArVW5pdFBvbHltZXJDb3N0K1VuaXRTb2RCaUNvc3QrVW5pdFRyb25hQ29zdCtVbml0VXJlYUNvc3QpIC8gICBVbml0SGVhdEFWR19HQURTKQovL0N0QXNTVCBPYW5kTUNvc3Qgc29sdXRpb24KQmFzZVRvdGFsSGVhdCA9CShBQ29lZmZpY2llbnQgKyAoQkNvZWZmaWNpZW50ICogQmFzZV9DVCkgKyAoQ0NvZWZmaWNpZW50ICogQmFzZV9DVCAqIEJhc2VfQ1QpICsgKERDb2VmZmljaWVudCAqIEJhc2VfQ1QgKiBCYXNlX0NUICogQmFzZV9DVCkpICogT3BlclBlcmZGYWN0ICogU2Vhc0ZhY3QKQmFzZUF2ZXJhZ2VIZWF0UmF0ZSA9IGlmKEJhc2VfQ1QgPT0gMCwgMSwgQmFzZVRvdGFsSGVhdCAvIEJhc2VfQ1QgICkKT2FuZE1Db3N0X09USEVSX0NUID0gaWYoQmFzZV9DVCA9PSAwLCAwICwgQmFzZU1haW50X0NUL0Jhc2VfQ1QvQmFzZUF2ZXJhZ2VIZWF0UmF0ZSkKT2FuZE1Db3N0X09USEVSID0gaWYoSXNDdEFzU3RlYW0gPT0gMSAsIE9hbmRNQ29zdF9PVEhFUl9DVCwgT2FuZE1Db3N0X09USEVSX1NUKQovL0N0QXNTVCBPYW5kTUNvc3Qgc29sdXRpb24gZW5kcwpURlJDR2VuID0gV0ZIU0Nvc3QgKyBGdWVsQ29zdERpc2NvdW50ICsgT2FuZE1Db3N0X09USEVSICsgU094QWRkZXJDb3N0R2VuICsgTk94QWRkZXJDb3N0R2VuICsgVG90YWxDaGVtaWNhbENvc3RHZW4KVG90YWxIZWF0ID0JKEFDb2VmZmljaWVudCArIChCQ29lZmZpY2llbnQgKiBNVykgKyAoQ0NvZWZmaWNpZW50ICogTVcgKiBNVykgKyAoRENvZWZmaWNpZW50ICogTVcgKiBNVyAqIE1XKSkgKiBPcGVyUGVyZkZhY3QgKiBTZWFzRmFjdApOb0xvYWRIZWF0ID0gQUNvZWZmaWNpZW50ICogT3BlclBlcmZGYWN0ICogU2Vhc0ZhY3QKVEZSQ05vTG9hZCA9IFdGSFNDb3N0ICsgRnVlbENvc3REaXNjb3VudCArIE9hbmRNQ29zdF9PVEhFUiArIFNPeEFkZGVyQ29zdE5vTG9hZCArIE5PeEFkZGVyQ29zdE5vTG9hZCArIFRvdGFsQ2hlbWljYWxDb3N0R2VuClRvdGFsQ29zdCA9CU5vTG9hZENvc3QgKyAoKFRvdGFsSGVhdCAtIE5vTG9hZEhlYXQpICogVEZSQ0dlbiAqIExvc3NGYWN0KSArIEluY3JBZGp1c3QgKyBJbmNyU2NoZWRBZGRlciArIChTdXJjaGFyZ2VzICogTVcpCkF2ZXJhZ2VDb3N0ID0gaWYoTVcgPT0gMCwgMCAsIFRvdGFsQ29zdCAvIE1XKQpCYXNpY0dlbkNvc3QgPSBURlJDR2VuICogVG90YWxIZWF0CkluY3JDb3N0ID0gKEluY3JIZWF0UmF0ZSAqIFRGUkNHZW4gKiBMb3NzRmFjdCkgKyBTdXJjaGFyZ2VzCkluY3JIZWF0UmF0ZSA9IChCQ29lZmZpY2llbnQgKyAoMiAqIENDb2VmZmljaWVudCAqIE1XKSArICgzICogRENvZWZmaWNpZW50ICogTVcgKiBNVykpICogT3BlclBlcmZGYWN0ICogU2Vhc0ZhY3QKSW5jckNvc3RDYXBQcmltZSA9IGlmKEluY3JDb3N0Q2FwQWRqID09IDAsIEluY3JDb3N0ICogMS4xLCAgSW5jckNvc3QrSW5jckNvc3RDYXBBZGopCkluY3JDb3N0Q2FwID0gaWYoSW5jckNvc3RDYXBQcmltZSA+IDEwMDAgLCBtaW4obWluKEluY3JDb3N0Q2FwUHJpbWUsMTAwK0luY3JDb3N0KSwyMDAwKSxJbmNyQ29zdENhcFByaW1lKQpBdmVyYWdlSGVhdFJhdGUgPSBpZihNVyA9PSAwICwgMCAsIFRvdGFsSGVhdC9NVykKQXZlcmFnZUhlYXRSYXRlQW5jID0gQXZlcmFnZUhlYXRSYXRlICogMTAwMC4wMApJbmNyRW1pc3Npb25Db3N0ID0JSW5jckhlYXRSYXRlICogKFNPeEFkZGVyQ29zdEdlbiArIE5PeEFkZGVyQ29zdEdlbiArIFRvdGFsQ2hlbWljYWxDb3N0R2VuKSAqIExvc3NGYWN0CkluY3JPYW5kTUNvc3QgPQkoSW5jckhlYXRSYXRlICogKE9NQURKICsgT2FuZE1Db3N0X09USEVSKSAqIExvc3NGYWN0KQpPdmVycmlkZU5vTG9hZENvc3QgPSBpZihUb3RhbENvc3QgLSAoTVcgKiBJbmNyQ29zdCkgPCAwLjAwLCAwLjAwICAsVG90YWxDb3N0IC0gKE1XICogSW5jckNvc3QpKQpPdmVycmlkZU5vTG9hZENvc3RDYXAgPQlPdmVycmlkZU5vTG9hZENvc3QgKiAxLjEKTk94RW1pc3Npb25SYXRlR2VuX0VDT01BWCA9CShOT3hBQ29lZmZpY2llbnQgKyAoTk94QkNvZWZmaWNpZW50ICogTVdfRUNPTUFYKSkgKiBOT3hBZGp1c3RtZW50RmFjdG9yClNPeEVtaXNzaW9uUmF0ZUdlbl9FQ09NQVggPQkoU094QUNvZWZmaWNpZW50ICsgKFNPeEJDb2VmZmljaWVudCAqIE1XX0VDT01BWCkpICogU094QWRqdXN0bWVudEZhY3RvcgpJbmNySGVhdFJhdGVfRUNPTUFYID0gKEJDb2VmZmljaWVudCArICgyICogQ0NvZWZmaWNpZW50ICogTVdfRUNPTUFYKSArICgzICogRENvZWZmaWNpZW50ICogTVdfRUNPTUFYICogTVdfRUNPTUFYKSkgKiBPcGVyUGVyZkZhY3QgKiBTZWFzRmFjdApPcHBDb3N0ID0gSW5jckhlYXRSYXRlX0VDT01BWCooKFNPeEVtaXNzaW9uUmF0ZUdlbl9FQ09NQVgqKFNPeFNoYWRvd1ByaWNlIC8gMjAwMCkpKyhOT3hFbWlzc2lvblJhdGVHZW5fRUNPTUFYKihOT3hTaGFkb3dQcmljZSAvIDIwMDApKSkKTm9Mb2FkQ29zdCA9IChOb0xvYWRIZWF0ICogVEZSQ05vTG9hZCkgKyBOb0xvYWRBZGp1c3QgKyBOb0xvYWRJbmNyTGFib3JDb3N0Ck5vTG9hZENhcCA9IE5vTG9hZENvc3QgKiAxLjEKQmxvY2tOb0xvYWRDb3N0ID0gTm9Mb2FkQ29zdApCbG9ja05vTG9hZENhcCA9IE5vTG9hZENhcApTbG9wZU5vTG9hZENvc3QgPSBtYXgoVG90YWxDb3N0IC0gKE1XICogSW5jckNvc3QpLDApClNsb3BlTm9Mb2FkQ2FwID0gU2xvcGVOb0xvYWRDb3N0ICogMS4xCkJhc2ljR2VuQ29zdCA9IFRGUkNHZW4gKiBUb3RhbEhlYXQKSW5jcldGSFNDb3N0ID0gSW5jckhlYXRSYXRlICogV0ZIU0Nvc3RHZW4gKiBMb3NzRmFjdApOT3hFbWlzc2lvblJhdGVOb0xvYWQgPSBOT3hBQ29lZmZpY2llbnROb0xvYWQKU094RW1pc3Npb25SYXRlTm9Mb2FkID0gU094QUNvZWZmaWNpZW50Tm9Mb2FkCk92ZXJyaWRlTm9Mb2FkQ2FwID0gU2xvcGVOb0xvYWRDYXAKT3ZlcnJpZGVOb0xvYWRDb3N0ID0gU2xvcGVOb0xvYWRDb3N0ClZPTSA9IE9hbmRNQ29zdF9PVEhFUiAqIEF2ZXJhZ2VIZWF0UmF0ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFMK</text>
+        <text encoding="base64">SW5jcldGSFNDb3N0ID0gSW5jckhlYXRSYXRlICogV0ZIU0Nvc3RHZW4gKiBMb3NzRmFjdAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0aW5ra2pkCg==</text>
+        <text encoding="base64">VEZSQyA9IFdGSFNDb3N0ICsgRnVlbENvc3REaXNjb3VudCArIE9hbmRNQ29zdF9PVEhFUiArIFNPeEFkZGVyQ29zdE5vTG9hZCArIE5PeEFkZGVyQ29zdE5vTG9hZCArIFRvdGFsQ2hlbWljYWxDb3N0R2VuCg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFF1aWNrSW5wdXRUZW1wbGF0ZT4gYWN0dWFsID0gcmVzcC5yZWFkRW50aXR5KG5ldyBHZW5lcmljVHlwZTxMaXN0PFF1aWNrSW5wdXRUZW1wbGF0ZT4+KCkgewogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">VG90YWxIZWF0ID0JKEFDb2VmZmljaWVudCArIChCQ29lZmZpY2llbnQgKiBNVykgKyAoQ0NvZWZmaWNpZW50ICogTVcgKiBNVykgKyAoRENvZWZmaWNpZW50ICogTVcgKiBNVyAqIE1XKSkgKiBPcGVyUGVyZkZhY3QgKiBTZWFzRmFjdAo=</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">VG90YWxDb3N0ID0JTm9Mb2FkQ29zdCArICgoVG90YWxIZWF0IC0gTm9Mb2FkSGVhdCkgKiBURlJDICogTG9zc0ZhY3QpICsgSW5jckFkanVzdCArIEluY3JTY2hlZEFkZGVyICsgKFN1cmNoYXJnZXMgKiBNVykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqcAo=</text>
+        <text encoding="base64">Tm9Mb2FkQ29zdCA9IChOb0xvYWRIZWF0ICogVEZSQykgKyBOb0xvYWRBZGp1c3QgKyBOb0xvYWRJbmNyTGFib3JDb3N0Ck5vTG9hZENhcCA9IE5vTG9hZENvc3QgKiAxLjEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxQYXJhbVZhbHVlcz4gbmFtZTEgPSBzaW5nbGV0b25MaXN0KFBhcmFtVmFsdWVzLmRwVmFscygpLmJpbmQoIm5hbWUiLCBuYW1lKSk7Cg==</text>
+        <text encoding="base64">Tk94RW1pc3Npb25SYXRlTm9Mb2FkID0gTk94QUNvZWZmaWNpZW50Tm9Mb2FkClNPeEVtaXNzaW9uUmF0ZU5vTG9hZCA9IFNPeEFDb2VmZmljaWVudE5vTG9hZApPdmVycmlkZU5vTG9hZENhcCA9IFNsb3BlTm9Mb2FkQ2FwCk92ZXJyaWRlTm9Mb2FkQ29zdCA9IFNsb3BlTm9Mb2FkQ29zdApWT00gPSBPYW5kTUNvc3RfT1RIRVIgKiBBdmVyYWdlSGVhdFJhdGUK</text>
       </register>
-      <register name="7" type="4">
-        <text>,
-                                                         ObjectMapper mapper</text>
+      <register name="7" type="2">
+        <text encoding="base64">T3ZlcnJpZGVOb0xvYWRDb3N0Q2FwID0JT3ZlcnJpZGVOb0xvYWRDb3N0ICogMS4xCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -554,50 +601,33 @@
           <key char="108" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="4">
-        <text>(\n&quot; +
-                    &quot;    name,\n&quot; +
-                    &quot;    data,\n&quot; +
-                    &quot;    modifier,\n&quot; +
-                    &quot;    modifieddate\n&quot; +
-                    &quot;) VALUES (\n&quot; +
-                    &quot;    #name#,\n&quot; +
-                    &quot;    #data#,\n&quot; +
-                    &quot;    #user#,\n&quot; +
-                    &quot;    #date#\n&quot; +
-                    &quot;)</text>
+      <register name="8" type="2">
+        <text encoding="base64">T3ZlcnJpZGVOb0xvYWRDb3N0ID0gaWYoVG90YWxDb3N0IC0gKE1XICogSW5jckNvc3QpIDwgMC4wMCwgMC4wMCAgLFRvdGFsQ29zdCAtIChNVyAqIEluY3JDb3N0KSkK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxQYXJhbVZhbHVlcz4gb05hbWVQYXJhbXMgPSBvTmFtZXMuc3RyZWFtKCkubWFwKG4gLT4gUGFyYW1WYWx1ZXMuZHBWYWxzKCkucHV0KCJuYW1lIiwgbikpLmNvbGxlY3QodG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">T3BwQ29zdCA9IEluY3JIZWF0UmF0ZV9FQ09NQVgqKChTT3hFbWlzc2lvblJhdGVHZW5fRUNPTUFYKihTT3hTaGFkb3dQcmljZSAvIDIwMDApKSsoTk94RW1pc3Npb25SYXRlR2VuX0VDT01BWCooTk94U2hhZG93UHJpY2UgLyAyMDAwKSkpCg==</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Compile</text>
+        <text>wa</text>
       </register>
     </registers>
     <search>
-      <last-search>initi</last-search>
+      <last-search>coef</last-search>
       <last-offset />
-      <last-pattern>initi</last-pattern>
-      <last-replace>FormTemplate</last-replace>
-      <last-substitute>EntryTemplate</last-substitute>
+      <last-pattern>coef</last-pattern>
+      <last-replace>TFRC</last-replace>
+      <last-substitute>TFRCNoLoad</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>optionalLn</entry>
-        <entry>title</entry>
-        <entry encoding="base64">XDx3b3JrZmxvd1w+</entry>
-        <entry>step</entry>
-        <entry encoding="base64">XDx2YWx1ZVw+</entry>
-        <entry>w</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZU9mZmVyc0J5UHJvZmlsZVw+</entry>
         <entry>generate</entry>
         <entry encoding="base64">XDxQYktkZjJIYXNoXD4=</entry>
         <entry>oprate</entry>
@@ -611,10 +641,15 @@
         <entry>install</entry>
         <entry>initial</entry>
         <entry>initi</entry>
+        <entry>heat</entry>
+        <entry encoding="base64">XDxURlJDR2VuXD4=</entry>
+        <entry>TFRCGen</entry>
+        <entry>TFRCNoLoad</entry>
+        <entry encoding="base64">XDxJbmNyQ29zdFw+</entry>
+        <entry>cief</entry>
+        <entry>coef</entry>
       </history-search>
       <history-cmd>
-        <entry>35</entry>
-        <entry>action CompileDirty</entry>
         <entry>220</entry>
         <entry>%s/EntryTemplate/FormTemplate/g</entry>
         <entry>wea</entry>
@@ -623,16 +658,18 @@
         <entry>aw</entry>
         <entry>action AceAction</entry>
         <entry>vs</entry>
-        <entry>w</entry>
         <entry>a</entry>
         <entry>action Rerun</entry>
         <entry>action IntroduceParameter</entry>
         <entry>action IntroduceVariable</entry>
         <entry>action RenameElement</entry>
         <entry>action CheckinProject</entry>
-        <entry>wa</entry>
         <entry>action ReformatCode</entry>
         <entry>action Compile</entry>
+        <entry>%s/TFRCGen/TFRC/g</entry>
+        <entry>%s/TFRCNoLoad/TFRC/g</entry>
+        <entry>w</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
