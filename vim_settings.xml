@@ -4,20 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1561039386004" />
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrAuthUtil.java" timestamp="1558361280174">
-        <mark key="'" line="14" column="31" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="63" />
-        <mark key="^" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/auth/advanced/AuthTestApi.java" timestamp="1558370827627">
-        <mark key="'" line="5" column="36" />
-        <mark key="[" line="57" column="45" />
-        <mark key="]" line="57" column="44" />
-        <mark key="." line="57" column="44" />
-        <mark key="^" line="57" column="44" />
-      </file>
       <file name="$USER_HOME$/dev/pspk/pspk-api/debug.conf" timestamp="1561039459867">
         <mark key="^" line="35" column="5" />
       </file>
@@ -54,30 +40,16 @@
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/FormTemplateApiTest.java" timestamp="1556744784637">
-        <mark key="'" line="107" column="45" />
-        <mark key="[" line="126" column="63" />
-        <mark key="]" line="126" column="65" />
-        <mark key="^" line="126" column="65" />
-        <mark key="." line="126" column="65" />
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/QuickInputTest.java" timestamp="1561647171337">
+        <mark key="'" line="171" column="32" />
+        <mark key="[" line="159" column="47" />
+        <mark key="]" line="159" column="47" />
+        <mark key="^" line="159" column="47" />
+        <mark key="." line="159" column="47" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/ParamDataTest.java" timestamp="1561398574330">
         <mark key="[" line="165" column="40" />
         <mark key="]" line="165" column="73" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/PmgrApiTest.java" timestamp="1556744515602">
-        <mark key="'" line="99" column="51" />
-        <mark key="[" line="74" column="42" />
-        <mark key="]" line="75" column="34" />
-        <mark key="." line="75" column="34" />
-        <mark key="^" line="75" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/db-util/src/main/java/com/integ/db/DataUtils.java" timestamp="1557333420215">
-        <mark key="'" line="59" column="35" />
-        <mark key="[" line="83" column="28" />
-        <mark key="]" line="83" column="38" />
-        <mark key="^" line="83" column="38" />
-        <mark key="." line="83" column="38" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/ChangeRqeuestPayload.java" timestamp="1560786627954">
         <mark key="[" line="8" column="25" />
@@ -91,18 +63,17 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/AepDataAccess.java" timestamp="1561646187268">
+        <mark key="[" line="396" column="30" />
+        <mark key="]" line="396" column="35" />
+        <mark key="." line="396" column="35" />
+        <mark key="^" line="396" column="35" />
+      </file>
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/debug.conf" timestamp="1558367970447">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="57" column="15" />
         <mark key="." line="57" column="15" />
         <mark key="^" line="57" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/db/transaction/TransactionDataAccess.java" timestamp="1557344176657">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="14" column="73" />
-        <mark key="]" line="14" column="91" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/ChangeRequestApi.java" timestamp="1561390900351">
         <mark key="'" line="64" column="41" />
@@ -124,18 +95,18 @@
         <mark key="^" line="27" column="15" />
         <mark key="." line="27" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/spp-mitg-steam.solver" timestamp="1561038186068">
-        <mark key="'" line="10" column="31" />
-        <mark key="[" line="10" column="32" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/OperatorLogApi.java" timestamp="1558365307037">
         <mark key="[" line="52" column="68" />
         <mark key="]" line="52" column="88" />
         <mark key="." line="52" column="88" />
         <mark key="^" line="52" column="88" />
+      </file>
+      <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/QuickInput.java" timestamp="1561647093035">
+        <mark key="'" line="75" column="60" />
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="25" />
+        <mark key="^" line="68" column="25" />
+        <mark key="." line="68" column="25" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/ChangeRequestDef.java" timestamp="1560789378169">
         <mark key="'" line="1" column="0" />
@@ -173,46 +144,11 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/auth/advanced/api/ResourceAuthApi.java" timestamp="1558361423916">
-        <mark key="'" line="20" column="22" />
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="20" />
-        <mark key="^" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/db-util/src/test/java/com/integ/db/mapper/ImmutableDbTests.java" timestamp="1557333483010">
-        <mark key="'" line="375" column="16" />
-        <mark key="[" line="380" column="0" />
-        <mark key="]" line="382" column="34" />
-        <mark key="^" line="356" column="32" />
-        <mark key="." line="380" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowProcessor.java" timestamp="1558359672298">
-        <mark key="'" line="65" column="10" />
-        <mark key="[" line="65" column="56" />
-        <mark key="]" line="66" column="7" />
-        <mark key="^" line="66" column="7" />
-        <mark key="." line="66" column="7" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowDataContainer.java" timestamp="1557858898143">
-        <mark key="'" line="6" column="38" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="8" column="13" />
-        <mark key="^" line="8" column="13" />
-      </file>
       <file name="/Dummy.txt" timestamp="1557862203878">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="65" />
         <mark key="^" line="0" column="65" />
         <mark key="." line="0" column="65" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/mb/RabbitClient.java" timestamp="1556646225430">
-        <mark key="'" line="248" column="18" />
-        <mark key="[" line="258" column="52" />
-        <mark key="]" line="258" column="54" />
-        <mark key="." line="258" column="54" />
-        <mark key="^" line="258" column="54" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/ChangeRequestApiTest.java" timestamp="1561398644650">
         <mark key="[" line="116" column="39" />
@@ -231,28 +167,11 @@
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowDataAccess.java" timestamp="1561390699282">
         <mark key="'" line="90" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/FileStorageApi.java" timestamp="1556737110138">
-        <mark key="'" line="84" column="30" />
-        <mark key="[" line="164" column="42" />
-        <mark key="]" line="164" column="65" />
-        <mark key="." line="164" column="65" />
-        <mark key="^" line="164" column="65" />
-      </file>
-      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/PiNotificationTest.java" timestamp="1558359377317">
-        <mark key="'" line="37" column="30" />
-        <mark key="[" line="34" column="32" />
-        <mark key="]" line="34" column="41" />
-        <mark key="." line="34" column="41" />
-        <mark key="^" line="34" column="41" />
-      </file>
       <file name="/fragment.java" timestamp="1561398027196">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="57" filename="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/workflow/immutables/WorkflowStep.java" />
-      <jump line="40" column="19" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
-      <jump line="37" column="52" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="98" column="4" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="39" column="36" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/WorkflowDef.java" />
       <jump line="139" column="23" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/ParamDataTest.java" />
@@ -350,10 +269,13 @@
       <jump line="103" column="23" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/ChangeRequestApiTest.java" />
       <jump line="104" column="23" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/ChangeRequestApiTest.java" />
       <jump line="105" column="23" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/ChangeRequestApiTest.java" />
+      <jump line="74" column="60" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/QuickInput.java" />
+      <jump line="75" column="60" filename="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/QuickInput.java" />
+      <jump line="170" column="32" filename="$USER_HOME$/dev/pspk/pspk-api/src/test/java/com/integ/pspk/rest/api/aep/QuickInputTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>entity</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -416,7 +338,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>entity</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -486,38 +408,49 @@
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
-      <register name="0" type="4">
-        <text>, MediaType.APPLICATION_JSON_TYPE)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwID0gdGFyZ2V0KCJhZXAvcXVpY2staW5wdXQvdGVtcGxhdGUiKQogICAgICAgICAgICAgICAgLnJlcXVlc3QoKQogICAgICAgICAgICAgICAgLmdldCgpOwogICAgICAgIGFzc2VydFRoYXQocmVzcC5nZXRTdGF0dXMoKSxNYXRjaGVycy5pcygyMDApKTsKICAgICAgICBMaXN0PFF1aWNrSW5wdXRUZW1wbGF0ZT4gYWN0dWFsID0gcmVzcC5yZWFkRW50aXR5KG5ldyBHZW5lcmljVHlwZTxMaXN0PFF1aWNrSW5wdXRUZW1wbGF0ZT4+KCkgewogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aW1lT2ZJbml0aWF0aW9uKHRpbWVzdGFtcCkK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFF1aWNrSW5wdXRUZW1wbGF0ZT4gYWN0dWFsID0gcmVzcC5yZWFkRW50aXR5KG5ldyBHZW5lcmljVHlwZTxMaXN0PFF1aWNrSW5wdXRUZW1wbGF0ZT4+KCkgewogICAgICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5pZCh0cmFuc0lkKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+        <text encoding="base64">ICAgICAgICBqcAo=</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxQYXJhbVZhbHVlcz4gbmFtZTEgPSBzaW5nbGV0b25MaXN0KFBhcmFtVmFsdWVzLmRwVmFscygpLmJpbmQoIm5hbWUiLCBuYW1lKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDaAo=</text>
+      <register name="5" type="4">
+        <text>,
+                                                         ObjectMapper mapper</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>(\n&quot; +
+                    &quot;    name,\n&quot; +
+                    &quot;    data,\n&quot; +
+                    &quot;    modifier,\n&quot; +
+                    &quot;    modifieddate\n&quot; +
+                    &quot;) VALUES (\n&quot; +
+                    &quot;    #name#,\n&quot; +
+                    &quot;    #data#,\n&quot; +
+                    &quot;    #user#,\n&quot; +
+                    &quot;    #date#\n&quot; +
+                    &quot;)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxQYXJhbVZhbHVlcz4gb05hbWVQYXJhbXMgPSBvTmFtZXMuc3RyZWFtKCkubWFwKG4gLT4gUGFyYW1WYWx1ZXMuZHBWYWxzKCkucHV0KCJuYW1lIiwgbikpLmNvbGxlY3QodG9MaXN0KCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -530,13 +463,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLnJlc2V0KGJyb2tlcik7CiAgICAgICAgTW9ja2l0by5yZXNldChtYWlsZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFBhcmFtVmFsdWVzPiBkYXRhID0gdGVtcGxhdGVzLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKHQgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gUGFyYW1WYWx1ZXMuZHBWYWxzKCkucHV0KCJuYW1lIiwgdC5uYW1lKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucHV0KCJkYXRhIiwgbWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyh0KSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5wdXQoInVzZXIiLCB1c2VyKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnB1dCgiZGF0ZSIsIGRhdGUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSnNvblByb2Nlc3NpbmdFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJ1bmFibGUgdG8gc2VyaWFsaXplIHF1aWNrIGlucHV0IHRlbXBsYXRlICIgKyB0LCBlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KHRvTGlzdCgpKTsK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjbGVhblRlc3RlckRhdGEoIk9QRVJBVE9SX0xPRyIsICJsb2dnZWRfYnkiKTsKCiAgICAgICAgY2xlYW5UZXN0ZXJEYXRhKCJMTV9VTklUX1NUQVJUVVBfUFJPRklMRSIsICJtb2RpZmllciIpOwogICAgICAgIGNsZWFuVGVzdGVyRGF0YSgiTE1fVU5JVF9SQU1QX1JBVEUiLCAibW9kaWZpZXIiKTsKICAgICAgICBjbGVhblRlc3RlckRhdGEoIkxNX1VOSVRfTUlMTF9QT0lOVCIsICJtb2RpZmllciIpOwogICAgICAgIGNsZWFuVGVzdGVyRGF0YSgiTE1fVU5JVF9BR0NfQkFORCIsICJtb2RpZmllciIpOwogICAgICAgIGNsZWFuVGVzdGVyRGF0YSgiQ1lDTEVfVU5JVF9PUE1PREUiLCAibW9kaWZpZXIiKTsKICAgICAgICBjbGVhblRlc3RlckRhdGEoIkNBUF9VTklUX0NBUEFCSUxJVFkiLCAibW9kaWZpZXIiKTsKICAgICAgICBjbGVhblRlc3RlckRhdGEoIkNZQ0xFX1VOSVRfQ09NUE9ORU5UUyIsICJtb2RpZmllciIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxRdWlja0lucHV0VGVtcGxhdGU+IHRlbXBsYXRlcywK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
@@ -589,14 +522,14 @@
         <entry>action AceAction</entry>
         <entry>action CheckinProject</entry>
         <entry>vs</entry>
-        <entry>action IntroduceParameter</entry>
         <entry>w</entry>
-        <entry>action RenameElement</entry>
         <entry>action Compile</entry>
         <entry>a</entry>
-        <entry>action ReformatCode</entry>
         <entry>action Rerun</entry>
+        <entry>action IntroduceParameter</entry>
         <entry>action IntroduceVariable</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ReformatCode</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
