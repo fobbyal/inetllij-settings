@@ -290,12 +290,12 @@
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/auth/PmgrRoles.java" timestamp="1558370324984">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" timestamp="1562085001102">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="45" />
-        <mark key="^" line="5" column="68" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" timestamp="1562096297259">
+        <mark key="'" line="11" column="15" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/com/google/common/collect/ImmutableMap.class" timestamp="1557760414340">
         <mark key="'" line="39" column="74" />
@@ -326,8 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="12" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/immutables/FormEntryTemplateDef.java" />
-      <jump line="6" column="38" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowDataContainer.java" />
       <jump line="33" column="57" filename="$USER_HOME$/dev/pmgr-api/target/generated-sources/annotations/com/integ/pmgr/workflow/immutables/WorkflowStep.java" />
       <jump line="66" column="6" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/WorkflowEngine.java" />
       <jump line="20" column="42" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/workflow/WorkflowEngineTest.java" />
@@ -419,17 +417,19 @@
       <jump line="636" column="34" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/CalcInputCollector.java" />
       <jump line="7" column="71" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
-      <jump line="6" column="12" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
-      <jump line="11" column="17" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="6" column="72" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="17" column="40" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
+      <jump line="11" column="15" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/vistra-original/calc.solver" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QmFzaWNHZW5Db3N0ID0gVEZSQyAqIFRvdGFsSGVhdApBdmVyYWdlQ29zdCA9IGlmKE1XID09IDAsIDAgLCBUb3RhbENvc3QgLyBNVykK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpbWFyeUZ1ZWxQcmljZSAqIHByaW1hcnlGdWVsUGVyY2VudCArIHNlY29uZGFyeUZ1ZWxQcmljZSAqIHNlY29uZGFyeUZ1ZWxQZXJjZW50IA==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -492,7 +492,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>argument</text>
+        <text encoding="base64">cHJpbWFyeUZ1ZWxQcmljZSAqIHByaW1hcnlGdWVsUGVyY2VudCArIHNlY29uZGFyeUZ1ZWxQcmljZSAqIHNlY29uZGFyeUZ1ZWxQZXJjZW50IA==</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -557,7 +557,7 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCYXNpY0dlbkNvc3RcPg==</text>
+        <text encoding="base64">XDxJbmNyQ29zdENhcFByaW1lXD4=</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
@@ -566,34 +566,34 @@
         <text encoding="base64">Tk94RW1pc3Npb25SYXRlR2VuID0gKE5PeEFDb2VmZmljaWVudCArIChOT3hCQ29lZmZpY2llbnQgKiBNVykpICogTk94QWRqdXN0bWVudEZhY3RvcgpOT3hBZGRlckNvc3RHZW4gPSBOT3hBbGxvd2FuY2VDb3N0X05DRFRGICogTk94RW1pc3Npb25SYXRlR2VuICogMC4wMDA1ClNPeEVtaXNzaW9uUmF0ZUdlbiA9IChTT3hBQ29lZmZpY2llbnQgKyAoU094QkNvZWZmaWNpZW50ICogTVcpKSAqIFNPeEFkanVzdG1lbnRGYWN0b3IKU094QWRkZXJDb3N0R2VuID0gQ0ZTTzIgKiBTT3hFbWlzc2lvblJhdGVHZW4gKiAwLjAwMDUKTk94QWRkZXJDb3N0Tm9Mb2FkID0gTk94QWxsb3dhbmNlQ29zdF9OQ0RURiAqIE5PeEFDb2VmZmljaWVudE5vTG9hZCAqIE5PeEFkanVzdG1lbnRGYWN0b3IgKiAwLjAwMDUKU094QWRkZXJDb3N0Tm9Mb2FkID0gU094QWxsb3dhbmNlQ29zdF9OQ0RURiAqIFNPeEFDb2VmZmljaWVudE5vTG9hZCAqIFNPeEFkanVzdG1lbnRGYWN0b3IgKiAwLjAwMDUKVG90YWxDaGVtaWNhbENvc3RHZW4gPSBpZihVbml0SGVhdEFWR19HQURTID09IDAsIDAgLChVbml0QWN0Q2FyYkNvc3QrVW5pdEFtbUNhcmJDb3N0K1VuaXRBbmhBbW1Db3N0K1VuaXRDYWxCcm9Db3N0K1VuaXRMaW1lQ29zdCArIFVuaXRMaW1lSHlkQ29zdCtVbml0TGltZXN0b25lQ29zdCArVW5pdFBvbHltZXJDb3N0K1VuaXRTb2RCaUNvc3QrVW5pdFRyb25hQ29zdCtVbml0VXJlYUNvc3QpIC8gICBVbml0SGVhdEFWR19HQURTKQovL0N0QXNTVCBPYW5kTUNvc3Qgc29sdXRpb24KQmFzZVRvdGFsSGVhdCA9CShBQ29lZmZpY2llbnQgKyAoQkNvZWZmaWNpZW50ICogQmFzZV9DVCkgKyAoQ0NvZWZmaWNpZW50ICogQmFzZV9DVCAqIEJhc2VfQ1QpICsgKERDb2VmZmljaWVudCAqIEJhc2VfQ1QgKiBCYXNlX0NUICogQmFzZV9DVCkpICogT3BlclBlcmZGYWN0ICogU2Vhc0ZhY3QKQmFzZUF2ZXJhZ2VIZWF0UmF0ZSA9IGlmKEJhc2VfQ1QgPT0gMCwgMSwgQmFzZVRvdGFsSGVhdCAvIEJhc2VfQ1QgICkKT2FuZE1Db3N0X09USEVSX0NUID0gaWYoQmFzZV9DVCA9PSAwLCAwICwgQmFzZU1haW50X0NUL0Jhc2VfQ1QvQmFzZUF2ZXJhZ2VIZWF0UmF0ZSkKT2FuZE1Db3N0X09USEVSID0gaWYoSXNDdEFzU3RlYW0gPT0gMSAsIE9hbmRNQ29zdF9PVEhFUl9DVCwgT2FuZE1Db3N0X09USEVSX1NUKQovL0N0QXNTVCBPYW5kTUNvc3Qgc29sdXRpb24gZW5kcwpURlJDR2VuID0gV0ZIU0Nvc3QgKyBGdWVsQ29zdERpc2NvdW50ICsgT2FuZE1Db3N0X09USEVSICsgU094QWRkZXJDb3N0R2VuICsgTk94QWRkZXJDb3N0R2VuICsgVG90YWxDaGVtaWNhbENvc3RHZW4KVG90YWxIZWF0ID0JKEFDb2VmZmljaWVudCArIChCQ29lZmZpY2llbnQgKiBNVykgKyAoQ0NvZWZmaWNpZW50ICogTVcgKiBNVykgKyAoRENvZWZmaWNpZW50ICogTVcgKiBNVyAqIE1XKSkgKiBPcGVyUGVyZkZhY3QgKiBTZWFzRmFjdApOb0xvYWRIZWF0ID0gQUNvZWZmaWNpZW50ICogT3BlclBlcmZGYWN0ICogU2Vhc0ZhY3QKVEZSQ05vTG9hZCA9IFdGSFNDb3N0ICsgRnVlbENvc3REaXNjb3VudCArIE9hbmRNQ29zdF9PVEhFUiArIFNPeEFkZGVyQ29zdE5vTG9hZCArIE5PeEFkZGVyQ29zdE5vTG9hZCArIFRvdGFsQ2hlbWljYWxDb3N0R2VuClRvdGFsQ29zdCA9CU5vTG9hZENvc3QgKyAoKFRvdGFsSGVhdCAtIE5vTG9hZEhlYXQpICogVEZSQ0dlbiAqIExvc3NGYWN0KSArIEluY3JBZGp1c3QgKyBJbmNyU2NoZWRBZGRlciArIChTdXJjaGFyZ2VzICogTVcpCkF2ZXJhZ2VDb3N0ID0gaWYoTVcgPT0gMCwgMCAsIFRvdGFsQ29zdCAvIE1XKQpCYXNpY0dlbkNvc3QgPSBURlJDR2VuICogVG90YWxIZWF0CkluY3JDb3N0ID0gKEluY3JIZWF0UmF0ZSAqIFRGUkNHZW4gKiBMb3NzRmFjdCkgKyBTdXJjaGFyZ2VzCkluY3JIZWF0UmF0ZSA9IChCQ29lZmZpY2llbnQgKyAoMiAqIENDb2VmZmljaWVudCAqIE1XKSArICgzICogRENvZWZmaWNpZW50ICogTVcgKiBNVykpICogT3BlclBlcmZGYWN0ICogU2Vhc0ZhY3QKSW5jckNvc3RDYXBQcmltZSA9IGlmKEluY3JDb3N0Q2FwQWRqID09IDAsIEluY3JDb3N0ICogMS4xLCAgSW5jckNvc3QrSW5jckNvc3RDYXBBZGopCkluY3JDb3N0Q2FwID0gaWYoSW5jckNvc3RDYXBQcmltZSA+IDEwMDAgLCBtaW4obWluKEluY3JDb3N0Q2FwUHJpbWUsMTAwK0luY3JDb3N0KSwyMDAwKSxJbmNyQ29zdENhcFByaW1lKQpBdmVyYWdlSGVhdFJhdGUgPSBpZihNVyA9PSAwICwgMCAsIFRvdGFsSGVhdC9NVykKQXZlcmFnZUhlYXRSYXRlQW5jID0gQXZlcmFnZUhlYXRSYXRlICogMTAwMC4wMApJbmNyRW1pc3Npb25Db3N0ID0JSW5jckhlYXRSYXRlICogKFNPeEFkZGVyQ29zdEdlbiArIE5PeEFkZGVyQ29zdEdlbiArIFRvdGFsQ2hlbWljYWxDb3N0R2VuKSAqIExvc3NGYWN0CkluY3JPYW5kTUNvc3QgPQkoSW5jckhlYXRSYXRlICogKE9NQURKICsgT2FuZE1Db3N0X09USEVSKSAqIExvc3NGYWN0KQpPdmVycmlkZU5vTG9hZENvc3QgPSBpZihUb3RhbENvc3QgLSAoTVcgKiBJbmNyQ29zdCkgPCAwLjAwLCAwLjAwICAsVG90YWxDb3N0IC0gKE1XICogSW5jckNvc3QpKQpPdmVycmlkZU5vTG9hZENvc3RDYXAgPQlPdmVycmlkZU5vTG9hZENvc3QgKiAxLjEKTk94RW1pc3Npb25SYXRlR2VuX0VDT01BWCA9CShOT3hBQ29lZmZpY2llbnQgKyAoTk94QkNvZWZmaWNpZW50ICogTVdfRUNPTUFYKSkgKiBOT3hBZGp1c3RtZW50RmFjdG9yClNPeEVtaXNzaW9uUmF0ZUdlbl9FQ09NQVggPQkoU094QUNvZWZmaWNpZW50ICsgKFNPeEJDb2VmZmljaWVudCAqIE1XX0VDT01BWCkpICogU094QWRqdXN0bWVudEZhY3RvcgpJbmNySGVhdFJhdGVfRUNPTUFYID0gKEJDb2VmZmljaWVudCArICgyICogQ0NvZWZmaWNpZW50ICogTVdfRUNPTUFYKSArICgzICogRENvZWZmaWNpZW50ICogTVdfRUNPTUFYICogTVdfRUNPTUFYKSkgKiBPcGVyUGVyZkZhY3QgKiBTZWFzRmFjdApPcHBDb3N0ID0gSW5jckhlYXRSYXRlX0VDT01BWCooKFNPeEVtaXNzaW9uUmF0ZUdlbl9FQ09NQVgqKFNPeFNoYWRvd1ByaWNlIC8gMjAwMCkpKyhOT3hFbWlzc2lvblJhdGVHZW5fRUNPTUFYKihOT3hTaGFkb3dQcmljZSAvIDIwMDApKSkKTm9Mb2FkQ29zdCA9IChOb0xvYWRIZWF0ICogVEZSQ05vTG9hZCkgKyBOb0xvYWRBZGp1c3QgKyBOb0xvYWRJbmNyTGFib3JDb3N0Ck5vTG9hZENhcCA9IE5vTG9hZENvc3QgKiAxLjEKQmxvY2tOb0xvYWRDb3N0ID0gTm9Mb2FkQ29zdApCbG9ja05vTG9hZENhcCA9IE5vTG9hZENhcApTbG9wZU5vTG9hZENvc3QgPSBtYXgoVG90YWxDb3N0IC0gKE1XICogSW5jckNvc3QpLDApClNsb3BlTm9Mb2FkQ2FwID0gU2xvcGVOb0xvYWRDb3N0ICogMS4xCkJhc2ljR2VuQ29zdCA9IFRGUkNHZW4gKiBUb3RhbEhlYXQKSW5jcldGSFNDb3N0ID0gSW5jckhlYXRSYXRlICogV0ZIU0Nvc3RHZW4gKiBMb3NzRmFjdApOT3hFbWlzc2lvblJhdGVOb0xvYWQgPSBOT3hBQ29lZmZpY2llbnROb0xvYWQKU094RW1pc3Npb25SYXRlTm9Mb2FkID0gU094QUNvZWZmaWNpZW50Tm9Mb2FkCk92ZXJyaWRlTm9Mb2FkQ2FwID0gU2xvcGVOb0xvYWRDYXAKT3ZlcnJpZGVOb0xvYWRDb3N0ID0gU2xvcGVOb0xvYWRDb3N0ClZPTSA9IE9hbmRNQ29zdF9PVEhFUiAqIEF2ZXJhZ2VIZWF0UmF0ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QmFzaWNHZW5Db3N0ID0gVEZSQyAqIFRvdGFsSGVhdApBdmVyYWdlQ29zdCA9IGlmKE1XID09IDAsIDAgLCBUb3RhbENvc3QgLyBNVykK</text>
+        <text encoding="base64">SW5jck9hbmRNQ29zdCA9CShJbmNySGVhdFJhdGUgKiAoT01BREogKyBPYW5kTUNvc3RfT1RIRVIpICogTG9zc0ZhY3QpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QXZlcmFnZUNvc3QgPSBpZihNVyA9PSAwLCAwICwgVG90YWxDb3N0IC8gTVcpCg==</text>
+        <text encoding="base64">QmFzaWNHZW5Db3N0ID0gVEZSQyAqIFRvdGFsSGVhdApBdmVyYWdlQ29zdCA9IGlmKE1XID09IDAsIDAgLCBUb3RhbENvc3QgLyBNVykK</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QmFzaWNHZW5Db3N0ID0gVEZSQyAqIFRvdGFsSGVhdAo=</text>
+        <text encoding="base64">QXZlcmFnZUNvc3QgPSBpZihNVyA9PSAwLCAwICwgVG90YWxDb3N0IC8gTVcpCg==</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QmFzaWNHZW5Db3N0ID0gVEZSQyAqIFRvdGFsSGVhdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4K</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -606,13 +606,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEltbXV0YWJsZQo=</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEltbQo=</text>
+        <text encoding="base64">QEltbXV0YWJsZQo=</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
@@ -622,9 +622,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCYXNpY0dlbkNvc3RcPg==</last-search>
+      <last-search encoding="base64">XDxJbmNyQ29zdENhcFByaW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCYXNpY0dlbkNvc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJbmNyQ29zdENhcFByaW1lXD4=</last-pattern>
       <last-replace>TFRC</last-replace>
       <last-substitute>TFRCNoLoad</last-substitute>
       <last-dir>1</last-dir>
@@ -632,7 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cap</entry>
         <entry encoding="base64">XDxOb0xvYWRDYXBcPg==</entry>
         <entry>1.1</entry>
         <entry encoding="base64">XDxoZVw+</entry>
@@ -646,12 +645,13 @@
         <entry encoding="base64">XDxURlJDR2VuXD4=</entry>
         <entry>TFRCGen</entry>
         <entry>TFRCNoLoad</entry>
-        <entry encoding="base64">XDxJbmNyQ29zdFw+</entry>
         <entry>cief</entry>
         <entry>coef</entry>
         <entry encoding="base64">XDxJbmNyQ29zdENhcEFkalw+</entry>
         <entry encoding="base64">XDxJbmNySGVhdFJhdGVcPg==</entry>
         <entry encoding="base64">XDxCYXNpY0dlbkNvc3RcPg==</entry>
+        <entry encoding="base64">XDxJbmNyQ29zdFw+</entry>
+        <entry encoding="base64">XDxJbmNyQ29zdENhcFByaW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>220</entry>
