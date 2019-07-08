@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/bid/BidPublishDataAccess.java" timestamp="1561039386004" />
-      <file name="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/java/com/integ/aps/ua/api/immutables/UnitAvailabilityRecordDef.java" timestamp="1562605894393">
+      <file name="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/java/com/integ/aps/ua/api/immutables/UnitAvailabilityRecordDef.java" timestamp="1562610094751">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="38" column="16" />
         <mark key="]" line="38" column="20" />
@@ -438,8 +438,8 @@
       <jump line="239" column="53" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/VistraCalculator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>white</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -502,7 +502,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>collect</text>
+        <text>white</text>
       </register>
       <register name="n" type="4">
         <keys>
