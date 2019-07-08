@@ -181,8 +181,12 @@
         <mark key="." line="214" column="25" />
         <mark key="^" line="214" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/VistraCalculator.java" timestamp="1562607186269">
-        <mark key="'" line="48" column="32" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/VistraCalculator.java" timestamp="1562609367277">
+        <mark key="'" line="239" column="53" />
+        <mark key="[" line="288" column="72" />
+        <mark key="]" line="289" column="61" />
+        <mark key="." line="289" column="61" />
+        <mark key="^" line="289" column="61" />
       </file>
       <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/QuickInput.java" timestamp="1561647093035">
         <mark key="'" line="75" column="60" />
@@ -332,10 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="508" column="32" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
-      <jump line="522" column="15" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
-      <jump line="80" column="54" filename="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" />
-      <jump line="5" column="36" filename="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/auth/advanced/AuthTestApi.java" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/ChangeRequestDef.java" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/ChangeRequestDef.java" />
       <jump line="63" column="41" filename="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/ChangeRequestApi.java" />
@@ -432,10 +432,14 @@
       <jump line="35" column="21" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/reference.conf" />
       <jump line="40" column="17" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/reference.conf" />
       <jump line="42" column="23" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/resources/reference.conf" />
+      <jump line="72" column="26" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/VistraCalculator.java" />
+      <jump line="295" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/VistraCalculator.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/VistraCalculator.java" />
+      <jump line="239" column="53" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/VistraCalculator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -498,7 +502,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>collect</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -563,43 +567,43 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwc3BrXD4=</text>
+        <text>getInput</text>
       </register>
       <register name="o" type="4">
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dHMucHV0KCJBQ29lZmZpY2llbnQiLGhlYXRDdXJ2ZXMuY29lZkEoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoImNhbGNzIHt9IiwK</text>
+        <text encoding="base64">ICAgICAgICBoZWF0Q3VydmVzCg==</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExvZ2dlciBsb2cgPSBnZXRMb2dnZXIoVmlzdHJhVmlzdHJhQ2FsY3VsYXRvclRlc3QuY2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVsc2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBkZWZhdWx0IEJvb2xlYW4gc2NoZWR1bGVFbmRFeHBpcmVkKCkgewogICAgICAgIHJldHVybiBzY2hlZHVsZUVuZCgpLm1hcChlbmQgLT4gKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KCkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -612,25 +616,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjZHMuCg==</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlNYXAoKTsK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action Rerun</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwc3BrXD4=</last-search>
+      <last-search>getInput</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwc3BrXD4=</last-pattern>
+      <last-pattern>getInput</last-pattern>
       <last-replace>TFRC</last-replace>
       <last-substitute>TFRCNoLoad</last-substitute>
       <last-dir>1</last-dir>
@@ -638,7 +642,6 @@
     </search>
     <history>
       <history-search>
-        <entry>install</entry>
         <entry>initial</entry>
         <entry>initi</entry>
         <entry>heat</entry>
@@ -658,6 +661,7 @@
         <entry>db-util</entry>
         <entry>getInputs</entry>
         <entry encoding="base64">XDxwc3BrXD4=</entry>
+        <entry>getInput</entry>
       </history-search>
       <history-cmd>
         <entry>wea</entry>
@@ -666,10 +670,7 @@
         <entry>aw</entry>
         <entry>action AceAction</entry>
         <entry>vs</entry>
-        <entry>action Rerun</entry>
         <entry>action IntroduceParameter</entry>
-        <entry>action IntroduceVariable</entry>
-        <entry>action RenameElement</entry>
         <entry>action CheckinProject</entry>
         <entry>action Compile</entry>
         <entry>%s/TFRCGen/TFRC/g</entry>
@@ -677,9 +678,12 @@
         <entry>w</entry>
         <entry>qa</entry>
         <entry>a</entry>
-        <entry>wa</entry>
-        <entry>action ReformatCode</entry>
         <entry>wq</entry>
+        <entry>action RenameElement</entry>
+        <entry>action ReformatCode</entry>
+        <entry>wa</entry>
+        <entry>action IntroduceVariable</entry>
+        <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
       <history-input />
