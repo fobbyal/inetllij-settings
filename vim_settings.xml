@@ -62,6 +62,12 @@
         <mark key="^" line="780" column="19" />
         <mark key="." line="780" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/immutables/CommentDef.java" timestamp="1560882770229">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/VisibilityMatcherDef.java" timestamp="1557858804992">
         <mark key="[" line="11" column="17" />
         <mark key="]" line="11" column="17" />
@@ -102,9 +108,21 @@
         <mark key="^" line="83" column="38" />
         <mark key="." line="83" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/immutables/CapabilityDef.java" timestamp="1561663012478">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/aps/aps-unit-avail-api/src/main/java/com/integ/aps/ua/UnitAvailApi.java" timestamp="1562601304511" />
       <file name="$USER_HOME$/dev/pbkr/pbkr-api/src/main/java/com/integ/pbkr/restful/api/GenOffer.java" timestamp="1558368269880">
         <mark key="'" line="80" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/ChangeRqeuestPayload.java" timestamp="1560786627954">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/repl.solver" timestamp="1561038240924">
         <mark key="[" line="6" column="26" />
@@ -136,14 +154,20 @@
         <mark key="." line="87" column="38" />
         <mark key="^" line="87" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/vistra/VistraVistraCalculatorTest.java" timestamp="1562607160207">
-        <mark key="[" line="186" column="86" />
-        <mark key="]" line="186" column="91" />
-        <mark key="." line="186" column="91" />
-        <mark key="^" line="186" column="91" />
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/vistra/VistraVistraCalculatorTest.java" timestamp="1562614263578">
+        <mark key="[" line="189" column="87" />
+        <mark key="]" line="189" column="87" />
+        <mark key="." line="189" column="87" />
+        <mark key="^" line="189" column="87" />
       </file>
       <file name="$USER_HOME$/dev/legacy/jcomplete/src/main/java/com/integ/jcomplete2/aep/communications/client/SecuredConnectorFactory.java" timestamp="1561040975485" />
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/test/java/com/integ/pspk/aep/bid/BidPublishDataAccessTest.java" timestamp="1562173918524" />
+      <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/api/immutables/ChangeRequestCreateDef.java" timestamp="1560789401260">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/main/java/com/integ/pmgr/workflow/immutables/WorkflowFormContainerDef.java" timestamp="1557860067013">
         <mark key="[" line="26" column="46" />
         <mark key="]" line="27" column="15" />
@@ -181,12 +205,12 @@
         <mark key="." line="214" column="25" />
         <mark key="^" line="214" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/VistraCalculator.java" timestamp="1562609367277">
+      <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/VistraCalculator.java" timestamp="1562614130553">
         <mark key="'" line="239" column="53" />
-        <mark key="[" line="288" column="72" />
-        <mark key="]" line="289" column="61" />
-        <mark key="." line="289" column="61" />
-        <mark key="^" line="289" column="61" />
+        <mark key="[" line="295" column="0" />
+        <mark key="]" line="296" column="32" />
+        <mark key="." line="296" column="32" />
+        <mark key="^" line="296" column="32" />
       </file>
       <file name="$USER_HOME$/dev/pspk/pspk-api/src/main/java/com/integ/pspk/rest/api/aep/QuickInput.java" timestamp="1561647093035">
         <mark key="'" line="75" column="60" />
@@ -222,6 +246,12 @@
         <mark key="[" line="245" column="40" />
         <mark key="]" line="245" column="41" />
         <mark key="." line="245" column="41" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/WorkflowApiTest.java" timestamp="1560883138248">
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="50" />
+        <mark key="." line="41" column="50" />
+        <mark key="^" line="41" column="50" />
       </file>
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/resources/aep-calcs/spp/spp-mitg-ct.solver" timestamp="1561038205735">
         <mark key="[" line="11" column="32" />
@@ -279,6 +309,12 @@
         <mark key="]" line="258" column="54" />
         <mark key="." line="258" column="54" />
         <mark key="^" line="258" column="54" />
+      </file>
+      <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/ChangeRequestApiTest.java" timestamp="1561398644650">
+        <mark key="[" line="116" column="39" />
+        <mark key="]" line="116" column="46" />
+        <mark key="." line="116" column="46" />
+        <mark key="^" line="116" column="46" />
       </file>
       <file name="$USER_HOME$/dev/pmgr-api/src/test/java/com/integ/pmgr/api/AssetServiceTest.java" timestamp="1561398047965" />
       <file name="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/aep/calc/immutables/HeatCurveCoefficientsDef.java" timestamp="1561662443606" />
@@ -438,8 +474,8 @@
       <jump line="239" column="53" filename="$USER_HOME$/dev/pspk/spark-gen-calc/src/main/java/com/integ/pspk/vistra/VistraCalculator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>white</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoIlxuIik7Cg==</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -502,7 +538,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>white</text>
+        <text>n</text>
       </register>
       <register name="n" type="4">
         <keys>
@@ -573,37 +609,37 @@
         <text encoding="base64">T3B0aW9uYWw8</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dHMucHV0KCJBQ29lZmZpY2llbnQiLGhlYXRDdXJ2ZXMuY29lZkEoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cuZGVidWcoIlxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>COLD_NOTIFICATION_TIME</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWF0Q3VydmVzCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBoZWF0Q3VydmVzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVsc2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -616,13 +652,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjZHMuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVsc2UoKTsK</text>
       </register>
       <register name="x" type="4">
         <text>@Mapper(colName = &quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQ29sbGVjdGlvbnMuZW1wdHlNYXAoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KCkK</text>
       </register>
       <register name="y" type="2">
         <text encoding="base64">ICAgIEBWYWx1ZS5EZXJpdmVkCiAgICBATWFwcGVyKGlnbm9yZVRvRGIgPSB0cnVlLCBpZ25vcmVGcm9tRGIgPSB0cnVlKQogICAgQEpzb25JZ25vcmUKICAgIEBWYWx1ZS5BdXhpbGlhcnkKICAgIEBPdmVycmlkZQogICAgZGVmYXVsdCBZZWFyTW9udGggeWVhck1vbnRoKCkgewogICAgICAgIHJldHVybiBuZXcgWWVhck1vbnRoKHllYXIoKSwgbW9udGgoKSk7CiAgICB9Cg==</text>
@@ -680,9 +716,9 @@
         <entry>a</entry>
         <entry>wq</entry>
         <entry>action RenameElement</entry>
+        <entry>action IntroduceVariable</entry>
         <entry>action ReformatCode</entry>
         <entry>wa</entry>
-        <entry>action IntroduceVariable</entry>
         <entry>action Rerun</entry>
       </history-cmd>
       <history-expr />
